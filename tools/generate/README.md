@@ -6,6 +6,9 @@ paths, the media host and per-title constants are passed or edited by hand.
 
 Everything they produce is marked `source` + `confidence` + `reviewed: false`.
 
+They need ffmpeg (on the media host and locally), `fpcalc` with libchromaprint, Python 3.12+ with
+numpy, and for `langcheck.py` faster-whisper.
+
 ## Principle
 
 Nothing is taken on trust from a single detector. Each boundary is found by one method and checked
