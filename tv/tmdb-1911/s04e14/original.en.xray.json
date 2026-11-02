@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "en",
+  "anchors": [
+    {
+      "kind": "chromaprint",
+      "from": "00:08:15.747",
+      "to": "00:08:35.747",
+      "fingerprint": "AQAAjHuSREkiJRGuHW_w7EgYmyFyH3-Ci8Z3XOjhZ0Eoi9B_XDp-Q3WOnLHQZT2YPAivQsv64QfXZBb6WERzQSfuIzxyHVq5RkQsSTqmG6ioCXtU48FzJFrSL4h59FoqnMcTbEWf-silQx8TIyZFocrRHBuzRS6-dsapB3kDMTLeJEEuZcfzGWcd2Ce-CLeCP6gQpjq-4xF0-eibEU01vDbmQuuRXrgifMel4HzgRFSOimeRJ0h-obmioPeCHzvugMoRZ--hK0N4RFuWCNsNzT6e-DjCB2HGjBt0HblW8B_-4y2eGbUONxWFdsxxB1Yo_D-yi1OGZPkyoZQjPDp47UYfleiXGEcsZdCiJF2h6S_CXJiO5keZ5AmuK3gQ5tD-ID-aENbRh12MXMmFCs1jzAf94cyM_QBCiDIIEECQQWABAYjAwCjFBBICKIoUowYSh0RBxAJqlAAGACYIAMAIoQwBgAhhiDLAAIhEQYYRIBQiAhDiDLZAAKQcAmIRTACiAFiGAACAACIIAYQQBoQygiGiKHKEEQ2MIEQQwQA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:20:54.368",
+      "to": "00:21:14.368",
+      "fingerprint": "AQAAjEnUJuEDJtUSPMlxhJQTBimX6ODEZYe2D7myB6eewLGOhzhFCQ31YCJf6PjhTYrx53iivniGJnRS9DmD49pxH82MdvlxMkbMB4p2WQiTZigzYjv-IVm2BHmNH_6FWNLyQE6WZQjVCH4WBhdJPEfJE7GTQ8-nIFJEJhMqbnjBH82zaBF65An0bAnRnEePu4fWKOik5uCPkP3gH31QdjiPchnO5QqOPkeYOKMgVUIurLvh_Li4B51jHeeGPjSO_EiyM3hz4dR2MAonXDn84TfivYG2LNFxZPuFspfg7AKz3Bnu8Mh5CmVOiN-YIw_6HbWk4OFRLxKT4OyEJ3MQJtQ79Cz0-MEbNRvCbKmKajue7MijBq68HfoTXEE-XMmJJ3uQJcffoL-EO3h6hMoWNkKz6gl65OnxQ3jIwTVaHtkcvcjRlQETMscBoShYwBghiGBECfCMAQYABgRJghJCiAPEGIUEEQIgpoQSghMDlBEAKkAAwQIJZigAZgEihABCAIAkBEQAYIWARgCGEFAACCEIEEgZggggRABigGLAEciAAAghIhSgQACCKGBKSAcA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:33:32.989",
+      "to": "00:33:52.989",
+      "fingerprint": "AQAAjFSWZVKkJMKZ7MKfI-eR_ENJNIyYSHiCUn_gC18M_6isYBf-43yOo1mRQyceoxePXPjRE01FHG-K5qh4_MgF9XiPPCHx7MPB7viHzlHQOMSPHI0-6FqOQ1TxI-WIbkoUfAeTUAyJfjW-vejx4cmLH7cmIT_ESFpYPDmyP4OPo1aIJ9-RT0KTH-Ux_RC_o9HEEPo-PFGwCyUzNGqz4Dt-9Id4XESOezrOC0ejhse54EeYG30iaBeYXCZ-FI1o6EefI0_J4Ef-Q3-Pa6EKn0KuLGjG4yc-CmEqok-S44sDJkkzFceBB8cHqDeOKk-AR5GOsko63Ax-gTt-uLrw4zyenLiJPkpEvNFx5kE_gt4BQYABhiCkgIJOEC0AYgAAOJBAgllCgWBEeCCYMoYJZrgQkAhnAGEKAUYIcAgAaAQBhCIgCFCOOECUEJwgp5iyjBHEABUEGCWMAgAAQgGQBBAgiAJGGeQAQMAUuDEixAFBhIIIEWIUA0QAoAwD"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "en",
+  "anchors": [
+    {
+      "kind": "chromaprint",
+      "from": "00:08:16.273",
+      "to": "00:08:36.273",
+      "fingerprint": "AQAAjJaiUGqU4ESejEHyTHDfCG9-fEzxB2-GiXmQvyizClIyJUFFLsiPL-ECfqRw5cilPNASphKynCBPGve-oVkfzIk6hDE94doF7Qjz4-TRo1mH-Id8fUjzFPtF_AGb5wgz6YE-I86HyuyD_UW-Dw8jF0e7HDcffA7xFz9u5sY2KRe058jx4sz24cbpGIxCzQI1HeaLvnhEJF-ylMi74gezH00eotQThFmSHP-gzUuRxg_64w2e49JxcmjWorKCR8en47yQ5oI845WSI-dRHv8Gaj9qDpeOig_WMFHg0NrRY8_x4Bn6oMmF6xcqLZaGJ0-R1znEKlGGMMup4viS41fQKFL4oH1wUQf7R_CHfDmkUMqVInUyInyOSzqD_ziha2jGMER0RSdSxR_8bCKhHh-mN0W-o2zQONIR-pCUUUfXI5eIpitF2MkBIigACggAGBMOiGYAE4QRAAwSWiBCNIEAGCEcEswoIwQSwkAKkCBIKSCIUpIRAQJCxgADJFBISWCQBRpJIo1whADmgDHGGeSEAspIIikDYAjAiBFAEQMgUMAAoggBCgFhkOEAEAMoCIpAAIAyAA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:20:55.682",
+      "to": "00:21:15.682",
+      "fingerprint": "AQAAjFEiK4mUJEkGJvpxHmeKKSe0J_iK_UPJJUczGbmOWI1eMF-OE7aP2tygJ0MsHn2ynHBVo7fwo02SrIerHf0qxJeGKt6RJTuCK5B-fFqQF9eD5tF89Af_FddlNJuW42IH_6jocEOno9LyI3mP0LbgRwn6D8-Rc8fJSBP0B2F-VEXGMBPhKKFi6Ece8LrgLfqK52jeI_RK6FEeIVqdCl_wDU3SFOUXPEsyUUiybkLu49sJKgmv4JieEsmoaHSRJ2Ik7BR-XCmc5Hhig8-RH1pGIWR4XFKOlX2GqkeY9phyGRrBRUQs6QlyFz-057hONI3Y48QPPQiTLBOFNPShHVkpqeh3UB3V4NGO9Eeyo7mU6KjSCH-w__hFmElzId8SJNVfoM-yDu-OTkmOShLS50V5RA_eKMiWKB-Sq0xx5sUPJnskdBOPJztx_bgiIp8ClQ8AAogBAIBhDFGCACoABkIRAYRRAiJmCCEOAAmMQMghBKQCRACAiBPEKQSRIiIYYhRwhjiAkABAGDGEcghEApBECAlAADAIUSWQEowTqCwRCACjAIAAGQAMMkIIIhQADBlJiDFMIEUIAEIA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:33:35.092",
+      "to": "00:33:55.092",
+      "fingerprint": "AQAAjEoShVG0SBHyYk5eqP0Q50F-3IeWG3aEPNuDMWm0osfbwz_CQz9-BdnG6ERzodPxTouOI70JenmgM6AmJTdyBbtj4Wou_GjCVENNRRFC79Apo5R-xAnTxqhIHW6iVUG_I9IHMT_CaB-uJAnOJwl8URSe4cTr47kO6kgehcjhh7iOPcmD7Uzx6winI1GSJzuO70V_PKKoGGV5JEckfmh4nBRx_IjmHeQPnbrRCL4hHz_C5Ao-vPvRE2F-fLlRh4ESXXkQsi-ePTjx4DxyH27yBKrEXMGTDuoRnj7-Y__hKdOH1lwEtlEq5Dt44k4R6w2eG65CPMvRJ4dLMsWeD_pxnkbzB2ce4svxRNlxBXdudD-aPDvyD0keeQmeg6GiG_9x5ti-o0ov4shtB8mDY8d54RWe7PiPOGcONoseAAsZNABBIIgFABiCMHFCCEAQIAgIAIiA1gACiBCCAUAIYgwooAxBShArCAACcaBYIkAZQJEjCIApCBDIUCIRAYAggAQBiBhMGWLEAAGEcEQIYARTBBkAGTCOAIINYIAY54ghAAEmgAGCMIQEYEJAAxCDpCmrCLAACAA"
+    }
+  ]
+}

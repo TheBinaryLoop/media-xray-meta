@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "en",
+  "anchors": [
+    {
+      "kind": "chromaprint",
+      "from": "00:08:09.354",
+      "to": "00:08:29.354",
+      "fingerprint": "AQAAjLs2iVNw7kEjolLiECetgsnzJQiPZE8uNM8knCzuNEdDhZTQZznGG4_iCT2rFLkztHguaNICX8auEOfxoaw-_IG073gEKVGGE4d_1FPw48Qr48_RoznOQ8snXINPMEtx-dDg3cK5Q1yHv0Ff7A9c7kDOLMhz9M7h-HiGbs2D_zguLYVrBwe-41IeXMGXHiHJ41E65EejMjhtHc-ToXnQB99xGs2HOsyh88GJeMuMJ_-QZ8YT5pjSQSNVPFSCS3iO02IEPUWVH1IyCeeOyFKWFX_Rp2iqrDF24xeYHKGSHepYwo91RJeWopl19EnM4MbJHM0yIpTK4ilv6PgzeHkwnRb6KQ9-lIxA0UR54g-0K0Fzkng-RPKeBE6nY50YVKqQZ1cy6LYUZGKSHFeb4Yd_PAsLAAABwCIFCBJCCCMMM0QwxYABABiNgBGUGAKBEIwQJAAhBiJgGHFCMCWwE0AYZpiDDBAAgGMIAKSAcoARQQwBAiiECKMAQEKMUkwZBAQkAAjAEAEAIOcEAAoYpAxgRCgBAEIgAEAA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:20:38.384",
+      "to": "00:20:58.384",
+      "fingerprint": "AQAAjFHCiFvGQHuKS9KRJzt-VEejcuBEpngu3CamoPN4PPgx6nCUSEcyJ0SYH2dxPcFz4XpwJRKoZMODtyjfYkp840nGoHoOa4kQNtUE2RkT48QviMfXZfijHD0D5y668rh06M2ho38R8sNuXNlxFxU2TdnRH3-OH_0pNN1y7EfSHzk_fJJw3SjzY6c0w3_QJ8Q3zriidbiO486JK8KPRwzR-Ci14QpqKR_sSKgdC_mhI8xRXTmeK7jRa0jzB1pOI1dUPHlwTugTNE-OvMeZKYeulEHzsAgv4iZe4cqIMz2e5fjhmjLeHEfzoD_yI2mmHJOmKwpOnOWAb0d_7EF1POaNb5nhdbjE48PVhuiNZw5OCsn0BumFC82z4Phy40eyOhkcSVIR4n4y-AdFhDHQOKKAoIx6ZxBlgAEgCGEGMGMY8BgpIQQwQAnIBKASAeUEBQJAIwxwSAgkBHBAKGEQAkQzBJQ0jgDACIhMMCAEIUQQ5aAgigFBgJECAUcIgcohYqBVgjCHnHGGCACIs0YYgigDBCilhAEK"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:33:07.414",
+      "to": "00:33:27.414",
+      "fingerprint": "AQAAjIl0XUL48BOeY7_w5Bua_MQdB0-D5MiP5rlQ7ROe_PhwHmlzJFeSoRkzHdW-4YmcDU0TiugTNzj-4zvCJEuSBExD5UN-CYT3pMaj4TeQnUHC58MZXCOe4A_4Yy0zBmXWEOdh7REu4hf64-Iz5Dn05AhX-fC4B-8V_HCPG3-Gw_txvbAf3NCLG05rXMVz9AqOZz9mZpkynJ5w5hd-IRcSHsyT45uOH3_xg31hbEcvfMlw8fgV_MF5_LjEFE-LM8eP_3gSNMo1onYeXDkmcUj7Eod-pLnwE8zi9IjxMMAjUjGYc4KjI9Kao3rQNDMufcgDrReEODk3NGGaHt_x4yfeOsac5dh-JbiPPEiedMd5NIuioOJi5TjuJTh5PA_OF6cDQYCgxhgAgUKIKwEIAgRwJAxSAChGlABIKCEQUhQIxiQARBFEFCJKICGVEQIY4RChRHglkGIMCAShwcQQIARwSA0CiEPAEAuIOYJIIBkygAKCGHECCMEMMEqIoCAUQhkipCBEJCGQYFASQgBAUBpDmACDKMSAMwA"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "en",
+  "anchors": [
+    {
+      "kind": "chromaprint",
+      "from": "00:08:10.525",
+      "to": "00:08:30.525",
+      "fingerprint": "AQAAjFGSaUmYSEkSnDogGz_-Qz-uw7mMLzKOD98OyvWQVlkV4Tr8HXEuqIzGI0-kC_6j4MrxGXWaMAI1Hc_egQ-SHpmSP3iX4Me1ZMLTacGP2_gT_MMnnchDH8n0ohmZHb-GR0ke4RnhlSt-XCd-xEqOPhfSP-gf_HjSIJf04Y4KLm8H8Zgf5BSJJxzCZgte_ES_4J8MLVSCWsfxHf_xHD-aB_hhMoNwXPjQHzuPyX6gnsd3_MLhhjn64-ixQzr2w92OPksOLefRRwEePMzQQ-yLf2Lx40SOHL9x6Dl-BJ-O9zh-5McPHx96QRfCcMefCGdww3_x7sZTwmqGZJSOTyWuJoLuKXCXI8cVNEnyWABAHEBMSKAcQdQiwYSAgghBBGNOE-AsAlACAKgjxDEDABAGOWIAApAYRYEgwDhAhBEEACkkwkxQBAxkAgDknKAIADehEkABoAQAAgGGKHHGKQEEEMQphQARllEmjFPIKoGYcMgJ4oiyBhjiGBJAEAoBQRQhAA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:20:41.312",
+      "to": "00:21:01.312",
+      "fingerprint": "AQAAjNKkpEmiSMIZPsXjROgPS0uCZPqRP8LzaHh-nCTRJF5O1LoyxMyhs_CF5xGeI5aT4MYmJsUvvBd-aUKZBeEZ6BJsFXl0odoePEeu5JCuacSJ6E7RJ0d-Q_uHMJEcrBeT4NRVfEqCasmN5kNkSlaQ_DMaxjkqJsMbHt0_9A9OJsaToZsSoYmOZznONGhq1OkR_4EWlSQqJ8gf_Djhk8ijLMeVCHqqo5LVI4y0LBpx6RmmpBOFWlkQpvICRm224-kMZqzxKMt2SPmh75gibccTcRnEME1H1DqeH80R2seTLHNxVEOTVDPyKkEvPIIuHT_aXUbDZYQmUsUThcnxo3-gKGNy3FFxZSmePAhvUDyqkQ6eKHvwB0yuJEMf42wY5OGxQ18eNBXC60nwZJeKLs-N00T_4VqOe6ijD02N8-gFf3C2PUKV4zmiI8l3fMQrPNMWNFWG8gAhjBRCKoKQcYAIgSR0gkDkiEDECQiUcY4JxAQACgFBiBBEAmWIMoQgiAQhDAIEAXEGEEEQMgQAYYAwTAGmGCAUICYMAooSAxg0QgmDEDAMGISAIIJ4JQAgQABGAAMSEMmEgBaIZoxFBA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:33:12.099",
+      "to": "00:33:32.099",
+      "fingerprint": "AQAAjHqirBn-I1dULTCrCjmZScJxokzQNHiIXOgJj8ezHZrYOMjpyXiG_vDRHb2OZkseI7qG5D2mVFkGvw0mPsZ_1EkWNLUV_EF4NMuPUjy0WFJxUh_Kg8mCIztxCnW0C6PQh9h_dJGeoXku3OuHCzWaqg3iJjMSR_hynEeTC88TnNbRJ8rw6XgfvEmFvMI_iJ-KH991_INzPMsnSNMn5MoOs1GKnIK-G6mFfcMfVAhz6B2Rr2OIJ1nwbMGJSe-SoCllBY-WGUGyo_kV_DnouMIpE9eH5hbGZw2SRdSQE4-mVPhRn4el9UN_4tuPI_xEaKkY4ok8_MEUXUEoNA8rlEpbPMuHPovxwz366ENyRfkQXwKjVAqaJVIXfMdkDUd5PMuDMCODZOdxeeiDZlKO5tSJXmkQ8hG0NEzwjTjU7QGFlBDCEaYkIwQwYSwUwlhhABBAMmQBUwA4gIESAEAlBADQIEIkMgAJYQFCyiFAAQKEECGAMkIQIRghEiBCABICEOGIIggoIoIQggAAFCEKWAAIEcxAYIgyBFlnhALKIgAMQ8QA"
+    }
+  ]
+}

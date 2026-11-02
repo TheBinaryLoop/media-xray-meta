@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "de",
+  "anchors": [
+    {
+      "kind": "chromaprint",
+      "from": "00:08:08.121",
+      "to": "00:08:28.121",
+      "fingerprint": "AQAAjEuTSIwoodRh_AnSP0KyJ8SrFGTiwxEf4Y9wfYh26EpyPNLx55iimD70C5GqkMRxHE-C9MqFH2raI5ae4Mzxo1niHNeOJzkqHz-HkWmKCz_KI3y-ILmOPbFw_OgqOfCFiimSD7Hu4FcC6y1-Fn-LQ0_w4BfWPjmeiIX5HGdicIQ-g-m5o3kWBRetFFeS48nRxDsyvdC8H3qOX2CZ5dicHzGP_D_Ek8hDFv9xuDgd48ejqQiT5_iI3D8-RHKRqDs-Y4usHNeZ4NGVIBfTEPqJMFOqo9rxD3-QTkXyZHuQH8kP8zSe4lRyjE6sB270gfxwn3jQh-CdwE8Q_ah3fMeTHQ-aL0e_B8ef40oSEupyIswpGv1S9JjCJA-ug0cTM-gzJD9yHd_xI5eS0ZCl6CjLA-MMAgpI4AwTGDgjiECAIIYMJMQw5AhSkjDkoBGEGCyFIFgwIA0xDhAADODEAEcAAwwoABASkgmhEDCGAiAEA0AQIAgUFComDHNEAKMcMEQIo5yAxEEhgCcIEUoAEBYIBoBQRhFGCBiACCAAIwQQrYjGAoAgEIAAGQY"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:20:35.303",
+      "to": "00:20:55.303",
+      "fingerprint": "AQAAjGESRpq0CVrWBU90Ic_R7Ci7FD-uH3su9B_8heizcIhsC8lzPMcvGs1zospznMSTXMLFEj_yQD_yKCIxijyq7HiGbcZt_PhjfCiFjzl-NM-FJpdwPOimKBfC5Dn04kKYPUF__ML0PETzFDn1QOdQ_Qg_PFOJ78GbXLiEI3wOR_egS0irwz_KZscX_CqaHrGVQP5EhHqHf2hP4scRZj145YF0HOmPuUf-KNBFSkH17PiE8LBMXCkehUHOPLjQrDwW88J-fMeLajd-_PDx6LiOBpY6ozraPAhjHbUDd8BVNPGFZ9KFXzia59B-vHiUC030NOiOa-GRjMsR5sGfoP-QVM2O9GgjnG7w4wlsHE8WdDoc_sSXD97x4ykAJAijBhAlhDICCOAQQgIIAhhBhDEFCCGAOWiIcAZQAhBgIhgAmFCCQGGQQcYoIoxBgBkBhDYCCGYYM8YR5IwFQDCGHFIEEMVMMYKAQRxQQgACnaJKAAAcMgoQ4hgCiiAkBBVCISCFAUYww5hiABglkUIA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:33:02.484",
+      "to": "00:33:22.484",
+      "fingerprint": "AQAAjEmSZY2SaHD4SYjTIKfxH4edJEH6HG10BQ-4LUfDB_2D6ymyByqP5gKzMES8JIwnXD-YD2mewY8lnFjnjLBDHtqRHyVDwjqOmzzO5IIJby9C4z-0fKi8Yw2TS2B0NLzwQ0-IH5q2C03SPAd7Iy-m1EGPrysajulRMhdeLXiOI1n2I9SP-8In6eiPxh-OxgccDu2LsodPJPuR5zgfPDou4jnsXsHnhLiv4xSOdmGF5JFOpCm657gW-ngOTzw-ptDysSh5XDesq_iMa2EZNG6RTBTTIfdx8Xj24Dvqo3l4VD_8H0mkPMgZjSjzwkWfCxP5w_nRZ0cYuUb7BWeKPg_S40qPk2j-4ziPPA8S9knwvHgeoqREPMenR2imJLqG5zgHR-ZxFvmzIZkI84cVwSoNoAwAYBgDDFCAOMEIEYwYQBCUDJqAiAAOECIEZs5AagARQgkijKIAKSGUAQIQ4owVBkjjBALEAEaAAAIQKQwRgDAjjEAASEAAAMYYghwQwgADpBCEGGCIMkQQog0ACAjQoEIIIUAYEUhQZAAVAgg"
+    }
+  ]
+}

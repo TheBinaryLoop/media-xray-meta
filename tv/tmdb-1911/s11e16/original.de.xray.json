@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "de",
+  "anchors": [
+    {
+      "kind": "chromaprint",
+      "from": "00:08:11.179",
+      "to": "00:08:31.179",
+      "fingerprint": "AQAAjInErIqiJELMb1jD41sW_JyRK0fFaIGW5CN-6GSO_Mf14MkFr_hOPJFU5BeSUb2G5p1wx8JLXFmLH4526SCvB2of7MdpHEdNTDmDM0-Kpxe-yAPjS8nRPD124QlOHS-PJhOTHeGgJ4-RD032HBOX42GNXocfHnZ29Dr-IbMSFlcINfmCJnQUhA9-IQ8P3RMOOGln8MmDf7hODiKPb8el7PhxpsLG5UJ-nHmFWWKMskOYHLpF43ko5NE-NBVzhK806FGN_4jT4zlYRUd-KdB-uGp09EnU40yhH6GSRB3RRMoz4ifyB_qFLPbROFJwinCmJD248MWzTEfyPUSYXDOY93i74zT6HJdy9B-uE5-Yyni0IzfEy4iaKtPwFeWF4yp8Fg_hacvxJnjyCc2IJ0e85EIy6jB6yTmeHH-Osw7uHF0OR2QmAIIAEQYQRwAigBCFDBAAAWAMQ0YBAQCjxIEFCDKAAAGIBYkQYhBggCAmEDBAEOK8IUgZAeEgQAJCBAKUCGYYAEwjAgwBhgFjFFHECCUAEAgIYwAzyBAjCBPEIEIEAsAgYQCgAjlFAKRIKGeYAJJYARwgAhhAIA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:20:42.948",
+      "to": "00:21:02.948",
+      "fingerprint": "AQAAjJ2kJFmKi_BFozie0QgfF-4uBT079FN2OM1GlAz-Q-fRnDn-oznUB4efI7cc4Bl8BU_RPKg3A408XDryIPmEvjge7JgaUfAmotvxHJM1odkm49FxJpLxRHAsUnhw5Xh-bOvxD8fxpEdtnGie4_mOJh9CZ0gu5cafwL2K93iYwrmAfIQ-Ib9QksdFB_gNH-EmQkc-4vgUpceT8DGaNw5xXHiyo9dxCVGZHNLIInyOKcdRo3FTXOKDdpmRQz9yecLug_0wecK_IowI7T-e5Sj3QMyFh3OONFpzhNCVIZeCs8c3bQpa8tgmC8dFzUcVLaVxOTh-9IiUS0FSZUQXC00cNvhCoRecThnRJUQo6UHCd-iPHCptWFlCh4gtGS8ASQhRQAAhhCAGCGAEMiIBwwhDDojGKOPMEaOIBAUbIBSTpCKGgQEKCECcAcQoIYQyRCElmAIEAANAYkgpRAQBjgBKIBIAASGMIJBJIhRRgBFAgSBgKQuYUsoxiwA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:33:14.718",
+      "to": "00:33:34.718",
+      "fingerprint": "AQAAjJKUJBIzJUmC8OGRsA6uHo2eDKOZClfxRzl-5KICPcuM-2ge9NEjgcdnEoceSsN5NEcefkLT4x3qKUWqMFFQDclPFU-pgLnRPMelY3JMVEOg58gTffh8HP_hbsfDI8mPMCeabuKGC8_Rk0bjZMe1Eg9FoSTRPMvx41TmhOgqg1qcHpdwoZsePA-e5-izrGjK44oeJKXyIuRzNM9Y4abw5UF_hImSEYmDPwmaVxJ6PLh8wVSYCdeRC6qYHXkZnEeP6p3wTcI1bOHwB7_hHGtx7sHLKPCi4z-SI8vRxC2etIaXPbhzNO8Q2jb0hQlSZuPBH7k-JMuyJEaP8cGN85OCZlGeDKWOC5quo5eCNSeu5EuwpztO9PLRnIioZ5CoO0XzRKkiaFwuHf-RG36OnhnCNMl06OUQPYdfzJmOK8nxDwCAAHUYACSNAAAhQpRCiCAliANAMQYIEYwYJIwBgABFDFZIGyOQAcIRAIgyTAgghDGCCAAYEsACKQQjhiglAACWQMEIIRoYJokS3ASKmAKAMAWUEQAYA4ESEhgCEDFAACAAEA4CIhQxCBoiEAI"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "de",
+  "anchors": [
+    {
+      "kind": "chromaprint",
+      "from": "00:08:08.016",
+      "to": "00:08:28.016",
+      "fingerprint": "AQAAjIkkMZsUJbgo_HmR41k6os_hJMyCqco3lBKD5tjhh0fSbEcsJUqC_vCXEH8SwWeLPkxEHD98nMfDpnB9HG2UwSNTNFdyfAm0nJhEuXh-PCuOL6wKhzz-Db_HIHnGBBH5EB2VkGhCSeKA08JvvMUPq7JinIqCbzySJ1yN6Mrxgj285PgLdw8-Q_9RSwmPP4YnMR76DB_4K0jiWkEuHe-HOxqep2iOkITy7EFIK8U25QuuLNgTokqZI_6IPgw0luEROTHxKCf6hSucZ4yMKuXx48lxKUuOOA585MzwLKWMK2ieZKiYSD-eDUd-JKdx5djTRJIkPPDBViMiJ9JcJA0TnELzZTJ6dsMnfI_xh8CUsTxCxaMSqC9SLgnO0MYP12mOpkI_BsNz4smL3Ca0PPkR_sKeZceXqcGjq0grBj-ePMiSKDfhOked2MIfAAiMMAwgg0QAQEABAQKOSQUwcJwARYUjBArpBBEAMeMYkIAwgACESgkCogAIAAEMEFYJxAgwhCBFjAKICEBIIBI4JggnAgBGFEJGkAKEAA8gYJAhDhAlCBQCCEEMMIhQBxxADgE"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:20:35.040",
+      "to": "00:20:55.040",
+      "fingerprint": "AQAAjFGSKUm0KEqiwKfx6EcupnCOs4OfKsUkH3eOpn6QrEkT5PiPR0-CJtRR5yze4zmSnQ3CPM5wjJQeNDKSnh2iw2aPHv2w3RKqiUg8eRlCPTBf9PhR3D1yaIomHtkF5goDH7j0ws-Ef4WDb2iljEjKDeeO_EIzpkRbBaeOM-ER5vjww88CPoIvJN_xBM4eoT_qkfCJa4djukimpAuyXGnhBlfywD-8o1_w7A1elBpDNA_yQLfSI_Nx7Xgm_E3gI26yDF_hRw9ybY1QK3sMV0zRLMtqfMEPJnGWMAhXQU-QUz6qRXlyHGcOM0aeQ9KEXD6auziPvvCk4Mh5eHcEjss4iAkZlNqR82COi8d9xNwOUflxiwhP4trQh3h9WKmOUHiGHpl-cLoi1DtuhoLX42jHHKEAMYAhBAhiAkgGjDGGIgEsAQYoK4BQIgBhiDHCEIWUIEAhQIRA2gAgLIIMCAQwEEgAIwgwwDIgAJEUGACBUIAg5YQgQDGnjAJAAeMJEUQ4jIwCTgBDCGDAKAsEIEBxAA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:33:02.064",
+      "to": "00:33:22.064",
+      "fingerprint": "AQAAjFwkJWSmBMeFCf7xrehfPOxwIb_R-oBvCD_g4wTcA9hxOCOC48INH7OOEzgYHRePs5xx6jgREvqS4j98JhLCHzwv9E2FZlJ2HO03iXAe4GKGaz2utGB9PGXwIxKZI_ml4GHxHmt2NJyOeqqHu8WPy-mQhUuG5tKhxyGaI5TzDU_IDTcO24yGfzgT4Zmi4_nB-UZOLYH2TEiXBaxu_MSvoGc2_MJvXONoXMsRM6KK_pD0Q5cxnUPOHnmiCT-eU0gXaxL-XPjxB57U4kuL8wua50RoZ4QW97iOMMmm4R9xTYrwfNPw43LxJMdJw1cR_0ESJllSsNKPpyWaZxmq9Lhs_MOVMDy-NtgP77GQ5LxwInuSI40JOXyIj6ioRCkAyIIThDgkBABCGseIcVIRwmBFRAAMBhEEIAEEYExQBBwS0EBBBAOQIWAcAUwwAihCiBABiAFKCcWQEkAQIIhQRAhGBCEIAgkAQ0IJQwQQgAkAGBFEIISgAUYABBQwgABkGAAMAYIw"
+    }
+  ]
+}

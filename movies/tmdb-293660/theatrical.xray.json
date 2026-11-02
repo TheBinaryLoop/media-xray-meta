@@ -1,0 +1,30 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/xray.schema.json",
+  "schemaVersion": 1,
+  "title": {
+    "kind": "movie",
+    "name": "Deadpool",
+    "year": 2016,
+    "ids": {
+      "tmdb": 293660,
+      "imdb": "tt1431045",
+      "wikidata": "Q19347291"
+    }
+  },
+  "reference": {
+    "edition": "theatrical",
+    "runtime": "01:48:06.240",
+    "frameRate": "24000/1001",
+    "release": "1080p Blu-ray with English and German audio"
+  },
+  "segments": [
+    {
+      "from": "01:40:57.843",
+      "to": "01:46:58.370",
+      "type": "outro",
+      "source": "video-analysis",
+      "confidence": 1.0,
+      "reviewed": false
+    }
+  ]
+}

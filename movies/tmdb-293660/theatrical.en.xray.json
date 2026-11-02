@@ -1,0 +1,37 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "en",
+  "anchors": [
+    {
+      "kind": "chromaprint",
+      "from": "00:10:38.624",
+      "to": "00:10:58.624",
+      "fingerprint": "AQAAjEqcvcEt_EdHITdkI69RVjluXJpwtM-R5tIh1rjEGHmOj4CPmhKF78KzGs_Ro_lxX7jsFD3yZbCg-fjxHj_6w7kt9Djy4_jw1Dj6HZ-OH1_Q-IiIjioNsRf64_iNlNPwl8jxZIcWVQraS0iOZw3eX_glVD08UTz8JBXa5UkQ-UiUH80o7GtwPSj5oPlwBt2-HMnyZEUeRsexJ5GaEJeORjqqPTnyDMky6bCL2jme49LRjEEoRe-R-PhxhrgEJ1mUR8Pr4xe-ZRLMq0Le44UePQxqMUOYr8c43K1w7XhO_IMvDR9y6EQ8KsEjCT8exuhp7OiJPEfzo_pjXA90HU-S43mF7vgDM-LhJqkmlJegk4Fl45QYIauiHP_BLKUpAAIIEJICEEAAAhjgkCjKUKYEQsAgAwwkigqADBODOIhIIUwwg5xihAIAlFHCQUoEEBADYhyhwAlFAAEAEDOQgAAoBaBBBgAGDAMBAGMQIIYRIgwgUhFEoXNAAKmEIYYAI4QEwBHLiCRCKGAQAgA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:32:15.872",
+      "to": "00:32:35.872",
+      "fingerprint": "AQAAjIqWJFUSJVGEbzysMPiyI71-KEKevThz2KVSvGLxC2ViJHuOPMfegLkIR5LJYlSSw4-G-NBy8shzPEeZKMkT5KEOrzs0v3ivQ2-OsD8aJ5jeBs0tDU9M_EMOqVq5IGeM6isa-fgzgrWOZomydHjyoHmCh_iPD00THeF7RMqYI1-O5sF3CV8Y4VSUDp3g7uiDfAnDI5_QrAujQPuNPj-iZUeNfhSYfDm-IzSvwXEWQ-4ghsR3NFuRK9iNvkSkhAoLOfmIWBSOB30MI1MVDppzxL_QKB_aGxeRmxCb5siNOcedJMUu8fhCPOeKJkyCZEaeDU1tfDlcJfzQ2gjzQ7uQJ2E2cNxwD03MFP3xKEceKQ10Hk0QrkHsJTl4HIqsC5UiHbmUo0daLaLQN8d_3IcqaZmSwVRofHnxG1tHadDDMMiD_mgiLtLxOEpZ_AJAFAJACEYQIMYoBqhTSAGhBLIACOIAIVIAI4gzQiljgBAIIUYEREoAoABChgCjBACIEAIQEcAwYZQ3ALiRkCAIAOOYJwY4QCQhgBhJhDFGGYCANYMIhIFABgiEDCWGGEIAMwA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:53:53.120",
+      "to": "00:54:13.120",
+      "fingerprint": "AQAAjCuzJE8yXMSZ4zn6yvAjnD-ydEepfIiz7djidcGLM5HR5se3C_lm9D-0XENES8YFslSDqzwOT0Ne6GeKyNSFHt-INC3WqTQ0mSgZHQ0fFVf2QNUi1aidFE2CPD9y4j-0IzfRB5eeol1qpIaq4wVp48N9CeKPssN1I2dQ8QOTdeHxROLR7ESfHefxHulz_DiksIc5Hop1_EVaHc7n4xV8o9Y3XElyxDu0BH2UEr-K-4emv2huCzGPhtwR3jmUHj9SPAL5bsgPRX-RMvrgMceJP0N-KE0PM_6KOukg8UR-9JiiB0_x7Ar6IFk4WojonPiTg73RNUdTzUHVhEF-aD6N3BfCRvnxNoc8Ey0Ryjyo52C6uLj0gZ-C_zg1NNqWocJ7nIHxHCeNN-h2IT8q8QKAAAbMACKIQsISAQgxBAFDgCBLGKKRBEgoQBQhhhnFhGAkIKCMwZAAoQRxAAHkoCBLAKUEIMIQgggRxAAhEFAAIOKEEsowAgyTRAoICCRCISOYAAQIoxQSwghAAFIECmAIooA5xICSxgA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "01:15:30.368",
+      "to": "01:15:50.368",
+      "fingerprint": "AQAAjNGiRAklScNlQl-RM0dPEu1xInwOUc_R5_gqtIziwjvUenjwx6gvXAkaXRLuCB_E5QzKJVPRHzd8Dddxjcaj0BBVvIjH6ahNHE1-_HiXoetxHj965EQ9PIdwosk_9HnAqpwhK0my40ceCvxQHw0TApdihAvZoak_YnqkrHB4lNfRPJaECXc4aE4oFdQzGV6OPkdsHZPyRGi64xkiZ89R9oYfRfAyHlWi49ED9SmY_DEqdcF1XEdTMcWny7iewktGg7qaQ-VgtUfZR7iSB3l5_KCOR2mLO3oQ_iLEIyQz4kuCRy9-4UVpaUPDaMmDM8F7NOqF6sZ5lDlc6QjF6ZB_5Dnxh0HZwRlzPNKxpcSVFOkrofzxXIi-XMgP6sZ3XMoOucNz5MGb7JiY5EhfJLkGJ6XgSwUGhBGMEEEQIkQwYBgiQAlhEEAGGAYcQAoRCDSESiHNBBAKEAgMYwAoYAQCQhghADKACKOQgUgIBiAhEhChhEEAAAcMAUYoIBSAIBBABCJGGQWEUcAYYRAwiiBEpNAIAcEYREZRJgA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "01:37:07.616",
+      "to": "01:37:27.616",
+      "fingerprint": "AQAAjIqUaEmUSFmE4zqqdfh2AZNnwmHCYDecqC_a9TjSKYkEfTmOH82ejWiz48uht0jPED9Ob8V12CGPHy_CJ6ThIz2DSos0_ESOP9CJvkf6HSd-XBOFUMeJ_4G847iPPjkO5zzO44PJvdAeG71w-P3wGN-OvEivFz9yS-iHHNyh_chUZ4IfhUe7owf1o8ex58gHfZE4vMa_CLuDa2i0h6h2HM-O75DESHgQKS5aJSQuHZGllejzQDwcHflwpA9-iM-PEFcOLpRA77iUiDT6Zmh-HXkPxfoROyM64ouPnhq-oh3CzEqPKwoHuccUH_WNkjWco88B_h_6jnAVnlBzvEJE78B_uDnuIz-hHmH2HH_xJE-O01OKJgdmMAIOAE4Eo0JYYiBwihhkKCDCAIEYsFgBQgwhyDHigDIAIQAAY4ARJShABgFKCDCAKAkUMMogyJDADkGghGJSPMEIY4BAAQFJ1gAEoFBECAGUAMoJhQBi0BFigAAAICOgEAgBwpQAgiECgAE"
+    }
+  ]
+}

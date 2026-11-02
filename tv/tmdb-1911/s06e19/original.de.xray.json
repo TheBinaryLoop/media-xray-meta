@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "de",
+  "anchors": [
+    {
+      "kind": "chromaprint",
+      "from": "00:08:15.993",
+      "to": "00:08:35.993",
+      "fingerprint": "AQAAjNGiSYrCJIMc5DrupXATHccPL5QT4rIooUn2Z-hzXJmDH9WQXoGVB56Wo_ox1toGHbpqND_6Iw-e42FwKvCz4Tt-xM-gbQvC55hEZTBD5UKlJSKePcK-EE80TGccND3s6dCXJC6qC40uPNly_OAOvw1O8qipnEiWOQ_i32h6vEETP3gNlsxhLid-5F_RrDv6MMOPKzwUCda0o-lu3EpxSTvyo_rQvMBDonJHwT9-I-RzaEd-9Jnxr6jyYztK-TGuKBXC7kjuaIc9BdMvfC_-H1bxhcLnI2_Q3MhjCdfRN0iaWBdixehlNFWe47mQN1qC5Mx8lD6aPhueh7hm1H7gBc0kGvkFHWH0D_WcFj_27SjDH5QiB5Ojdch7Df8DPeOHZgxqLcaTHMplKQGV83gw5-ivQzxF9MjvYV8enEl3AOcARJACAABAxBFgjPFCKCUkkwABYzRhVCCALBOSEEmII1ICggAARAijgEKIGKUQUMIgIoADAABEFAOIGEAAJRAKRQQQAhkACAEEGMAQAsYIwpACQhBAFGKCG8CUIQABAQgAAhkDgGCCAGCAEAYY"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:20:54.983",
+      "to": "00:21:14.983",
+      "fingerprint": "AQAAjEmWSEukaEqCMEeVKcF7NMtXlFLSKPCLXIaiRFkQkquwejEaH-Glwzf04nPR_AgphcdRNF9SkEavHZ5E6jCl4PKDPRO-C42SC7mOZ2GIqiG2esOnw8cbhYWDLjkeDeoZ8KzR5Edo_PgfhIe3G3q1KcafH9FVGn2iC8dvTah1JWiiGzmhCzmPPuwG5-o4PIcfHusvPCEjWJEHfUGPMyf4J8Kjo45fuAvKYM2D57iDMxkq8fAjoQ1noUc0EpL-IT-qPMSfEf0VNJzAJ0ZOCbqC6DmFUE8ENUd--CmeJDdK6QgPXbMQKuEiaRRu7fiO_D2uQ4tVIiyF_8J9BlfaI8xZQWOPOBuu4UOvkGj-4Al1PIpyJMyRp8FFwk1SA0e6TMqh6oyG3Cm-ZUUTpuiPs_iW6nieGsmVWcGj42QwHWF-5BlTA6AEAwYBgoABSgggkCDAMeCEYwxh4hAChAgAgBBKECCAEAwIQoQSQgkhAQCAKCEIQYIZ4JxAgkqNlEIOGEKUIAJYIiwyRmgEiFEGAEaAMAIYAgjDhBjEgJMSmQWoEJAAIQRRBkhkBA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:33:33.972",
+      "to": "00:33:53.972",
+      "fingerprint": "AQAAjJKerFES_EURKfkLORfCpMkobXhw_Hgw1M6RF2dwxQgT6cK3C4G-CflhhzjuYD9-9ArC7UFCLeJQksb342SqoM8JV_CUEA8azsQZ5A8eDVL0GEeeqjAHRlIu4kf4onmK6xSmKid04XjmOBB_tDvyoz1cEQ-c9sgvOFsG7TimSoND6If1OLgzpDj6D72GNCeHSykXNM_wG01Rq8YtjENPBrY2BqJF7Dhh-Mae487h6-iJXmiYBy8jtMvgnDhyLcc55OKx_VBpTvgPp4JPPOjxZSvURYf2GK5S5MIPU72Cvpiw_bjwwZpy5BMc98IP3ejBI_wYONhHDo0aopeOSMnx74H2GGGIbpukonlw5TiydDwAAQkAiIBASnPMMcAIMBQZRRwBAAAiACWGIcOAQUgAYoACABElgWACCGWdIQAJAYAATAjkmCIKKAMEYIIgBJgRAghBAMWGISsgYMAZxihwhhAjgAIWAKEQIgwA"
+    }
+  ]
+}

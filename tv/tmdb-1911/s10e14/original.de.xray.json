@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "de",
+  "anchors": [
+    {
+      "kind": "chromaprint",
+      "from": "00:07:56.202",
+      "to": "00:08:16.202",
+      "fingerprint": "AQAAjEqSRpaWJAETfI9xaT_y6IE-tNyD5sF1NL5RLmEHPXCpHPxx5tiWZR7UhFeCE3lz9JnRXDc-4tFRMpeIHHoXxMvx5MFXocePNjrS8YH2zEJ-NHnQ-fgRSuyh5Tt8Ied-PD_aZQjz4EQTHbV4XEZzhB3yHTihHSeOH9CJI4d_HD-OV7BMwMiPH6IuHCcEH3mFR_CP8_jh4_iE_MYP_TLCjiG-F6NuPAefUMGV5MglHS_0sMcTPiF-NI-CfsWLR3yhp_GEs3Hw5ZCuo3nQbkHUSCn-oHGYo8_xEi9KGWGiLMsWJK4s3Bn8hDiPL9GD_ziTDyVzpI2L5Fkn-LTwo_mFB7US5UKT68GHH3Yy_Ay-0EERRgaCEADKCIAQYg4YyYAASAlAiEGABAccFMQzI4SQRFAhBBCAOEEQcQAko4hljkngnlBMMmYZYUqIhoxDRChgQSmGMQaUERIw4oQRDABggEQECCOEMQAgYAEhTAEDlBDAKAaQUAwJQAEgSjBCCA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:20:05.504",
+      "to": "00:20:25.504",
+      "fingerprint": "AQAAjJNGK8lxZcojpJOSQ7Ny5A-8wwuX4w9ydZBU5Ip2tGhyotODZo1S4UQ-InmooFmPHmdwRQ8cJUqUOMiR6D8eKTmaRT4q-sCf4TL6REYu6dCTIJQvvEwD7pRQommSHVeLBzlTEZqeI0yF86i08DCn4ZUDf0GYa8ejzFDYxkiVUzj6FpuoCzkPneUaRJNOlMuJPfiLdDP0KCey8kvQJEf4FvzxI_zQ7JPx5Snu4_h1fMox5UdpH_mOJEd5MImSfMZ3o4meox1xLXhyMPxmNIsP9IlShOkiXMnxfJCinESYfLjw6cNkorko9E-MMIcuhKLhhMqM6BEhPkfIf-DFE82zWCiXYz9-JNeKiGKORk8KKtfRIw-PJCbuY3ojOObBKIaeA9fRjK2OXrpA_3BC7YgfC0kO88Iz4hJT_LBdHD8AAIAhyhhAhRRKQiAEwYwYyAAQAhBHIBIGUGEYEsMw4QSiABjhBVEEAGMYEkgAQbBUgBgClAAGKGQAYMRBJIwABClEBDEEAYQIRAowBRATAAighGIQGSGEEIoKJoyEDAiAgDIaMiKCcgg"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:32:14.806",
+      "to": "00:32:34.806",
+      "fingerprint": "AQAAjEqTKMnCZBGuD2_R3OgfoiLxmEqGpg2LG9clJNcD5hL8YPvhHaEWB1dq42aM5kafHZeYB89xZ07Q6LQR6jqSc_iDP-hPnBS8o8_wHhfyQ88RJlcQ7vihH3l2fKIBV0fe41RONO9RzoF2NNZxPRFyvD6aUmiV6DgPXDR6w8wIceTR4x9O0cHR7fATHWUG3fiFqw3-4jh8efiWGYn7ISd6wnvQZHlxokdz4TrKxME2XkRz4xlOG49-NMeXaEfc6MSzH-WJZzSew82RC0-8GE9SZSxuojl6HP-C2DlhTR0TqH3w5aCil8HVQxXxRUHzGRdhp1qSwd1I9Mil0Nijo9nhJtGNWsOoY4pyoRITuXCTB9eOH07CTsGf6tDzoV6OZjya7Khy40-Kh7IBAyEiBDCDgBJIAEYAEoIIhAAgBkGEEBCMEqWQAIERgJRhwhCjECAMCISQZAAhgoDSzAASAAMCIgWRKoggJQSxAkLjGACAKCQAAIAQZpBxAIgACkIEGSCAE4goRpwQQBFkFBCCAKYkcsIA"
+    }
+  ]
+}
