@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "de",
+  "anchors": [
+    {
+      "kind": "chromaprint",
+      "from": "00:08:18.173",
+      "to": "00:08:38.173",
+      "fingerprint": "AQAAjFEaSVQyCSzD49C8w0kWhkJlHa112JEe-Kh9PAxqMTyaLT9OZVHQKORxJ6zgqwg_1Dsaazl2_vhC4guJ6UezC3myQFrzI9eW40ejFMweMBbRhFFR8kKY1_hu3IlxSGkUOA3u4cjUIx-DF5qMLmeIJjxxoxl5uEpr9Cd0DiHDvUEzXBkXPEwoVEdzHj8-GdVzweORbDvinULZzGja4DkuJQ_KPPBNMOIjvKEQqiGP2oFOGSVzNAyP_2COZpaML9yQk2iC5_iYgslIPOiaGf6No8ePpxUuCX2CMJxkJOAW5Yfx2ejRpCVugT9-PAfyGrqO_2CgLBfaKMdjozyaB0cPH-UkHKJ0BEeF5yU-GocvJNPxHzn3IP8DLX8R6vgT3MT74BoA5wABxAomkAACUEGYAYAZAIgiRAjjCCFMAIEgJgQAI4AhAilGBJAMCOaAUsRoBIRAAhBgrBFCGwoQgBYwgogg6BIBBaMIMMOAIIgI8ZR1BBHEhSQAAEQAAEYcQInhAA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:21:00.432",
+      "to": "00:21:20.432",
+      "fingerprint": "AQAAjJo4fujxKThz_MeZ5cUfHO_QeYGLBwmP9AqWHDsePKaGx5mQ7EKqFj2-4MccrThzvDlBwiSiJ8HNTIduOEXRzHmMazriBz3M4w_x8cFZwIyRzBlyPMYVuMN34dTx5IafLfhO5JguoXkPPTQeZQglsdHRJL-QK0vx5oM1SD9CqdnR8MH14UOfBU0bfKhVJ2iOw2eIUwk_nEmDRlMiComO9Mck_YP_EFdm4Uez5OjRH2HOQnk2ZGMefK2EUcGJXkPaPQid48YbTMlv1PiSoZcyOBeVCbeRPkOyE64y4YrxpAquF6F4JEyyo0xsPI4y_MOdFXaCpz-uT3j2ITlzI8er4MpS9GijRMFTeqiE7czRa8eRQ_-R3xp-UbCWxMd5InoWEeIJoxSCgigCHGIFIYIUM0hCBx0xDFgACBDGKqEUAs6LsBSwQCAkwARMEUKAAYQ5BBwBQ1EKAFEcWEGAQYQDR4hDShBBBNmAEAEIElBCgQBDAAAhCCFCAUcQAAAAKBoQgghgDFAGAA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:33:42.691",
+      "to": "00:34:02.691",
+      "fingerprint": "AQAAjJSzSVMQfkiWH5cTlXgUVBmaHHloKNeR50HJXOBDKqje4B9xE4_g3cj3LThz4YSiV5jyBE-Oo0-eDOKyE7l6PBGPMxemTBfxXIh-JN8SOMcbTBJ1oiH14TqmPEc_Hzx-jD9OVC-lomGVpkimLYqQC1aPPjmuB5OcHQ8-ONSRdYkPrfvx49JUePpxxejR6MF_PE_w6Wgcygh_fMrCgTv6R_DkY3rx43gO743waNqR1JGEdOvxK_jhB3kSabgILckfoX1inBe0fEc-NJ2CJ8eHvBCzKsjzFafL4NmFZ00wE0f6HHwk_OBXJvjIBs9yQ5N8NNuL6O_xo3zQXPiPKZOyHK1y_CilLD2s_Pii9GDyDM-CsDOLRPJRSje-BOfxSSPa5QhTklCzJEvxHc0-Idma45JjXNqm4qKO90iklUd2AogcIVIJIyASUgDADAEESYWUZcAIoZhhgBFGADHCAMIAEQQRhoQAigBClKCYCkMYEwA4Q4hARhEiqMCCKEAgVkgAIRxgBhgAgCNCIIcwF0AAJJgGlEABDANCAUGQcgIYISywQgBgDGPMEcWMEQYCgwADiAE"
+    }
+  ]
+}

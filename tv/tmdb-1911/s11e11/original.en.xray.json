@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "en",
+  "anchors": [
+    {
+      "kind": "chromaprint",
+      "from": "00:08:15.336",
+      "to": "00:08:35.336",
+      "fingerprint": "AQAAjJk2JVsUBk8PJ1GOX4WWT-ijEG8OPREeI96kaAkeLS-8tcOVCb-DMFSi5IKmxEKuasZpPGNg98GVCE_qGc0tRHuRRFfQoxlz4UmeI9ePKg0cE9qXEHkjzEl-pGNy6DjEPXhSaoaWKnkC7UMeY8oUD32E58MlJ9LQa0fThdj_IssFLaeRZxf2KIf_4Mvwo_kQKg3URYi8B30OJlsyYo-e4KjSJD2aMJGRf0j4M-jR7MGPZ9HQ5Bl65EoyQnt0fNFRhcdOJxnOEOhR8vCyFvyJnyjlHA8c_DgOX3iGwx_04Die41HQI5mO4znwoyRx4_CL54C_4gmS_8jRo3mNLz-O5jjRfBdxHOdR9vCPHzgDf3iTI3GkHtng6niCA2MYAEgQQSQAkAhkAAUAACAMQEAIBoxBxCAujBCEAAeAAAAgYARQCDgwFFMAEDAMEoA5pIChihAgkGHACeUAYQIDpp21iImGmDEMUONICMwSEgBxIBhCCGVCMNCIAoYQRAATysA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:20:53.340",
+      "to": "00:21:13.340",
+      "fingerprint": "AQAAjMmUKEmSTIqECz5e3HhgSgSa49B11NhOvIf-AL6E4AcfHMbxGJ4u4i6B7ZgeEjdwIeRywV8c9Dr0oz7EBzx6XBvaHf5xHz16fMHnQzo-nASe4_huwSeOPCbRMGIKPkN_-IqFlrOE83gcNE9QfTp6RkMur4F77Ie_DCdy-HiQfgf0CzmP44c_5FQOkT1yEu8xqoeP53iPH9uNHnuW40R-6Drya5j4Dz7uwx1hfHgHXA_qHT3-Y4eBa8gzAMfx8Dj8JwGOH_UWnPFw9WiWZVuSDDue48dxAM3k4BFy6QCEmTBKKaKQUEYIasyxQCiB2BDAAIIFRYQBpAABTgjznEEiCESiFpIwYQAAAjAjBAOIAYIQQdwZRQRSAilMGCEMIWEAYwopRoBAABnmhBJGAI6YRQRZQRAywgmPIDFgECMA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:33:31.344",
+      "to": "00:33:51.344",
+      "fingerprint": "AQAAjBJDRUoe3CmiHScN6WmQedjyBc_xLA3qx8iXouSNZ_Gh8CTyhbgWNNnBvMPzIOIXwrvxLEKNMMdDvEfqDU-UXBDHB39edI4yIkyPsXWOcyTCoHscqFQWXAnoC_k1_GFwLciT5BNUIXyGJns44rNwOXgu1HYIXwqOJumO6kZzJH-G6Av6E09xdgiVZNBYqYcfhOeDHFcGjSGaBzmOkclR7wL1Iv2JqMmLHz_ww1eIUr2Eaw-uo7zQSM9x6UF_JL8Q5jve4cKdJ8R1NKRQ6fjxmcfYHy7Rw7Ng_ugRMxqSNIKj49xx8UKf6GiOeof3dCjDPUX9onmIB82PI1nOHPnRjFIaVEtYDU0yJUZ_PA_6NPCNKSeuJMvhUhaeDeeHR9lx0ci1HD-hRTvSC8yJsgRBBGGAQaCYYUAAwgRDzgHlECPCAEKkAJAwR4hARgjgiBLAGSGWsEYgAKwQhiApFkAKCMKccYYAY4gVwBAikCGECRAMAQISYQhBQihiABFEYCSAAgg5C5AUjDGlECCCMuAEQgpIBgU"
+    }
+  ]
+}

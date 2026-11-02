@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "en",
+  "anchors": [
+    {
+      "kind": "chromaprint",
+      "from": "00:08:13.450",
+      "to": "00:08:33.450",
+      "fingerprint": "AQAAjBLDbIomTDnKZMdR64hPiMJ49AyiHw8qpXmKRJKDNHpQkviOK3lwXhIaaTfG7yitDN-PMzsePZi0H82YG02lJ0epGD0y_UIS5cmDMw-qw1pCeL_Qxvnw9rh0wV4YvMWpH-WDMIwy49PxC1piHn2DfEqOSq8CX8f3osfD4NHRhNTxZfh7fJKH0MoS4sqNnoM4JjymbgnxGzem4zrSJIpO_MJ0ZhTyZ2C-D49CQpGVRcezSMhLIVJG5XiMin7whDmRvziPu2AupZnQmNgZNMkjDpX6RIB-vAueRHiiB034oDuuByfyC8mj48e_w0uPXxKeI7pSHBqHJlEOR8xxPWieRYf28rh04dHR2KiPfQ9RCnaSHfUH5SeaB5WsHN_BJG2QZ8yIk8UPbynyjLJAlUhGx_gTlOGN5sN-BvfxI-H8IJ9yAIDEAV4IjIBAxCBgBABMACCEE4AAgQQChgjqACAAGQGEEcQwQwCAAAgjFEUMOECAIQAqKohAAgEhmBAEAUYEEAgIw5wVwBgEiUMCWSAoNgQgSpAwTkihkDKIAAQAMQYzwIAxwgjhFLNAMYWcEEohaggB"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:20:48.624",
+      "to": "00:21:08.624",
+      "fingerprint": "AQAAjJKiLNGUSAp-_Lgl5MshOkV-_Md35ImChD9-nLhyGs20xeiLfjiJ3FBvPPERjU6YCjuNPsVF1LGI5n3wZ4h6i_hjPHiY47lSiMd18EmwB3nIGNeVCT_CVFLQR8F5Dn-E58Jz_HBIPFlqXG_w6bBdQd-Pww_y7DjHHM8O58R5PCgVO2jwI3pWJNwzgdGGpiMeZcefofkxXUqFN0deQl4SHh-L6kKzYxyzMZDDI09x5XjC9Lh4VArRVMezLDr4I7mOvCFcUVpx_IEnFV8i3IZluUWSW0FeFk-OG-7b4MEvPNiijJbBtxGuHL6xL_iSHMmLPEVtNNyDHztsH4m-8AjzDyWSZz-UD6GTo_mFJydqSccZLWh0vMSokPjxHQmP6HjyHL1SDU0-HlOSHr0BAwkYxkgIBGFAIUEoOIIRpyQghiAkgCEOEWAYkNAYL4hRSCCjECNKUiMAQYAYARIhCgAHCDOSISeEBMgJoQBAAiiJDCJASACQIAKBhwBRgnABwHOCIAQEUgYY4gQCgiiAgGBKOYEAyEQiBYYDwABEDA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:33:23.798",
+      "to": "00:33:43.798",
+      "fingerprint": "AQAAjGumNHFwD9WFRw9-nId7vLtwXfiWPXiZRcFVxDbUHDkb9LhuPA-u4zmu49HToCRc5RFOXKhQU4Oo92jSSMcTPWD5JDh9dAwj4WguxD-Sql_QGmGSSScuaJnUGX0b_PiOh0yhOg_ywMeV442CT8nxLyVy6TjUU_iSXzh1NEuVomR26BH4I62Of2g0Kgj14OkFKWSqDc2x42li-DyOZs0RuiO-6Lhy4x-cxccXWhidcTLs5viHr0MWOUGyLFuKh1rBD7twjxoqbMvxjiyqbEuJmAmS48bz4Jo0Bk-yCw8OJ58wSvtw3bgO92ES5IeeIL2SlDiH5xj14kflS6B-_BOF8EoIPcuRU8IbF82PKlfMgBOvo43yoZmSLDgv5HkeKGJmDemOivzxKKnwF2ke_IQW8uivHE1q4oeWBymA8IIAQwwSgAhAmEKCIQYgARYAwakwghADHGLCEGIIcQAIghWCQEAAlDBLCAAs0EYpwAkRQCBEvCASGYIMAchoobUgRIInCBHgGWAQcQAhBChhREijBAMQAIEQAIIIJpQAhAAknGWCCAGYAwA"
+    }
+  ]
+}

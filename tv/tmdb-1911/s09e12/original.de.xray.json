@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "de",
+  "anchors": [
+    {
+      "kind": "chromaprint",
+      "from": "00:08:15.280",
+      "to": "00:08:35.280",
+      "fingerprint": "AQAAjPqoKFmEPTkuiUc4jYEj5vB_HK4CezRCV0R8oocWPXihPxWuC8eP5lwQHgny7CGaLUFNE-SLPrpwL0ed8Igl5RGS58LRVTocbtEKxoke_Ea-Qj-2Q-9SxPRxqUYTSeUwPRuOKxf65UiXKLgPXw9RiXmGLEt0ogkr_OApPMuMkzniI9l2NE2kHFeOK_twywKe4kp4I4e4G-dyIwaX6ECzoz--HlcQvjA1HZoQWmh-3Mcx5T1CLzqeDHpfhHmeosdzVFJ-uIePbUyOVwp4sUE89IJ05Meeo5TRnMJlfC4eJTqSs8iP5okWoY_xhcajsGjyYtoTCTmPhBFD8CSeR2iqKCnCS0dyo8dWvUG-Q0vLIb6KKhrTw2MqBT6m57jhywd_PFGOWWF0hHkK7bKQE79w5fi6AUIQUAQJwIQkRDBiyLJKDGKEAUIQwDASTCmGPABCYIgEIgYIQaDQhACsgHMAEYSAEkYwqoBxDhCAgKKACSQQMAJAIIyikjAKkDAISEOAkgATQ4mAFCEhEDGICAEEogQQQQRAxDODDAE"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:20:53.200",
+      "to": "00:21:13.200",
+      "fingerprint": "AQAAjEujbMmHZ1EY_EftCw-Fekd5pPnQZ-imqRCb6UQ65sEPr8eT48em5ghJQ0f-BV9GIgwdaB_iETez4oqOH39gfsT9KILCBdfwN7ha9DmHpvGDvEoKvRbCPMf0Fnmu4EfzQ3t4fIxefFqh_Qh_4WSFK5j8GH72oFLLI1GO_JjODc-U4ORxKUmKm0Lk57ig60cPLfuRXVEi0MbRq3DodGh2nDvyHVLSRUeoHxceFRcH5nnQYHzwHN1GHPmh9wlCJo_QK4Y_hA_-ESv3HJr0I0uo5OiP5scP7xV-PIoO7xrxD8mFLDnK7MHfKHgW3J7h2Q-eKA-iKxacP8Ee6YXr9OAV7Pjy4dGgZ5UQ5g_648WTJMe5HM9_OPgzPMeeQ3pw7ficgspDpjjxjcGT6PCE-ClkH84BwAwQShEPiECGGWQQoMIQQYAyAjIjBFIIIAEAEMAIRZCzAhgAhDEKGIIAEKQJQYEUQCBwjFAMCCSEEBBBAxAhCABkgRLAIAAUAEAIQBQTyEjiGAHAEQQNEQwQYZARxABqnEECGEUYYkAIAQAzDArNABRAQoIkMQA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:33:31.120",
+      "to": "00:33:51.120",
+      "fingerprint": "AQAAjImmJomWpEH4o9HU4zOeB7fRjD0qbscbXvjRY19QPBNCbxHEJhI0PUGeFseVL8Kzrdj24WFwhGkMzSLCyEEoR8cf_CQeIXmy8Lh4NGXRKwl2gr6EP0Z0HsmCljkOh3GToptSxwjDQf8RHydKJQqaji0-Hr9wpNGaQ7ehly4sIZeO53Cq6MXF4MBjNEfvBKcR0QPZZIfynIh_HI199NnxK0WZY8tDhPlxWcZvHX-QMfPxsYj0QMtEGXl-9HrQXMJ1VNGOZlW24OVGJJEXSUXawAdD5il-oQuPpiP2XNjUnPiPPgO_oczwJ0Ry5Ud4Cc3FoHqegomO8biCpl8UtG-S48i348-hdBlirpJwUKfwY2iSiGqEUI2SB3qQGvfxzDxOOgm2H28SZcgTiajRDA-eMselhEKYKcwVACOcUwghBhQCAjHCQBGGMAAgIcQYQAVxTAKkGAhICGqAYUgQIAAkAIEGGFTAAEOVEEwwQ4QgAkBjgJUAEKIAOEwTIJ1ACkihAHGECGGAIIAIAJwjgAijHBMIIUIIEsIQBhgB"
+    }
+  ]
+}

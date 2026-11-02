@@ -1,0 +1,44 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/xray.schema.json",
+  "schemaVersion": 1,
+  "title": {
+    "kind": "episode",
+    "name": "The Man in the Mud",
+    "ids": {
+      "imdb": "tt1145324",
+      "tvdb": 359227
+    },
+    "series": {
+      "tmdb": 1911,
+      "imdb": "tt0460627",
+      "tvdb": 75682,
+      "wikidata": "Q207803"
+    },
+    "season": 3,
+    "episode": 10
+  },
+  "reference": {
+    "edition": "original",
+    "runtime": "00:41:22.520",
+    "frameRate": "25",
+    "release": "25 fps European release with English and German audio"
+  },
+  "segments": [
+    {
+      "from": "00:03:30.775",
+      "to": "00:04:00.935",
+      "type": "intro",
+      "source": "video-analysis",
+      "confidence": 1.0,
+      "reviewed": false
+    },
+    {
+      "from": "00:40:45.520",
+      "to": "00:41:22.520",
+      "type": "outro",
+      "source": "video-analysis",
+      "confidence": 1.0,
+      "reviewed": false
+    }
+  ]
+}

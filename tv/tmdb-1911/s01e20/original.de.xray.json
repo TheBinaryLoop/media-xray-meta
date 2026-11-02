@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "de",
+  "anchors": [
+    {
+      "kind": "chromaprint",
+      "from": "00:08:11.965",
+      "to": "00:08:31.965",
+      "fingerprint": "AQAAjEpUKRuTRGDeo3mS4zrK7JgSSVl8XCryJEeyhBp6PHvwPyipXehO5FKS41MIcdqC6BX4NshzqIxP5D-s5HiCUbzxKJFCXKo3HBcskSHO4_rQz4V9Id919Aq0TkeY5xL-hIi5CGLT41mO8-hvQlHi6EL-HR-PY5dp9BKafsf14ZJwJXuQbFKD0DbxUEqDM4NPXEmOvQ96GmGuHVfGdMOnC3WyGGGrHM8xJVcRPixOQkeeBNfR02jypMR_3OFVPEd-fBlKavCD8Cf-4Yk-fK3wHq6SYz_yQGgeVGnxRYmZ4nngJ0eG_2DWH02VxIqw5yLe7MgppVAVH1-Ff5jSJEd_3EW2eAjVMEFa5ejxI68GnQ_CWEcVhbh6nAjzKBeST0dzHU-UB020XEKV-cGZo-wFNkcffDtCJ6qgJcqGqGHiJTjWMjGuJMlONNOD6QIBgEEOAIqMKQYIAKwgQBMliBGIeoOQCwQhQxRQwEgAhCOEECSEAAAAAwUAiAEMiCAQOAGEYEAgIJwRzAxkCBAAAYCMUcYYAyQwhkDJgAcAKaAAMgYIJYRgkAnigGaGAE0EAwADgxwRhAjCgOAKMRKIsgA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:20:44.912",
+      "to": "00:21:04.912",
+      "fingerprint": "AQAAjEkyLVmmSWhetDhz9C2aHz9-XMWlEz5-NM8R9kN9XNyR7mB-_CT0G7Vyo3mPZ_jxS2h69IZ-PJNIlIwjBX4G7RH6G3nQJ8P7JMhGJYfOvYjGyTLeRZxwGv_wMHiOpg5RhieSIyZzPHlEfOFR5jmaH3ty8NjF4Bdy1scPcT7w8NqQp8c_9InQ6PiL40uw36Be48ePXblQN2hS3bg-4rrwcCGO_sIZtByFgT3CxId2_CEYmdieoU9wSzgvXC_0h8h3wTme4juuL3hyqfgR_hCXB6HEI8-RZ8M6g4oxMxnuoUGfo0VzHOEF8c2C_EPMcYaevIgOyzmYF_uOHw2lFxV-6Bf-Ey-uB8_RF_-B5kcSH2F3YdsDQIwARAAnJBEaAYAEA0ATYBggBBjGJBBSGUUMEEYCgQwAhCGhmEHAMUAAcAAZwYQDAhimhBGICgKpMUIo4AgQixAkgKPGKCaZFgYQYhAxBhmCBFDEKcCcUkAoIY0wgkzEkABQMGQQI0wKSASxyDCgmBCACQMB"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:33:17.859",
+      "to": "00:33:37.859",
+      "fingerprint": "AQAAjMsSRVqiOPj0BE1piYOfBeVDhEmSQ3PUSUUuZgafodbRTDnuh_iLfIfjXJCVNBNudM10NK0YGbTSB1_zQJN--DruD3m0TML2YysiK8mgj8kCR89RpalwHU2VBJoT5MdRkjDzSSrKVVNRXdJgmcdf3BdCqcduCf8HiT5Ck2iT4FmmBL1SNJWGRyNOI48hJUco5sSjLPlwyfgMT46DMy_O5MOUM4i4C_qTwifMKMIb4qcgKoxChD8qvThn4UmOJ2genMtRfjWSpZyRLxk1oqfgL8eDh3kGv3AchIfeqEE-5guO6kEeBeKGlySOf1At5FRGUD_KyHiY46IR7qGh5cGpXMLDC_nB5Ah5Qx-Pq_hRCk3aGFdGDYeKMOrgODFKBU-UDz3CnGmQ9Doe6phD4XnxSVYEvxHu5fiR8ygVKXgV4Zeg5TGeN_gPH2IAgIYwZoAFyiCEhAAKAIqAAUw4wIyyDhgjDAJGAaIEs4hJygxgFBjiAIOCAgSEk8gohggQQggDAgECEKCMEgBBA5AQiBgAFDAKCwGAoIgQZIFRwiEhkCDAGWqIQYAAABQ"
+    }
+  ]
+}

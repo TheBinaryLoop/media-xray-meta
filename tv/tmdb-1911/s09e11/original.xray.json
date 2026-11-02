@@ -1,0 +1,44 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/xray.schema.json",
+  "schemaVersion": 1,
+  "title": {
+    "kind": "episode",
+    "name": "The Spark in the Park",
+    "ids": {
+      "imdb": "tt3344846",
+      "tvdb": 4716810
+    },
+    "series": {
+      "tmdb": 1911,
+      "imdb": "tt0460627",
+      "tvdb": 75682,
+      "wikidata": "Q207803"
+    },
+    "season": 9,
+    "episode": 11
+  },
+  "reference": {
+    "edition": "original",
+    "runtime": "00:41:24.352",
+    "frameRate": "25",
+    "release": "25 fps European release with English and German audio"
+  },
+  "segments": [
+    {
+      "from": "00:03:48.410",
+      "to": "00:04:19.330",
+      "type": "intro",
+      "source": "video-analysis",
+      "confidence": 1.0,
+      "reviewed": false
+    },
+    {
+      "from": "00:40:46.752",
+      "to": "00:41:24.352",
+      "type": "outro",
+      "source": "video-analysis",
+      "confidence": 1.0,
+      "reviewed": false
+    }
+  ]
+}

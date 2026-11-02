@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "de",
+  "anchors": [
+    {
+      "kind": "chromaprint",
+      "from": "00:08:17.219",
+      "to": "00:08:37.219",
+      "fingerprint": "AQAAjFqmfNISNF2RJ9CPhx1xH98b6DkaHTdzTGRy8MR-XBkaRnjOQs2nBc8uVMOlJCauw4eed8ifB3_wXIvx4Eo0Io8yidCNnF8Cj5lxKstwKQ_yr0iW00GflENlG9vD4w3eZUfy-Mgf_LAekjgvEf2xZ7g04sKfHInbI3aO59JR6nhO7KnxDL581MqCP4jzI4kloiHx8Hix-zBXfEeuJXmg5TriHHfASof94FGOB9U1NOqOk8d_hJkuQfMf5BeeoE90NGdC8PjRZ5mCSRd-4ULubdCyNUb4rZi45kifHacOkWOyoEoz5Gh1ws-QXZ5SqDlCccSP6yi3ww-DE0flB_mP6_FxZLHT4RnxH7WNJz2aOZcwWYkyxIkeJMxeXDt-VGmG5hl-5DtUJWKD_MGfo8lRh8ap0MgLZxsA4AVnwAhBEAFKKA4IA4QSgAwEQAjgCCCQEDEAEEQJAYCCgAkhhFMGIIAMsgAAYogghAHCEAACICWwIxoIAIQFBhlEBQBEISEAUEoJAIhDgAoCCBEAAGUQAJYKJyBijgAigACoMUCUEsYRBSxCDDEKBAESAA"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:20:58.048",
+      "to": "00:21:18.048",
+      "fingerprint": "AQAAjEmapEqi4MoT7LsiPEFXpfAb1MqFMxs-QbyKH5-SDaerBM2Ok4lwXMWPB7qNfk3QE02FN0kotJEMb-EzfBf8Yw5xmcJzZbCMB_w-9MGV6LiSi8IdNpB7OM4TQTeuJHiioycVNGtU5FOKiFCTI_qDi65hHd9VeBR-5EESfUePl8XvRHCYNQyeKcePS0J6JcWjI5d09Idz9AzOdRKeY8quCqEP6VmFnqkw5Tiho45-PDuhytKMWwgzJjh17En24GcihDl4iNk4ZHG0FLl6SDnC_DguTQ4-JcGzBymP5OnAD-yFS0c5cjKaau1wIz-SXccdo09y49JgVqjUWZjSJ8hz6Al6poGWD3_wrIW8JsfjIKJoJoF_4T6-LRLyHn8Ocf_xBNkVgXNa5Id6RGZ9nA_qhEfzBX9wSRyS6x8AZABgjjBlHFHAEeigIYUQIRCRgiACEdDAEQEAoghBQTgEAAMhASIIEQOAIIoJhAQiwAigDFFEeBOKAMIAIwATghxgjAMFAIagcYhg4QxAQBAGDBBCUKQIEUwQQgwgAgBGAHPCCCYgMMAI"
+    },
+    {
+      "kind": "chromaprint",
+      "from": "00:33:38.877",
+      "to": "00:33:58.877",
+      "fingerprint": "AQAAjJEVJWGSJBrCo82BfgmuoyE_XCYe9Edz3DiLHs0XxBQXKNUrhBKPv9iN87hPeC2O48RXgz-sJjFx4zss6bh4_DGi5xK-Hb0ITSmuJBOuoxfxDU-OM1XxJdrxTDmmk2he5LfBUIuMHo-FH80r9OGPUJIYKMpyPD_yFlcivOnh7jiPn8ev4EzyHY-OKTkY9scKx7nw44qSIcyPZ0Tz4h6eQ88NHaOWHD3soB7xyrhi3At-PPvwBFqqjIamHlehPLiOf0eZPVA2KQ_OGjkT_EGPH_yxww7xB4-iHMmo5RHS_SieG6fRi4dzWGWKSKIX6LliZMexK1GFelkowU2PMhc8Hv-DfE2GJAszHY8NPl6Ck5nwRNnxHEf6vNCPnHkxpQmNLcvX4EkHxQQkhlEFhIFCAGEBcgIJAxpggiSAEATGAEAcIdYwBhggQChAhFbeGACEBBQopIghBgAgIADAECSEQZYQwgBi0CBRhGCCCELERYo5AIQiwkCjjTBGAEOIMYoAp4gnxnNjEAICAMEIIQhJTQgTQgEA"
+    }
+  ]
+}
