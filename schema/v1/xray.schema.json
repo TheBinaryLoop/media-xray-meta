@@ -206,7 +206,7 @@
         "required": ["source"],
         "properties": { "source": { "not": { "const": "human" } } }
       },
-      "then": { "required": ["reviewed"] }
+      "then": { "required": ["reviewed", "confidence"] }
     },
     "span": {
       "type": "object",

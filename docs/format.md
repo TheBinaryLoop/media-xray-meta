@@ -115,7 +115,7 @@ Every timeline entry may say how it came to exist:
 | Field | Meaning |
 |---|---|
 | `source` | `human` (the default when omitted), `face`, `speaker`, `audio-fingerprint`, `shot-detection` or `subtitles` |
-| `confidence` | the tool's own score between 0 and 1, for machine-made entries |
+| `confidence` | the tool's own score between 0 and 1. **Required** whenever `source` is not `human`. |
 | `reviewed` | whether a person has checked the entry. **Required** whenever `source` is not `human`. |
 
 Consumers decide for themselves whether to show unreviewed entries. A human entry counts as reviewed.

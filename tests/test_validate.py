@@ -79,6 +79,10 @@ class ValidateTest(unittest.TestCase):
         del self.document["appearances"][1]["reviewed"]
         self.assertFails(self.document, "'reviewed' is a required property")
 
+    def test_machine_entries_must_carry_confidence(self):
+        del self.document["appearances"][1]["confidence"]
+        self.assertFails(self.document, "'confidence' is a required property")
+
     def test_human_entries_need_no_review_flag(self):
         self.document["scenes"][0]["source"] = "human"
         self.assertEqual(self.check(self.document).errors, [])
