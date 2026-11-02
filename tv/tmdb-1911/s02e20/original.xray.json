@@ -23,6 +23,156 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "a-j-buckley": {
+      "name": "A.J. Buckley",
+      "tmdb": 60460,
+      "imdb": "nm0118568",
+      "wikidata": "Q18219",
+      "credit": "guest",
+      "billing": 6
+    },
+    "brian-hallisay": {
+      "name": "Brian Hallisay",
+      "tmdb": 207396,
+      "imdb": "nm1878999",
+      "wikidata": "Q3644457",
+      "credit": "guest",
+      "billing": 7
+    },
+    "hillary-tuck": {
+      "name": "Hillary Tuck",
+      "tmdb": 82341,
+      "imdb": "nm0875765",
+      "wikidata": "Q3135658",
+      "credit": "guest",
+      "billing": 8
+    },
+    "elizabeth-bond": {
+      "name": "Elizabeth Bond",
+      "tmdb": 1225045,
+      "imdb": "nm1410077",
+      "credit": "guest",
+      "billing": 9
+    },
+    "dan-martin": {
+      "name": "Dan Martin",
+      "tmdb": 95796,
+      "imdb": "nm0520901",
+      "wikidata": "Q5213941",
+      "credit": "guest",
+      "billing": 10
+    },
+    "larry-bates": {
+      "name": "Larry Bates",
+      "tmdb": 177162,
+      "imdb": "nm0060966",
+      "credit": "guest",
+      "billing": 11
+    },
+    "anna-zielinski": {
+      "name": "Anna Zielinski",
+      "tmdb": 204725,
+      "imdb": "nm1267470",
+      "wikidata": "Q115079415",
+      "credit": "guest",
+      "billing": 12
+    },
+    "howard-m-lockie": {
+      "name": "Howard M. Lockie",
+      "tmdb": 118886,
+      "imdb": "nm0516743",
+      "wikidata": "Q23301707",
+      "credit": "guest",
+      "billing": 13
+    },
+    "lucas-dudley": {
+      "name": "Lucas Dudley",
+      "tmdb": 104384,
+      "imdb": "nm0240141",
+      "credit": "guest",
+      "billing": 14
+    },
+    "brooke-josephson": {
+      "name": "Brooke Josephson",
+      "tmdb": 1511401,
+      "imdb": "nm2648599",
+      "wikidata": "Q23542812",
+      "credit": "guest",
+      "billing": 15
+    },
+    "stephen-full": {
+      "name": "Stephen Full",
+      "tmdb": 1256037,
+      "imdb": "nm1693673",
+      "wikidata": "Q128821",
+      "credit": "guest",
+      "billing": 16
+    },
+    "henry-t-yamada": {
+      "name": "Henry T. Yamada",
+      "tmdb": 1776406,
+      "imdb": "nm1494672",
+      "wikidata": "Q113577320",
+      "credit": "guest",
+      "billing": 17
+    },
+    "wilkie-ferguson": {
+      "name": "Wilkie Ferguson",
+      "tmdb": 4011083,
+      "imdb": "nm2424507",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:03:01.970",

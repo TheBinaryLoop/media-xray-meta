@@ -23,6 +23,147 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "ryan-o-neal": {
+      "name": "Ryan O'Neal",
+      "tmdb": 31070,
+      "imdb": "nm0641939",
+      "wikidata": "Q272923",
+      "credit": "guest",
+      "billing": 6
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 7
+    },
+    "eric-stonestreet": {
+      "name": "Eric Stonestreet",
+      "tmdb": 156962,
+      "imdb": "nm0832314",
+      "wikidata": "Q508043",
+      "credit": "guest",
+      "billing": 8
+    },
+    "roxanne-hart": {
+      "name": "Roxanne Hart",
+      "tmdb": 29021,
+      "imdb": "nm0366509",
+      "wikidata": "Q460987",
+      "credit": "guest",
+      "billing": 9
+    },
+    "cleo-king": {
+      "name": "Cleo King",
+      "tmdb": 7574,
+      "imdb": "nm0454598",
+      "wikidata": "Q2978917",
+      "credit": "guest",
+      "billing": 10
+    },
+    "joe-nieves": {
+      "name": "Joe Nieves",
+      "tmdb": 1222174,
+      "imdb": "nm0631381",
+      "wikidata": "Q50383297",
+      "credit": "guest",
+      "billing": 11
+    },
+    "larisa-miller": {
+      "name": "Larisa Miller",
+      "tmdb": 150113,
+      "imdb": "nm0588776",
+      "credit": "guest",
+      "billing": 12
+    },
+    "travis-brorsen": {
+      "name": "Travis Brorsen",
+      "tmdb": 1338292,
+      "imdb": "nm1730699",
+      "credit": "guest",
+      "billing": 13
+    },
+    "hallock-beals": {
+      "name": "Hallock Beals",
+      "tmdb": 114599,
+      "imdb": "nm1870250",
+      "credit": "guest",
+      "billing": 14
+    },
+    "tiffany-pulvino": {
+      "name": "Tiffany Pulvino",
+      "tmdb": 239974,
+      "imdb": "nm2287005",
+      "credit": "guest",
+      "billing": 15
+    },
+    "nathan-dean": {
+      "name": "Nathan Dean",
+      "tmdb": 66502,
+      "imdb": "nm1042728",
+      "credit": "guest",
+      "billing": 16
+    },
+    "billy-gibbons": {
+      "name": "Billy Gibbons",
+      "tmdb": 105630,
+      "imdb": "nm0316531",
+      "wikidata": "Q369898",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:04:37.517",

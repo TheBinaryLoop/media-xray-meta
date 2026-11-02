@@ -23,6 +23,141 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "laura-spencer": {
+      "name": "Laura Spencer",
+      "tmdb": 591519,
+      "imdb": "nm3189010",
+      "wikidata": "Q16832120",
+      "credit": "guest",
+      "billing": 6
+    },
+    "taylor-spreitler": {
+      "name": "Taylor Spreitler",
+      "tmdb": 188013,
+      "imdb": "nm1837588",
+      "wikidata": "Q462852",
+      "credit": "guest",
+      "billing": 7
+    },
+    "michael-cram": {
+      "name": "Michael Cram",
+      "tmdb": 63857,
+      "imdb": "nm0186117",
+      "wikidata": "Q6829522",
+      "credit": "guest",
+      "billing": 8
+    },
+    "juliette-jeffers": {
+      "name": "Juliette Jeffers",
+      "tmdb": 154326,
+      "imdb": "nm0420156",
+      "wikidata": "Q17386136",
+      "credit": "guest",
+      "billing": 9
+    },
+    "mahryah-shain": {
+      "name": "Mahryah Shain",
+      "tmdb": 1241876,
+      "imdb": "nm0787597",
+      "credit": "guest",
+      "billing": 10
+    },
+    "rick-overton": {
+      "name": "Rick Overton",
+      "tmdb": 1539,
+      "imdb": "nm0653959",
+      "wikidata": "Q2151597",
+      "credit": "guest",
+      "billing": 11
+    },
+    "jason-galloway": {
+      "name": "Jason Galloway",
+      "tmdb": 2386187,
+      "imdb": "nm2316713",
+      "credit": "guest",
+      "billing": 12
+    },
+    "wendy-worthington": {
+      "name": "Wendy Worthington",
+      "tmdb": 94904,
+      "imdb": "nm0941781",
+      "wikidata": "Q7982835",
+      "credit": "guest",
+      "billing": 13
+    },
+    "alex-skuby": {
+      "name": "Alex Skuby",
+      "tmdb": 149555,
+      "imdb": "nm0804923",
+      "wikidata": "Q4717804",
+      "credit": "guest",
+      "billing": 14
+    },
+    "sandra-rosko": {
+      "name": "Sandra Rosko",
+      "tmdb": 1585042,
+      "imdb": "nm2769940",
+      "credit": "guest",
+      "billing": 15
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:05:45.071",

@@ -23,6 +23,120 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "lisa-arturo": {
+      "name": "Lisa Arturo",
+      "tmdb": 55619,
+      "imdb": "nm0037970",
+      "wikidata": "Q3242371",
+      "credit": "guest",
+      "billing": 6
+    },
+    "alyssa-diaz": {
+      "name": "Alyssa Diaz",
+      "tmdb": 134180,
+      "imdb": "nm1595801",
+      "wikidata": "Q2067839",
+      "credit": "guest",
+      "billing": 7
+    },
+    "nick-annunziata": {
+      "name": "Nick Annunziata",
+      "tmdb": 231379,
+      "imdb": "nm0030442",
+      "wikidata": "Q133894688",
+      "credit": "guest",
+      "billing": 8
+    },
+    "wolf-muser": {
+      "name": "Wolf Muser",
+      "tmdb": 1219524,
+      "imdb": "nm0615645",
+      "wikidata": "Q102994",
+      "credit": "guest",
+      "billing": 9
+    },
+    "lea-coco": {
+      "name": "Lea Coco",
+      "tmdb": 109174,
+      "imdb": "nm0168398",
+      "wikidata": "Q24955410",
+      "credit": "guest",
+      "billing": 10
+    },
+    "june-carryl": {
+      "name": "June Carryl",
+      "tmdb": 19979,
+      "imdb": "nm0518547",
+      "wikidata": "Q99484708",
+      "credit": "guest",
+      "billing": 11
+    },
+    "brian-klugman": {
+      "name": "Brian Klugman",
+      "tmdb": 51996,
+      "imdb": "nm0460206",
+      "wikidata": "Q1631627",
+      "credit": "guest",
+      "billing": 12
+    },
+    "sara-rue": {
+      "name": "Sara Rue",
+      "tmdb": 10131,
+      "imdb": "nm0749081",
+      "wikidata": "Q240199",
+      "credit": "guest",
+      "billing": 13
+    }
+  },
   "segments": [
     {
       "from": "00:05:04.131",

@@ -23,6 +23,165 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "steve-monroe": {
+      "name": "Steve Monroe",
+      "tmdb": 131125,
+      "imdb": "nm0598569",
+      "wikidata": "Q7613405",
+      "credit": "guest",
+      "billing": 6
+    },
+    "mark-derwin": {
+      "name": "Mark Derwin",
+      "tmdb": 59259,
+      "imdb": "nm0220711",
+      "wikidata": "Q540659",
+      "credit": "guest",
+      "billing": 7
+    },
+    "mckinley-freeman": {
+      "name": "McKinley Freeman",
+      "tmdb": 200483,
+      "imdb": "nm1859988",
+      "wikidata": "Q19629690",
+      "credit": "guest",
+      "billing": 8
+    },
+    "cherami-leigh": {
+      "name": "Cherami Leigh",
+      "tmdb": 83272,
+      "imdb": "nm0473873",
+      "wikidata": "Q138188",
+      "credit": "guest",
+      "billing": 9
+    },
+    "mckayla-maroney": {
+      "name": "McKayla Maroney",
+      "tmdb": 1781826,
+      "imdb": "nm5182715",
+      "wikidata": "Q241847",
+      "credit": "guest",
+      "billing": 10
+    },
+    "laura-niemi": {
+      "name": "Laura Niemi",
+      "tmdb": 202660,
+      "imdb": "nm0631146",
+      "wikidata": "Q122443612",
+      "credit": "guest",
+      "billing": 11
+    },
+    "bonnie-root": {
+      "name": "Bonnie Root",
+      "tmdb": 94516,
+      "imdb": "nm0740505",
+      "wikidata": "Q4942437",
+      "credit": "guest",
+      "billing": 12
+    },
+    "j-michael-trautmann": {
+      "name": "J. Michael Trautmann",
+      "tmdb": 1327853,
+      "imdb": "nm1920618",
+      "wikidata": "Q100979590",
+      "credit": "guest",
+      "billing": 13
+    },
+    "nancy-stone": {
+      "name": "Nancy Stone",
+      "tmdb": 91215,
+      "imdb": "nm1034435",
+      "credit": "guest",
+      "billing": 14
+    },
+    "richard-schiff": {
+      "name": "Richard Schiff",
+      "tmdb": 31028,
+      "imdb": "nm0771493",
+      "wikidata": "Q355209",
+      "credit": "guest",
+      "billing": 15
+    },
+    "morgan-obenreder": {
+      "name": "Morgan Obenreder",
+      "tmdb": 1432323,
+      "imdb": "nm4526291",
+      "wikidata": "Q62711745",
+      "credit": "guest",
+      "billing": 16
+    },
+    "brandee-steger": {
+      "name": "Brandee Steger",
+      "tmdb": 1447050,
+      "imdb": "nm1632930",
+      "wikidata": "Q43303802",
+      "credit": "guest",
+      "billing": 17
+    },
+    "kevin-stidham": {
+      "name": "Kevin Stidham",
+      "tmdb": 1297732,
+      "credit": "guest",
+      "billing": 18
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 19
+    }
+  },
   "segments": [
     {
       "from": "00:03:48.410",

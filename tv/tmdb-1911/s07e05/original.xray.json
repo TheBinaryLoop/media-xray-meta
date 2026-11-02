@@ -23,6 +23,134 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "joel-david-moore": {
+      "name": "Joel David Moore",
+      "tmdb": 59231,
+      "imdb": "nm0601376",
+      "wikidata": "Q371786",
+      "credit": "guest",
+      "billing": 6
+    },
+    "charlie-weber": {
+      "name": "Charlie Weber",
+      "tmdb": 147404,
+      "imdb": "nm0916518",
+      "wikidata": "Q2960889",
+      "credit": "guest",
+      "billing": 7
+    },
+    "billy-gibbons": {
+      "name": "Billy Gibbons",
+      "tmdb": 105630,
+      "imdb": "nm0316531",
+      "wikidata": "Q369898",
+      "credit": "guest",
+      "billing": 8
+    },
+    "samantha-shelton": {
+      "name": "Samantha Shelton",
+      "tmdb": 27268,
+      "imdb": "nm1009568",
+      "wikidata": "Q6958097",
+      "credit": "guest",
+      "billing": 9
+    },
+    "samantha-quan": {
+      "name": "Samantha Quan",
+      "tmdb": 168846,
+      "imdb": "nm1013476",
+      "wikidata": "Q131914680",
+      "credit": "guest",
+      "billing": 10
+    },
+    "jon-curry": {
+      "name": "Jon Curry",
+      "tmdb": 169676,
+      "imdb": "nm0193088",
+      "wikidata": "Q22954384",
+      "credit": "guest",
+      "billing": 11
+    },
+    "kylie-sparks": {
+      "name": "Kylie Sparks",
+      "tmdb": 1039979,
+      "imdb": "nm1430210",
+      "wikidata": "Q6451641",
+      "credit": "guest",
+      "billing": 12
+    },
+    "emily-wilson": {
+      "name": "Emily Wilson",
+      "tmdb": 1183675,
+      "imdb": "nm2578291",
+      "wikidata": "Q5372430",
+      "credit": "guest",
+      "billing": 13
+    },
+    "joshua-dov": {
+      "name": "Joshua Dov",
+      "tmdb": 1405576,
+      "imdb": "nm0235509",
+      "credit": "guest",
+      "billing": 14
+    },
+    "theresa-june-tao": {
+      "name": "Theresa June-Tao",
+      "tmdb": 1018580,
+      "imdb": "nm2808744",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:06:42.264",

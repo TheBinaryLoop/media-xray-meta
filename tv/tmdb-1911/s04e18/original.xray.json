@@ -23,6 +23,172 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "dana-davis": {
+      "name": "Dana Davis",
+      "tmdb": 39556,
+      "imdb": "nm1048128",
+      "wikidata": "Q236303",
+      "credit": "guest",
+      "billing": 7
+    },
+    "chad-lowe": {
+      "name": "Chad Lowe",
+      "tmdb": 21549,
+      "imdb": "nm0005165",
+      "wikidata": "Q714661",
+      "credit": "guest",
+      "billing": 8
+    },
+    "linda-purl": {
+      "name": "Linda Purl",
+      "tmdb": 41223,
+      "imdb": "nm0700909",
+      "wikidata": "Q275619",
+      "credit": "guest",
+      "billing": 9
+    },
+    "christopher-neiman": {
+      "name": "Christopher Neiman",
+      "tmdb": 1219502,
+      "imdb": "nm0624842",
+      "wikidata": "Q23037799",
+      "credit": "guest",
+      "billing": 10
+    },
+    "pamela-dunlap": {
+      "name": "Pamela Dunlap",
+      "tmdb": 154625,
+      "imdb": "nm0242405",
+      "wikidata": "Q6059283",
+      "credit": "guest",
+      "billing": 11
+    },
+    "rebecca-wisocky": {
+      "name": "Rebecca Wisocky",
+      "tmdb": 60632,
+      "imdb": "nm0936607",
+      "wikidata": "Q4129281",
+      "credit": "guest",
+      "billing": 12
+    },
+    "audrey-wasilewski": {
+      "name": "Audrey Wasilewski",
+      "tmdb": 86170,
+      "imdb": "nm0913585",
+      "wikidata": "Q4820188",
+      "credit": "guest",
+      "billing": 13
+    },
+    "joey-adams": {
+      "name": "Joey Adams",
+      "tmdb": 1366537,
+      "imdb": "nm4317428",
+      "credit": "guest",
+      "billing": 14
+    },
+    "marston-fobbs": {
+      "name": "Marston Fobbs",
+      "tmdb": 2272983,
+      "imdb": "nm2800013",
+      "credit": "guest",
+      "billing": 15
+    },
+    "tangelia-rouse": {
+      "name": "Tangelia Rouse",
+      "tmdb": 1489190,
+      "imdb": "nm0745873",
+      "credit": "guest",
+      "billing": 16
+    },
+    "darcy-donavan": {
+      "name": "Darcy Donavan",
+      "tmdb": 55709,
+      "imdb": "nm1261965",
+      "wikidata": "Q42663690",
+      "credit": "guest",
+      "billing": 17
+    },
+    "david-dustin-kenyon": {
+      "name": "David Dustin Kenyon",
+      "tmdb": 1585672,
+      "imdb": "nm3462377",
+      "credit": "guest",
+      "billing": 18
+    },
+    "aurelia-scheppers": {
+      "name": "Aurelia Scheppers",
+      "tmdb": 1272229,
+      "imdb": "nm2632064",
+      "wikidata": "Q96016095",
+      "credit": "guest",
+      "billing": 19
+    },
+    "candice-coke": {
+      "name": "Candice Coke",
+      "tmdb": 1046202,
+      "imdb": "nm1051245",
+      "wikidata": "Q15790902",
+      "credit": "guest",
+      "billing": 20
+    }
+  },
   "segments": [
     {
       "from": "00:04:35.736",

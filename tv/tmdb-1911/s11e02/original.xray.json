@@ -23,6 +23,128 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 6
+    },
+    "kim-raver": {
+      "name": "Kim Raver",
+      "tmdb": 17836,
+      "imdb": "nm0005339",
+      "wikidata": "Q230495",
+      "credit": "guest",
+      "billing": 7
+    },
+    "josh-casaubon": {
+      "name": "Josh Casaubon",
+      "tmdb": 1232563,
+      "imdb": "nm1410276",
+      "wikidata": "Q6288744",
+      "credit": "guest",
+      "billing": 8
+    },
+    "roger-cross": {
+      "name": "Roger Cross",
+      "tmdb": 25877,
+      "imdb": "nm0003078",
+      "wikidata": "Q1093611",
+      "credit": "guest",
+      "billing": 9
+    },
+    "dan-hildebrand": {
+      "name": "Dan Hildebrand",
+      "tmdb": 117192,
+      "imdb": "nm0383835",
+      "wikidata": "Q5213680",
+      "credit": "guest",
+      "billing": 10
+    },
+    "brad-beyer": {
+      "name": "Brad Beyer",
+      "tmdb": 19227,
+      "imdb": "nm0079894",
+      "wikidata": "Q2528430",
+      "credit": "guest",
+      "billing": 11
+    },
+    "matthew-holmes": {
+      "name": "Matthew Holmes",
+      "tmdb": 223902,
+      "imdb": "nm2120271",
+      "wikidata": "Q6788812",
+      "credit": "guest",
+      "billing": 12
+    },
+    "margaret-newborn": {
+      "name": "Margaret Newborn",
+      "tmdb": 1487350,
+      "imdb": "nm7172606",
+      "wikidata": "Q124022187",
+      "credit": "guest",
+      "billing": 13
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:07:24.992",

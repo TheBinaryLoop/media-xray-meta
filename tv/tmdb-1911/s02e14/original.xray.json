@@ -23,6 +23,189 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 6
+    },
+    "peter-parros": {
+      "name": "Peter Parros",
+      "tmdb": 1218248,
+      "imdb": "nm0663602",
+      "wikidata": "Q128061",
+      "credit": "guest",
+      "billing": 7
+    },
+    "erin-torpey": {
+      "name": "Erin Torpey",
+      "tmdb": 1227947,
+      "imdb": "nm0868280",
+      "wikidata": "Q5389228",
+      "credit": "guest",
+      "billing": 8
+    },
+    "ernie-hudson": {
+      "name": "Ernie Hudson",
+      "tmdb": 8874,
+      "imdb": "nm0001368",
+      "wikidata": "Q471018",
+      "credit": "guest",
+      "billing": 9
+    },
+    "eddie-mcclintock": {
+      "name": "Eddie McClintock",
+      "tmdb": 120679,
+      "imdb": "nm0565858",
+      "wikidata": "Q561676",
+      "credit": "guest",
+      "billing": 10
+    },
+    "meredith-monroe": {
+      "name": "Meredith Monroe",
+      "tmdb": 87934,
+      "imdb": "nm0005243",
+      "wikidata": "Q242629",
+      "credit": "guest",
+      "billing": 11
+    },
+    "reid-scott": {
+      "name": "Reid Scott",
+      "tmdb": 81316,
+      "imdb": "nm1169428",
+      "wikidata": "Q2139900",
+      "credit": "guest",
+      "billing": 12
+    },
+    "jesse-d-goins": {
+      "name": "Jesse D. Goins",
+      "tmdb": 44043,
+      "imdb": "nm0324795",
+      "wikidata": "Q1688147",
+      "credit": "guest",
+      "billing": 13
+    },
+    "james-hiroyuki-liao": {
+      "name": "James Hiroyuki Liao",
+      "tmdb": 58330,
+      "imdb": "nm1620756",
+      "wikidata": "Q8215223",
+      "credit": "guest",
+      "billing": 14
+    },
+    "james-earl": {
+      "name": "James Earl",
+      "tmdb": 59015,
+      "imdb": "nm1913063",
+      "credit": "guest",
+      "billing": 15
+    },
+    "azita-ghanizada": {
+      "name": "Azita Ghanizada",
+      "tmdb": 231558,
+      "imdb": "nm1671257",
+      "wikidata": "Q3631545",
+      "credit": "guest",
+      "billing": 16
+    },
+    "brian-catalano": {
+      "name": "Brian Catalano",
+      "tmdb": 1231513,
+      "imdb": "nm1311890",
+      "wikidata": "Q23938901",
+      "credit": "guest",
+      "billing": 17
+    },
+    "dawn-lyen-gardner": {
+      "name": "Dawn-Lyen Gardner",
+      "tmdb": 1465826,
+      "imdb": "nm0306888",
+      "wikidata": "Q22572517",
+      "credit": "guest",
+      "billing": 18
+    },
+    "marvin-jordan": {
+      "name": "Marvin Jordan",
+      "tmdb": 205362,
+      "imdb": "nm0430096",
+      "wikidata": "Q23751909",
+      "credit": "guest",
+      "billing": 19
+    },
+    "nathan-dean": {
+      "name": "Nathan Dean",
+      "tmdb": 66502,
+      "imdb": "nm1042728",
+      "credit": "guest",
+      "billing": 20
+    },
+    "stephen-fry": {
+      "name": "Stephen Fry",
+      "tmdb": 11275,
+      "imdb": "nm0000410",
+      "wikidata": "Q192912",
+      "credit": "guest",
+      "billing": 21
+    },
+    "tammy-la": {
+      "name": "Tammy La",
+      "tmdb": 3621610,
+      "imdb": "nm2233449",
+      "credit": "guest",
+      "billing": 22
+    }
+  },
   "segments": [
     {
       "from": "00:04:50.724",

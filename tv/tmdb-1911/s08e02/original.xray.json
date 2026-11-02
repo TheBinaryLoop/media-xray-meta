@@ -23,6 +23,142 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "sophina-brown": {
+      "name": "Sophina Brown",
+      "tmdb": 1216169,
+      "imdb": "nm1330166",
+      "wikidata": "Q467492",
+      "credit": "guest",
+      "billing": 6
+    },
+    "tom-gallop": {
+      "name": "Tom Gallop",
+      "tmdb": 27030,
+      "imdb": "nm0303132",
+      "wikidata": "Q9088115",
+      "credit": "guest",
+      "billing": 7
+    },
+    "alexandra-holden": {
+      "name": "Alexandra Holden",
+      "tmdb": 69399,
+      "imdb": "nm0005016",
+      "wikidata": "Q446045",
+      "credit": "guest",
+      "billing": 8
+    },
+    "omar-j-dorsey": {
+      "name": "Omar J. Dorsey",
+      "tmdb": 59844,
+      "imdb": "nm0234174",
+      "wikidata": "Q17517282",
+      "credit": "guest",
+      "billing": 9
+    },
+    "drew-powell": {
+      "name": "Drew Powell",
+      "tmdb": 173995,
+      "imdb": "nm0694100",
+      "wikidata": "Q3039407",
+      "credit": "guest",
+      "billing": 10
+    },
+    "melissa-claire-egan": {
+      "name": "Melissa Claire Egan",
+      "tmdb": 168655,
+      "imdb": "nm1527573",
+      "wikidata": "Q3305108",
+      "credit": "guest",
+      "billing": 11
+    },
+    "richard-wharton": {
+      "name": "Richard Wharton",
+      "tmdb": 87115,
+      "imdb": "nm0923600",
+      "wikidata": "Q7329928",
+      "credit": "guest",
+      "billing": 12
+    },
+    "al-white": {
+      "name": "Al White",
+      "tmdb": 73337,
+      "imdb": "nm0924424",
+      "wikidata": "Q4704962",
+      "credit": "guest",
+      "billing": 13
+    },
+    "ali-louise-hartman": {
+      "name": "Ali Louise Hartman",
+      "tmdb": 1439573,
+      "imdb": "nm5116720",
+      "credit": "guest",
+      "billing": 14
+    },
+    "susanne-allan-hartman": {
+      "name": "Susanne Allan Hartman",
+      "tmdb": 1439572,
+      "imdb": "nm5116773",
+      "credit": "guest",
+      "billing": 15
+    },
+    "luke-kleintank": {
+      "name": "Luke Kleintank",
+      "tmdb": 967781,
+      "imdb": "nm3312554",
+      "wikidata": "Q6702097",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:05:12.089",

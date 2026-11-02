@@ -23,6 +23,135 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 3
+    },
+    "jonathan-adams": {
+      "name": "Jonathan Adams",
+      "tmdb": 13477,
+      "imdb": "nm0011095",
+      "wikidata": "Q983873",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 6
+    },
+    "michelle-hurd": {
+      "name": "Michelle Hurd",
+      "tmdb": 91461,
+      "imdb": "nm0403335",
+      "wikidata": "Q1291441",
+      "credit": "guest",
+      "billing": 7
+    },
+    "giancarlo-esposito": {
+      "name": "Giancarlo Esposito",
+      "tmdb": 4808,
+      "imdb": "nm0002064",
+      "wikidata": "Q726142",
+      "credit": "guest",
+      "billing": 8
+    },
+    "colby-donaldson": {
+      "name": "Colby Donaldson",
+      "tmdb": 164943,
+      "imdb": "nm0232084",
+      "wikidata": "Q5142021",
+      "credit": "guest",
+      "billing": 9
+    },
+    "kevin-rankin": {
+      "name": "Kevin Rankin",
+      "tmdb": 114000,
+      "imdb": "nm0710271",
+      "wikidata": "Q80782",
+      "credit": "guest",
+      "billing": 10
+    },
+    "tom-mccleister": {
+      "name": "Tom McCleister",
+      "tmdb": 154727,
+      "imdb": "nm0565735",
+      "wikidata": "Q7816772",
+      "credit": "guest",
+      "billing": 11
+    },
+    "scott-lawrence": {
+      "name": "Scott Lawrence",
+      "tmdb": 42317,
+      "imdb": "nm0493013",
+      "wikidata": "Q1141130",
+      "credit": "guest",
+      "billing": 12
+    },
+    "victor-togunde": {
+      "name": "Victor Togunde",
+      "tmdb": 1526654,
+      "imdb": "nm0865610",
+      "wikidata": "Q3557605",
+      "credit": "guest",
+      "billing": 13
+    },
+    "judd-trichter": {
+      "name": "Judd Trichter",
+      "tmdb": 154101,
+      "imdb": "nm0872615",
+      "wikidata": "Q20974062",
+      "credit": "guest",
+      "billing": 14
+    },
+    "noel-true": {
+      "name": "Noel True",
+      "tmdb": 1450757,
+      "imdb": "nm1739814",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:03:58.792",

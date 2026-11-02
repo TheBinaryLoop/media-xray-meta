@@ -23,6 +23,135 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "michael-grant-terry": {
+      "name": "Michael Grant Terry",
+      "tmdb": 205984,
+      "imdb": "nm2163204",
+      "wikidata": "Q3308554",
+      "credit": "guest",
+      "billing": 6
+    },
+    "john-billingsley": {
+      "name": "John Billingsley",
+      "tmdb": 21722,
+      "imdb": "nm0082517",
+      "wikidata": "Q453724",
+      "credit": "guest",
+      "billing": 7
+    },
+    "gabriel-tigerman": {
+      "name": "Gabriel Tigerman",
+      "tmdb": 145191,
+      "imdb": "nm1683043",
+      "wikidata": "Q3093984",
+      "credit": "guest",
+      "billing": 8
+    },
+    "sean-gunn": {
+      "name": "Sean Gunn",
+      "tmdb": 51663,
+      "imdb": "nm0348231",
+      "wikidata": "Q431753",
+      "credit": "guest",
+      "billing": 9
+    },
+    "keston-john": {
+      "name": "Keston John",
+      "tmdb": 1152021,
+      "imdb": "nm1929609",
+      "wikidata": "Q109591664",
+      "credit": "guest",
+      "billing": 10
+    },
+    "amy-davidson": {
+      "name": "Amy Davidson",
+      "tmdb": 1214816,
+      "imdb": "nm0203221",
+      "wikidata": "Q242855",
+      "credit": "guest",
+      "billing": 11
+    },
+    "nora-dunn": {
+      "name": "Nora Dunn",
+      "tmdb": 4496,
+      "imdb": "nm0004887",
+      "wikidata": "Q508428",
+      "credit": "guest",
+      "billing": 12
+    },
+    "helen-hong": {
+      "name": "Helen Hong",
+      "tmdb": 1552816,
+      "imdb": "nm1998151",
+      "wikidata": "Q57754117",
+      "credit": "guest",
+      "billing": 13
+    },
+    "amanda-troop": {
+      "name": "Amanda Troop",
+      "tmdb": 1354657,
+      "imdb": "nm1239895",
+      "wikidata": "Q105949974",
+      "credit": "guest",
+      "billing": 14
+    },
+    "bob-brauer": {
+      "name": "Bob Brauer",
+      "tmdb": 1693539,
+      "imdb": "nm7274366",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:06:41.134",

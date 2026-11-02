@@ -23,6 +23,110 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "mackenzie-astin": {
+      "name": "Mackenzie Astin",
+      "tmdb": 60060,
+      "imdb": "nm0040015",
+      "wikidata": "Q2575752",
+      "credit": "guest",
+      "billing": 6
+    },
+    "kenneth-mitchell": {
+      "name": "Kenneth Mitchell",
+      "tmdb": 28868,
+      "imdb": "nm1058987",
+      "wikidata": "Q732763",
+      "credit": "guest",
+      "billing": 7
+    },
+    "laura-kai-chen": {
+      "name": "Laura Kai Chen",
+      "tmdb": 1368802,
+      "imdb": "nm1828312",
+      "credit": "guest",
+      "billing": 8
+    },
+    "lennie-loftin": {
+      "name": "Lennie Loftin",
+      "tmdb": 42200,
+      "imdb": "nm0517448",
+      "wikidata": "Q22575762",
+      "credit": "guest",
+      "billing": 9
+    },
+    "robert-mailhouse": {
+      "name": "Robert Mailhouse",
+      "tmdb": 161897,
+      "imdb": "nm0537567",
+      "wikidata": "Q7347286",
+      "credit": "guest",
+      "billing": 10
+    },
+    "eric-lee-huffman": {
+      "name": "Eric Lee Huffman",
+      "tmdb": 1511950,
+      "imdb": "nm3238133",
+      "credit": "guest",
+      "billing": 11
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 12
+    }
+  },
   "segments": [
     {
       "from": "00:05:00.576",

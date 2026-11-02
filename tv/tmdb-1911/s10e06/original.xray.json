@@ -23,6 +23,146 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "ray-proscia": {
+      "name": "Ray Proscia",
+      "tmdb": 78151,
+      "imdb": "nm0698727",
+      "credit": "guest",
+      "billing": 6
+    },
+    "vera-miao": {
+      "name": "Vera Miao",
+      "tmdb": 992078,
+      "imdb": "nm3399858",
+      "wikidata": "Q137594313",
+      "credit": "guest",
+      "billing": 7
+    },
+    "danny-woodburn": {
+      "name": "Danny Woodburn",
+      "tmdb": 13645,
+      "imdb": "nm0940173",
+      "wikidata": "Q1164810",
+      "credit": "guest",
+      "billing": 8
+    },
+    "leann-lei": {
+      "name": "Leann Lei",
+      "tmdb": 1639354,
+      "imdb": "nm3037208",
+      "credit": "guest",
+      "billing": 9
+    },
+    "francois-chau": {
+      "name": "François Chau",
+      "tmdb": 60851,
+      "imdb": "nm0154236",
+      "wikidata": "Q555559",
+      "credit": "guest",
+      "billing": 10
+    },
+    "brian-poth": {
+      "name": "Brian Poth",
+      "tmdb": 139747,
+      "imdb": "nm0693090",
+      "wikidata": "Q4965065",
+      "credit": "guest",
+      "billing": 11
+    },
+    "scott-ly": {
+      "name": "Scott Ly",
+      "tmdb": 1104321,
+      "imdb": "nm2263679",
+      "wikidata": "Q95879331",
+      "credit": "guest",
+      "billing": 12
+    },
+    "phyllis-logan": {
+      "name": "Phyllis Logan",
+      "tmdb": 127164,
+      "imdb": "nm0517642",
+      "wikidata": "Q117995",
+      "credit": "guest",
+      "billing": 13
+    },
+    "christian-dias": {
+      "name": "Christian Dias",
+      "tmdb": 1517273,
+      "imdb": "nm7381214",
+      "credit": "guest",
+      "billing": 14
+    },
+    "chen-chen-julian": {
+      "name": "Chen Chen Julian",
+      "tmdb": 2150689,
+      "imdb": "nm4584319",
+      "credit": "guest",
+      "billing": 15
+    },
+    "brian-swinehart": {
+      "name": "Brian Swinehart",
+      "tmdb": 1855152,
+      "credit": "guest",
+      "billing": 16
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:03:33.397",

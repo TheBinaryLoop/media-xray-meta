@@ -23,6 +23,142 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 3
+    },
+    "jonathan-adams": {
+      "name": "Jonathan Adams",
+      "tmdb": 13477,
+      "imdb": "nm0011095",
+      "wikidata": "Q983873",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "harry-groener": {
+      "name": "Harry Groener",
+      "tmdb": 35518,
+      "imdb": "nm0342881",
+      "wikidata": "Q566885",
+      "credit": "guest",
+      "billing": 6
+    },
+    "marika-dominczyk": {
+      "name": "Marika Domińczyk",
+      "tmdb": 100867,
+      "imdb": "nm0231437",
+      "wikidata": "Q446104",
+      "credit": "guest",
+      "billing": 7
+    },
+    "penny-marshall": {
+      "name": "Penny Marshall",
+      "tmdb": 14911,
+      "imdb": "nm0001508",
+      "wikidata": "Q237659",
+      "credit": "guest",
+      "billing": 8
+    },
+    "michael-b-silver": {
+      "name": "Michael B. Silver",
+      "tmdb": 12226,
+      "imdb": "nm0006878",
+      "wikidata": "Q3050134",
+      "credit": "guest",
+      "billing": 9
+    },
+    "jann-carl": {
+      "name": "Jann Carl",
+      "tmdb": 75334,
+      "imdb": "nm0137272",
+      "wikidata": "Q3162048",
+      "credit": "guest",
+      "billing": 10
+    },
+    "claire-coffee": {
+      "name": "Claire Coffee",
+      "tmdb": 169041,
+      "imdb": "nm1309643",
+      "wikidata": "Q460843",
+      "credit": "guest",
+      "billing": 11
+    },
+    "natalija-nogulich": {
+      "name": "Natalija Nogulich",
+      "tmdb": 65017,
+      "imdb": "nm0634101",
+      "wikidata": "Q1966135",
+      "credit": "guest",
+      "billing": 12
+    },
+    "mcnally-sagal": {
+      "name": "McNally Sagal",
+      "tmdb": 148632,
+      "imdb": "nm0755968",
+      "wikidata": "Q131933921",
+      "credit": "guest",
+      "billing": 13
+    },
+    "d-j-lockhart-johnson": {
+      "name": "D.J. Lockhart-Johnson",
+      "tmdb": 2160008,
+      "imdb": "nm1300693",
+      "credit": "guest",
+      "billing": 14
+    },
+    "melissa-lee": {
+      "name": "Melissa Lee",
+      "tmdb": 2458955,
+      "imdb": "nm1353902",
+      "credit": "guest",
+      "billing": 15
+    },
+    "adam-grimes": {
+      "name": "Adam Grimes",
+      "tmdb": 145804,
+      "imdb": "nm0342182",
+      "wikidata": "Q4679158",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:05:51.290",

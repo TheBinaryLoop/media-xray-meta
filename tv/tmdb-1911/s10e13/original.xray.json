@@ -23,6 +23,130 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "mario-perez": {
+      "name": "Mario Pérez",
+      "tmdb": 1452087,
+      "imdb": "nm1928456",
+      "credit": "guest",
+      "billing": 6
+    },
+    "chelsea-tavares": {
+      "name": "Chelsea Tavares",
+      "tmdb": 1194672,
+      "imdb": "nm1553945",
+      "wikidata": "Q1069152",
+      "credit": "guest",
+      "billing": 7
+    },
+    "cory-tucker": {
+      "name": "Cory Tucker",
+      "tmdb": 1368011,
+      "imdb": "nm0875832",
+      "credit": "guest",
+      "billing": 8
+    },
+    "jay-brian-winnick": {
+      "name": "Jay Brian Winnick",
+      "tmdb": 1513973,
+      "imdb": "nm2486166",
+      "credit": "guest",
+      "billing": 9
+    },
+    "christopher-carrington": {
+      "name": "Christopher Carrington",
+      "tmdb": 1349498,
+      "imdb": "nm0140554",
+      "credit": "guest",
+      "billing": 10
+    },
+    "eric-phillips": {
+      "name": "Eric Phillips",
+      "tmdb": 2370784,
+      "imdb": "nm0680389",
+      "credit": "guest",
+      "billing": 11
+    },
+    "sam-sarpong": {
+      "name": "Sam Sarpong",
+      "tmdb": 146008,
+      "imdb": "nm0765493",
+      "wikidata": "Q7408117",
+      "credit": "guest",
+      "billing": 12
+    },
+    "gabriel-salvador": {
+      "name": "Gabriel Salvador",
+      "tmdb": 205554,
+      "imdb": "nm0759229",
+      "credit": "guest",
+      "billing": 13
+    },
+    "jason-gray-stanford": {
+      "name": "Jason Gray-Stanford",
+      "tmdb": 6166,
+      "imdb": "nm0337020",
+      "wikidata": "Q918321",
+      "credit": "guest",
+      "billing": 14
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:06:51.049",

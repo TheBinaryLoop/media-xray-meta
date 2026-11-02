@@ -55,6 +55,16 @@
       "items": {
         "$ref": "#/$defs/trivium"
       }
+    },
+    "voices": {
+      "description": "Who speaks each character in this language's dub, keyed by the people keys of the timeline file. Absent for the original language.",
+      "type": "object",
+      "propertyNames": {
+        "$ref": "xray.schema.json#/$defs/slug"
+      },
+      "additionalProperties": {
+        "$ref": "#/$defs/voice"
+      }
     }
   },
   "$defs": {
@@ -116,14 +126,29 @@
       ]
     },
     "trivium": {
-      "description": "A fact about the moment, written in this language in the contributor's own words, with a source.",
+      "description": "A fact about a moment, or about the whole item when from and to are left out, written in this language in the contributor's own words, with a source.",
       "type": "object",
       "allOf": [
         {
-          "$ref": "xray.schema.json#/$defs/span"
+          "$ref": "xray.schema.json#/$defs/provenance"
         },
         {
-          "$ref": "xray.schema.json#/$defs/provenance"
+          "properties": {
+            "from": {
+              "$ref": "xray.schema.json#/$defs/time"
+            },
+            "to": {
+              "$ref": "xray.schema.json#/$defs/time"
+            }
+          },
+          "dependentRequired": {
+            "from": [
+              "to"
+            ],
+            "to": [
+              "from"
+            ]
+          }
         }
       ],
       "required": [
@@ -147,6 +172,46 @@
         },
         "spoiler": {
           "type": "boolean"
+        }
+      }
+    },
+    "voice": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name"
+      ],
+      "anyOf": [
+        {
+          "required": [
+            "wikidata"
+          ]
+        },
+        {
+          "required": [
+            "tmdb"
+          ]
+        },
+        {
+          "required": [
+            "imdb"
+          ]
+        }
+      ],
+      "properties": {
+        "name": {
+          "description": "The voice actor's name. A label for reviewers; consumers resolve the ids.",
+          "type": "string",
+          "minLength": 1
+        },
+        "wikidata": {
+          "$ref": "xray.schema.json#/$defs/wikidata"
+        },
+        "tmdb": {
+          "$ref": "xray.schema.json#/$defs/tmdb"
+        },
+        "imdb": {
+          "$ref": "xray.schema.json#/$defs/imdbName"
         }
       }
     }

@@ -23,6 +23,143 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 3
+    },
+    "jonathan-adams": {
+      "name": "Jonathan Adams",
+      "tmdb": 13477,
+      "imdb": "nm0011095",
+      "wikidata": "Q983873",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "robert-foxworth": {
+      "name": "Robert Foxworth",
+      "tmdb": 2962,
+      "imdb": "nm0289343",
+      "wikidata": "Q2063709",
+      "credit": "guest",
+      "billing": 6
+    },
+    "rodney-rowland": {
+      "name": "Rodney Rowland",
+      "tmdb": 87073,
+      "imdb": "nm0746737",
+      "wikidata": "Q174263",
+      "credit": "guest",
+      "billing": 7
+    },
+    "john-m-jackson": {
+      "name": "John M. Jackson",
+      "tmdb": 116128,
+      "imdb": "nm0413698",
+      "wikidata": "Q1700919",
+      "credit": "guest",
+      "billing": 8
+    },
+    "cullen-douglas": {
+      "name": "Cullen Douglas",
+      "tmdb": 78117,
+      "imdb": "nm0235004",
+      "wikidata": "Q5192989",
+      "credit": "guest",
+      "billing": 9
+    },
+    "lindsey-stoddart": {
+      "name": "Lindsey Stoddart",
+      "tmdb": 93213,
+      "imdb": "nm0831028",
+      "wikidata": "Q23034377",
+      "credit": "guest",
+      "billing": 10
+    },
+    "chris-payne-gilbert": {
+      "name": "Chris Payne Gilbert",
+      "tmdb": 88962,
+      "imdb": "nm0668283",
+      "wikidata": "Q4740993",
+      "credit": "guest",
+      "billing": 11
+    },
+    "david-wells": {
+      "name": "David Wells",
+      "tmdb": 64236,
+      "imdb": "nm0920169",
+      "wikidata": "Q16555505",
+      "credit": "guest",
+      "billing": 12
+    },
+    "fredric-lehne": {
+      "name": "Fredric Lehne",
+      "tmdb": 9632,
+      "imdb": "nm0499791",
+      "wikidata": "Q1364838",
+      "credit": "guest",
+      "billing": 13
+    },
+    "harris-shore": {
+      "name": "Harris Shore",
+      "tmdb": 1586404,
+      "imdb": "nm0794928",
+      "credit": "guest",
+      "billing": 14
+    },
+    "michael-chieffo": {
+      "name": "Michael Chieffo",
+      "tmdb": 112053,
+      "imdb": "nm0157297",
+      "wikidata": "Q24068856",
+      "credit": "guest",
+      "billing": 15
+    },
+    "teddy-lane-jr": {
+      "name": "Teddy Lane Jr.",
+      "tmdb": 1394349,
+      "imdb": "nm0485215",
+      "wikidata": "Q23072518",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:05:57.883",

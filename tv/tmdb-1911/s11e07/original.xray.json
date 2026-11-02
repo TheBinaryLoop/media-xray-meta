@@ -23,6 +23,146 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "gil-darnell": {
+      "name": "Gil Darnell",
+      "tmdb": 195547,
+      "imdb": "nm1534895",
+      "wikidata": "Q64348200",
+      "credit": "guest",
+      "billing": 7
+    },
+    "jay-thomas": {
+      "name": "Jay Thomas",
+      "tmdb": 21105,
+      "imdb": "nm0858988",
+      "wikidata": "Q1684369",
+      "credit": "guest",
+      "billing": 8
+    },
+    "kevin-fonteyne": {
+      "name": "Kevin Fonteyne",
+      "tmdb": 1582312,
+      "imdb": "nm3598758",
+      "credit": "guest",
+      "billing": 9
+    },
+    "zak-henri": {
+      "name": "Zak Henri",
+      "tmdb": 1428394,
+      "imdb": "nm4706267",
+      "wikidata": "Q63349250",
+      "credit": "guest",
+      "billing": 10
+    },
+    "dustin-ingram": {
+      "name": "Dustin Ingram",
+      "tmdb": 206112,
+      "imdb": "nm1450183",
+      "wikidata": "Q66132076",
+      "credit": "guest",
+      "billing": 11
+    },
+    "andrea-bordeaux": {
+      "name": "Andrea Bordeaux",
+      "tmdb": 1106819,
+      "imdb": "nm3235681",
+      "wikidata": "Q56405545",
+      "credit": "guest",
+      "billing": 12
+    },
+    "billy-malone": {
+      "name": "Billy Malone",
+      "tmdb": 1741327,
+      "imdb": "nm3769813",
+      "credit": "guest",
+      "billing": 13
+    },
+    "robert-maschio": {
+      "name": "Robert Maschio",
+      "tmdb": 1216705,
+      "imdb": "nm0556165",
+      "wikidata": "Q1341848",
+      "credit": "guest",
+      "billing": 14
+    },
+    "terrance-christopher-jones": {
+      "name": "Terrance Christopher Jones",
+      "tmdb": 188237,
+      "imdb": "nm1071511",
+      "credit": "guest",
+      "billing": 15
+    },
+    "charles-kim": {
+      "name": "Charles Kim",
+      "tmdb": 1193916,
+      "imdb": "nm1686003",
+      "credit": "guest",
+      "billing": 16
+    },
+    "michael-grandinetti": {
+      "name": "Michael Grandinetti",
+      "tmdb": 2185098,
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:03:53.379",

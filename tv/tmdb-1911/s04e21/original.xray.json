@@ -23,6 +23,132 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "tania-raymonde": {
+      "name": "Tania Raymonde",
+      "tmdb": 38666,
+      "imdb": "nm0713389",
+      "wikidata": "Q232481",
+      "credit": "guest",
+      "billing": 7
+    },
+    "a-j-trauth": {
+      "name": "A.J. Trauth",
+      "tmdb": 52270,
+      "imdb": "nm0871208",
+      "wikidata": "Q1087475",
+      "credit": "guest",
+      "billing": 8
+    },
+    "michael-william-freeman": {
+      "name": "Michael William Freeman",
+      "tmdb": 1416557,
+      "imdb": "nm2508626",
+      "credit": "guest",
+      "billing": 9
+    },
+    "greg-roman": {
+      "name": "Greg Roman",
+      "tmdb": 1451119,
+      "imdb": "nm3192710",
+      "credit": "guest",
+      "billing": 10
+    },
+    "frida-farrell": {
+      "name": "Frida Farrell",
+      "tmdb": 126885,
+      "imdb": "nm1690632",
+      "wikidata": "Q105772427",
+      "credit": "guest",
+      "billing": 11
+    },
+    "thor-knai": {
+      "name": "Thor Knai",
+      "tmdb": 1590291,
+      "imdb": "nm2340558",
+      "wikidata": "Q111129225",
+      "credit": "guest",
+      "billing": 12
+    },
+    "frank-pacheco": {
+      "name": "Frank Pacheco",
+      "tmdb": 995357,
+      "imdb": "nm2124336",
+      "credit": "guest",
+      "billing": 13
+    },
+    "stephen-fry": {
+      "name": "Stephen Fry",
+      "tmdb": 11275,
+      "imdb": "nm0000410",
+      "wikidata": "Q192912",
+      "credit": "guest",
+      "billing": 14
+    },
+    "rebecca-flinn-white": {
+      "name": "Rebecca Flinn-White",
+      "tmdb": 1503148,
+      "imdb": "nm2033646",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:05:11.034",

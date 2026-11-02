@@ -21,5 +21,25 @@
       "to": "00:33:47.203",
       "fingerprint": "AQAAjGyUiNES4kqyCqcyF416ouczNDnOo5nyI_mYIvqFHxWpHJ6SJDna4frhE89GPKjFE01OXORaPA-uLDnypJCHI42zKGCPR8eTM5h-Ca7CLWgqE1-0GeEFLcmLXMkaLnDMiMJ5PCmxw1NSHuc1nNqR5B8RWsIVYls6Ez2ey_A3DTG3HGoYyQGTH9cQUtUwZ5IY9JvgM7hlomkiZcf-I2RzSHoYhMqb40tSXHvwjtiP8EiW44yPK1vwC1uTJwQ5JYpWHGFylP_wKzL2XGgiKUFeJTmaXMKO98FlZMr2QI4UzfiQG9SD-8K_oFfApGKOT4PZI7mUBPlxJWqDKj5sTBlDjcSD5Dki5ahOlQOX4sEtHlO2KccTrUfCZwjPNNiPHw_5wFPiKSLi7AcjM4GWH_qR28bjY3tkPFLwE8flB0-0Hw4THbmTInFz4T6ayUadhA2Oh9vxMAICBAGSGAQIAswBARAADBkAIAHEMGGUUkYYYQmxihgDCFCEYEYIIEApgAADhCBCAEFMCcQIAQIiZ4QwSCBgjCMEKmWQgIBZQAyRBDBCIAAgAUYEEAo4QwABCCgiCKAKGAEEAUJQAgQzAgE"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "eric-millegan": "Zack Addy",
+    "kali-rocha": "Jackie Swanson",
+    "kyle-gallner": "Jeremy Farrell",
+    "lisa-thornhill": "Kristen Mitchell",
+    "grace-caroline-currey": "Haley Farrel",
+    "amanda-carlin": "Donna Farrell",
+    "mary-gordon-murray": "Charlotte Craft",
+    "brent-jennings": "Plant Supervisor",
+    "jason-matthew-smith": "Dave Swanson",
+    "jim-hanna": "Security Guard",
+    "ariel-winter": "Liza",
+    "madison-davenport": "Megan",
+    "jenny-gregg-stewart": "Pageant Contestant"
+  }
 }

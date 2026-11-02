@@ -23,6 +23,173 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "guest",
+      "billing": 6
+    },
+    "ryan-o-neal": {
+      "name": "Ryan O'Neal",
+      "tmdb": 31070,
+      "imdb": "nm0641939",
+      "wikidata": "Q272923",
+      "credit": "guest",
+      "billing": 7
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 8
+    },
+    "leon-russom": {
+      "name": "Leon Russom",
+      "tmdb": 169920,
+      "imdb": "nm0751762",
+      "wikidata": "Q599274",
+      "credit": "guest",
+      "billing": 9
+    },
+    "bess-wohl": {
+      "name": "Bess Wohl",
+      "tmdb": 62762,
+      "imdb": "nm0937384",
+      "wikidata": "Q80812631",
+      "credit": "guest",
+      "billing": 10
+    },
+    "skye-arens": {
+      "name": "Skye Arens",
+      "tmdb": 113903,
+      "imdb": "nm0805033",
+      "credit": "guest",
+      "billing": 11
+    },
+    "ray-abruzzo": {
+      "name": "Ray Abruzzo",
+      "tmdb": 1213027,
+      "imdb": "nm0009410",
+      "wikidata": "Q276618",
+      "credit": "guest",
+      "billing": 12
+    },
+    "james-immekus": {
+      "name": "James Immekus",
+      "tmdb": 181511,
+      "imdb": "nm1851040",
+      "wikidata": "Q16299311",
+      "credit": "guest",
+      "billing": 13
+    },
+    "roxana-brusso": {
+      "name": "Roxana Brusso",
+      "tmdb": 1237610,
+      "imdb": "nm0116749",
+      "wikidata": "Q7372325",
+      "credit": "guest",
+      "billing": 14
+    },
+    "eric-george": {
+      "name": "Eric George",
+      "tmdb": 1228824,
+      "imdb": "nm0313416",
+      "wikidata": "Q48890183",
+      "credit": "guest",
+      "billing": 15
+    },
+    "joe-jefferson": {
+      "name": "Joe Jefferson",
+      "tmdb": 1282775,
+      "imdb": "nm1706637",
+      "credit": "guest",
+      "billing": 16
+    },
+    "grace-junot": {
+      "name": "Grace Junot",
+      "tmdb": 1477896,
+      "imdb": "nm2179201",
+      "wikidata": "Q137177743",
+      "credit": "guest",
+      "billing": 17
+    },
+    "vladimir-kubr": {
+      "name": "Vladimir Kubr",
+      "tmdb": 1209708,
+      "imdb": "nm2655812",
+      "wikidata": "Q23752309",
+      "credit": "guest",
+      "billing": 18
+    },
+    "nathan-dean": {
+      "name": "Nathan Dean",
+      "tmdb": 66502,
+      "imdb": "nm1042728",
+      "credit": "guest",
+      "billing": 19
+    },
+    "loren-dean": {
+      "name": "Loren Dean",
+      "tmdb": 11628,
+      "imdb": "nm0000363",
+      "wikidata": "Q488723",
+      "credit": "guest",
+      "billing": 20
+    }
+  },
   "segments": [
     {
       "from": "00:04:10.305",

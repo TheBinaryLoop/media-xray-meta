@@ -23,6 +23,150 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "nelson-lee": {
+      "name": "Nelson Lee",
+      "tmdb": 109019,
+      "imdb": "nm1116914",
+      "wikidata": "Q465406",
+      "credit": "guest",
+      "billing": 6
+    },
+    "chad-todhunter": {
+      "name": "Chad Todhunter",
+      "tmdb": 1216156,
+      "imdb": "nm0865344",
+      "wikidata": "Q5066367",
+      "credit": "guest",
+      "billing": 7
+    },
+    "bridgett-riley": {
+      "name": "Bridgett Riley",
+      "tmdb": 1227945,
+      "imdb": "nm0726994",
+      "wikidata": "Q11334717",
+      "credit": "guest",
+      "billing": 8
+    },
+    "john-marshall-jones": {
+      "name": "John Marshall Jones",
+      "tmdb": 1194347,
+      "imdb": "nm0428426",
+      "wikidata": "Q786106",
+      "credit": "guest",
+      "billing": 9
+    },
+    "aaron-d-spears": {
+      "name": "Aaron D. Spears",
+      "tmdb": 92932,
+      "imdb": "nm0817340",
+      "wikidata": "Q3334746",
+      "credit": "guest",
+      "billing": 10
+    },
+    "karl-makinen": {
+      "name": "Karl Makinen",
+      "tmdb": 1216158,
+      "imdb": "nm0538625",
+      "wikidata": "Q21282402",
+      "credit": "guest",
+      "billing": 11
+    },
+    "theo-rossi": {
+      "name": "Theo Rossi",
+      "tmdb": 51995,
+      "imdb": "nm0744331",
+      "wikidata": "Q44362",
+      "credit": "guest",
+      "billing": 12
+    },
+    "joe-cortese": {
+      "name": "Joe Cortese",
+      "tmdb": 830,
+      "imdb": "nm0181288",
+      "wikidata": "Q6282277",
+      "credit": "guest",
+      "billing": 13
+    },
+    "shontae-saldana": {
+      "name": "Shontae Saldana",
+      "tmdb": 1857688,
+      "imdb": "nm1987083",
+      "credit": "guest",
+      "billing": 14
+    },
+    "tom-billett": {
+      "name": "Tom Billett",
+      "tmdb": 46932,
+      "imdb": "nm0082405",
+      "credit": "guest",
+      "billing": 15
+    },
+    "troy-brenna": {
+      "name": "Troy Brenna",
+      "tmdb": 65124,
+      "imdb": "nm0107241",
+      "wikidata": "Q7846773",
+      "credit": "guest",
+      "billing": 16
+    },
+    "gary-private": {
+      "name": "Gary Private",
+      "tmdb": 1509855,
+      "imdb": "nm2427285",
+      "wikidata": "Q108124218",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:02:48.534",

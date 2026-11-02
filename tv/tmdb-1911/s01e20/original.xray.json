@@ -23,6 +23,119 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 3
+    },
+    "jonathan-adams": {
+      "name": "Jonathan Adams",
+      "tmdb": 13477,
+      "imdb": "nm0011095",
+      "wikidata": "Q983873",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "alexandra-krosney": {
+      "name": "Alexandra Krosney",
+      "tmdb": 38704,
+      "imdb": "nm1153215",
+      "wikidata": "Q454874",
+      "credit": "guest",
+      "billing": 6
+    },
+    "mark-harelik": {
+      "name": "Mark Harelik",
+      "tmdb": 88949,
+      "imdb": "nm0362862",
+      "wikidata": "Q2447922",
+      "credit": "guest",
+      "billing": 7
+    },
+    "john-m-jackson": {
+      "name": "John M. Jackson",
+      "tmdb": 116128,
+      "imdb": "nm0413698",
+      "wikidata": "Q1700919",
+      "credit": "guest",
+      "billing": 8
+    },
+    "matt-winston": {
+      "name": "Matt Winston",
+      "tmdb": 35521,
+      "imdb": "nm0935616",
+      "wikidata": "Q325814",
+      "credit": "guest",
+      "billing": 9
+    },
+    "paul-keeley": {
+      "name": "Paul Keeley",
+      "tmdb": 1497944,
+      "imdb": "nm0444539",
+      "wikidata": "Q24054374",
+      "credit": "guest",
+      "billing": 10
+    },
+    "sumalee-montano": {
+      "name": "Sumalee Montano",
+      "tmdb": 66655,
+      "imdb": "nm0599019",
+      "wikidata": "Q7636928",
+      "credit": "guest",
+      "billing": 11
+    },
+    "kendra-c-johnson": {
+      "name": "Kendra C. Johnson",
+      "tmdb": 220011,
+      "imdb": "nm1985361",
+      "wikidata": "Q16215862",
+      "credit": "guest",
+      "billing": 12
+    },
+    "kathleen-mary-carthy": {
+      "name": "Kathleen Mary Carthy",
+      "tmdb": 168848,
+      "imdb": "nm1692767",
+      "credit": "guest",
+      "billing": 13
+    }
+  },
   "segments": [
     {
       "from": "00:08:35.676",

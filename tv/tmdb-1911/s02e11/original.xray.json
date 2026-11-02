@@ -23,6 +23,135 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "ryan-o-neal": {
+      "name": "Ryan O'Neal",
+      "tmdb": 31070,
+      "imdb": "nm0641939",
+      "wikidata": "Q272923",
+      "credit": "guest",
+      "billing": 6
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 7
+    },
+    "barbara-williams": {
+      "name": "Barbara Williams",
+      "tmdb": 35340,
+      "imdb": "nm0930062",
+      "wikidata": "Q1844755",
+      "credit": "guest",
+      "billing": 8
+    },
+    "madison-mason": {
+      "name": "Madison Mason",
+      "tmdb": 118756,
+      "imdb": "nm0556831",
+      "wikidata": "Q21282384",
+      "credit": "guest",
+      "billing": 9
+    },
+    "joseph-ruskin": {
+      "name": "Joseph Ruskin",
+      "tmdb": 15998,
+      "imdb": "nm0750826",
+      "wikidata": "Q15483637",
+      "credit": "guest",
+      "billing": 10
+    },
+    "kathy-reichs": {
+      "name": "Kathy Reichs",
+      "tmdb": 1227937,
+      "imdb": "nm1933983",
+      "wikidata": "Q298221",
+      "credit": "guest",
+      "billing": 11
+    },
+    "lou-beatty-jr": {
+      "name": "Lou Beatty Jr.",
+      "tmdb": 168924,
+      "imdb": "nm0064187",
+      "wikidata": "Q23691281",
+      "credit": "guest",
+      "billing": 12
+    },
+    "ryan-cutrona": {
+      "name": "Ryan Cutrona",
+      "tmdb": 93345,
+      "imdb": "nm0193982",
+      "wikidata": "Q7383996",
+      "credit": "guest",
+      "billing": 13
+    },
+    "bryan-cuprill": {
+      "name": "Bryan Cuprill",
+      "tmdb": 1881512,
+      "imdb": "nm1291748",
+      "credit": "guest",
+      "billing": 14
+    },
+    "loren-dean": {
+      "name": "Loren Dean",
+      "tmdb": 11628,
+      "imdb": "nm0000363",
+      "wikidata": "Q488723",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:04:52.912",

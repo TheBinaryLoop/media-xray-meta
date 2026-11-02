@@ -21,5 +21,22 @@
       "to": "00:33:54.288",
       "fingerprint": "AQAAjMkSqokeaEsUXDbeoHmPesejjcETv9BJB-dj5IH348s8nE9wBs1RfDgzI4wLq4UP7YlQDel59AmJfgFi87CmLDgPXYOz5bhxXEQTxtCVAT3yw28RSYmSUKiUuNAu5ElINDd6zE_xcM4RG42GilmgH9ehP06KPBKPeUlwXYODRzou_AmaXjjCQI0Y4UxTlPpGKMqqH3nx6LlwqV7wREdzDhP54soy5EXy47wCa5GOO_nxBx_2E8cj_Oiuo9nxLic6xU_R7DlewReR7AlCPVHwLcLx7cEf3HCP-8NbPEZo5-h1nIFKiSKO8C6uwsePB-eRqolx4VLwlzgPF-oWHl_k4SOeHPl0HK1yCfmF8vBz4cRzwzo--EH1o88BQSxAVBEBEFAEGGIYokQJAIAQjCAEnCBKaGAckIIAJoETAAhBmWHGKQsMEBIAAJBABgAJkBBAECKccQgByYQggAgAEACCAeQQAAICyowhFCDBjCFIEiCMAgQ5AAARChFArBDAISCAAg"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "john-boyd": "James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "patricia-belcher": "Caroline Julian",
+    "kim-raver": "FBI Agent Grace Miller",
+    "josh-casaubon": "Dr. Benjamin Metzger",
+    "roger-cross": "Kevin O'Donnell",
+    "dan-hildebrand": "Nathan Barlow",
+    "brad-beyer": "Pete",
+    "matthew-holmes": "Alex",
+    "margaret-newborn": "Onlooker",
+    "pej-vahdat": "Arastoo Vaziri"
+  }
 }

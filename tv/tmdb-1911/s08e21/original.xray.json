@@ -23,6 +23,162 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "gina-hecht": {
+      "name": "Gina Hecht",
+      "tmdb": 156818,
+      "imdb": "nm0372958",
+      "wikidata": "Q275750",
+      "credit": "guest",
+      "billing": 6
+    },
+    "jason-gerhardt": {
+      "name": "Jason Gerhardt",
+      "tmdb": 1316478,
+      "imdb": "nm2394103",
+      "wikidata": "Q18207094",
+      "credit": "guest",
+      "billing": 7
+    },
+    "allison-scagliotti": {
+      "name": "Allison Scagliotti",
+      "tmdb": 38706,
+      "imdb": "nm1270095",
+      "wikidata": "Q263737",
+      "credit": "guest",
+      "billing": 8
+    },
+    "david-petruzzi": {
+      "name": "David Petruzzi",
+      "tmdb": 205908,
+      "imdb": "nm2256745",
+      "credit": "guest",
+      "billing": 9
+    },
+    "yelyna-de-leon": {
+      "name": "Yelyna De Leon",
+      "tmdb": 84177,
+      "imdb": "nm0209680",
+      "wikidata": "Q120798878",
+      "credit": "guest",
+      "billing": 10
+    },
+    "danielle-harris": {
+      "name": "Danielle Harris",
+      "tmdb": 21320,
+      "imdb": "nm0364583",
+      "wikidata": "Q272944",
+      "credit": "guest",
+      "billing": 11
+    },
+    "kimberly-daugherty": {
+      "name": "Kimberly Daugherty",
+      "tmdb": 1385322,
+      "imdb": "nm2583683",
+      "wikidata": "Q50737078",
+      "credit": "guest",
+      "billing": 12
+    },
+    "susan-feniger": {
+      "name": "Susan Feniger",
+      "tmdb": 1032661,
+      "imdb": "nm0271843",
+      "credit": "guest",
+      "billing": 13
+    },
+    "duncan-bravo": {
+      "name": "Duncan Bravo",
+      "tmdb": 1655583,
+      "imdb": "nm1794660",
+      "wikidata": "Q21486096",
+      "credit": "guest",
+      "billing": 14
+    },
+    "rose-colasanti": {
+      "name": "Rose Colasanti",
+      "tmdb": 1450426,
+      "imdb": "nm1728329",
+      "credit": "guest",
+      "billing": 15
+    },
+    "alfred-adderly": {
+      "name": "Alfred Adderly",
+      "tmdb": 1520069,
+      "imdb": "nm2788779",
+      "credit": "guest",
+      "billing": 16
+    },
+    "ali-louise-hartman": {
+      "name": "Ali Louise Hartman",
+      "tmdb": 1439573,
+      "imdb": "nm5116720",
+      "credit": "guest",
+      "billing": 17
+    },
+    "susanne-allan-hartman": {
+      "name": "Susanne Allan Hartman",
+      "tmdb": 1439572,
+      "imdb": "nm5116773",
+      "credit": "guest",
+      "billing": 18
+    },
+    "luke-kleintank": {
+      "name": "Luke Kleintank",
+      "tmdb": 967781,
+      "imdb": "nm3312554",
+      "wikidata": "Q6702097",
+      "credit": "guest",
+      "billing": 19
+    }
+  },
   "segments": [
     {
       "from": "00:04:15.567",

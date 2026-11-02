@@ -23,6 +23,138 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 3
+    },
+    "jonathan-adams": {
+      "name": "Jonathan Adams",
+      "tmdb": 13477,
+      "imdb": "nm0011095",
+      "wikidata": "Q983873",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "evan-ellingson": {
+      "name": "Evan Ellingson",
+      "tmdb": 181074,
+      "imdb": "nm1019751",
+      "wikidata": "Q769872",
+      "credit": "guest",
+      "billing": 6
+    },
+    "paul-butcher": {
+      "name": "Paul Butcher",
+      "tmdb": 33706,
+      "imdb": "nm0124703",
+      "wikidata": "Q253968",
+      "credit": "guest",
+      "billing": 7
+    },
+    "natacha-roi": {
+      "name": "Natacha Roi",
+      "tmdb": 155131,
+      "imdb": "nm0737636",
+      "credit": "guest",
+      "billing": 8
+    },
+    "michelle-anne-johnson": {
+      "name": "Michelle Anne Johnson",
+      "tmdb": 1331988,
+      "imdb": "nm0425835",
+      "credit": "guest",
+      "billing": 9
+    },
+    "paul-parducci": {
+      "name": "Paul Parducci",
+      "tmdb": 121279,
+      "imdb": "nm0661158",
+      "wikidata": "Q7152880",
+      "credit": "guest",
+      "billing": 10
+    },
+    "kathleen-m-darcy": {
+      "name": "Kathleen M. Darcy",
+      "tmdb": 25555,
+      "imdb": "nm0201049",
+      "wikidata": "Q42413152",
+      "credit": "guest",
+      "billing": 11
+    },
+    "john-sanchez": {
+      "name": "John Sanchez",
+      "tmdb": 1463359,
+      "imdb": "nm0760976",
+      "credit": "guest",
+      "billing": 12
+    },
+    "maximillian-roeg": {
+      "name": "Maximillian Roeg",
+      "tmdb": 130839,
+      "imdb": "nm0736313",
+      "wikidata": "Q1240551",
+      "credit": "guest",
+      "billing": 13
+    },
+    "kirsten-severson": {
+      "name": "Kirsten Severson",
+      "tmdb": 93982,
+      "imdb": "nm0601480",
+      "credit": "guest",
+      "billing": 14
+    },
+    "ryan-churchill": {
+      "name": "Ryan Churchill",
+      "tmdb": 1598065,
+      "imdb": "nm1562053",
+      "credit": "guest",
+      "billing": 15
+    },
+    "tiffany-o-hara": {
+      "name": "Tiffany O'Hara",
+      "tmdb": 4971498,
+      "imdb": "nm2064570",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:04:14.108",

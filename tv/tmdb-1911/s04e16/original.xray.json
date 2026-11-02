@@ -23,6 +23,149 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "janet-varney": {
+      "name": "Janet Varney",
+      "tmdb": 204462,
+      "imdb": "nm1661282",
+      "wikidata": "Q979679",
+      "credit": "guest",
+      "billing": 6
+    },
+    "christine-lakin": {
+      "name": "Christine Lakin",
+      "tmdb": 30882,
+      "imdb": "nm0003115",
+      "wikidata": "Q272176",
+      "credit": "guest",
+      "billing": 7
+    },
+    "sunkrish-bala": {
+      "name": "Sunkrish Bala",
+      "tmdb": 105658,
+      "imdb": "nm1726993",
+      "wikidata": "Q5564587",
+      "credit": "guest",
+      "billing": 8
+    },
+    "zachary-knighton": {
+      "name": "Zachary Knighton",
+      "tmdb": 54834,
+      "imdb": "nm0461149",
+      "wikidata": "Q139610",
+      "credit": "guest",
+      "billing": 9
+    },
+    "stoney-westmoreland": {
+      "name": "Stoney Westmoreland",
+      "tmdb": 19491,
+      "imdb": "nm0922899",
+      "wikidata": "Q111605795",
+      "credit": "guest",
+      "billing": 10
+    },
+    "omid-abtahi": {
+      "name": "Omid Abtahi",
+      "tmdb": 167862,
+      "imdb": "nm1859475",
+      "wikidata": "Q266231",
+      "credit": "guest",
+      "billing": 11
+    },
+    "rich-hutchman": {
+      "name": "Rich Hutchman",
+      "tmdb": 52924,
+      "imdb": "nm0404475",
+      "wikidata": "Q42315911",
+      "credit": "guest",
+      "billing": 12
+    },
+    "michael-adler": {
+      "name": "Michael Adler",
+      "tmdb": 1497322,
+      "imdb": "nm0012209",
+      "credit": "guest",
+      "billing": 13
+    },
+    "jerry-ray-shea": {
+      "name": "Jerry Ray Shea",
+      "tmdb": 85207,
+      "imdb": "nm1770876",
+      "wikidata": "Q3808043",
+      "credit": "guest",
+      "billing": 14
+    },
+    "ren-casey": {
+      "name": "Ren Casey",
+      "tmdb": 1389802,
+      "imdb": "nm2072617",
+      "credit": "guest",
+      "billing": 15
+    },
+    "ryan-t-husk": {
+      "name": "Ryan T. Husk",
+      "tmdb": 1437110,
+      "imdb": "nm3064669",
+      "credit": "guest",
+      "billing": 16
+    },
+    "ryan-cartwright": {
+      "name": "Ryan Cartwright",
+      "tmdb": 76916,
+      "imdb": "nm0142206",
+      "wikidata": "Q3453757",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:03:55.747",

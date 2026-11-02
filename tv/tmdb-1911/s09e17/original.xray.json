@@ -23,6 +23,104 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "dendrie-taylor": {
+      "name": "Dendrie Taylor",
+      "tmdb": 81462,
+      "imdb": "nm0852256",
+      "wikidata": "Q59157466",
+      "credit": "guest",
+      "billing": 6
+    },
+    "kevin-e-west": {
+      "name": "Kevin E. West",
+      "tmdb": 1224186,
+      "imdb": "nm0922184",
+      "wikidata": "Q64978660",
+      "credit": "guest",
+      "billing": 7
+    },
+    "shahine-ezell": {
+      "name": "Shahine Ezell",
+      "tmdb": 2246164,
+      "imdb": "nm2101355",
+      "wikidata": "Q7461784",
+      "credit": "guest",
+      "billing": 8
+    },
+    "chris-coy": {
+      "name": "Chris Coy",
+      "tmdb": 587438,
+      "imdb": "nm2421211",
+      "wikidata": "Q17182322",
+      "credit": "guest",
+      "billing": 9
+    },
+    "adam-dunnells": {
+      "name": "Adam Dunnells",
+      "tmdb": 1488384,
+      "imdb": "nm1944579",
+      "wikidata": "Q26197074",
+      "credit": "guest",
+      "billing": 10
+    },
+    "ignacio-serricchio": {
+      "name": "Ignacio Serricchio",
+      "tmdb": 139868,
+      "imdb": "nm1579445",
+      "wikidata": "Q5992454",
+      "credit": "guest",
+      "billing": 11
+    }
+  },
   "segments": [
     {
       "from": "00:06:21.400",

@@ -23,6 +23,173 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "joel-david-moore": {
+      "name": "Joel David Moore",
+      "tmdb": 59231,
+      "imdb": "nm0601376",
+      "wikidata": "Q371786",
+      "credit": "guest",
+      "billing": 6
+    },
+    "eric-nenninger": {
+      "name": "Eric Nenninger",
+      "tmdb": 69120,
+      "imdb": "nm0626069",
+      "wikidata": "Q952267",
+      "credit": "guest",
+      "billing": 7
+    },
+    "josh-sussman": {
+      "name": "Josh Sussman",
+      "tmdb": 1186623,
+      "imdb": "nm0839933",
+      "wikidata": "Q23403",
+      "credit": "guest",
+      "billing": 8
+    },
+    "david-greenman": {
+      "name": "David Greenman",
+      "tmdb": 1214444,
+      "imdb": "nm1476528",
+      "wikidata": "Q5234374",
+      "credit": "guest",
+      "billing": 9
+    },
+    "oliver-muirhead": {
+      "name": "Oliver Muirhead",
+      "tmdb": 93035,
+      "imdb": "nm0611407",
+      "wikidata": "Q2451520",
+      "credit": "guest",
+      "billing": 10
+    },
+    "tara-buck": {
+      "name": "Tara Buck",
+      "tmdb": 180132,
+      "imdb": "nm0118427",
+      "wikidata": "Q3981017",
+      "credit": "guest",
+      "billing": 11
+    },
+    "betsy-rue": {
+      "name": "Betsy Rue",
+      "tmdb": 76886,
+      "imdb": "nm2175732",
+      "wikidata": "Q458582",
+      "credit": "guest",
+      "billing": 12
+    },
+    "marisa-coughlan": {
+      "name": "Marisa Coughlan",
+      "tmdb": 56595,
+      "imdb": "nm0004846",
+      "wikidata": "Q135903",
+      "credit": "guest",
+      "billing": 13
+    },
+    "charles-rahi-chun": {
+      "name": "Charles Rahi Chun",
+      "tmdb": 62833,
+      "imdb": "nm0161130",
+      "wikidata": "Q1392126",
+      "credit": "guest",
+      "billing": 14
+    },
+    "poetri": {
+      "name": "Poetri",
+      "tmdb": 2333660,
+      "imdb": "nm2045293",
+      "wikidata": "Q123553657",
+      "credit": "guest",
+      "billing": 15
+    },
+    "charlie-stewart": {
+      "name": "Charlie Stewart",
+      "tmdb": 1223713,
+      "imdb": "nm0992306",
+      "wikidata": "Q549839",
+      "credit": "guest",
+      "billing": 16
+    },
+    "austin-rogers": {
+      "name": "Austin Rogers",
+      "tmdb": 137168,
+      "imdb": "nm1659172",
+      "wikidata": "Q4823267",
+      "credit": "guest",
+      "billing": 17
+    },
+    "jon-collins": {
+      "name": "Jon Collins",
+      "tmdb": 188286,
+      "imdb": "nm0172416",
+      "credit": "guest",
+      "billing": 18
+    },
+    "carlon-jeffery": {
+      "name": "Carlon Jeffery",
+      "tmdb": 441936,
+      "imdb": "nm2455748",
+      "wikidata": "Q1189654",
+      "credit": "guest",
+      "billing": 19
+    },
+    "ezra-kemp": {
+      "name": "Ezra Kemp",
+      "tmdb": 1562477,
+      "credit": "guest",
+      "billing": 20
+    }
+  },
   "segments": [
     {
       "from": "00:06:20.967",

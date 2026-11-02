@@ -23,6 +23,112 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "joel-david-moore": {
+      "name": "Joel David Moore",
+      "tmdb": 59231,
+      "imdb": "nm0601376",
+      "wikidata": "Q371786",
+      "credit": "guest",
+      "billing": 6
+    },
+    "scoot-mcnairy": {
+      "name": "Scoot McNairy",
+      "tmdb": 59233,
+      "imdb": "nm1058940",
+      "wikidata": "Q566037",
+      "credit": "guest",
+      "billing": 7
+    },
+    "kyle-davis": {
+      "name": "Kyle Davis",
+      "tmdb": 54850,
+      "imdb": "nm1049386",
+      "wikidata": "Q6451119",
+      "credit": "guest",
+      "billing": 8
+    },
+    "eddie-hassell": {
+      "name": "Eddie Hassell",
+      "tmdb": 170333,
+      "imdb": "nm1721196",
+      "wikidata": "Q1282811",
+      "credit": "guest",
+      "billing": 9
+    },
+    "elizabeth-ho": {
+      "name": "Elizabeth Ho",
+      "tmdb": 1224148,
+      "imdb": "nm2584423",
+      "wikidata": "Q3051228",
+      "credit": "guest",
+      "billing": 10
+    },
+    "judy-kain": {
+      "name": "Judy Kain",
+      "tmdb": 162621,
+      "imdb": "nm0435071",
+      "wikidata": "Q23058223",
+      "credit": "guest",
+      "billing": 11
+    },
+    "katheryn-winnick": {
+      "name": "Katheryn Winnick",
+      "tmdb": 26723,
+      "imdb": "nm0935395",
+      "wikidata": "Q268298",
+      "credit": "guest",
+      "billing": 12
+    }
+  },
   "segments": [
     {
       "from": "00:05:21.650",

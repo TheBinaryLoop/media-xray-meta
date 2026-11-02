@@ -23,6 +23,133 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "joel-david-moore": {
+      "name": "Joel David Moore",
+      "tmdb": 59231,
+      "imdb": "nm0601376",
+      "wikidata": "Q371786",
+      "credit": "guest",
+      "billing": 6
+    },
+    "galadriel-stineman": {
+      "name": "Galadriel Stineman",
+      "tmdb": 134396,
+      "imdb": "nm3004687",
+      "wikidata": "Q10288028",
+      "credit": "guest",
+      "billing": 7
+    },
+    "james-patrick-stuart": {
+      "name": "James Patrick Stuart",
+      "tmdb": 105641,
+      "imdb": "nm0835722",
+      "wikidata": "Q331717",
+      "credit": "guest",
+      "billing": 8
+    },
+    "abraham-benrubi": {
+      "name": "Abraham Benrubi",
+      "tmdb": 21132,
+      "imdb": "nm0072344",
+      "wikidata": "Q329767",
+      "credit": "guest",
+      "billing": 9
+    },
+    "leif-gantvoort": {
+      "name": "Leif Gantvoort",
+      "tmdb": 1111328,
+      "imdb": "nm0304599",
+      "wikidata": "Q24953981",
+      "credit": "guest",
+      "billing": 10
+    },
+    "gualtiero-negrini": {
+      "name": "Gualtiero Negrini",
+      "tmdb": 1365583,
+      "imdb": "nm3261816",
+      "wikidata": "Q5613402",
+      "credit": "guest",
+      "billing": 11
+    },
+    "brandon-fobbs": {
+      "name": "Brandon Fobbs",
+      "tmdb": 1215684,
+      "imdb": "nm1733517",
+      "wikidata": "Q4956851",
+      "credit": "guest",
+      "billing": 12
+    },
+    "kathryn-wahl": {
+      "name": "Kathryn Wahl",
+      "tmdb": 1365584,
+      "imdb": "nm4113519",
+      "credit": "guest",
+      "billing": 13
+    },
+    "ali-louise-hartman": {
+      "name": "Ali Louise Hartman",
+      "tmdb": 1439573,
+      "imdb": "nm5116720",
+      "credit": "guest",
+      "billing": 14
+    },
+    "susanne-allan-hartman": {
+      "name": "Susanne Allan Hartman",
+      "tmdb": 1439572,
+      "imdb": "nm5116773",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:04:39.710",

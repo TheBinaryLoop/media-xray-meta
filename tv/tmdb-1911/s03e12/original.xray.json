@@ -23,6 +23,147 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "austin-o-brien": {
+      "name": "Austin O'Brien",
+      "tmdb": 58119,
+      "imdb": "nm0639432",
+      "wikidata": "Q781151",
+      "credit": "guest",
+      "billing": 6
+    },
+    "cameron-dye": {
+      "name": "Cameron Dye",
+      "tmdb": 106696,
+      "imdb": "nm0245650",
+      "wikidata": "Q2934764",
+      "credit": "guest",
+      "billing": 7
+    },
+    "thomas-f-wilson": {
+      "name": "Thomas F. Wilson",
+      "tmdb": 1065,
+      "imdb": "nm0001855",
+      "wikidata": "Q360663",
+      "credit": "guest",
+      "billing": 8
+    },
+    "becky-wahlstrom": {
+      "name": "Becky Wahlstrom",
+      "tmdb": 1215392,
+      "imdb": "nm0906345",
+      "wikidata": "Q3637397",
+      "credit": "guest",
+      "billing": 9
+    },
+    "james-lashly": {
+      "name": "James Lashly",
+      "tmdb": 69502,
+      "imdb": "nm0489570",
+      "wikidata": "Q24052825",
+      "credit": "guest",
+      "billing": 10
+    },
+    "sheila-shaw": {
+      "name": "Sheila Shaw",
+      "tmdb": 31529,
+      "imdb": "nm0789972",
+      "credit": "guest",
+      "billing": 11
+    },
+    "james-c-victor": {
+      "name": "James C. Victor",
+      "tmdb": 156955,
+      "imdb": "nm0896117",
+      "wikidata": "Q2194188",
+      "credit": "guest",
+      "billing": 12
+    },
+    "steve-seagren": {
+      "name": "Steve Seagren",
+      "tmdb": 97468,
+      "imdb": "nm0780482",
+      "credit": "guest",
+      "billing": 13
+    },
+    "frank-clem": {
+      "name": "Frank Clem",
+      "tmdb": 1563216,
+      "imdb": "nm0165999",
+      "credit": "guest",
+      "billing": 14
+    },
+    "ronald-william-lawrence": {
+      "name": "Ronald William Lawrence",
+      "tmdb": 1217903,
+      "imdb": "nm0493003",
+      "credit": "guest",
+      "billing": 15
+    },
+    "nathan-dean": {
+      "name": "Nathan Dean",
+      "tmdb": 66502,
+      "imdb": "nm1042728",
+      "credit": "guest",
+      "billing": 16
+    },
+    "clement-blake": {
+      "name": "Clement Blake",
+      "tmdb": 54694,
+      "imdb": "nm0086515",
+      "wikidata": "Q106215522",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:04:43.345",

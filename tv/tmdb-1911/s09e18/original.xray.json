@@ -23,6 +23,154 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "ryan-o-neal": {
+      "name": "Ryan O'Neal",
+      "tmdb": 31070,
+      "imdb": "nm0641939",
+      "wikidata": "Q272923",
+      "credit": "guest",
+      "billing": 6
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 7
+    },
+    "kellee-stewart": {
+      "name": "Kellee Stewart",
+      "tmdb": 70776,
+      "imdb": "nm1285540",
+      "wikidata": "Q6385651",
+      "credit": "guest",
+      "billing": 8
+    },
+    "jonathan-chase": {
+      "name": "Jonathan Chase",
+      "tmdb": 77262,
+      "imdb": "nm1170394",
+      "wikidata": "Q1922776",
+      "credit": "guest",
+      "billing": 9
+    },
+    "noah-weisberg": {
+      "name": "Noah Weisberg",
+      "tmdb": 1087010,
+      "imdb": "nm1798631",
+      "credit": "guest",
+      "billing": 10
+    },
+    "david-starzyk": {
+      "name": "David Starzyk",
+      "tmdb": 39465,
+      "imdb": "nm0823675",
+      "wikidata": "Q5240038",
+      "credit": "guest",
+      "billing": 11
+    },
+    "elizabeth-roberts": {
+      "name": "Elizabeth Roberts",
+      "tmdb": 130608,
+      "imdb": "nm0731068",
+      "credit": "guest",
+      "billing": 12
+    },
+    "scott-mosenson": {
+      "name": "Scott Mosenson",
+      "tmdb": 51956,
+      "imdb": "nm0608457",
+      "credit": "guest",
+      "billing": 13
+    },
+    "doug-locke": {
+      "name": "Doug Locke",
+      "tmdb": 1930570,
+      "imdb": "nm2335883",
+      "wikidata": "Q24852422",
+      "credit": "guest",
+      "billing": 14
+    },
+    "keeshan-giles": {
+      "name": "Keeshan Giles",
+      "tmdb": 2414985,
+      "imdb": "nm1784439",
+      "credit": "guest",
+      "billing": 15
+    },
+    "tanner-anderson": {
+      "name": "Tanner Anderson",
+      "tmdb": 2556887,
+      "imdb": "nm5076025",
+      "credit": "guest",
+      "billing": 16
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 17
+    },
+    "liam-james-ramos": {
+      "name": "Liam James Ramos",
+      "tmdb": 1836441,
+      "imdb": "nm6729487",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:05:42.718",

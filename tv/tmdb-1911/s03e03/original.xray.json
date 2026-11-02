@@ -23,6 +23,128 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "michael-cudlitz": {
+      "name": "Michael Cudlitz",
+      "tmdb": 52415,
+      "imdb": "nm0191044",
+      "wikidata": "Q930937",
+      "credit": "guest",
+      "billing": 6
+    },
+    "miles-heizer": {
+      "name": "Miles Heizer",
+      "tmdb": 148096,
+      "imdb": "nm1851028",
+      "wikidata": "Q3314078",
+      "credit": "guest",
+      "billing": 7
+    },
+    "anne-marie-johnson": {
+      "name": "Anne-Marie Johnson",
+      "tmdb": 82340,
+      "imdb": "nm0424509",
+      "wikidata": "Q436422",
+      "credit": "guest",
+      "billing": 8
+    },
+    "christina-cox": {
+      "name": "Christina Cox",
+      "tmdb": 28110,
+      "imdb": "nm0184965",
+      "wikidata": "Q435368",
+      "credit": "guest",
+      "billing": 9
+    },
+    "bess-meyer": {
+      "name": "Bess Meyer",
+      "tmdb": 109899,
+      "imdb": "nm0583033",
+      "wikidata": "Q4289039",
+      "credit": "guest",
+      "billing": 10
+    },
+    "rik-young": {
+      "name": "Rik Young",
+      "tmdb": 42217,
+      "imdb": "nm0949996",
+      "wikidata": "Q60330206",
+      "credit": "guest",
+      "billing": 11
+    },
+    "jay-jablonski": {
+      "name": "Jay Jablonski",
+      "tmdb": 63110,
+      "imdb": "nm1579091",
+      "wikidata": "Q11723507",
+      "credit": "guest",
+      "billing": 12
+    },
+    "bashir-salahuddin": {
+      "name": "Bashir Salahuddin",
+      "tmdb": 1241330,
+      "imdb": "nm1506981",
+      "wikidata": "Q32947229",
+      "credit": "guest",
+      "billing": 13
+    },
+    "ashanna-bri": {
+      "name": "Ashanna Bri",
+      "tmdb": 1796552,
+      "imdb": "nm4030071",
+      "wikidata": "Q112960480",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:04:23.236",

@@ -23,6 +23,127 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "michael-paul-chan": {
+      "name": "Michael Paul Chan",
+      "tmdb": 17355,
+      "imdb": "nm0151033",
+      "wikidata": "Q1387756",
+      "credit": "guest",
+      "billing": 6
+    },
+    "deborah-theaker": {
+      "name": "Deborah Theaker",
+      "tmdb": 167212,
+      "imdb": "nm0857275",
+      "wikidata": "Q526201",
+      "credit": "guest",
+      "billing": 7
+    },
+    "eric-stonestreet": {
+      "name": "Eric Stonestreet",
+      "tmdb": 156962,
+      "imdb": "nm0832314",
+      "wikidata": "Q508043",
+      "credit": "guest",
+      "billing": 8
+    },
+    "eddie-mcclintock": {
+      "name": "Eddie McClintock",
+      "tmdb": 120679,
+      "imdb": "nm0565858",
+      "wikidata": "Q561676",
+      "credit": "guest",
+      "billing": 9
+    },
+    "james-hong": {
+      "name": "James Hong",
+      "tmdb": 20904,
+      "imdb": "nm0393222",
+      "wikidata": "Q358990",
+      "credit": "guest",
+      "billing": 10
+    },
+    "lucille-soong": {
+      "name": "Lucille Soong",
+      "tmdb": 112288,
+      "imdb": "nm0814586",
+      "wikidata": "Q3265830",
+      "credit": "guest",
+      "billing": 11
+    },
+    "john-paul-pitoc": {
+      "name": "John Paul Pitoc",
+      "tmdb": 19226,
+      "imdb": "nm0685755",
+      "wikidata": "Q3445508",
+      "credit": "guest",
+      "billing": 12
+    },
+    "alice-lo": {
+      "name": "Alice Lo",
+      "tmdb": 61116,
+      "imdb": "nm0516279",
+      "credit": "guest",
+      "billing": 13
+    },
+    "leonard-wu": {
+      "name": "Leonard Wu",
+      "tmdb": 1325691,
+      "imdb": "nm1422236",
+      "wikidata": "Q63286008",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:04:02.328",

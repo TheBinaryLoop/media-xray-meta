@@ -23,6 +23,120 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 3
+    },
+    "jonathan-adams": {
+      "name": "Jonathan Adams",
+      "tmdb": 13477,
+      "imdb": "nm0011095",
+      "wikidata": "Q983873",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "david-denman": {
+      "name": "David Denman",
+      "tmdb": 62562,
+      "imdb": "nm0219292",
+      "wikidata": "Q64560",
+      "credit": "guest",
+      "billing": 6
+    },
+    "glenn-plummer": {
+      "name": "Glenn Plummer",
+      "tmdb": 2683,
+      "imdb": "nm0687625",
+      "wikidata": "Q594738",
+      "credit": "guest",
+      "billing": 7
+    },
+    "mary-mara": {
+      "name": "Mary Mara",
+      "tmdb": 96554,
+      "imdb": "nm0544721",
+      "wikidata": "Q536235",
+      "credit": "guest",
+      "billing": 8
+    },
+    "ryan-alosio": {
+      "name": "Ryan Alosio",
+      "tmdb": 39170,
+      "imdb": "nm0022323",
+      "wikidata": "Q7383833",
+      "credit": "guest",
+      "billing": 9
+    },
+    "brian-gross": {
+      "name": "Brian Gross",
+      "tmdb": 149441,
+      "imdb": "nm0343336",
+      "wikidata": "Q4963898",
+      "credit": "guest",
+      "billing": 10
+    },
+    "keith-pillow": {
+      "name": "Keith Pillow",
+      "tmdb": 1519576,
+      "imdb": "nm1377241",
+      "wikidata": "Q23053942",
+      "credit": "guest",
+      "billing": 11
+    },
+    "fay-wolf": {
+      "name": "Fay Wolf",
+      "tmdb": 166854,
+      "imdb": "nm0937744",
+      "wikidata": "Q5438944",
+      "credit": "guest",
+      "billing": 12
+    },
+    "matt-huhn": {
+      "name": "Matt Huhn",
+      "tmdb": 173794,
+      "imdb": "nm1235256",
+      "wikidata": "Q23938910",
+      "credit": "guest",
+      "billing": 13
+    }
+  },
   "segments": [
     {
       "from": "00:02:31.681",

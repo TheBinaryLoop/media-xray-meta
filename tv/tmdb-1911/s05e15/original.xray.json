@@ -23,6 +23,124 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 6
+    },
+    "page-kennedy": {
+      "name": "Page Kennedy",
+      "tmdb": 177214,
+      "imdb": "nm1191866",
+      "wikidata": "Q960554",
+      "credit": "guest",
+      "billing": 7
+    },
+    "clea-duvall": {
+      "name": "Clea DuVall",
+      "tmdb": 20387,
+      "imdb": "nm0245112",
+      "wikidata": "Q233347",
+      "credit": "guest",
+      "billing": 8
+    },
+    "james-madio": {
+      "name": "James Madio",
+      "tmdb": 65395,
+      "imdb": "nm0534944",
+      "wikidata": "Q2915061",
+      "credit": "guest",
+      "billing": 9
+    },
+    "michael-trotter": {
+      "name": "Michael Trotter",
+      "tmdb": 963845,
+      "imdb": "nm2043171",
+      "credit": "guest",
+      "billing": 10
+    },
+    "stephanie-childers": {
+      "name": "Stephanie Childers",
+      "tmdb": 183813,
+      "imdb": "nm1408840",
+      "credit": "guest",
+      "billing": 11
+    },
+    "wyatt-fenner": {
+      "name": "Wyatt Fenner",
+      "tmdb": 124843,
+      "imdb": "nm2476978",
+      "credit": "guest",
+      "billing": 12
+    },
+    "seiko-matsuda": {
+      "name": "Seiko Matsuda",
+      "tmdb": 120528,
+      "imdb": "nm0559433",
+      "wikidata": "Q284007",
+      "credit": "guest",
+      "billing": 13
+    },
+    "denise-vasquez": {
+      "name": "Denise Vasquez",
+      "tmdb": 1465859,
+      "imdb": "nm3499195",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:04:45.818",

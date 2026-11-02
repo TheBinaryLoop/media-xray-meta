@@ -23,6 +23,148 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 6
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 7
+    },
+    "rizwan-manji": {
+      "name": "Rizwan Manji",
+      "tmdb": 1223718,
+      "imdb": "nm0542492",
+      "wikidata": "Q7339134",
+      "credit": "guest",
+      "billing": 8
+    },
+    "jen-drohan": {
+      "name": "Jen Drohan",
+      "tmdb": 2448225,
+      "imdb": "nm1887008",
+      "wikidata": "Q16728666",
+      "credit": "guest",
+      "billing": 9
+    },
+    "alyson-reed": {
+      "name": "Alyson Reed",
+      "tmdb": 19262,
+      "imdb": "nm0715295",
+      "wikidata": "Q234560",
+      "credit": "guest",
+      "billing": 10
+    },
+    "john-posey": {
+      "name": "John Posey",
+      "tmdb": 44060,
+      "imdb": "nm0692663",
+      "wikidata": "Q21155088",
+      "credit": "guest",
+      "billing": 11
+    },
+    "jodi-harris": {
+      "name": "Jodi Harris",
+      "tmdb": 1354806,
+      "imdb": "nm0364864",
+      "credit": "guest",
+      "billing": 12
+    },
+    "kenny-ridwan": {
+      "name": "Kenny Ridwan",
+      "tmdb": 1308626,
+      "imdb": "nm5076965",
+      "wikidata": "Q27048857",
+      "credit": "guest",
+      "billing": 13
+    },
+    "donna-pieroni": {
+      "name": "Donna Pieroni",
+      "tmdb": 181154,
+      "imdb": "nm0682583",
+      "credit": "guest",
+      "billing": 14
+    },
+    "paul-zies": {
+      "name": "Paul Zies",
+      "tmdb": 970427,
+      "imdb": "nm1770369",
+      "credit": "guest",
+      "billing": 15
+    },
+    "lesley-aletter": {
+      "name": "Lesley Aletter",
+      "tmdb": 1691207,
+      "imdb": "nm0018176",
+      "credit": "guest",
+      "billing": 16
+    },
+    "brian-klugman": {
+      "name": "Brian Klugman",
+      "tmdb": 51996,
+      "imdb": "nm0460206",
+      "wikidata": "Q1631627",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:04:52.355",

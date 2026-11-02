@@ -23,6 +23,148 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "diedrich-bader": {
+      "name": "Diedrich Bader",
+      "tmdb": 5727,
+      "imdb": "nm0046033",
+      "wikidata": "Q449947",
+      "credit": "guest",
+      "billing": 7
+    },
+    "myndy-crist": {
+      "name": "Myndy Crist",
+      "tmdb": 156875,
+      "imdb": "nm0188041",
+      "wikidata": "Q3500694",
+      "credit": "guest",
+      "billing": 8
+    },
+    "tembi-locke": {
+      "name": "Tembi Locke",
+      "tmdb": 51699,
+      "imdb": "nm0516806",
+      "wikidata": "Q2063256",
+      "credit": "guest",
+      "billing": 9
+    },
+    "toby-meuli": {
+      "name": "Toby Meuli",
+      "tmdb": 135853,
+      "imdb": "nm1114723",
+      "credit": "guest",
+      "billing": 10
+    },
+    "stephen-monroe-taylor": {
+      "name": "Stephen Monroe Taylor",
+      "tmdb": 1465852,
+      "imdb": "nm1453696",
+      "wikidata": "Q1688623",
+      "credit": "guest",
+      "billing": 11
+    },
+    "ravil-isyanov": {
+      "name": "Ravil Isyanov",
+      "tmdb": 41742,
+      "imdb": "nm0411570",
+      "wikidata": "Q4205208",
+      "credit": "guest",
+      "billing": 12
+    },
+    "adam-paul": {
+      "name": "Adam Paul",
+      "tmdb": 149775,
+      "imdb": "nm0666740",
+      "wikidata": "Q50736705",
+      "credit": "guest",
+      "billing": 13
+    },
+    "rena-sofer": {
+      "name": "Rena Sofer",
+      "tmdb": 34248,
+      "imdb": "nm0812133",
+      "wikidata": "Q242623",
+      "credit": "guest",
+      "billing": 14
+    },
+    "victor-holstein": {
+      "name": "Victor Holstein",
+      "tmdb": 1886240,
+      "imdb": "nm2407903",
+      "credit": "guest",
+      "billing": 15
+    },
+    "lindsay-stuart": {
+      "name": "Lindsay Stuart",
+      "tmdb": 1843341,
+      "imdb": "nm2372188",
+      "credit": "guest",
+      "billing": 16
+    },
+    "tai-urban": {
+      "name": "Tai Urban",
+      "tmdb": 1480222,
+      "imdb": "nm4339016",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:04:31.828",

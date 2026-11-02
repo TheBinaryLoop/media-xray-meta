@@ -23,6 +23,152 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "joel-david-moore": {
+      "name": "Joel David Moore",
+      "tmdb": 59231,
+      "imdb": "nm0601376",
+      "wikidata": "Q371786",
+      "credit": "guest",
+      "billing": 6
+    },
+    "ryan-o-neal": {
+      "name": "Ryan O'Neal",
+      "tmdb": 31070,
+      "imdb": "nm0641939",
+      "wikidata": "Q272923",
+      "credit": "guest",
+      "billing": 7
+    },
+    "chad-willett": {
+      "name": "Chad Willett",
+      "tmdb": 110472,
+      "imdb": "nm0929814",
+      "wikidata": "Q5066387",
+      "credit": "guest",
+      "billing": 8
+    },
+    "scottie-thompson": {
+      "name": "Scottie Thompson",
+      "tmdb": 128628,
+      "imdb": "nm2174090",
+      "wikidata": "Q437912",
+      "credit": "guest",
+      "billing": 9
+    },
+    "jeff-yagher": {
+      "name": "Jeff Yagher",
+      "tmdb": 47878,
+      "imdb": "nm0944891",
+      "wikidata": "Q684640",
+      "credit": "guest",
+      "billing": 10
+    },
+    "kelly-noonan": {
+      "name": "Kelly Noonan",
+      "tmdb": 211758,
+      "imdb": "nm0634728",
+      "wikidata": "Q112545474",
+      "credit": "guest",
+      "billing": 11
+    },
+    "david-greenman": {
+      "name": "David Greenman",
+      "tmdb": 1214444,
+      "imdb": "nm1476528",
+      "wikidata": "Q5234374",
+      "credit": "guest",
+      "billing": 12
+    },
+    "latarsha-rose": {
+      "name": "Latarsha Rose",
+      "tmdb": 1471589,
+      "imdb": "nm1127289",
+      "wikidata": "Q6495101",
+      "credit": "guest",
+      "billing": 13
+    },
+    "deborah-lacey": {
+      "name": "Deborah Lacey",
+      "tmdb": 156064,
+      "imdb": "nm0479917",
+      "wikidata": "Q5248302",
+      "credit": "guest",
+      "billing": 14
+    },
+    "scott-alan-smith": {
+      "name": "Scott Alan Smith",
+      "tmdb": 1190639,
+      "imdb": "nm0809894",
+      "wikidata": "Q95953120",
+      "credit": "guest",
+      "billing": 15
+    },
+    "seth-macfarlane": {
+      "name": "Seth MacFarlane",
+      "tmdb": 52139,
+      "imdb": "nm0532235",
+      "wikidata": "Q188492",
+      "credit": "guest",
+      "billing": 16
+    },
+    "steven-meek": {
+      "name": "Steven Meek",
+      "tmdb": 2250902,
+      "imdb": "nm0576104",
+      "wikidata": "Q24053025",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:04:54.695",

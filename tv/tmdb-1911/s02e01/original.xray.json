@@ -23,6 +23,135 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "christine-estabrook": {
+      "name": "Christine Estabrook",
+      "tmdb": 9047,
+      "imdb": "nm0261452",
+      "wikidata": "Q391445",
+      "credit": "guest",
+      "billing": 6
+    },
+    "ray-wise": {
+      "name": "Ray Wise",
+      "tmdb": 6719,
+      "imdb": "nm0936403",
+      "wikidata": "Q530646",
+      "credit": "guest",
+      "billing": 7
+    },
+    "ann-cusack": {
+      "name": "Ann Cusack",
+      "tmdb": 59260,
+      "imdb": "nm0193639",
+      "wikidata": "Q432686",
+      "credit": "guest",
+      "billing": 8
+    },
+    "alex-hyde-white": {
+      "name": "Alex Hyde-White",
+      "tmdb": 747,
+      "imdb": "nm0405033",
+      "wikidata": "Q2641365",
+      "credit": "guest",
+      "billing": 9
+    },
+    "timothy-landfield": {
+      "name": "Timothy Landfield",
+      "tmdb": 163567,
+      "imdb": "nm0484713",
+      "wikidata": "Q22942702",
+      "credit": "guest",
+      "billing": 10
+    },
+    "sam-witwer": {
+      "name": "Sam Witwer",
+      "tmdb": 46362,
+      "imdb": "nm1022429",
+      "wikidata": "Q18918",
+      "credit": "guest",
+      "billing": 11
+    },
+    "allison-dunbar": {
+      "name": "Allison Dunbar",
+      "tmdb": 100528,
+      "imdb": "nm0241815",
+      "wikidata": "Q2838327",
+      "credit": "guest",
+      "billing": 12
+    },
+    "jonell-kennedy": {
+      "name": "JoNell Kennedy",
+      "tmdb": 951896,
+      "imdb": "nm0448129",
+      "wikidata": "Q6204076",
+      "credit": "guest",
+      "billing": 13
+    },
+    "marlon-john": {
+      "name": "Marlon John",
+      "tmdb": 1920707,
+      "imdb": "nm2050415",
+      "credit": "guest",
+      "billing": 14
+    },
+    "jeremy-luke": {
+      "name": "Jeremy Luke",
+      "tmdb": 112879,
+      "imdb": "nm1157053",
+      "wikidata": "Q15461240",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:05:14.090",

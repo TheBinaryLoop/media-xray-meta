@@ -23,6 +23,203 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "andrew-buchan": {
+      "name": "Andrew Buchan",
+      "tmdb": 1235008,
+      "imdb": "nm2217601",
+      "wikidata": "Q503938",
+      "credit": "guest",
+      "billing": 7
+    },
+    "ty-glaser": {
+      "name": "Ty Glaser",
+      "tmdb": 89828,
+      "imdb": "nm1617640",
+      "wikidata": "Q7859592",
+      "credit": "guest",
+      "billing": 8
+    },
+    "ben-righton": {
+      "name": "Ben Righton",
+      "tmdb": 58783,
+      "imdb": "nm2241142",
+      "credit": "guest",
+      "billing": 9
+    },
+    "david-yelland": {
+      "name": "David Yelland",
+      "tmdb": 210907,
+      "imdb": "nm0947379",
+      "wikidata": "Q5241357",
+      "credit": "guest",
+      "billing": 10
+    },
+    "jane-how": {
+      "name": "Jane How",
+      "tmdb": 26684,
+      "imdb": "nm0397074",
+      "wikidata": "Q3161870",
+      "credit": "guest",
+      "billing": 11
+    },
+    "sheila-reid": {
+      "name": "Sheila Reid",
+      "tmdb": 47404,
+      "imdb": "nm0715693",
+      "wikidata": "Q7493137",
+      "credit": "guest",
+      "billing": 12
+    },
+    "jonathan-wrather": {
+      "name": "Jonathan Wrather",
+      "tmdb": 1991860,
+      "imdb": "nm0942021",
+      "wikidata": "Q23418938",
+      "credit": "guest",
+      "billing": 13
+    },
+    "rocky-marshall": {
+      "name": "Rocky Marshall",
+      "tmdb": 1211865,
+      "imdb": "nm0551136",
+      "wikidata": "Q7355841",
+      "credit": "guest",
+      "billing": 14
+    },
+    "david-fahm": {
+      "name": "David Fahm",
+      "tmdb": 111437,
+      "imdb": "nm0265241",
+      "wikidata": "Q16207658",
+      "credit": "guest",
+      "billing": 15
+    },
+    "nick-ellsworth": {
+      "name": "Nick Ellsworth",
+      "tmdb": 1389369,
+      "imdb": "nm0255311",
+      "credit": "guest",
+      "billing": 16
+    },
+    "simon-dutton": {
+      "name": "Simon Dutton",
+      "tmdb": 1223149,
+      "imdb": "nm0244954",
+      "wikidata": "Q7518677",
+      "credit": "guest",
+      "billing": 17
+    },
+    "ben-loyd-holmes": {
+      "name": "Ben Loyd-Holmes",
+      "tmdb": 1062405,
+      "imdb": "nm2102207",
+      "credit": "guest",
+      "billing": 18
+    },
+    "christian-wolf-la-moy": {
+      "name": "Christian Wolf-La'Moy",
+      "tmdb": 2324793,
+      "imdb": "nm3458863",
+      "credit": "guest",
+      "billing": 19
+    },
+    "indira-varma": {
+      "name": "Indira Varma",
+      "tmdb": 30430,
+      "imdb": "nm0890055",
+      "wikidata": "Q463585",
+      "credit": "guest",
+      "billing": 20
+    },
+    "tuppence-middleton": {
+      "name": "Tuppence Middleton",
+      "tmdb": 89822,
+      "imdb": "nm3095562",
+      "wikidata": "Q2460289",
+      "credit": "guest",
+      "billing": 21
+    },
+    "ed-coleman": {
+      "name": "Ed Coleman",
+      "tmdb": 210908,
+      "imdb": "nm2340416",
+      "credit": "guest",
+      "billing": 22
+    },
+    "michael-brandon": {
+      "name": "Michael Brandon",
+      "tmdb": 131814,
+      "imdb": "nm0104787",
+      "wikidata": "Q961876",
+      "credit": "guest",
+      "billing": 23
+    },
+    "sean-blakemore": {
+      "name": "Sean Blakemore",
+      "tmdb": 62093,
+      "imdb": "nm1017646",
+      "wikidata": "Q7440826",
+      "credit": "guest",
+      "billing": 24
+    }
+  },
   "segments": [
     {
       "from": "00:05:53.511",

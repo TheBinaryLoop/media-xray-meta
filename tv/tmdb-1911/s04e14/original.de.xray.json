@@ -21,5 +21,49 @@
       "to": "00:33:52.989",
       "fingerprint": "AQAAjJuUJImkTij8XDia-fhT9If3GP3RHz781GCQQyWP3ByF5zmq3Whm_EfDHId33EiO9BfK8CilXHBQNTiHG0fyK8hDfDkuHUcPf0cfB8eJ8i18xkCqo76FfvA6GX1Q__Ceo3oj_Me14N8QPrAmHsfGHSN7PEjZQ0QoG__Rh4dDb8ie5fAO9TnSo6KiBCdZ5Kot6KxBMrmFMN_RUwTLfEd7-O2KHDdMHt-hv0XZGdd0hIfHKDm-4IfH7Lhwg_yPq0fOEbqO_E_xbjDVGNfRxziu40evE4mmRFHcAD_wADrwQTh-9BmO65jLCbUIkUd04_inGLX44MmOM0d1HX6og7mRPBd-5AAjzDGAUEGMQAohowQQgkCBlUBSQEMQBcoAY4hSQgDFBAAAEMWAQEYBoIAhAEOhDAAGCCIMAIAQQIgQAAAAqKEGEAGUYBYAqAgQQCiiDACEIAUS8AIAgUnQGDnlmRGWECOQJEYAIBQBjho"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "brendan-fehr": "Jared Booth",
+    "deirdre-lovejoy": "Heather Taffet / „Der Totengräber“"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "brendan-fehr": {
+      "name": "Kim Hasper",
+      "wikidata": "Q1741498"
+    },
+    "deirdre-lovejoy": {
+      "name": "Katharina Koschny",
+      "wikidata": "Q101686"
+    }
+  }
 }

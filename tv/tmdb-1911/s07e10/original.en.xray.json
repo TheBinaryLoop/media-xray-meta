@@ -21,5 +21,26 @@
       "to": "00:33:55.318",
       "fingerprint": "AQAAjGISrUmkMHiMHf7WIM-Fz_h0TM-FhjluQs8xpSoR_kOt4CK-HX2IL8qDk8nRHD2SF9k1fA-uXcHHRCj_wfka1PeR_MiPSzgzx4GfMApIRTkeJkg-bkPOJSP2qnh1TEeTH58e_IillehKNJcixA5-8Doa68KvBBnTQ8yOEqEP3_h7kOketMesoCJlNPmCH5EP7cuRJVoUpTgNc49wzNpu-Md1vDleeajUBc1d5PqGXTl-sETJIP7x6A4uZT5csSgf_EeWK9A-5UF-VIZlPAvyDBInpP7BmEP4KNnQXIKQSjne5gE9ysQDXjLyH1qeopfaIPvxI2pj4c8FLT9RKzouRUU-6pi8S7CPWjUONA931DoefaiPMIfURIyN_DG44k3RLymePBOub_DIIjz0I7R52I0yodQN4QUAzhhCAEMCOCgIAIYQRBhQhBAjDADCIAMYMUIJQQQhCBBkHJAAKAMEckYBJAQEDDkhAGJCKCWAFIgBICAwBAgiBBSCAGAcUwYIoABg0BEACFFAACAAAowAoAkwSglHBRBCGQQIMoQB"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "eugene-byrd": "Clark Edison",
+    "kurt-caceres": "Paramedic",
+    "peyton-roney": "Blake Sherman",
+    "amy-stewart": "Nicole Cole",
+    "evan-helmuth": "Karl Singler",
+    "robert-rusler": "Hunter Sherman",
+    "roberto-sanchez": "Tim Traule",
+    "l-j-benet": "Danny Cole",
+    "jeremy-glazer": "Ben",
+    "walker-howard": "Doug",
+    "ty-panitz": "Parker Booth",
+    "ali-louise-hartman": "Christine Booth",
+    "wendy-worthington": "Waitress"
+  }
 }

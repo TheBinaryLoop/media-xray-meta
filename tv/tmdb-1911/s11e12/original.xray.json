@@ -23,6 +23,157 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "david-shatraw": {
+      "name": "David Shatraw",
+      "tmdb": 94522,
+      "imdb": "nm0789421",
+      "wikidata": "Q5239680",
+      "credit": "guest",
+      "billing": 6
+    },
+    "lilli-birdsell": {
+      "name": "Lilli Birdsell",
+      "tmdb": 1320468,
+      "imdb": "nm0083475",
+      "wikidata": "Q42533012",
+      "credit": "guest",
+      "billing": 7
+    },
+    "jack-armstrong": {
+      "name": "Jack Armstrong",
+      "tmdb": 77741,
+      "imdb": "nm0035737",
+      "wikidata": "Q2611384",
+      "credit": "guest",
+      "billing": 8
+    },
+    "mia-barron": {
+      "name": "Mia Barron",
+      "tmdb": 170483,
+      "imdb": "nm1715148",
+      "wikidata": "Q29048328",
+      "credit": "guest",
+      "billing": 9
+    },
+    "michael-rupnow": {
+      "name": "Michael Rupnow",
+      "tmdb": 1651150,
+      "imdb": "nm3011205",
+      "wikidata": "Q50737149",
+      "credit": "guest",
+      "billing": 10
+    },
+    "saidah-arrika-ekulona": {
+      "name": "Saidah Arrika Ekulona",
+      "tmdb": 171754,
+      "imdb": "nm1029241",
+      "wikidata": "Q112246404",
+      "credit": "guest",
+      "billing": 11
+    },
+    "ashley-dulaney": {
+      "name": "Ashley Dulaney",
+      "tmdb": 1430897,
+      "imdb": "nm4981296",
+      "credit": "guest",
+      "billing": 12
+    },
+    "cyd-strittmatter": {
+      "name": "Cyd Strittmatter",
+      "tmdb": 1367129,
+      "imdb": "nm0834633",
+      "wikidata": "Q23042213",
+      "credit": "guest",
+      "billing": 13
+    },
+    "rueben-grundy": {
+      "name": "Rueben Grundy",
+      "tmdb": 175588,
+      "imdb": "nm0344578",
+      "wikidata": "Q29168374",
+      "credit": "guest",
+      "billing": 14
+    },
+    "john-colella": {
+      "name": "John Colella",
+      "tmdb": 1781000,
+      "imdb": "nm1240338",
+      "wikidata": "Q23898974",
+      "credit": "guest",
+      "billing": 15
+    },
+    "sarah-gaboury": {
+      "name": "Sarah Gaboury",
+      "tmdb": 1115133,
+      "imdb": "nm1096756",
+      "credit": "guest",
+      "billing": 16
+    },
+    "toni-torres": {
+      "name": "Toni Torres",
+      "tmdb": 1496741,
+      "imdb": "nm2052977",
+      "credit": "guest",
+      "billing": 17
+    },
+    "ignacio-serricchio": {
+      "name": "Ignacio Serricchio",
+      "tmdb": 139868,
+      "imdb": "nm1579445",
+      "wikidata": "Q5992454",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:06:33.187",

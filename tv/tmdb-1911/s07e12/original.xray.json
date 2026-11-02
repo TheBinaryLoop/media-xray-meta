@@ -23,6 +23,148 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "michael-charles-roman": {
+      "name": "Michael Charles Roman",
+      "tmdb": 177490,
+      "imdb": "nm0738722",
+      "credit": "guest",
+      "billing": 6
+    },
+    "john-ducey": {
+      "name": "John Ducey",
+      "tmdb": 151383,
+      "imdb": "nm0239768",
+      "wikidata": "Q723996",
+      "credit": "guest",
+      "billing": 7
+    },
+    "rosalind-chao": {
+      "name": "Rosalind Chao",
+      "tmdb": 74073,
+      "imdb": "nm0001034",
+      "wikidata": "Q253578",
+      "credit": "guest",
+      "billing": 8
+    },
+    "hal-ozsan": {
+      "name": "Hal Ozsan",
+      "tmdb": 137750,
+      "imdb": "nm1230639",
+      "wikidata": "Q944144",
+      "credit": "guest",
+      "billing": 9
+    },
+    "ashley-jones": {
+      "name": "Ashley Jones",
+      "tmdb": 112464,
+      "imdb": "nm0427521",
+      "wikidata": "Q265516",
+      "credit": "guest",
+      "billing": 10
+    },
+    "jordan-belfi": {
+      "name": "Jordan Belfi",
+      "tmdb": 144675,
+      "imdb": "nm0067768",
+      "wikidata": "Q3183675",
+      "credit": "guest",
+      "billing": 11
+    },
+    "chris-williams": {
+      "name": "Chris Williams",
+      "tmdb": 1214427,
+      "imdb": "nm0930282",
+      "wikidata": "Q2620648",
+      "credit": "guest",
+      "billing": 12
+    },
+    "amy-landers": {
+      "name": "Amy Landers",
+      "tmdb": 175603,
+      "imdb": "nm1484115",
+      "credit": "guest",
+      "billing": 13
+    },
+    "rene-rosado": {
+      "name": "Rene Rosado",
+      "tmdb": 204384,
+      "imdb": "nm2062531",
+      "credit": "guest",
+      "billing": 14
+    },
+    "abhi-sinha": {
+      "name": "Abhi Sinha",
+      "tmdb": 1324452,
+      "imdb": "nm2974421",
+      "wikidata": "Q50736659",
+      "credit": "guest",
+      "billing": 15
+    },
+    "michael-medico": {
+      "name": "Michael Medico",
+      "tmdb": 166679,
+      "imdb": "nm0575598",
+      "credit": "guest",
+      "billing": 16
+    },
+    "scott-lowell": {
+      "name": "Scott Lowell",
+      "tmdb": 105111,
+      "imdb": "nm0523116",
+      "wikidata": "Q1344181",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:06:24.543",

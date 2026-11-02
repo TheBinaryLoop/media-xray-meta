@@ -23,6 +23,157 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 7
+    },
+    "jeff-hayenga": {
+      "name": "Jeff Hayenga",
+      "tmdb": 1065832,
+      "imdb": "nm0370862",
+      "wikidata": "Q15497070",
+      "credit": "guest",
+      "billing": 8
+    },
+    "eileen-grubba": {
+      "name": "Eileen Grubba",
+      "tmdb": 183709,
+      "imdb": "nm0344190",
+      "wikidata": "Q5349376",
+      "credit": "guest",
+      "billing": 9
+    },
+    "christine-dunford": {
+      "name": "Christine Dunford",
+      "tmdb": 150061,
+      "imdb": "nm0242226",
+      "wikidata": "Q16728697",
+      "credit": "guest",
+      "billing": 10
+    },
+    "courtney-gains": {
+      "name": "Courtney Gains",
+      "tmdb": 18708,
+      "imdb": "nm0301381",
+      "wikidata": "Q1137839",
+      "credit": "guest",
+      "billing": 11
+    },
+    "jeffrey-nicholas-brown": {
+      "name": "Jeffrey Nicholas Brown",
+      "tmdb": 208383,
+      "imdb": "nm1467955",
+      "wikidata": "Q6176189",
+      "credit": "guest",
+      "billing": 12
+    },
+    "cathleen-kaelyn": {
+      "name": "Cathleen Kaelyn",
+      "tmdb": 46925,
+      "imdb": "nm1155515",
+      "credit": "guest",
+      "billing": 13
+    },
+    "noah-lomax": {
+      "name": "Noah Lomax",
+      "tmdb": 524503,
+      "imdb": "nm3470683",
+      "wikidata": "Q3877578",
+      "credit": "guest",
+      "billing": 14
+    },
+    "izabela-vidovic": {
+      "name": "Izabela Vidovic",
+      "tmdb": 1109976,
+      "imdb": "nm4207679",
+      "wikidata": "Q19822246",
+      "credit": "guest",
+      "billing": 15
+    },
+    "t-j-myers": {
+      "name": "T.J. Myers",
+      "tmdb": 32542,
+      "imdb": "nm0616866",
+      "credit": "guest",
+      "billing": 16
+    },
+    "andra-petru": {
+      "name": "Andra Petru",
+      "tmdb": 1507111,
+      "imdb": "nm3615101",
+      "credit": "guest",
+      "billing": 17
+    },
+    "sterling-macer-jr": {
+      "name": "Sterling Macer Jr.",
+      "tmdb": 1246618,
+      "imdb": "nm0532160",
+      "wikidata": "Q113804287",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:06:21.567",

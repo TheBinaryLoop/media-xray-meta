@@ -23,6 +23,117 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 6
+    },
+    "henry-simmons": {
+      "name": "Henry Simmons",
+      "tmdb": 67913,
+      "imdb": "nm0005431",
+      "wikidata": "Q177577",
+      "credit": "guest",
+      "billing": 7
+    },
+    "trae-ireland": {
+      "name": "Trae Ireland",
+      "tmdb": 226332,
+      "imdb": "nm1232808",
+      "wikidata": "Q116206456",
+      "credit": "guest",
+      "billing": 8
+    },
+    "aidan-bristow": {
+      "name": "Aidan Bristow",
+      "tmdb": 565339,
+      "imdb": "nm3094339",
+      "credit": "guest",
+      "billing": 9
+    },
+    "ali-louise-hartman": {
+      "name": "Ali Louise Hartman",
+      "tmdb": 1439573,
+      "imdb": "nm5116720",
+      "credit": "guest",
+      "billing": 10
+    },
+    "susanne-allan-hartman": {
+      "name": "Susanne Allan Hartman",
+      "tmdb": 1439572,
+      "imdb": "nm5116773",
+      "credit": "guest",
+      "billing": 11
+    },
+    "andrew-leeds": {
+      "name": "Andrew Leeds",
+      "tmdb": 173964,
+      "imdb": "nm0498572",
+      "wikidata": "Q23303183",
+      "credit": "guest",
+      "billing": 12
+    },
+    "reed-diamond": {
+      "name": "Reed Diamond",
+      "tmdb": 31508,
+      "imdb": "nm0224703",
+      "wikidata": "Q977086",
+      "credit": "guest",
+      "billing": 13
+    }
+  },
   "segments": [
     {
       "from": "00:04:39.811",

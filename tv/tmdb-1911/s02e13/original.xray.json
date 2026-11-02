@@ -23,6 +23,136 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "kelly-kruger": {
+      "name": "Kelly Kruger",
+      "tmdb": 182305,
+      "imdb": "nm0472595",
+      "wikidata": "Q6386140",
+      "credit": "guest",
+      "billing": 6
+    },
+    "alex-winter": {
+      "name": "Alex Winter",
+      "tmdb": 18355,
+      "imdb": "nm0935664",
+      "wikidata": "Q1398367",
+      "credit": "guest",
+      "billing": 7
+    },
+    "eddie-mcclintock": {
+      "name": "Eddie McClintock",
+      "tmdb": 120679,
+      "imdb": "nm0565858",
+      "wikidata": "Q561676",
+      "credit": "guest",
+      "billing": 8
+    },
+    "john-maynard": {
+      "name": "John Maynard",
+      "tmdb": 99231,
+      "imdb": "nm1147516",
+      "wikidata": "Q6247334",
+      "credit": "guest",
+      "billing": 9
+    },
+    "french-stewart": {
+      "name": "French Stewart",
+      "tmdb": 67711,
+      "imdb": "nm0829390",
+      "wikidata": "Q707410",
+      "credit": "guest",
+      "billing": 10
+    },
+    "eric-jungmann": {
+      "name": "Eric Jungmann",
+      "tmdb": 37005,
+      "imdb": "nm0432657",
+      "wikidata": "Q365278",
+      "credit": "guest",
+      "billing": 11
+    },
+    "john-lacy": {
+      "name": "John Lacy",
+      "tmdb": 1180860,
+      "imdb": "nm0480381",
+      "wikidata": "Q3181897",
+      "credit": "guest",
+      "billing": 12
+    },
+    "eamonn-roche": {
+      "name": "Eamonn Roche",
+      "tmdb": 1212101,
+      "imdb": "nm0733926",
+      "wikidata": "Q5325593",
+      "credit": "guest",
+      "billing": 13
+    },
+    "john-eric-bentley": {
+      "name": "John Eric Bentley",
+      "tmdb": 183507,
+      "imdb": "nm0072829",
+      "wikidata": "Q96474214",
+      "credit": "guest",
+      "billing": 14
+    },
+    "stephen-fry": {
+      "name": "Stephen Fry",
+      "tmdb": 11275,
+      "imdb": "nm0000410",
+      "wikidata": "Q192912",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:03:11.325",

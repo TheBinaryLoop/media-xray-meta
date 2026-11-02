@@ -23,6 +23,142 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "josie-davis": {
+      "name": "Josie Davis",
+      "tmdb": 142607,
+      "imdb": "nm0004861",
+      "wikidata": "Q445688",
+      "credit": "guest",
+      "billing": 6
+    },
+    "paula-newsome": {
+      "name": "Paula Newsome",
+      "tmdb": 17420,
+      "imdb": "nm0628420",
+      "wikidata": "Q11836448",
+      "credit": "guest",
+      "billing": 7
+    },
+    "leonardo-nam": {
+      "name": "Leonardo Nam",
+      "tmdb": 24200,
+      "imdb": "nm1211344",
+      "wikidata": "Q6526047",
+      "credit": "guest",
+      "billing": 8
+    },
+    "reggie-austin": {
+      "name": "Reggie Austin",
+      "tmdb": 1215799,
+      "imdb": "nm1117385",
+      "wikidata": "Q16934903",
+      "credit": "guest",
+      "billing": 9
+    },
+    "billy-gardell": {
+      "name": "Billy Gardell",
+      "tmdb": 64344,
+      "imdb": "nm0974080",
+      "wikidata": "Q563569",
+      "credit": "guest",
+      "billing": 10
+    },
+    "cheryl-white": {
+      "name": "Cheryl White",
+      "tmdb": 133289,
+      "imdb": "nm0924604",
+      "credit": "guest",
+      "billing": 11
+    },
+    "conor-dubin": {
+      "name": "Conor Dubin",
+      "tmdb": 1423045,
+      "imdb": "nm0239293",
+      "credit": "guest",
+      "billing": 12
+    },
+    "amy-gumenick": {
+      "name": "Amy Gumenick",
+      "tmdb": 210909,
+      "imdb": "nm3004295",
+      "wikidata": "Q2844557",
+      "credit": "guest",
+      "billing": 13
+    },
+    "rob-mayes": {
+      "name": "Rob Mayes",
+      "tmdb": 110909,
+      "imdb": "nm2373827",
+      "wikidata": "Q16745470",
+      "credit": "guest",
+      "billing": 14
+    },
+    "ty-panitz": {
+      "name": "Ty Panitz",
+      "tmdb": 25144,
+      "imdb": "nm1892830",
+      "wikidata": "Q469072",
+      "credit": "guest",
+      "billing": 15
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:05:31.268",

@@ -23,6 +23,156 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "andrea-thompson": {
+      "name": "Andrea Thompson",
+      "tmdb": 121278,
+      "imdb": "nm0005487",
+      "wikidata": "Q273588",
+      "credit": "guest",
+      "billing": 6
+    },
+    "glenn-morshower": {
+      "name": "Glenn Morshower",
+      "tmdb": 12797,
+      "imdb": "nm0607703",
+      "wikidata": "Q589015",
+      "credit": "guest",
+      "billing": 7
+    },
+    "ian-anthony-dale": {
+      "name": "Ian Anthony Dale",
+      "tmdb": 123813,
+      "imdb": "nm1406333",
+      "wikidata": "Q1189298",
+      "credit": "guest",
+      "billing": 8
+    },
+    "e-j-callahan": {
+      "name": "E.J. Callahan",
+      "tmdb": 53778,
+      "imdb": "nm0130187",
+      "wikidata": "Q42413153",
+      "credit": "guest",
+      "billing": 9
+    },
+    "michael-rodrick": {
+      "name": "Michael Rodrick",
+      "tmdb": 99860,
+      "imdb": "nm0734985",
+      "wikidata": "Q16213416",
+      "credit": "guest",
+      "billing": 10
+    },
+    "judith-moreland": {
+      "name": "Judith Moreland",
+      "tmdb": 1350210,
+      "imdb": "nm1132876",
+      "wikidata": "Q22826118",
+      "credit": "guest",
+      "billing": 11
+    },
+    "sarah-bloom": {
+      "name": "Sarah Bloom",
+      "tmdb": 164116,
+      "imdb": "nm2113647",
+      "credit": "guest",
+      "billing": 12
+    },
+    "lisa-waltz": {
+      "name": "Lisa Waltz",
+      "tmdb": 1224165,
+      "imdb": "nm0910610",
+      "wikidata": "Q4103115",
+      "credit": "guest",
+      "billing": 13
+    },
+    "rob-brownstein": {
+      "name": "Rob Brownstein",
+      "tmdb": 62146,
+      "imdb": "nm0115282",
+      "wikidata": "Q72670384",
+      "credit": "guest",
+      "billing": 14
+    },
+    "aalok-mehta": {
+      "name": "Aalok Mehta",
+      "tmdb": 109038,
+      "imdb": "nm0576537",
+      "credit": "guest",
+      "billing": 15
+    },
+    "christos-sourmelis": {
+      "name": "Christos Sourmelis",
+      "tmdb": 207394,
+      "imdb": "nm1972311",
+      "credit": "guest",
+      "billing": 16
+    },
+    "burnadean-jones": {
+      "name": "Burnadean Jones",
+      "tmdb": 1353286,
+      "imdb": "nm0427664",
+      "credit": "guest",
+      "billing": 17
+    },
+    "david-greenman": {
+      "name": "David Greenman",
+      "tmdb": 1214444,
+      "imdb": "nm1476528",
+      "wikidata": "Q5234374",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:02:58.171",

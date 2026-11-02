@@ -23,6 +23,198 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "guest",
+      "billing": 6
+    },
+    "ethan-phillips": {
+      "name": "Ethan Phillips",
+      "tmdb": 29445,
+      "imdb": "nm0680392",
+      "wikidata": "Q435475",
+      "credit": "guest",
+      "billing": 7
+    },
+    "ace-young": {
+      "name": "Ace Young",
+      "tmdb": 1218661,
+      "imdb": "nm2217370",
+      "wikidata": "Q2822942",
+      "credit": "guest",
+      "billing": 8
+    },
+    "brandon-rogers": {
+      "name": "Brandon Rogers",
+      "tmdb": 1221697,
+      "imdb": "nm2554064",
+      "wikidata": "Q4957045",
+      "credit": "guest",
+      "billing": 9
+    },
+    "corbin-allred": {
+      "name": "Corbin Allred",
+      "tmdb": 63492,
+      "imdb": "nm0021607",
+      "wikidata": "Q326984",
+      "credit": "guest",
+      "billing": 10
+    },
+    "geoff-meed": {
+      "name": "Geoff Meed",
+      "tmdb": 86204,
+      "imdb": "nm0576015",
+      "wikidata": "Q1502899",
+      "credit": "guest",
+      "billing": 11
+    },
+    "jessa-french": {
+      "name": "Jessa French",
+      "tmdb": 1266846,
+      "imdb": "nm1458584",
+      "credit": "guest",
+      "billing": 12
+    },
+    "jennifer-hasty": {
+      "name": "Jennifer Hasty",
+      "tmdb": 191897,
+      "imdb": "nm1859626",
+      "wikidata": "Q22815245",
+      "credit": "guest",
+      "billing": 13
+    },
+    "kent-faulcon": {
+      "name": "Kent Faulcon",
+      "tmdb": 9634,
+      "imdb": "nm0269021",
+      "wikidata": "Q6391717",
+      "credit": "guest",
+      "billing": 14
+    },
+    "ian-reed-kesler": {
+      "name": "Ian Reed Kesler",
+      "tmdb": 133591,
+      "imdb": "nm1071303",
+      "wikidata": "Q11710888",
+      "credit": "guest",
+      "billing": 15
+    },
+    "joshua-weinstein": {
+      "name": "Joshua Weinstein",
+      "tmdb": 2087666,
+      "imdb": "nm0918449",
+      "credit": "guest",
+      "billing": 16
+    },
+    "john-bobek": {
+      "name": "John Bobek",
+      "tmdb": 62565,
+      "imdb": "nm1987095",
+      "wikidata": "Q24054440",
+      "credit": "guest",
+      "billing": 17
+    },
+    "jonathan-kowalsky": {
+      "name": "Jonathan Kowalsky",
+      "tmdb": 127588,
+      "imdb": "nm1355563",
+      "credit": "guest",
+      "billing": 18
+    },
+    "christina-ulloa": {
+      "name": "Christina Ulloa",
+      "tmdb": 154960,
+      "imdb": "nm1728959",
+      "wikidata": "Q120617215",
+      "credit": "guest",
+      "billing": 19
+    },
+    "dennis-waller": {
+      "name": "Dennis Waller",
+      "tmdb": 1749609,
+      "credit": "guest",
+      "billing": 20
+    },
+    "laura-grady": {
+      "name": "Laura Grady",
+      "tmdb": 92288,
+      "imdb": "nm0333607",
+      "credit": "guest",
+      "billing": 21
+    },
+    "e-j-curse": {
+      "name": "E.J. Curse",
+      "tmdb": 99771,
+      "imdb": "nm0193149",
+      "credit": "guest",
+      "billing": 22
+    },
+    "glenn-rosenblum": {
+      "name": "Glenn Rosenblum",
+      "tmdb": 4031492,
+      "imdb": "nm1224805",
+      "credit": "guest",
+      "billing": 23
+    },
+    "andy-striker": {
+      "name": "Andy Striker",
+      "tmdb": 4031508,
+      "credit": "guest",
+      "billing": 24
+    }
+  },
   "segments": [
     {
       "from": "00:04:41.440",

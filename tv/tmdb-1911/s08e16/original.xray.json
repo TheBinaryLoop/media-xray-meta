@@ -23,6 +23,134 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "ever-carradine": {
+      "name": "Ever Carradine",
+      "tmdb": 41557,
+      "imdb": "nm0139936",
+      "wikidata": "Q459928",
+      "credit": "guest",
+      "billing": 6
+    },
+    "lizze-broadway": {
+      "name": "Lizze Broadway",
+      "tmdb": 1376782,
+      "imdb": "nm3835303",
+      "wikidata": "Q105908381",
+      "credit": "guest",
+      "billing": 7
+    },
+    "nick-thurston": {
+      "name": "Nick Thurston",
+      "tmdb": 557930,
+      "imdb": "nm3231354",
+      "wikidata": "Q21593104",
+      "credit": "guest",
+      "billing": 8
+    },
+    "aaron-jennings": {
+      "name": "Aaron Jennings",
+      "tmdb": 1119691,
+      "imdb": "nm4120184",
+      "credit": "guest",
+      "billing": 9
+    },
+    "victoria-gabrielle-platt": {
+      "name": "Victoria Gabrielle Platt",
+      "tmdb": 579100,
+      "imdb": "nm0686911",
+      "wikidata": "Q112122872",
+      "credit": "guest",
+      "billing": 10
+    },
+    "dale-e-turner": {
+      "name": "Dale E. Turner",
+      "tmdb": 1376786,
+      "imdb": "nm0877481",
+      "wikidata": "Q50736945",
+      "credit": "guest",
+      "billing": 11
+    },
+    "steph-duvall": {
+      "name": "Steph DuVall",
+      "tmdb": 1195486,
+      "imdb": "nm0245141",
+      "wikidata": "Q58139558",
+      "credit": "guest",
+      "billing": 12
+    },
+    "dejon-laquake": {
+      "name": "Dejon LaQuake",
+      "tmdb": 1527313,
+      "imdb": "nm2454022",
+      "credit": "guest",
+      "billing": 13
+    },
+    "luke-kleintank": {
+      "name": "Luke Kleintank",
+      "tmdb": 967781,
+      "imdb": "nm3312554",
+      "wikidata": "Q6702097",
+      "credit": "guest",
+      "billing": 14
+    },
+    "tiffany-hines": {
+      "name": "Tiffany Hines",
+      "tmdb": 1224085,
+      "imdb": "nm2015692",
+      "wikidata": "Q1189338",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:04:26.493",

@@ -23,6 +23,179 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 6
+    },
+    "michael-grant-terry": {
+      "name": "Michael Grant Terry",
+      "tmdb": 205984,
+      "imdb": "nm2163204",
+      "wikidata": "Q3308554",
+      "credit": "guest",
+      "billing": 7
+    },
+    "nathan-west": {
+      "name": "Nathan West",
+      "tmdb": 55115,
+      "imdb": "nm0922263",
+      "wikidata": "Q6969411",
+      "credit": "guest",
+      "billing": 8
+    },
+    "stephen-martines": {
+      "name": "Stephen Martines",
+      "tmdb": 83351,
+      "imdb": "nm0778986",
+      "wikidata": "Q3973203",
+      "credit": "guest",
+      "billing": 9
+    },
+    "nick-warnock": {
+      "name": "Nick Warnock",
+      "tmdb": 1444845,
+      "imdb": "nm1234854",
+      "credit": "guest",
+      "billing": 10
+    },
+    "julie-dretzin": {
+      "name": "Julie Dretzin",
+      "tmdb": 156990,
+      "imdb": "nm0003740",
+      "wikidata": "Q22704681",
+      "credit": "guest",
+      "billing": 11
+    },
+    "bianca-lawson": {
+      "name": "Bianca Lawson",
+      "tmdb": 36068,
+      "imdb": "nm0493161",
+      "wikidata": "Q239331",
+      "credit": "guest",
+      "billing": 12
+    },
+    "jhemma-ziegler": {
+      "name": "Jhemma Ziegler",
+      "tmdb": 1510821,
+      "imdb": "nm2644016",
+      "wikidata": "Q101525387",
+      "credit": "guest",
+      "billing": 13
+    },
+    "thomas-lumberg-jr": {
+      "name": "Thomas Lumberg Jr.",
+      "tmdb": 1368007,
+      "imdb": "nm1667719",
+      "credit": "guest",
+      "billing": 14
+    },
+    "james-dumont": {
+      "name": "James DuMont",
+      "tmdb": 97446,
+      "imdb": "nm0003069",
+      "wikidata": "Q6132861",
+      "credit": "guest",
+      "billing": 15
+    },
+    "josh-blaylock": {
+      "name": "Josh Blaylock",
+      "tmdb": 962225,
+      "imdb": "nm1988382",
+      "wikidata": "Q10308616",
+      "credit": "guest",
+      "billing": 16
+    },
+    "luc-robitaille": {
+      "name": "Luc Robitaille",
+      "tmdb": 2086504,
+      "imdb": "nm0005374",
+      "wikidata": "Q661592",
+      "credit": "guest",
+      "billing": 17
+    },
+    "paul-jene": {
+      "name": "Paul Jene",
+      "tmdb": 1156227,
+      "imdb": "nm1995680",
+      "credit": "guest",
+      "billing": 18
+    },
+    "marc-labelle": {
+      "name": "Marc Labelle",
+      "tmdb": 2214787,
+      "imdb": "nm6398472",
+      "credit": "guest",
+      "billing": 19
+    },
+    "wesley-sellick": {
+      "name": "Wesley Sellick",
+      "tmdb": 150393,
+      "imdb": "nm3306380",
+      "credit": "guest",
+      "billing": 20
+    },
+    "marisa-coughlan": {
+      "name": "Marisa Coughlan",
+      "tmdb": 56595,
+      "imdb": "nm0004846",
+      "wikidata": "Q135903",
+      "credit": "guest",
+      "billing": 21
+    }
+  },
   "segments": [
     {
       "from": "00:06:38.377",

@@ -23,6 +23,141 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "jeremy-roenick": {
+      "name": "Jeremy Roenick",
+      "tmdb": 1214292,
+      "imdb": "nm1156245",
+      "wikidata": "Q973444",
+      "credit": "guest",
+      "billing": 6
+    },
+    "brooke-lyons": {
+      "name": "Brooke Lyons",
+      "tmdb": 74617,
+      "imdb": "nm1885129",
+      "wikidata": "Q4974455",
+      "credit": "guest",
+      "billing": 7
+    },
+    "jon-gabrus": {
+      "name": "Jon Gabrus",
+      "tmdb": 1465562,
+      "imdb": "nm2516690",
+      "wikidata": "Q22277858",
+      "credit": "guest",
+      "billing": 8
+    },
+    "joe-spellman": {
+      "name": "Joe Spellman",
+      "tmdb": 1288852,
+      "imdb": "nm1927428",
+      "credit": "guest",
+      "billing": 9
+    },
+    "lou-ferrigno-jr": {
+      "name": "Lou Ferrigno Jr.",
+      "tmdb": 1059040,
+      "imdb": "nm4609670",
+      "wikidata": "Q24955125",
+      "credit": "guest",
+      "billing": 10
+    },
+    "colby-french": {
+      "name": "Colby French",
+      "tmdb": 155018,
+      "imdb": "nm0294062",
+      "wikidata": "Q5142024",
+      "credit": "guest",
+      "billing": 11
+    },
+    "vedette-lim": {
+      "name": "Vedette Lim",
+      "tmdb": 1367840,
+      "imdb": "nm1890728",
+      "wikidata": "Q116814168",
+      "credit": "guest",
+      "billing": 12
+    },
+    "brian-klugman": {
+      "name": "Brian Klugman",
+      "tmdb": 51996,
+      "imdb": "nm0460206",
+      "wikidata": "Q1631627",
+      "credit": "guest",
+      "billing": 13
+    },
+    "patrick-o-brien-demsey": {
+      "name": "Patrick O'Brien Demsey",
+      "tmdb": 84341,
+      "imdb": "nm1379739",
+      "wikidata": "Q7147362",
+      "credit": "guest",
+      "billing": 14
+    },
+    "marc-labelle": {
+      "name": "Marc Labelle",
+      "tmdb": 2214787,
+      "imdb": "nm6398472",
+      "credit": "guest",
+      "billing": 15
+    },
+    "michael-g-gabel": {
+      "name": "Michael G. Gabel",
+      "tmdb": 3037554,
+      "imdb": "nm7936391",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:05:37.394",

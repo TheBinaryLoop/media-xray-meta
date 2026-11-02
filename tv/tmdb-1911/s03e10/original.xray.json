@@ -23,6 +23,157 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "guest",
+      "billing": 6
+    },
+    "channon-roe": {
+      "name": "Channon Roe",
+      "tmdb": 76314,
+      "imdb": "nm0736204",
+      "wikidata": "Q1062316",
+      "credit": "guest",
+      "billing": 7
+    },
+    "abigail-spencer": {
+      "name": "Abigail Spencer",
+      "tmdb": 123725,
+      "imdb": "nm0817844",
+      "wikidata": "Q321131",
+      "credit": "guest",
+      "billing": 8
+    },
+    "chris-william-martin": {
+      "name": "Chris William Martin",
+      "tmdb": 152820,
+      "imdb": "nm0552072",
+      "wikidata": "Q1077865",
+      "credit": "guest",
+      "billing": 9
+    },
+    "wings-hauser": {
+      "name": "Wings Hauser",
+      "tmdb": 61153,
+      "imdb": "nm0369567",
+      "wikidata": "Q376182",
+      "credit": "guest",
+      "billing": 10
+    },
+    "senta-moses": {
+      "name": "Senta Moses",
+      "tmdb": 141434,
+      "imdb": "nm0608624",
+      "wikidata": "Q535273",
+      "credit": "guest",
+      "billing": 11
+    },
+    "m-c-gainey": {
+      "name": "M.C. Gainey",
+      "tmdb": 22132,
+      "imdb": "nm0301370",
+      "wikidata": "Q722038",
+      "credit": "guest",
+      "billing": 12
+    },
+    "alicia-ziegler": {
+      "name": "Alicia Ziegler",
+      "tmdb": 183384,
+      "imdb": "nm1631505",
+      "wikidata": "Q110526696",
+      "credit": "guest",
+      "billing": 13
+    },
+    "darlena-tejeiro": {
+      "name": "Darlena Tejeiro",
+      "tmdb": 130733,
+      "imdb": "nm0196909",
+      "credit": "guest",
+      "billing": 14
+    },
+    "andrew-lawrence": {
+      "name": "Andrew Lawrence",
+      "tmdb": 16479,
+      "imdb": "nm0492620",
+      "wikidata": "Q505900",
+      "credit": "guest",
+      "billing": 15
+    },
+    "burnadean-jones": {
+      "name": "Burnadean Jones",
+      "tmdb": 1353286,
+      "imdb": "nm0427664",
+      "credit": "guest",
+      "billing": 16
+    },
+    "john-edward-lee": {
+      "name": "John Edward Lee",
+      "tmdb": 1047700,
+      "imdb": "nm2573224",
+      "credit": "guest",
+      "billing": 17
+    },
+    "christopher-may": {
+      "name": "Christopher May",
+      "tmdb": 149725,
+      "imdb": "nm0561894",
+      "wikidata": "Q23783890",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:03:30.775",

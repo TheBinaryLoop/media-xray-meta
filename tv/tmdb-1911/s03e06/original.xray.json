@@ -23,6 +23,126 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "xander-berkeley": {
+      "name": "Xander Berkeley",
+      "tmdb": 3982,
+      "imdb": "nm0075359",
+      "wikidata": "Q361610",
+      "credit": "guest",
+      "billing": 6
+    },
+    "sam-jones": {
+      "name": "Sam Jones",
+      "tmdb": 1003386,
+      "imdb": "nm0427389",
+      "wikidata": "Q366664",
+      "credit": "guest",
+      "billing": 7
+    },
+    "terrell-tilford": {
+      "name": "Terrell Tilford",
+      "tmdb": 80446,
+      "imdb": "nm0863231",
+      "wikidata": "Q7703421",
+      "credit": "guest",
+      "billing": 8
+    },
+    "e-e-bell": {
+      "name": "E.E. Bell",
+      "tmdb": 173756,
+      "imdb": "nm0068171",
+      "wikidata": "Q439070",
+      "credit": "guest",
+      "billing": 9
+    },
+    "scott-rinker": {
+      "name": "Scott Rinker",
+      "tmdb": 149589,
+      "imdb": "nm0727692",
+      "credit": "guest",
+      "billing": 10
+    },
+    "rochelle-aytes": {
+      "name": "Rochelle Aytes",
+      "tmdb": 80760,
+      "imdb": "nm1468674",
+      "wikidata": "Q2376800",
+      "credit": "guest",
+      "billing": 11
+    },
+    "tom-virtue": {
+      "name": "Tom Virtue",
+      "tmdb": 38709,
+      "imdb": "nm0899487",
+      "wikidata": "Q2093067",
+      "credit": "guest",
+      "billing": 12
+    },
+    "j-r-nutt": {
+      "name": "J.R. Nutt",
+      "tmdb": 207992,
+      "imdb": "nm0638338",
+      "credit": "guest",
+      "billing": 13
+    },
+    "david-greenman": {
+      "name": "David Greenman",
+      "tmdb": 1214444,
+      "imdb": "nm1476528",
+      "wikidata": "Q5234374",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:02:36.027",

@@ -23,6 +23,170 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "joel-david-moore": {
+      "name": "Joel David Moore",
+      "tmdb": 59231,
+      "imdb": "nm0601376",
+      "wikidata": "Q371786",
+      "credit": "guest",
+      "billing": 6
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 7
+    },
+    "peter-mackenzie": {
+      "name": "Peter MacKenzie",
+      "tmdb": 62597,
+      "imdb": "nm0533380",
+      "wikidata": "Q10348945",
+      "credit": "guest",
+      "billing": 8
+    },
+    "mark-atteberry": {
+      "name": "Mark Atteberry",
+      "tmdb": 1192412,
+      "imdb": "nm0040992",
+      "credit": "guest",
+      "billing": 9
+    },
+    "stacey-moseley": {
+      "name": "Stacey Moseley",
+      "tmdb": 171300,
+      "imdb": "nm0608435",
+      "wikidata": "Q22808068",
+      "credit": "guest",
+      "billing": 10
+    },
+    "marisa-chen-moller": {
+      "name": "Marisa Chen Moller",
+      "tmdb": 1300671,
+      "imdb": "nm3610660",
+      "credit": "guest",
+      "billing": 11
+    },
+    "alex-best": {
+      "name": "Alex Best",
+      "tmdb": 1346196,
+      "imdb": "nm2223500",
+      "credit": "guest",
+      "billing": 12
+    },
+    "ayumi-iizuka": {
+      "name": "Ayumi Iizuka",
+      "tmdb": 218715,
+      "imdb": "nm0412810",
+      "wikidata": "Q42417856",
+      "credit": "guest",
+      "billing": 13
+    },
+    "mari-weiss": {
+      "name": "Mari Weiss",
+      "tmdb": 141293,
+      "imdb": "nm0002985",
+      "wikidata": "Q131721175",
+      "credit": "guest",
+      "billing": 14
+    },
+    "troy-a-cephers": {
+      "name": "Troy A. Cephers",
+      "tmdb": 1920324,
+      "imdb": "nm0148401",
+      "credit": "guest",
+      "billing": 15
+    },
+    "trevor-eyster": {
+      "name": "Trevor Eyster",
+      "tmdb": 142264,
+      "imdb": "nm0264269",
+      "wikidata": "Q17037394",
+      "credit": "guest",
+      "billing": 16
+    },
+    "andra-petru": {
+      "name": "Andra Petru",
+      "tmdb": 1507111,
+      "imdb": "nm3615101",
+      "credit": "guest",
+      "billing": 17
+    },
+    "susan-angelo": {
+      "name": "Susan Angelo",
+      "tmdb": 157081,
+      "imdb": "nm0029695",
+      "credit": "guest",
+      "billing": 18
+    },
+    "sterling-macer-jr": {
+      "name": "Sterling Macer Jr.",
+      "tmdb": 1246618,
+      "imdb": "nm0532160",
+      "wikidata": "Q113804287",
+      "credit": "guest",
+      "billing": 19
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 20
+    }
+  },
   "segments": [
     {
       "from": "00:05:27.245",

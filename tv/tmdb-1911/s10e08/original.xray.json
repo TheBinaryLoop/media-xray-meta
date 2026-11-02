@@ -23,6 +23,128 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 6
+    },
+    "sean-marquette": {
+      "name": "Sean Marquette",
+      "tmdb": 63373,
+      "imdb": "nm0549826",
+      "wikidata": "Q4356272",
+      "credit": "guest",
+      "billing": 7
+    },
+    "alison-haislip": {
+      "name": "Alison Haislip",
+      "tmdb": 110248,
+      "imdb": "nm1689872",
+      "wikidata": "Q4727086",
+      "credit": "guest",
+      "billing": 8
+    },
+    "mindy-cohn": {
+      "name": "Mindy Cohn",
+      "tmdb": 86314,
+      "imdb": "nm0169934",
+      "wikidata": "Q276209",
+      "credit": "guest",
+      "billing": 9
+    },
+    "debbon-ayer": {
+      "name": "Debbon Ayer",
+      "tmdb": 211,
+      "imdb": "nm0043743",
+      "wikidata": "Q26198064",
+      "credit": "guest",
+      "billing": 10
+    },
+    "sam-lloyd": {
+      "name": "Sam Lloyd",
+      "tmdb": 46920,
+      "imdb": "nm0516127",
+      "wikidata": "Q591421",
+      "credit": "guest",
+      "billing": 11
+    },
+    "jack-topalian": {
+      "name": "Jack Topalian",
+      "tmdb": 146906,
+      "imdb": "nm4152507",
+      "wikidata": "Q90693543",
+      "credit": "guest",
+      "billing": 12
+    },
+    "tracey-costello": {
+      "name": "Tracey Costello",
+      "tmdb": 1580143,
+      "imdb": "nm0182620",
+      "wikidata": "Q24009501",
+      "credit": "guest",
+      "billing": 13
+    },
+    "terryn-westbrook": {
+      "name": "Terryn Westbrook",
+      "tmdb": 87284,
+      "imdb": "nm1382044",
+      "wikidata": "Q7705204",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:04:16.078",

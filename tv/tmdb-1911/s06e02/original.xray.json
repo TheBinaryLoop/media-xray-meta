@@ -23,6 +23,134 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "scott-michael-campbell": {
+      "name": "Scott Michael Campbell",
+      "tmdb": 65728,
+      "imdb": "nm0132843",
+      "wikidata": "Q3952855",
+      "credit": "guest",
+      "billing": 7
+    },
+    "justina-machado": {
+      "name": "Justina Machado",
+      "tmdb": 95517,
+      "imdb": "nm0532461",
+      "wikidata": "Q270382",
+      "credit": "guest",
+      "billing": 8
+    },
+    "bobby-hosea": {
+      "name": "Bobby Hosea",
+      "tmdb": 29775,
+      "imdb": "nm0395914",
+      "wikidata": "Q4935135",
+      "credit": "guest",
+      "billing": 9
+    },
+    "david-meunier": {
+      "name": "David Meunier",
+      "tmdb": 1224149,
+      "imdb": "nm1635108",
+      "wikidata": "Q15137380",
+      "credit": "guest",
+      "billing": 10
+    },
+    "karina-logue": {
+      "name": "Karina Logue",
+      "tmdb": 62567,
+      "imdb": "nm0517792",
+      "wikidata": "Q15069897",
+      "credit": "guest",
+      "billing": 11
+    },
+    "jack-impellizzeri": {
+      "name": "Jack Impellizzeri",
+      "tmdb": 1536454,
+      "imdb": "nm1553640",
+      "credit": "guest",
+      "billing": 12
+    },
+    "kristina-hayes": {
+      "name": "Kristina Hayes",
+      "tmdb": 1346087,
+      "imdb": "nm0371111",
+      "credit": "guest",
+      "billing": 13
+    },
+    "dave-buzzotta": {
+      "name": "Dave Buzzotta",
+      "tmdb": 56574,
+      "imdb": "nm0125659",
+      "wikidata": "Q1173139",
+      "credit": "guest",
+      "billing": 14
+    },
+    "katheryn-winnick": {
+      "name": "Katheryn Winnick",
+      "tmdb": 26723,
+      "imdb": "nm0935395",
+      "wikidata": "Q268298",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:04:39.695",

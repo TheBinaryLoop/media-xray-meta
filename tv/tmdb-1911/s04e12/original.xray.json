@@ -23,6 +23,187 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "ed-gale": {
+      "name": "Ed Gale",
+      "tmdb": 1471,
+      "imdb": "nm0301839",
+      "wikidata": "Q768685",
+      "credit": "guest",
+      "billing": 6
+    },
+    "lester-speight": {
+      "name": "Lester Speight",
+      "tmdb": 58925,
+      "imdb": "nm0711529",
+      "wikidata": "Q3830953",
+      "credit": "guest",
+      "billing": 7
+    },
+    "greg-romero-wilson": {
+      "name": "Greg Romero Wilson",
+      "tmdb": 134206,
+      "imdb": "nm1034313",
+      "wikidata": "Q19880107",
+      "credit": "guest",
+      "billing": 8
+    },
+    "bernard-white": {
+      "name": "Bernard White",
+      "tmdb": 156739,
+      "imdb": "nm0924502",
+      "wikidata": "Q822780",
+      "credit": "guest",
+      "billing": 9
+    },
+    "mageina-tovah": {
+      "name": "Mageina Tovah",
+      "tmdb": 20645,
+      "imdb": "nm1033193",
+      "wikidata": "Q271059",
+      "credit": "guest",
+      "billing": 10
+    },
+    "michael-monks": {
+      "name": "Michael Monks",
+      "tmdb": 53249,
+      "imdb": "nm0598282",
+      "wikidata": "Q125504578",
+      "credit": "guest",
+      "billing": 11
+    },
+    "maggie-baird": {
+      "name": "Maggie Baird",
+      "tmdb": 1219812,
+      "imdb": "nm0047896",
+      "wikidata": "Q23301569",
+      "credit": "guest",
+      "billing": 12
+    },
+    "stephen-lee": {
+      "name": "Stephen Lee",
+      "tmdb": 91537,
+      "imdb": "nm0498280",
+      "wikidata": "Q2344900",
+      "credit": "guest",
+      "billing": 13
+    },
+    "michael-patrick-mcgill": {
+      "name": "Michael Patrick McGill",
+      "tmdb": 154816,
+      "imdb": "nm1042946",
+      "wikidata": "Q59327297",
+      "credit": "guest",
+      "billing": 14
+    },
+    "andy-richter": {
+      "name": "Andy Richter",
+      "tmdb": 28637,
+      "imdb": "nm0725200",
+      "wikidata": "Q497851",
+      "credit": "guest",
+      "billing": 15
+    },
+    "jason-james-richter": {
+      "name": "Jason James Richter",
+      "tmdb": 18259,
+      "imdb": "nm0725284",
+      "wikidata": "Q711078",
+      "credit": "guest",
+      "billing": 16
+    },
+    "alix-angelis": {
+      "name": "Alix Angelis",
+      "tmdb": 965980,
+      "imdb": "nm3240564",
+      "credit": "guest",
+      "billing": 17
+    },
+    "kris-angelis": {
+      "name": "Kris Angelis",
+      "tmdb": 1102314,
+      "imdb": "nm2554263",
+      "credit": "guest",
+      "billing": 18
+    },
+    "deon-aumaier": {
+      "name": "Deon Aumaier",
+      "tmdb": 2385062,
+      "imdb": "nm0042086",
+      "credit": "guest",
+      "billing": 19
+    },
+    "david-dustin-kenyon": {
+      "name": "David Dustin Kenyon",
+      "tmdb": 1585672,
+      "imdb": "nm3462377",
+      "credit": "guest",
+      "billing": 20
+    },
+    "mighty-mike-murga": {
+      "name": "Mighty Mike Murga",
+      "tmdb": 99428,
+      "imdb": "nm1727696",
+      "credit": "guest",
+      "billing": 21
+    },
+    "ryan-cartwright": {
+      "name": "Ryan Cartwright",
+      "tmdb": 76916,
+      "imdb": "nm0142206",
+      "wikidata": "Q3453757",
+      "credit": "guest",
+      "billing": 22
+    }
+  },
   "segments": [
     {
       "from": "00:05:29.031",

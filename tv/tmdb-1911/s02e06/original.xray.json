@@ -23,6 +23,111 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "cerina-vincent": {
+      "name": "Cerina Vincent",
+      "tmdb": 52365,
+      "imdb": "nm0898597",
+      "wikidata": "Q270074",
+      "credit": "guest",
+      "billing": 6
+    },
+    "john-kassir": {
+      "name": "John Kassir",
+      "tmdb": 31365,
+      "imdb": "nm0440885",
+      "wikidata": "Q1582689",
+      "credit": "guest",
+      "billing": 7
+    },
+    "carlos-lacamara": {
+      "name": "Carlos Lacámara",
+      "tmdb": 1212247,
+      "imdb": "nm0479801",
+      "wikidata": "Q5042257",
+      "credit": "guest",
+      "billing": 8
+    },
+    "bertila-damas": {
+      "name": "Bertila Damas",
+      "tmdb": 143171,
+      "imdb": "nm0198620",
+      "wikidata": "Q23879995",
+      "credit": "guest",
+      "billing": 9
+    },
+    "laura-leigh-hughes": {
+      "name": "Laura Leigh Hughes",
+      "tmdb": 1231497,
+      "imdb": "nm0400747",
+      "credit": "guest",
+      "billing": 10
+    },
+    "andres-londono": {
+      "name": "Andres Londono",
+      "tmdb": 1018723,
+      "imdb": "nm2150265",
+      "wikidata": "Q65021588",
+      "credit": "guest",
+      "billing": 11
+    },
+    "danny-woodburn": {
+      "name": "Danny Woodburn",
+      "tmdb": 13645,
+      "imdb": "nm0940173",
+      "wikidata": "Q1164810",
+      "credit": "guest",
+      "billing": 12
+    }
+  },
   "segments": [
     {
       "from": "00:03:44.754",

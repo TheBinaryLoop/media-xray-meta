@@ -23,6 +23,143 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "dean-norris": {
+      "name": "Dean Norris",
+      "tmdb": 14329,
+      "imdb": "nm0606487",
+      "wikidata": "Q432385",
+      "credit": "guest",
+      "billing": 6
+    },
+    "michael-badalucco": {
+      "name": "Michael Badalucco",
+      "tmdb": 1010,
+      "imdb": "nm0045937",
+      "wikidata": "Q714675",
+      "credit": "guest",
+      "billing": 7
+    },
+    "heidi-swedberg": {
+      "name": "Heidi Swedberg",
+      "tmdb": 62551,
+      "imdb": "nm0842056",
+      "wikidata": "Q2986219",
+      "credit": "guest",
+      "billing": 8
+    },
+    "devon-graye": {
+      "name": "Devon Graye",
+      "tmdb": 111518,
+      "imdb": "nm1984458",
+      "wikidata": "Q704184",
+      "credit": "guest",
+      "billing": 9
+    },
+    "adam-rose": {
+      "name": "Adam Rose",
+      "tmdb": 962997,
+      "imdb": "nm0741219",
+      "wikidata": "Q108921051",
+      "credit": "guest",
+      "billing": 10
+    },
+    "susan-chuang": {
+      "name": "Susan Chuang",
+      "tmdb": 67020,
+      "imdb": "nm0160930",
+      "wikidata": "Q42521547",
+      "credit": "guest",
+      "billing": 11
+    },
+    "demetrius-grosse": {
+      "name": "Demetrius Grosse",
+      "tmdb": 202892,
+      "imdb": "nm2009006",
+      "wikidata": "Q19478542",
+      "credit": "guest",
+      "billing": 12
+    },
+    "steve-spel": {
+      "name": "Steve Spel",
+      "tmdb": 1498208,
+      "imdb": "nm2225959",
+      "credit": "guest",
+      "billing": 13
+    },
+    "cesar-millan": {
+      "name": "Cesar Millan",
+      "tmdb": 206911,
+      "imdb": "nm1559638",
+      "wikidata": "Q357617",
+      "credit": "guest",
+      "billing": 14
+    },
+    "david-greenman": {
+      "name": "David Greenman",
+      "tmdb": 1214444,
+      "imdb": "nm1476528",
+      "wikidata": "Q5234374",
+      "credit": "guest",
+      "billing": 15
+    },
+    "ty-panitz": {
+      "name": "Ty Panitz",
+      "tmdb": 25144,
+      "imdb": "nm1892830",
+      "wikidata": "Q469072",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:04:49.078",

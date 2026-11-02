@@ -21,5 +21,54 @@
       "to": "00:33:20.656",
       "fingerprint": "AQAAjOKUJI-ENgkf-EwVXHjRPMUR_2gGzcuc4MiloEeTB-9xBD2NErrwOcEzykGO9nhQ3kPzuCi1WbiC63B44_hwFV0lmEdtHO-RH_1hSjR-6PCE90g7OLnQf8KjFBf840uON8edfUi1dLj0hngW9tByod-RU3lwrcezHedwMsaPJj26Mcct_Hh0XEihvkKco5lzeOnRH9dx5IWePRHKnmhwHCearDd-_Mf_4DByBPiBftD2w8cPPYaovUiPfaCP_BgLnc0RHMcfPFFZXNJxJkOyJ2oQ_XimgJGSZhGaMTnyqUiW2Dr65Ar2JHjkCCUq6rgDqx72S3h2xKLQZOlxwlyO7kOlGzkBAQBRCBFBgjIEKsEA8JAKZIgCThHhACNSCWQlgIQQhBAzwgJAACCCIGEAEIAYghQmAEHiCJLAEIAIrIAAhohwSAhjAHDUIUKIgoY4hbgQSqBKuCGECqOQAgQQTKQThhHDFBMC"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "eric-millegan": "Dr. Zack Addy",
+    "ryan-o-neal": "Matthew Brennan/Max Keenan",
+    "patricia-belcher": "Caroline Julian",
+    "loren-dean": "Russ Brennan/Kyle Keenan"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "eric-millegan": {
+      "name": "David Turba",
+      "wikidata": "Q111609"
+    },
+    "ryan-o-neal": {
+      "name": "Hans-Jürgen Dittberner",
+      "wikidata": "Q1577655"
+    },
+    "patricia-belcher": {
+      "name": "Evelyn Meyka",
+      "wikidata": "Q1381776"
+    },
+    "loren-dean": {
+      "name": "Dennis Schmidt-Foß",
+      "wikidata": "Q102945"
+    }
+  }
 }

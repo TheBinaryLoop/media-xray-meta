@@ -23,6 +23,132 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "george-coe": {
+      "name": "George Coe",
+      "tmdb": 14102,
+      "imdb": "nm0168642",
+      "wikidata": "Q3760469",
+      "credit": "guest",
+      "billing": 6
+    },
+    "wendy-braun": {
+      "name": "Wendy Braun",
+      "tmdb": 177164,
+      "imdb": "nm0105876",
+      "wikidata": "Q7982611",
+      "credit": "guest",
+      "billing": 7
+    },
+    "soren-fulton": {
+      "name": "Soren Fulton",
+      "tmdb": 60459,
+      "imdb": "nm1002695",
+      "wikidata": "Q3491185",
+      "credit": "guest",
+      "billing": 8
+    },
+    "david-burke": {
+      "name": "David Burke",
+      "tmdb": 107408,
+      "imdb": "nm0121652",
+      "wikidata": "Q10264380",
+      "credit": "guest",
+      "billing": 9
+    },
+    "johnny-lewis": {
+      "name": "Johnny Lewis",
+      "tmdb": 51455,
+      "imdb": "nm0507381",
+      "wikidata": "Q1259397",
+      "credit": "guest",
+      "billing": 10
+    },
+    "william-jonathan-georges": {
+      "name": "William Jonathan Georges",
+      "tmdb": 1252478,
+      "credit": "guest",
+      "billing": 11
+    },
+    "wendy-way": {
+      "name": "Wendy Way",
+      "tmdb": 79589,
+      "imdb": "nm0915456",
+      "credit": "guest",
+      "billing": 12
+    },
+    "nikita-efremov": {
+      "name": "Nikita Efremov",
+      "tmdb": 931253,
+      "imdb": "nm3362705",
+      "wikidata": "Q4177512",
+      "credit": "guest",
+      "billing": 13
+    },
+    "stephen-fry": {
+      "name": "Stephen Fry",
+      "tmdb": 11275,
+      "imdb": "nm0000410",
+      "wikidata": "Q192912",
+      "credit": "guest",
+      "billing": 14
+    },
+    "kelly-lohman": {
+      "name": "Kelly Lohman",
+      "tmdb": 3714622,
+      "imdb": "nm1877517",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:03:01.974",

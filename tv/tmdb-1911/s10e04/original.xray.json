@@ -23,6 +23,125 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "laura-spencer": {
+      "name": "Laura Spencer",
+      "tmdb": 591519,
+      "imdb": "nm3189010",
+      "wikidata": "Q16832120",
+      "credit": "guest",
+      "billing": 6
+    },
+    "erik-stocklin": {
+      "name": "Erik Stocklin",
+      "tmdb": 931498,
+      "imdb": "nm3857399",
+      "wikidata": "Q26924750",
+      "credit": "guest",
+      "billing": 7
+    },
+    "chad-michael-collins": {
+      "name": "Chad Michael Collins",
+      "tmdb": 228371,
+      "imdb": "nm1792864",
+      "wikidata": "Q15726941",
+      "credit": "guest",
+      "billing": 8
+    },
+    "alexandra-metz": {
+      "name": "Alexandra Metz",
+      "tmdb": 1010959,
+      "imdb": "nm3880032",
+      "wikidata": "Q67739697",
+      "credit": "guest",
+      "billing": 9
+    },
+    "denyse-tontz": {
+      "name": "Denyse Tontz",
+      "tmdb": 216936,
+      "imdb": "nm2218397",
+      "wikidata": "Q5802784",
+      "credit": "guest",
+      "billing": 10
+    },
+    "trevor-gore": {
+      "name": "Trevor Gore",
+      "tmdb": 1958879,
+      "imdb": "nm4491220",
+      "credit": "guest",
+      "billing": 11
+    },
+    "mandy-mcmillian": {
+      "name": "Mandy McMillian",
+      "tmdb": 1228610,
+      "imdb": "nm2193020",
+      "credit": "guest",
+      "billing": 12
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 13
+    },
+    "liam-james-ramos": {
+      "name": "Liam James Ramos",
+      "tmdb": 1836441,
+      "imdb": "nm6729487",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:04:35.404",

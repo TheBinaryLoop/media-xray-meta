@@ -21,5 +21,29 @@
       "to": "00:33:46.576",
       "fingerprint": "AQAAjEmSREqiKFPxH__hw0doo0f6RCmO5sWrD91oaMke9FSG5oR-uGIsZM5Q6UfzxfiF5qgoBjn0I18qnNJwhUX9oPk4Is_xnUISKVkyF8eJ_MiPo4nWFD9xlGUFb0eeC7qBl8a-AdwV_Mcxr0e14zaaP0P1B3eMJuiPWoePX4eTZjlKHs8p6DtOJYRrfCpe5SEe6Qh7TEmeCjmPK8FH-JCaHU-I8QyefFDFI30iB0_xwt9xFWMS-DuehAfH47jzFbUuJMsUI19u_HCohBSei8J1IX0-vNiHXNvhR8mJy0TeQV-G6ykRTvHxNdrh2sGkH8iuJBkeKcWlJxmuPBS0q8E3Q-FTpMclHbWD5Ef0JziboAmVVEEV9ngGdz-O7NC3IvaIT4nI4KeMX7iZAmEEIUIoBTggABAggFDCAaQAZ4QoopQRGAQAMDKOOWQIMQIRIAAgQBEhgJAUGAOYEUAhBogwgAiECDHKCUUARUoAIBCAAhBDAFHAKIKIEk4AwqQCghGBEFBEAMOQEcxgAwCDlAAYjAAKIQA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "john-boyd": "James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "patricia-belcher": "Caroline Julian",
+    "laura-spencer": "Jessica Warren",
+    "brenda-strong": "Senator Hayley Winters",
+    "james-murray": "Murray",
+    "sal-vulcano": "Sal",
+    "nicholas-gonzalez": "Eric Morales",
+    "ali-hillis": "Lynette O'Malley",
+    "dat-phan": "Manager",
+    "stevie-lynn-jones": "Anissa Green",
+    "brian-scolaro": "Frankie Cesari",
+    "melissa-etezadi": "Reporter #1",
+    "nefetari-spencer": "Reporter #2",
+    "ford-austin": "David",
+    "frederick-keeve": "U.S. Senator",
+    "afsheen-olyaie": "FBI Agent",
+    "jamie-soricelli": "Senator Winters Staff"
+  }
 }

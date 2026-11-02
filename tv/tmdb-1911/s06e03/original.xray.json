@@ -23,6 +23,156 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "joel-david-moore": {
+      "name": "Joel David Moore",
+      "tmdb": 59231,
+      "imdb": "nm0601376",
+      "wikidata": "Q371786",
+      "credit": "guest",
+      "billing": 6
+    },
+    "b-j-britt": {
+      "name": "B.J. Britt",
+      "tmdb": 1214865,
+      "imdb": "nm1580957",
+      "wikidata": "Q17284894",
+      "credit": "guest",
+      "billing": 7
+    },
+    "lisa-locicero": {
+      "name": "Lisa LoCicero",
+      "tmdb": 101012,
+      "imdb": "nm0516225",
+      "wikidata": "Q2375826",
+      "credit": "guest",
+      "billing": 8
+    },
+    "joseph-russo": {
+      "name": "Joseph Russo",
+      "tmdb": 1058023,
+      "imdb": "nm3806927",
+      "credit": "guest",
+      "billing": 9
+    },
+    "gina-la-piana": {
+      "name": "Gina La Piana",
+      "tmdb": 57197,
+      "imdb": "nm0478834",
+      "wikidata": "Q5562884",
+      "credit": "guest",
+      "billing": 10
+    },
+    "liana-mendoza": {
+      "name": "Liana Mendoza",
+      "tmdb": 1107486,
+      "imdb": "nm12514240",
+      "credit": "guest",
+      "billing": 11
+    },
+    "jonathan-kowalsky": {
+      "name": "Jonathan Kowalsky",
+      "tmdb": 127588,
+      "imdb": "nm1355563",
+      "credit": "guest",
+      "billing": 12
+    },
+    "antonio-sabato-jr": {
+      "name": "Antonio Sabàto Jr.",
+      "tmdb": 44222,
+      "imdb": "nm0004645",
+      "wikidata": "Q379461",
+      "credit": "guest",
+      "billing": 13
+    },
+    "jack-donner": {
+      "name": "Jack Donner",
+      "tmdb": 16052,
+      "imdb": "nm0232800",
+      "wikidata": "Q6112134",
+      "credit": "guest",
+      "billing": 14
+    },
+    "anthony-pumilio": {
+      "name": "Anthony Pumilio",
+      "tmdb": 1034767,
+      "imdb": "nm4043965",
+      "credit": "guest",
+      "billing": 15
+    },
+    "anthony-martins": {
+      "name": "Anthony Martins",
+      "tmdb": 1096679,
+      "imdb": "nm1215266",
+      "wikidata": "Q131577229",
+      "credit": "guest",
+      "billing": 16
+    },
+    "audi-resendez": {
+      "name": "Audi Resendez",
+      "tmdb": 1058026,
+      "imdb": "nm2679217",
+      "wikidata": "Q65710556",
+      "credit": "guest",
+      "billing": 17
+    },
+    "katheryn-winnick": {
+      "name": "Katheryn Winnick",
+      "tmdb": 26723,
+      "imdb": "nm0935395",
+      "wikidata": "Q268298",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:03:31.823",

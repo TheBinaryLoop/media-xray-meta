@@ -23,6 +23,112 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 6
+    },
+    "sebastian-roche": {
+      "name": "Sebastian Roché",
+      "tmdb": 23789,
+      "imdb": "nm0003067",
+      "wikidata": "Q605857",
+      "credit": "guest",
+      "billing": 7
+    },
+    "gilles-marini": {
+      "name": "Gilles Marini",
+      "tmdb": 58723,
+      "imdb": "nm1694302",
+      "wikidata": "Q181997",
+      "credit": "guest",
+      "billing": 8
+    },
+    "nicole-bilderback": {
+      "name": "Nicole Bilderback",
+      "tmdb": 17775,
+      "imdb": "nm0082169",
+      "wikidata": "Q487955",
+      "credit": "guest",
+      "billing": 9
+    },
+    "rebekah-graf": {
+      "name": "Rebekah Graf",
+      "tmdb": 1372176,
+      "imdb": "nm3330483",
+      "wikidata": "Q65054865",
+      "credit": "guest",
+      "billing": 10
+    },
+    "tom-wisdom": {
+      "name": "Tom Wisdom",
+      "tmdb": 17292,
+      "imdb": "nm0936300",
+      "wikidata": "Q1320089",
+      "credit": "guest",
+      "billing": 11
+    },
+    "desmond-chiam": {
+      "name": "Desmond Chiam",
+      "tmdb": 2111842,
+      "imdb": "nm3706852",
+      "wikidata": "Q66490720",
+      "credit": "guest",
+      "billing": 12
+    }
+  },
   "segments": [
     {
       "from": "00:05:16.471",

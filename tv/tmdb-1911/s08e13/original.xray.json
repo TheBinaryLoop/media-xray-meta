@@ -23,6 +23,137 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 6
+    },
+    "larry-dorf": {
+      "name": "Larry Dorf",
+      "tmdb": 156106,
+      "imdb": "nm0233539",
+      "credit": "guest",
+      "billing": 7
+    },
+    "vik-sahay": {
+      "name": "Vik Sahay",
+      "tmdb": 6623,
+      "imdb": "nm0006710",
+      "wikidata": "Q973437",
+      "credit": "guest",
+      "billing": 8
+    },
+    "john-rubinstein": {
+      "name": "John Rubinstein",
+      "tmdb": 44261,
+      "imdb": "nm0748270",
+      "wikidata": "Q1701620",
+      "credit": "guest",
+      "billing": 9
+    },
+    "kimberly-jurgen": {
+      "name": "Kimberly Jürgen",
+      "tmdb": 1374943,
+      "imdb": "nm2296430",
+      "credit": "guest",
+      "billing": 10
+    },
+    "brendan-patrick-connor": {
+      "name": "Brendan Patrick Connor",
+      "tmdb": 1217576,
+      "imdb": "nm1615964",
+      "wikidata": "Q4961066",
+      "credit": "guest",
+      "billing": 11
+    },
+    "john-lee-ames": {
+      "name": "John Lee Ames",
+      "tmdb": 205345,
+      "imdb": "nm0996359",
+      "credit": "guest",
+      "billing": 12
+    },
+    "shane-giedraitis": {
+      "name": "Shane Giedraitis",
+      "tmdb": 1984011,
+      "imdb": "nm6068527",
+      "credit": "guest",
+      "billing": 13
+    },
+    "dianne-scott": {
+      "name": "Dianne Scott",
+      "tmdb": 2481579,
+      "imdb": "nm7594320",
+      "credit": "guest",
+      "billing": 14
+    },
+    "ali-louise-hartman": {
+      "name": "Ali Louise Hartman",
+      "tmdb": 1439573,
+      "imdb": "nm5116720",
+      "credit": "guest",
+      "billing": 15
+    },
+    "susanne-allan-hartman": {
+      "name": "Susanne Allan Hartman",
+      "tmdb": 1439572,
+      "imdb": "nm5116773",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:04:06.271",

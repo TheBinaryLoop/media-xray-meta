@@ -23,6 +23,141 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 6
+    },
+    "sam-sarpong": {
+      "name": "Sam Sarpong",
+      "tmdb": 146008,
+      "imdb": "nm0765493",
+      "wikidata": "Q7408117",
+      "credit": "guest",
+      "billing": 7
+    },
+    "gabriel-salvador": {
+      "name": "Gabriel Salvador",
+      "tmdb": 205554,
+      "imdb": "nm0759229",
+      "credit": "guest",
+      "billing": 8
+    },
+    "jessica-camacho": {
+      "name": "Jessica Camacho",
+      "tmdb": 1030995,
+      "imdb": "nm2886648",
+      "wikidata": "Q24088777",
+      "credit": "guest",
+      "billing": 9
+    },
+    "malcolm-foster-smith": {
+      "name": "Malcolm Foster Smith",
+      "tmdb": 1351387,
+      "imdb": "nm1491447",
+      "credit": "guest",
+      "billing": 10
+    },
+    "jason-gray-stanford": {
+      "name": "Jason Gray-Stanford",
+      "tmdb": 6166,
+      "imdb": "nm0337020",
+      "wikidata": "Q918321",
+      "credit": "guest",
+      "billing": 11
+    },
+    "linda-lavin": {
+      "name": "Linda Lavin",
+      "tmdb": 113223,
+      "imdb": "nm0492089",
+      "wikidata": "Q468443",
+      "credit": "guest",
+      "billing": 12
+    },
+    "kimleigh-smith": {
+      "name": "Kimleigh Smith",
+      "tmdb": 1464357,
+      "imdb": "nm0808991",
+      "wikidata": "Q114246303",
+      "credit": "guest",
+      "billing": 13
+    },
+    "christian-telesmar": {
+      "name": "Christian Telesmar",
+      "tmdb": 2489329,
+      "imdb": "nm3649882",
+      "credit": "guest",
+      "billing": 14
+    },
+    "ignacio-serricchio": {
+      "name": "Ignacio Serricchio",
+      "tmdb": 139868,
+      "imdb": "nm1579445",
+      "wikidata": "Q5992454",
+      "credit": "guest",
+      "billing": 15
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:05:56.304",

@@ -23,6 +23,128 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 3
+    },
+    "jonathan-adams": {
+      "name": "Jonathan Adams",
+      "tmdb": 13477,
+      "imdb": "nm0011095",
+      "wikidata": "Q983873",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "josh-hopkins": {
+      "name": "Josh Hopkins",
+      "tmdb": 31532,
+      "imdb": "nm0005020",
+      "wikidata": "Q597515",
+      "credit": "guest",
+      "billing": 6
+    },
+    "alicia-coppola": {
+      "name": "Alicia Coppola",
+      "tmdb": 126875,
+      "imdb": "nm0178870",
+      "wikidata": "Q271626",
+      "credit": "guest",
+      "billing": 7
+    },
+    "leonard-roberts": {
+      "name": "Leonard Roberts",
+      "tmdb": 83859,
+      "imdb": "nm0731346",
+      "wikidata": "Q361604",
+      "credit": "guest",
+      "billing": 8
+    },
+    "rachel-miner": {
+      "name": "Rachel Miner",
+      "tmdb": 54126,
+      "imdb": "nm0001540",
+      "wikidata": "Q262218",
+      "credit": "guest",
+      "billing": 9
+    },
+    "ross-mccall": {
+      "name": "Ross McCall",
+      "tmdb": 56366,
+      "imdb": "nm0564680",
+      "wikidata": "Q1335112",
+      "credit": "guest",
+      "billing": 10
+    },
+    "kate-mcneil": {
+      "name": "Kate McNeil",
+      "tmdb": 104873,
+      "imdb": "nm0573896",
+      "wikidata": "Q6375650",
+      "credit": "guest",
+      "billing": 11
+    },
+    "matt-ross": {
+      "name": "Matt Ross",
+      "tmdb": 11154,
+      "imdb": "nm0743671",
+      "wikidata": "Q1190406",
+      "credit": "guest",
+      "billing": 12
+    },
+    "lou-richards": {
+      "name": "Lou Richards",
+      "tmdb": 154867,
+      "imdb": "nm0724224",
+      "wikidata": "Q6685719",
+      "credit": "guest",
+      "billing": 13
+    },
+    "keith-sellon-wright": {
+      "name": "Keith Sellon-Wright",
+      "tmdb": 1541355,
+      "imdb": "nm0783432",
+      "wikidata": "Q24021032",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:07:28.365",

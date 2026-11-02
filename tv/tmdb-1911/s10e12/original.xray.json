@@ -23,6 +23,148 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 6
+    },
+    "laura-spencer": {
+      "name": "Laura Spencer",
+      "tmdb": 591519,
+      "imdb": "nm3189010",
+      "wikidata": "Q16832120",
+      "credit": "guest",
+      "billing": 7
+    },
+    "nathaniel-buzolic": {
+      "name": "Nathaniel Buzolic",
+      "tmdb": 1483257,
+      "imdb": "nm1692762",
+      "wikidata": "Q29735",
+      "credit": "guest",
+      "billing": 8
+    },
+    "allius-barnes": {
+      "name": "Allius Barnes",
+      "tmdb": 1853386,
+      "imdb": "nm3199933",
+      "wikidata": "Q110021843",
+      "credit": "guest",
+      "billing": 9
+    },
+    "allen-maldonado": {
+      "name": "Allen Maldonado",
+      "tmdb": 141432,
+      "imdb": "nm1280286",
+      "wikidata": "Q17517184",
+      "credit": "guest",
+      "billing": 10
+    },
+    "brendan-robinson": {
+      "name": "Brendan Robinson",
+      "tmdb": 1011208,
+      "imdb": "nm2971230",
+      "wikidata": "Q2023746",
+      "credit": "guest",
+      "billing": 11
+    },
+    "anna-khaja": {
+      "name": "Anna Khaja",
+      "tmdb": 113567,
+      "imdb": "nm0451039",
+      "wikidata": "Q56161717",
+      "credit": "guest",
+      "billing": 12
+    },
+    "josh-latzer": {
+      "name": "Josh Latzer",
+      "tmdb": 1472182,
+      "imdb": "nm1662118",
+      "credit": "guest",
+      "billing": 13
+    },
+    "george-sharperson": {
+      "name": "George Sharperson",
+      "tmdb": 157058,
+      "imdb": "nm0789284",
+      "credit": "guest",
+      "billing": 14
+    },
+    "peter-banifaz": {
+      "name": "Peter Banifaz",
+      "tmdb": 1561485,
+      "imdb": "nm2467531",
+      "wikidata": "Q110873887",
+      "credit": "guest",
+      "billing": 15
+    },
+    "heather-geisler": {
+      "name": "Heather Geisler",
+      "tmdb": 2031128,
+      "imdb": "nm6915579",
+      "credit": "guest",
+      "billing": 16
+    },
+    "nicolle-radzivil": {
+      "name": "Nicolle Radzivil",
+      "tmdb": 1512737,
+      "imdb": "nm5280886",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:04:19.366",

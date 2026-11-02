@@ -23,6 +23,127 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "joel-david-moore": {
+      "name": "Joel David Moore",
+      "tmdb": 59231,
+      "imdb": "nm0601376",
+      "wikidata": "Q371786",
+      "credit": "guest",
+      "billing": 6
+    },
+    "ewan-chung": {
+      "name": "Ewan Chung",
+      "tmdb": 61833,
+      "imdb": "nm1028658",
+      "wikidata": "Q23675355",
+      "credit": "guest",
+      "billing": 7
+    },
+    "katharine-leonard": {
+      "name": "Katharine Leonard",
+      "tmdb": 1905262,
+      "imdb": "nm1830767",
+      "credit": "guest",
+      "billing": 8
+    },
+    "pete-gardner": {
+      "name": "Pete Gardner",
+      "tmdb": 159365,
+      "imdb": "nm0307066",
+      "wikidata": "Q28911777",
+      "credit": "guest",
+      "billing": 9
+    },
+    "devin-mcginn": {
+      "name": "Devin McGinn",
+      "tmdb": 98389,
+      "imdb": "nm1408629",
+      "wikidata": "Q114080320",
+      "credit": "guest",
+      "billing": 10
+    },
+    "kim-robillard": {
+      "name": "Kim Robillard",
+      "tmdb": 5150,
+      "imdb": "nm0732152",
+      "wikidata": "Q24300444",
+      "credit": "guest",
+      "billing": 11
+    },
+    "edward-james-gage": {
+      "name": "Edward James Gage",
+      "tmdb": 76033,
+      "imdb": "nm0300803",
+      "wikidata": "Q3048562",
+      "credit": "guest",
+      "billing": 12
+    },
+    "omi-vaidya": {
+      "name": "Omi Vaidya",
+      "tmdb": 169201,
+      "imdb": "nm1437925",
+      "wikidata": "Q7090148",
+      "credit": "guest",
+      "billing": 13
+    },
+    "david-greenman": {
+      "name": "David Greenman",
+      "tmdb": 1214444,
+      "imdb": "nm1476528",
+      "wikidata": "Q5234374",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:06:15.686",

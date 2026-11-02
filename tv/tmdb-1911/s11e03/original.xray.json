@@ -23,6 +23,134 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "michael-grant-terry": {
+      "name": "Michael Grant Terry",
+      "tmdb": 205984,
+      "imdb": "nm2163204",
+      "wikidata": "Q3308554",
+      "credit": "guest",
+      "billing": 6
+    },
+    "david-berman": {
+      "name": "David Berman",
+      "tmdb": 1224393,
+      "imdb": "nm2003884",
+      "wikidata": "Q3269263",
+      "credit": "guest",
+      "billing": 7
+    },
+    "kirsten-nelson": {
+      "name": "Kirsten Nelson",
+      "tmdb": 1219500,
+      "imdb": "nm0625529",
+      "wikidata": "Q459025",
+      "credit": "guest",
+      "billing": 8
+    },
+    "alex-fernandez": {
+      "name": "Alex Fernandez",
+      "tmdb": 79054,
+      "imdb": "nm0273371",
+      "wikidata": "Q4716981",
+      "credit": "guest",
+      "billing": 9
+    },
+    "gil-darnell": {
+      "name": "Gil Darnell",
+      "tmdb": 195547,
+      "imdb": "nm1534895",
+      "wikidata": "Q64348200",
+      "credit": "guest",
+      "billing": 10
+    },
+    "regi-davis": {
+      "name": "Regi Davis",
+      "tmdb": 169615,
+      "imdb": "nm0205318",
+      "wikidata": "Q3423449",
+      "credit": "guest",
+      "billing": 11
+    },
+    "colleen-foy": {
+      "name": "Colleen Foy",
+      "tmdb": 52566,
+      "imdb": "nm2460445",
+      "wikidata": "Q132906464",
+      "credit": "guest",
+      "billing": 12
+    },
+    "bayne-gibby": {
+      "name": "Bayne Gibby",
+      "tmdb": 1402319,
+      "imdb": "nm1708795",
+      "credit": "guest",
+      "billing": 13
+    },
+    "marina-anderson": {
+      "name": "Marina Anderson",
+      "tmdb": 1879706,
+      "imdb": "nm0195672",
+      "credit": "guest",
+      "billing": 14
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:05:57.323",

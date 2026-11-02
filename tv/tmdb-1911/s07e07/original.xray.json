@@ -23,6 +23,190 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 6
+    },
+    "johnny-ray-gill": {
+      "name": "Johnny Ray Gill",
+      "tmdb": 1106865,
+      "imdb": "nm3331401",
+      "wikidata": "Q16237416",
+      "credit": "guest",
+      "billing": 7
+    },
+    "jerry-kernion": {
+      "name": "Jerry Kernion",
+      "tmdb": 1001821,
+      "imdb": "nm0449570",
+      "wikidata": "Q2380965",
+      "credit": "guest",
+      "billing": 8
+    },
+    "jessica-tuck": {
+      "name": "Jessica Tuck",
+      "tmdb": 156689,
+      "imdb": "nm0875768",
+      "wikidata": "Q2529744",
+      "credit": "guest",
+      "billing": 9
+    },
+    "vanessa-branch": {
+      "name": "Vanessa Branch",
+      "tmdb": 2452,
+      "imdb": "nm0104376",
+      "wikidata": "Q28254",
+      "credit": "guest",
+      "billing": 10
+    },
+    "gary-riotto": {
+      "name": "Gary Riotto",
+      "tmdb": 1411157,
+      "imdb": "nm1457691",
+      "credit": "guest",
+      "billing": 11
+    },
+    "pruitt-taylor-vince": {
+      "name": "Pruitt Taylor Vince",
+      "tmdb": 3201,
+      "imdb": "nm0898546",
+      "wikidata": "Q1198697",
+      "credit": "guest",
+      "billing": 12
+    },
+    "christopher-forsyth": {
+      "name": "Christopher Forsyth",
+      "tmdb": 1369048,
+      "imdb": "nm2381489",
+      "credit": "guest",
+      "billing": 13
+    },
+    "kayla-madison": {
+      "name": "Kayla Madison",
+      "tmdb": 1319517,
+      "imdb": "nm4767061",
+      "credit": "guest",
+      "billing": 14
+    },
+    "treisa-gary": {
+      "name": "Treisa Gary",
+      "tmdb": 1450810,
+      "imdb": "nm1420224",
+      "credit": "guest",
+      "billing": 15
+    },
+    "stacy-barnhisel": {
+      "name": "Stacy Barnhisel",
+      "tmdb": 1513986,
+      "imdb": "nm1634843",
+      "credit": "guest",
+      "billing": 16
+    },
+    "todd-quillen": {
+      "name": "Todd Quillen",
+      "tmdb": 1547922,
+      "imdb": "nm1914028",
+      "credit": "guest",
+      "billing": 17
+    },
+    "marcus-choi": {
+      "name": "Marcus Choi",
+      "tmdb": 1046872,
+      "imdb": "nm1989257",
+      "credit": "guest",
+      "billing": 18
+    },
+    "jonathan-chance": {
+      "name": "Jonathan Chance",
+      "tmdb": 1195848,
+      "imdb": "nm3220408",
+      "credit": "guest",
+      "billing": 19
+    },
+    "shane-schoeppner": {
+      "name": "Shane Schoeppner",
+      "tmdb": 1698300,
+      "imdb": "nm13028443",
+      "credit": "guest",
+      "billing": 20
+    },
+    "tim-sitarz": {
+      "name": "Tim Sitarz",
+      "tmdb": 37010,
+      "imdb": "nm0803192",
+      "wikidata": "Q133459933",
+      "credit": "guest",
+      "billing": 21
+    },
+    "corey-weber": {
+      "name": "Corey Weber",
+      "tmdb": 1842225,
+      "imdb": "nm4375944",
+      "credit": "guest",
+      "billing": 22
+    },
+    "wendy-worthington": {
+      "name": "Wendy Worthington",
+      "tmdb": 94904,
+      "imdb": "nm0941781",
+      "wikidata": "Q7982835",
+      "credit": "guest",
+      "billing": 23
+    }
+  },
   "segments": [
     {
       "from": "00:03:35.997",

@@ -23,6 +23,134 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 3
+    },
+    "jonathan-adams": {
+      "name": "Jonathan Adams",
+      "tmdb": 13477,
+      "imdb": "nm0011095",
+      "wikidata": "Q983873",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "lawrence-pressman": {
+      "name": "Lawrence Pressman",
+      "tmdb": 6564,
+      "imdb": "nm0696303",
+      "wikidata": "Q1341001",
+      "credit": "guest",
+      "billing": 6
+    },
+    "zeljko-ivanek": {
+      "name": "Željko Ivanek",
+      "tmdb": 6752,
+      "imdb": "nm0411964",
+      "wikidata": "Q382197",
+      "credit": "guest",
+      "billing": 7
+    },
+    "jake-cherry": {
+      "name": "Jake Cherry",
+      "tmdb": 17834,
+      "imdb": "nm1544084",
+      "wikidata": "Q718446",
+      "credit": "guest",
+      "billing": 8
+    },
+    "john-m-jackson": {
+      "name": "John M. Jackson",
+      "tmdb": 116128,
+      "imdb": "nm0413698",
+      "wikidata": "Q1700919",
+      "credit": "guest",
+      "billing": 9
+    },
+    "suzanne-cryer": {
+      "name": "Suzanne Cryer",
+      "tmdb": 8269,
+      "imdb": "nm0190550",
+      "wikidata": "Q7650816",
+      "credit": "guest",
+      "billing": 10
+    },
+    "jaime-ray-newman": {
+      "name": "Jaime Ray Newman",
+      "tmdb": 109151,
+      "imdb": "nm0628120",
+      "wikidata": "Q290091",
+      "credit": "guest",
+      "billing": 11
+    },
+    "sarah-ann-schultz": {
+      "name": "Sarah Ann Schultz",
+      "tmdb": 58793,
+      "imdb": "nm1281146",
+      "wikidata": "Q106065814",
+      "credit": "guest",
+      "billing": 12
+    },
+    "alexa-fischer": {
+      "name": "Alexa Fischer",
+      "tmdb": 162564,
+      "imdb": "nm1268419",
+      "credit": "guest",
+      "billing": 13
+    },
+    "anna-easteden": {
+      "name": "Anna Easteden",
+      "tmdb": 1612591,
+      "imdb": "nm0794609",
+      "wikidata": "Q298437",
+      "credit": "guest",
+      "billing": 14
+    },
+    "marc-jablon": {
+      "name": "Marc Jablon",
+      "tmdb": 962070,
+      "imdb": "nm2186136",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:03:10.506",

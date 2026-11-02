@@ -23,6 +23,160 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "brian-klugman": {
+      "name": "Brian Klugman",
+      "tmdb": 51996,
+      "imdb": "nm0460206",
+      "wikidata": "Q1631627",
+      "credit": "guest",
+      "billing": 6
+    },
+    "gil-bellows": {
+      "name": "Gil Bellows",
+      "tmdb": 6575,
+      "imdb": "nm0004743",
+      "wikidata": "Q360313",
+      "credit": "guest",
+      "billing": 7
+    },
+    "lamonica-garrett": {
+      "name": "LaMonica Garrett",
+      "tmdb": 1094385,
+      "imdb": "nm1206818",
+      "wikidata": "Q26255128",
+      "credit": "guest",
+      "billing": 8
+    },
+    "charlene-amoia": {
+      "name": "Charlene Amoia",
+      "tmdb": 175583,
+      "imdb": "nm1006439",
+      "wikidata": "Q16149506",
+      "credit": "guest",
+      "billing": 9
+    },
+    "adam-bartley": {
+      "name": "Adam Bartley",
+      "tmdb": 1256070,
+      "imdb": "nm4369276",
+      "wikidata": "Q26924840",
+      "credit": "guest",
+      "billing": 10
+    },
+    "lisa-datz": {
+      "name": "Lisa Datz",
+      "tmdb": 138035,
+      "imdb": "nm1697712",
+      "wikidata": "Q23301786",
+      "credit": "guest",
+      "billing": 11
+    },
+    "jamison-haase": {
+      "name": "Jamison Haase",
+      "tmdb": 168946,
+      "imdb": "nm0368386",
+      "credit": "guest",
+      "billing": 12
+    },
+    "drew-wicks": {
+      "name": "Drew Wicks",
+      "tmdb": 159335,
+      "imdb": "nm1053452",
+      "credit": "guest",
+      "billing": 13
+    },
+    "megan-davis": {
+      "name": "Megan Davis",
+      "tmdb": 1198063,
+      "imdb": "nm3182694",
+      "credit": "guest",
+      "billing": 14
+    },
+    "kenneth-mosley": {
+      "name": "Kenneth Mosley",
+      "tmdb": 2225597,
+      "imdb": "nm2355545",
+      "credit": "guest",
+      "billing": 15
+    },
+    "sara-beers": {
+      "name": "Sara Beers",
+      "tmdb": 2489271,
+      "imdb": "nm6159872",
+      "credit": "guest",
+      "billing": 16
+    },
+    "katia-peel": {
+      "name": "Katia Peel",
+      "tmdb": 2489272,
+      "imdb": "nm4197651",
+      "credit": "guest",
+      "billing": 17
+    },
+    "melanie-price": {
+      "name": "Melanie Price",
+      "tmdb": 2154235,
+      "credit": "guest",
+      "billing": 18
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 19
+    }
+  },
   "segments": [
     {
       "from": "00:04:59.265",

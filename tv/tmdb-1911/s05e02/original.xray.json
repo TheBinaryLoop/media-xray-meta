@@ -23,6 +23,134 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "michael-grant-terry": {
+      "name": "Michael Grant Terry",
+      "tmdb": 205984,
+      "imdb": "nm2163204",
+      "wikidata": "Q3308554",
+      "credit": "guest",
+      "billing": 6
+    },
+    "michael-arden": {
+      "name": "Michael Arden",
+      "tmdb": 83874,
+      "imdb": "nm2260797",
+      "wikidata": "Q4068927",
+      "credit": "guest",
+      "billing": 7
+    },
+    "christopher-b-duncan": {
+      "name": "Christopher B. Duncan",
+      "tmdb": 94570,
+      "imdb": "nm0241935",
+      "wikidata": "Q5111887",
+      "credit": "guest",
+      "billing": 8
+    },
+    "riki-lindhome": {
+      "name": "Riki Lindhome",
+      "tmdb": 453,
+      "imdb": "nm1641251",
+      "wikidata": "Q120406",
+      "credit": "guest",
+      "billing": 9
+    },
+    "emily-baldoni": {
+      "name": "Emily Baldoni",
+      "tmdb": 209200,
+      "imdb": "nm2032150",
+      "wikidata": "Q3052368",
+      "credit": "guest",
+      "billing": 10
+    },
+    "j-j-soria": {
+      "name": "J. J. Soria",
+      "tmdb": 73127,
+      "imdb": "nm1928515",
+      "wikidata": "Q6284463",
+      "credit": "guest",
+      "billing": 11
+    },
+    "katherine-kamhi": {
+      "name": "Katherine Kamhi",
+      "tmdb": 1178530,
+      "imdb": "nm0436613",
+      "wikidata": "Q13560360",
+      "credit": "guest",
+      "billing": 12
+    },
+    "jon-paul-burkhart": {
+      "name": "Jon Paul Burkhart",
+      "tmdb": 1276803,
+      "imdb": "nm2263081",
+      "credit": "guest",
+      "billing": 13
+    },
+    "tom-riordan": {
+      "name": "Tom Riordan",
+      "tmdb": 1680917,
+      "imdb": "nm2038484",
+      "credit": "guest",
+      "billing": 14
+    },
+    "matt-sigloch": {
+      "name": "Matt Sigloch",
+      "tmdb": 9310,
+      "imdb": "nm0797477",
+      "wikidata": "Q21515068",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:06:07.880",

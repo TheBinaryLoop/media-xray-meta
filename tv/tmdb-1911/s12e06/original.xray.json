@@ -23,6 +23,171 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "nathan-gamble": {
+      "name": "Nathan Gamble",
+      "tmdb": 18052,
+      "imdb": "nm1997480",
+      "wikidata": "Q934484",
+      "credit": "guest",
+      "billing": 6
+    },
+    "david-koechner": {
+      "name": "David Koechner",
+      "tmdb": 28638,
+      "imdb": "nm0462712",
+      "wikidata": "Q164328",
+      "credit": "guest",
+      "billing": 7
+    },
+    "inga-cadranel": {
+      "name": "Inga Cadranel",
+      "tmdb": 180924,
+      "imdb": "nm0128297",
+      "wikidata": "Q16769706",
+      "credit": "guest",
+      "billing": 8
+    },
+    "stephanie-czajkowski": {
+      "name": "Stephanie Czajkowski",
+      "tmdb": 1516951,
+      "imdb": "nm1570123",
+      "wikidata": "Q95690320",
+      "credit": "guest",
+      "billing": 9
+    },
+    "dave-thomas": {
+      "name": "Dave Thomas",
+      "tmdb": 61961,
+      "imdb": "nm0858686",
+      "wikidata": "Q2627090",
+      "credit": "guest",
+      "billing": 10
+    },
+    "trevor-torseth": {
+      "name": "Trevor Torseth",
+      "tmdb": 1352568,
+      "imdb": "nm2340744",
+      "credit": "guest",
+      "billing": 11
+    },
+    "brandon-soo-hoo": {
+      "name": "Brandon Soo Hoo",
+      "tmdb": 1115122,
+      "imdb": "nm1317656",
+      "wikidata": "Q129410",
+      "credit": "guest",
+      "billing": 12
+    },
+    "jeffrey-larson": {
+      "name": "Jeffrey Larson",
+      "tmdb": 2455034,
+      "imdb": "nm3923834",
+      "credit": "guest",
+      "billing": 13
+    },
+    "matt-nix": {
+      "name": "Matt Nix",
+      "tmdb": 1233032,
+      "imdb": "nm0633180",
+      "wikidata": "Q1273019",
+      "credit": "guest",
+      "billing": 14
+    },
+    "melissa-tracy": {
+      "name": "Melissa Tracy",
+      "tmdb": 1295186,
+      "imdb": "nm1745805",
+      "credit": "guest",
+      "billing": 15
+    },
+    "rydell-danzie": {
+      "name": "Rydell Danzie",
+      "tmdb": 225339,
+      "imdb": "nm1209570",
+      "wikidata": "Q118482803",
+      "credit": "guest",
+      "billing": 16
+    },
+    "mark-roman": {
+      "name": "Mark Roman",
+      "tmdb": 1452954,
+      "imdb": "nm4432222",
+      "credit": "guest",
+      "billing": 17
+    },
+    "matt-valvardi": {
+      "name": "Matt Valvardi",
+      "tmdb": 1950927,
+      "imdb": "nm8308187",
+      "credit": "guest",
+      "billing": 18
+    },
+    "ignacio-serricchio": {
+      "name": "Ignacio Serricchio",
+      "tmdb": 139868,
+      "imdb": "nm1579445",
+      "wikidata": "Q5992454",
+      "credit": "guest",
+      "billing": 19
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 20
+    }
+  },
   "segments": [
     {
       "from": "00:03:47.295",

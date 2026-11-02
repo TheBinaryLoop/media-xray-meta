@@ -23,6 +23,111 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "kristoffer-polaha": {
+      "name": "Kristoffer Polaha",
+      "tmdb": 159386,
+      "imdb": "nm1119340",
+      "wikidata": "Q726708",
+      "credit": "guest",
+      "billing": 6
+    },
+    "joshua-leonard": {
+      "name": "Joshua Leonard",
+      "tmdb": 26852,
+      "imdb": "nm0502671",
+      "wikidata": "Q679110",
+      "credit": "guest",
+      "billing": 7
+    },
+    "jake-richardson": {
+      "name": "Jake Richardson",
+      "tmdb": 177165,
+      "imdb": "nm0724593",
+      "wikidata": "Q598158",
+      "credit": "guest",
+      "billing": 8
+    },
+    "michael-trevino": {
+      "name": "Michael Trevino",
+      "tmdb": 113928,
+      "imdb": "nm1824751",
+      "wikidata": "Q356901",
+      "credit": "guest",
+      "billing": 9
+    },
+    "amanda-fuller": {
+      "name": "Amanda Fuller",
+      "tmdb": 133401,
+      "imdb": "nm0298168",
+      "wikidata": "Q453911",
+      "credit": "guest",
+      "billing": 10
+    },
+    "angel-oquendo": {
+      "name": "Angel Oquendo",
+      "tmdb": 60573,
+      "imdb": "nm1665358",
+      "wikidata": "Q4762235",
+      "credit": "guest",
+      "billing": 11
+    },
+    "terrell-clayton": {
+      "name": "Terrell Clayton",
+      "tmdb": 60490,
+      "imdb": "nm0165760",
+      "credit": "guest",
+      "billing": 12
+    }
+  },
   "segments": [
     {
       "from": "00:05:05.557",

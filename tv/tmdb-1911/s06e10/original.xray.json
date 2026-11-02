@@ -23,6 +23,143 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "mark-famiglietti": {
+      "name": "Mark Famiglietti",
+      "tmdb": 7220,
+      "imdb": "nm0266611",
+      "wikidata": "Q1900036",
+      "credit": "guest",
+      "billing": 7
+    },
+    "jack-yang": {
+      "name": "Jack Yang",
+      "tmdb": 1450815,
+      "imdb": "nm1555268",
+      "wikidata": "Q6113318",
+      "credit": "guest",
+      "billing": 8
+    },
+    "elizabeth-sung": {
+      "name": "Elizabeth Sung",
+      "tmdb": 19861,
+      "imdb": "nm0839287",
+      "wikidata": "Q5363591",
+      "credit": "guest",
+      "billing": 9
+    },
+    "ryan-carnes": {
+      "name": "Ryan Carnes",
+      "tmdb": 85480,
+      "imdb": "nm1408453",
+      "wikidata": "Q683235",
+      "credit": "guest",
+      "billing": 10
+    },
+    "jennifer-holland": {
+      "name": "Jennifer Holland",
+      "tmdb": 87165,
+      "imdb": "nm1684744",
+      "wikidata": "Q3177067",
+      "credit": "guest",
+      "billing": 11
+    },
+    "eve-mauro": {
+      "name": "Eve Mauro",
+      "tmdb": 147382,
+      "imdb": "nm2466273",
+      "wikidata": "Q3061358",
+      "credit": "guest",
+      "billing": 12
+    },
+    "james-devoti": {
+      "name": "James Devoti",
+      "tmdb": 117516,
+      "imdb": "nm1534917",
+      "wikidata": "Q107607544",
+      "credit": "guest",
+      "billing": 13
+    },
+    "terrence-edwards": {
+      "name": "Terrence Edwards",
+      "tmdb": 2194278,
+      "imdb": "nm2023378",
+      "credit": "guest",
+      "billing": 14
+    },
+    "patty-yuniverse": {
+      "name": "Patty Yuniverse",
+      "tmdb": 1497937,
+      "imdb": "nm2340433",
+      "wikidata": "Q64869424",
+      "credit": "guest",
+      "billing": 15
+    },
+    "katheryn-winnick": {
+      "name": "Katheryn Winnick",
+      "tmdb": 26723,
+      "imdb": "nm0935395",
+      "wikidata": "Q268298",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:04:13.037",

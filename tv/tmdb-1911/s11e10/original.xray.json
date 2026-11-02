@@ -23,6 +23,141 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 6
+    },
+    "sara-rue": {
+      "name": "Sara Rue",
+      "tmdb": 10131,
+      "imdb": "nm0749081",
+      "wikidata": "Q240199",
+      "credit": "guest",
+      "billing": 7
+    },
+    "john-bain": {
+      "name": "John Bain",
+      "tmdb": 544429,
+      "imdb": "nm2133328",
+      "credit": "guest",
+      "billing": 8
+    },
+    "billy-lush": {
+      "name": "Billy Lush",
+      "tmdb": 117167,
+      "imdb": "nm1312073",
+      "wikidata": "Q4912923",
+      "credit": "guest",
+      "billing": 9
+    },
+    "marlon-young": {
+      "name": "Marlon Young",
+      "tmdb": 167109,
+      "imdb": "nm0949868",
+      "wikidata": "Q6771973",
+      "credit": "guest",
+      "billing": 10
+    },
+    "carlos-sanz": {
+      "name": "Carlos Sanz",
+      "tmdb": 171136,
+      "imdb": "nm0764430",
+      "wikidata": "Q19664947",
+      "credit": "guest",
+      "billing": 11
+    },
+    "owen-teague": {
+      "name": "Owen Teague",
+      "tmdb": 1586047,
+      "imdb": "nm4977122",
+      "wikidata": "Q47027020",
+      "credit": "guest",
+      "billing": 12
+    },
+    "tonja-kahlens": {
+      "name": "Tonja Kahlens",
+      "tmdb": 1456342,
+      "imdb": "nm1812972",
+      "credit": "guest",
+      "billing": 13
+    },
+    "gatsby-coram": {
+      "name": "Gatsby Coram",
+      "tmdb": 2285310,
+      "imdb": "nm3851399",
+      "credit": "guest",
+      "billing": 14
+    },
+    "sharon-omi": {
+      "name": "Sharon Omi",
+      "tmdb": 156828,
+      "imdb": "nm0648406",
+      "wikidata": "Q23015132",
+      "credit": "guest",
+      "billing": 15
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:05:10.786",

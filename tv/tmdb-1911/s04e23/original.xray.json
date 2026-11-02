@@ -23,6 +23,147 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "brian-tee": {
+      "name": "Brian Tee",
+      "tmdb": 116278,
+      "imdb": "nm0974575",
+      "wikidata": "Q913132",
+      "credit": "guest",
+      "billing": 6
+    },
+    "yuji-okumoto": {
+      "name": "Yuji Okumoto",
+      "tmdb": 56120,
+      "imdb": "nm0645785",
+      "wikidata": "Q3573137",
+      "credit": "guest",
+      "billing": 7
+    },
+    "bumper-robinson": {
+      "name": "Bumper Robinson",
+      "tmdb": 35111,
+      "imdb": "nm0732436",
+      "wikidata": "Q1004881",
+      "credit": "guest",
+      "billing": 8
+    },
+    "ally-maki": {
+      "name": "Ally Maki",
+      "tmdb": 209596,
+      "imdb": "nm1280361",
+      "wikidata": "Q4733418",
+      "credit": "guest",
+      "billing": 9
+    },
+    "larry-clarke": {
+      "name": "Larry Clarke",
+      "tmdb": 1223970,
+      "imdb": "nm0164868",
+      "wikidata": "Q2146011",
+      "credit": "guest",
+      "billing": 10
+    },
+    "robert-wu": {
+      "name": "Robert Wu",
+      "tmdb": 17041,
+      "imdb": "nm0943160",
+      "wikidata": "Q7351276",
+      "credit": "guest",
+      "billing": 11
+    },
+    "jina-song": {
+      "name": "Jina Song",
+      "tmdb": 1448697,
+      "imdb": "nm2261607",
+      "credit": "guest",
+      "billing": 12
+    },
+    "jane-justice-park": {
+      "name": "Jane Justice Park",
+      "tmdb": 209426,
+      "imdb": "nm0661850",
+      "wikidata": "Q92431266",
+      "credit": "guest",
+      "billing": 13
+    },
+    "james-j-fuertes": {
+      "name": "James J. Fuertes",
+      "tmdb": 1969640,
+      "imdb": "nm2654368",
+      "credit": "guest",
+      "billing": 14
+    },
+    "annie-hsu": {
+      "name": "Annie Hsu",
+      "tmdb": 1820335,
+      "imdb": "nm3502666",
+      "credit": "guest",
+      "billing": 15
+    },
+    "dippen-zinzuvadia": {
+      "name": "Dippen Zinzuvadia",
+      "tmdb": 1723987,
+      "credit": "guest",
+      "billing": 16
+    },
+    "katherine-kamhi": {
+      "name": "Katherine Kamhi",
+      "tmdb": 1178530,
+      "imdb": "nm0436613",
+      "wikidata": "Q13560360",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:03:24.827",

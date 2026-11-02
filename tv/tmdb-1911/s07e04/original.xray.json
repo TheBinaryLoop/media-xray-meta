@@ -23,6 +23,157 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "jesse-head": {
+      "name": "Jesse Head",
+      "tmdb": 1213552,
+      "imdb": "nm0372143",
+      "wikidata": "Q13569907",
+      "credit": "guest",
+      "billing": 7
+    },
+    "briana-lane": {
+      "name": "Briana Lane",
+      "tmdb": 1235299,
+      "imdb": "nm2436567",
+      "wikidata": "Q4965737",
+      "credit": "guest",
+      "billing": 8
+    },
+    "ben-savage": {
+      "name": "Ben Savage",
+      "tmdb": 28166,
+      "imdb": "nm0005399",
+      "wikidata": "Q725070",
+      "credit": "guest",
+      "billing": 9
+    },
+    "chris-tallman": {
+      "name": "Chris Tallman",
+      "tmdb": 159275,
+      "imdb": "nm0848182",
+      "wikidata": "Q5108221",
+      "credit": "guest",
+      "billing": 10
+    },
+    "wayne-wilderson": {
+      "name": "Wayne Wilderson",
+      "tmdb": 1216179,
+      "imdb": "nm0928657",
+      "wikidata": "Q3566871",
+      "credit": "guest",
+      "billing": 11
+    },
+    "allan-wasserman": {
+      "name": "Allan Wasserman",
+      "tmdb": 123728,
+      "imdb": "nm0913667",
+      "wikidata": "Q2837784",
+      "credit": "guest",
+      "billing": 12
+    },
+    "ellis-williams": {
+      "name": "Ellis Williams",
+      "tmdb": 1219510,
+      "imdb": "nm0930533",
+      "wikidata": "Q3051530",
+      "credit": "guest",
+      "billing": 13
+    },
+    "brian-michael-jones": {
+      "name": "Brian Michael Jones",
+      "tmdb": 946673,
+      "imdb": "nm1947602",
+      "credit": "guest",
+      "billing": 14
+    },
+    "frank-krueger": {
+      "name": "Frank Krueger",
+      "tmdb": 86520,
+      "imdb": "nm1648250",
+      "credit": "guest",
+      "billing": 15
+    },
+    "tina-majorino": {
+      "name": "Tina Majorino",
+      "tmdb": 53930,
+      "imdb": "nm0001499",
+      "wikidata": "Q234321",
+      "credit": "guest",
+      "billing": 16
+    },
+    "ralph-waite": {
+      "name": "Ralph Waite",
+      "tmdb": 8853,
+      "imdb": "nm0906627",
+      "wikidata": "Q712450",
+      "credit": "guest",
+      "billing": 17
+    },
+    "aaron-mills": {
+      "name": "Aaron Mills",
+      "tmdb": 3093144,
+      "imdb": "nm1390714",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:04:14.647",

@@ -23,6 +23,162 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 6
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 7
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 8
+    },
+    "jd-cullum": {
+      "name": "JD Cullum",
+      "tmdb": 1184011,
+      "imdb": "nm0191631",
+      "wikidata": "Q794699",
+      "credit": "guest",
+      "billing": 9
+    },
+    "susan-angelo": {
+      "name": "Susan Angelo",
+      "tmdb": 157081,
+      "imdb": "nm0029695",
+      "credit": "guest",
+      "billing": 10
+    },
+    "sterling-macer-jr": {
+      "name": "Sterling Macer Jr.",
+      "tmdb": 1246618,
+      "imdb": "nm0532160",
+      "wikidata": "Q113804287",
+      "credit": "guest",
+      "billing": 11
+    },
+    "rance-howard": {
+      "name": "Rance Howard",
+      "tmdb": 22250,
+      "imdb": "nm0397555",
+      "wikidata": "Q2004409",
+      "credit": "guest",
+      "billing": 12
+    },
+    "sam-anderson": {
+      "name": "Sam Anderson",
+      "tmdb": 36221,
+      "imdb": "nm0027402",
+      "wikidata": "Q374447",
+      "credit": "guest",
+      "billing": 13
+    },
+    "shelley-robertson": {
+      "name": "Shelley Robertson",
+      "tmdb": 1446882,
+      "imdb": "nm0732025",
+      "wikidata": "Q24063710",
+      "credit": "guest",
+      "billing": 14
+    },
+    "paul-riley-fox": {
+      "name": "Paul Riley Fox",
+      "tmdb": 1735733,
+      "imdb": "nm0809538",
+      "credit": "guest",
+      "billing": 15
+    },
+    "philippe-badreau": {
+      "name": "Philippe Badreau",
+      "tmdb": 1500809,
+      "imdb": "nm4098926",
+      "credit": "guest",
+      "billing": 16
+    },
+    "justin-blake": {
+      "name": "Justin Blake",
+      "tmdb": 1401405,
+      "imdb": "nm1680331",
+      "credit": "guest",
+      "billing": 17
+    },
+    "ian-harris": {
+      "name": "Ian Harris",
+      "tmdb": 1579431,
+      "credit": "guest",
+      "billing": 18
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 19
+    }
+  },
   "segments": [
     {
       "from": "00:06:22.998",

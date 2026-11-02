@@ -23,6 +23,126 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 6
+    },
+    "rick-gonzalez": {
+      "name": "Rick Gonzalez",
+      "tmdb": 53184,
+      "imdb": "nm0327779",
+      "wikidata": "Q1370072",
+      "credit": "guest",
+      "billing": 7
+    },
+    "john-ross-bowie": {
+      "name": "John Ross Bowie",
+      "tmdb": 55425,
+      "imdb": "nm0101152",
+      "wikidata": "Q3809587",
+      "credit": "guest",
+      "billing": 8
+    },
+    "ryan-bittle": {
+      "name": "Ryan Bittle",
+      "tmdb": 149468,
+      "imdb": "nm0084547",
+      "wikidata": "Q2178032",
+      "credit": "guest",
+      "billing": 9
+    },
+    "tom-beyer": {
+      "name": "Tom Beyer",
+      "tmdb": 1444798,
+      "imdb": "nm0962120",
+      "wikidata": "Q116965210",
+      "credit": "guest",
+      "billing": 10
+    },
+    "camille-chen": {
+      "name": "Camille Chen",
+      "tmdb": 1218266,
+      "imdb": "nm0155166",
+      "wikidata": "Q5026631",
+      "credit": "guest",
+      "billing": 11
+    },
+    "morgan-fairchild": {
+      "name": "Morgan Fairchild",
+      "tmdb": 14990,
+      "imdb": "nm0000392",
+      "wikidata": "Q235972",
+      "credit": "guest",
+      "billing": 12
+    },
+    "quinn-friedman": {
+      "name": "Quinn Friedman",
+      "tmdb": 1643015,
+      "imdb": "nm4114419",
+      "credit": "guest",
+      "billing": 13
+    },
+    "kamryn-tate": {
+      "name": "Kamryn Tate",
+      "tmdb": 4258092,
+      "imdb": "nm4583351",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:04:03.242",

@@ -23,6 +23,140 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "david-gallagher": {
+      "name": "David Gallagher",
+      "tmdb": 59451,
+      "imdb": "nm0302356",
+      "wikidata": "Q365484",
+      "credit": "guest",
+      "billing": 6
+    },
+    "bruce-thomas": {
+      "name": "Bruce Thomas",
+      "tmdb": 79497,
+      "imdb": "nm0858573",
+      "wikidata": "Q2166986",
+      "credit": "guest",
+      "billing": 7
+    },
+    "blake-shields": {
+      "name": "Blake Shields",
+      "tmdb": 157876,
+      "imdb": "nm0793171",
+      "wikidata": "Q4924492",
+      "credit": "guest",
+      "billing": 8
+    },
+    "nancy-youngblut": {
+      "name": "Nancy Youngblut",
+      "tmdb": 168002,
+      "imdb": "nm0950220",
+      "wikidata": "Q6963098",
+      "credit": "guest",
+      "billing": 9
+    },
+    "john-livingston": {
+      "name": "John Livingston",
+      "tmdb": 77331,
+      "imdb": "nm0515260",
+      "wikidata": "Q18618690",
+      "credit": "guest",
+      "billing": 10
+    },
+    "sylva-kelegian": {
+      "name": "Sylva Kelegian",
+      "tmdb": 61830,
+      "imdb": "nm0445421",
+      "wikidata": "Q7660609",
+      "credit": "guest",
+      "billing": 11
+    },
+    "brett-gilbert": {
+      "name": "Brett Gilbert",
+      "tmdb": 159284,
+      "imdb": "nm0317980",
+      "credit": "guest",
+      "billing": 12
+    },
+    "dustin-hess": {
+      "name": "Dustin Hess",
+      "tmdb": 1464855,
+      "imdb": "nm2683756",
+      "credit": "guest",
+      "billing": 13
+    },
+    "mark-doerr": {
+      "name": "Mark Doerr",
+      "tmdb": 85424,
+      "imdb": "nm0230436",
+      "credit": "guest",
+      "billing": 14
+    },
+    "gilley-grey": {
+      "name": "Gilley Grey",
+      "tmdb": 1795995,
+      "imdb": "nm0026759",
+      "credit": "guest",
+      "billing": 15
+    },
+    "ryan-cartwright": {
+      "name": "Ryan Cartwright",
+      "tmdb": 76916,
+      "imdb": "nm0142206",
+      "wikidata": "Q3453757",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:03:54.429",

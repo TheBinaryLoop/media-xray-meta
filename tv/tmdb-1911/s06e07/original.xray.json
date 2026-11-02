@@ -23,6 +23,119 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "wayne-knight": {
+      "name": "Wayne Knight",
+      "tmdb": 4201,
+      "imdb": "nm0001431",
+      "wikidata": "Q311976",
+      "credit": "guest",
+      "billing": 6
+    },
+    "frederick-koehler": {
+      "name": "Frederick Koehler",
+      "tmdb": 76513,
+      "imdb": "nm0462735",
+      "wikidata": "Q1394891",
+      "credit": "guest",
+      "billing": 7
+    },
+    "jackie-geary": {
+      "name": "Jackie Geary",
+      "tmdb": 166688,
+      "imdb": "nm1571213",
+      "wikidata": "Q1677278",
+      "credit": "guest",
+      "billing": 8
+    },
+    "cedric-yarbrough": {
+      "name": "Cedric Yarbrough",
+      "tmdb": 63235,
+      "imdb": "nm0946382",
+      "wikidata": "Q2943801",
+      "credit": "guest",
+      "billing": 9
+    },
+    "kristen-o-meara": {
+      "name": "Kristen O'Meara",
+      "tmdb": 978785,
+      "imdb": "nm1339624",
+      "credit": "guest",
+      "billing": 10
+    },
+    "rachel-veltri": {
+      "name": "Rachel Veltri",
+      "tmdb": 105110,
+      "imdb": "nm1671878",
+      "wikidata": "Q2409827",
+      "credit": "guest",
+      "billing": 11
+    },
+    "ryan-cartwright": {
+      "name": "Ryan Cartwright",
+      "tmdb": 76916,
+      "imdb": "nm0142206",
+      "wikidata": "Q3453757",
+      "credit": "guest",
+      "billing": 12
+    },
+    "tiffany-hines": {
+      "name": "Tiffany Hines",
+      "tmdb": 1224085,
+      "imdb": "nm2015692",
+      "wikidata": "Q1189338",
+      "credit": "guest",
+      "billing": 13
+    }
+  },
   "segments": [
     {
       "from": "00:03:43.355",

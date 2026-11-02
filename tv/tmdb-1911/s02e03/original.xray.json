@@ -23,6 +23,157 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "dylan-mclaughlin": {
+      "name": "Dylan McLaughlin",
+      "tmdb": 61400,
+      "imdb": "nm1563653",
+      "wikidata": "Q5318748",
+      "credit": "guest",
+      "billing": 6
+    },
+    "leah-pipes": {
+      "name": "Leah Pipes",
+      "tmdb": 83285,
+      "imdb": "nm1343254",
+      "wikidata": "Q263248",
+      "credit": "guest",
+      "billing": 7
+    },
+    "william-bumiller": {
+      "name": "William Bumiller",
+      "tmdb": 100646,
+      "imdb": "nm0120301",
+      "credit": "guest",
+      "billing": 8
+    },
+    "tara-karsian": {
+      "name": "Tara Karsian",
+      "tmdb": 164938,
+      "imdb": "nm0440160",
+      "wikidata": "Q7685083",
+      "credit": "guest",
+      "billing": 9
+    },
+    "pamala-tyson": {
+      "name": "Pamala Tyson",
+      "tmdb": 128203,
+      "imdb": "nm0879181",
+      "wikidata": "Q119903879",
+      "credit": "guest",
+      "billing": 10
+    },
+    "jon-sklaroff": {
+      "name": "Jon Sklaroff",
+      "tmdb": 117190,
+      "imdb": "nm0804471",
+      "wikidata": "Q3183232",
+      "credit": "guest",
+      "billing": 11
+    },
+    "kathleen-gati": {
+      "name": "Kathleen Gati",
+      "tmdb": 23625,
+      "imdb": "nm0309670",
+      "wikidata": "Q1508944",
+      "credit": "guest",
+      "billing": 12
+    },
+    "kim-staunton": {
+      "name": "Kim Staunton",
+      "tmdb": 17358,
+      "imdb": "nm0823940",
+      "wikidata": "Q22670396",
+      "credit": "guest",
+      "billing": 13
+    },
+    "scotty-leavenworth": {
+      "name": "Scotty Leavenworth",
+      "tmdb": 20093,
+      "imdb": "nm0495358",
+      "wikidata": "Q589849",
+      "credit": "guest",
+      "billing": 14
+    },
+    "tom-choi": {
+      "name": "Tom Choi",
+      "tmdb": 200109,
+      "imdb": "nm1059827",
+      "wikidata": "Q30995730",
+      "credit": "guest",
+      "billing": 15
+    },
+    "brandon-mychal-smith": {
+      "name": "Brandon Mychal Smith",
+      "tmdb": 427978,
+      "imdb": "nm0807506",
+      "wikidata": "Q457034",
+      "credit": "guest",
+      "billing": 16
+    },
+    "michael-h-barnett": {
+      "name": "Michael H. Barnett",
+      "tmdb": 1608452,
+      "imdb": "nm2200795",
+      "credit": "guest",
+      "billing": 17
+    },
+    "mario-orozco": {
+      "name": "Mario Orozco",
+      "tmdb": 990851,
+      "imdb": "nm1904326",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:03:55.696",

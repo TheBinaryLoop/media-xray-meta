@@ -23,6 +23,134 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "rick-scarry": {
+      "name": "Rick Scarry",
+      "tmdb": 99024,
+      "imdb": "nm0769302",
+      "wikidata": "Q7331716",
+      "credit": "guest",
+      "billing": 6
+    },
+    "ryan-michelle-bathe": {
+      "name": "Ryan Michelle Bathe",
+      "tmdb": 114588,
+      "imdb": "nm1313656",
+      "wikidata": "Q3943077",
+      "credit": "guest",
+      "billing": 7
+    },
+    "dale-godboldo": {
+      "name": "Dale Godboldo",
+      "tmdb": 25310,
+      "imdb": "nm0004964",
+      "wikidata": "Q3012305",
+      "credit": "guest",
+      "billing": 8
+    },
+    "ellen-geer": {
+      "name": "Ellen Geer",
+      "tmdb": 4975,
+      "imdb": "nm0311619",
+      "wikidata": "Q453774",
+      "credit": "guest",
+      "billing": 9
+    },
+    "mandy-siegfried": {
+      "name": "Mandy Siegfried",
+      "tmdb": 204249,
+      "imdb": "nm0797435",
+      "wikidata": "Q23542800",
+      "credit": "guest",
+      "billing": 10
+    },
+    "kelvin-yu": {
+      "name": "Kelvin Yu",
+      "tmdb": 51997,
+      "imdb": "nm0950515",
+      "wikidata": "Q6386759",
+      "credit": "guest",
+      "billing": 11
+    },
+    "charles-dougherty": {
+      "name": "Charles Dougherty",
+      "tmdb": 112570,
+      "imdb": "nm0234821",
+      "credit": "guest",
+      "billing": 12
+    },
+    "kazumi-aihara": {
+      "name": "Kazumi Aihara",
+      "tmdb": 1465547,
+      "imdb": "nm0014544",
+      "credit": "guest",
+      "billing": 13
+    },
+    "matt-malloy": {
+      "name": "Matt Malloy",
+      "tmdb": 19208,
+      "imdb": "nm0540164",
+      "wikidata": "Q861494",
+      "credit": "guest",
+      "billing": 14
+    },
+    "kathryn-meisle": {
+      "name": "Kathryn Meisle",
+      "tmdb": 99035,
+      "imdb": "nm0577060",
+      "wikidata": "Q22575635",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:04:13.153",

@@ -21,5 +21,54 @@
       "to": "00:33:24.445",
       "fingerprint": "AQAAjJm4UEm0BL_xD2EaH_ViHLEyIXF-_Hja4Ffw5EF_wiSqB-Mn_AgPZUezTFehB5V6eAqebcT-XLgtBYd-hI0i4YkyBb9D_Di8zDreRQv2VLgk5UCVBZX04IfPOJmQk9DFI1eSBw2P0trxZ8P7CbU-OExyOOKLBz8amfhyXEF5NJkTPB9-JHn0IwuVHD7hj8eboReJa-vwZG2I6yL6HI1-43Qm5HrhKof0IZfxoal0VNJjPNFP_J2QQ9WTCPnh5Hh24W9iNCcR-tiRPOOOnnkIP8pCuIuCJ6ME70fO4lmgJT_yXcEZHV7wo48w5Tnyr5C0B3sSFzlz_BHGXWieHOXLBLkGNPrRn0FMWgKTU1pQHl7GDzvT4A76I0jYZHiOm8OvwFEuWGFIaPqDKwvOEWdxhSEq8UejhB8RH2eYAZIgRxQQUAglEaPGCE8AAICIwAAwHphBFBOKSKAIEIIIIAQxCBFmhEWaIg-AAgwKYQUxwAhFBEBEIIYEEwAAYQABzBBiBDdACAAMAIo5ABRAxBkAFJFAECIAMEAZAoAwxkgCGEGOQCCQQlYBoAA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "ryan-o-neal": "Matthew Brennan/Max Keenan",
+    "patricia-belcher": "Caroline Julian",
+    "deirdre-lovejoy": "Heather Taffet / „Der Totengräber“"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "ryan-o-neal": {
+      "name": "Hans-Jürgen Dittberner",
+      "wikidata": "Q1577655"
+    },
+    "patricia-belcher": {
+      "name": "Evelyn Meyka",
+      "wikidata": "Q1381776"
+    },
+    "deirdre-lovejoy": {
+      "name": "Katharina Koschny",
+      "wikidata": "Q101686"
+    }
+  }
 }

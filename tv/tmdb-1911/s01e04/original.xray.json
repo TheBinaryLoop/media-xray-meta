@@ -23,6 +23,96 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 3
+    },
+    "jonathan-adams": {
+      "name": "Jonathan Adams",
+      "tmdb": 13477,
+      "imdb": "nm0011095",
+      "wikidata": "Q983873",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "alex-carter": {
+      "name": "Alex Carter",
+      "tmdb": 21724,
+      "imdb": "nm0141450",
+      "wikidata": "Q381063",
+      "credit": "guest",
+      "billing": 6
+    },
+    "k-d-aubert": {
+      "name": "K.D. Aubert",
+      "tmdb": 73830,
+      "imdb": "nm1147702",
+      "wikidata": "Q460513",
+      "credit": "guest",
+      "billing": 7
+    },
+    "marguerite-macintyre": {
+      "name": "Marguerite MacIntyre",
+      "tmdb": 166566,
+      "imdb": "nm0532880",
+      "wikidata": "Q235325",
+      "credit": "guest",
+      "billing": 8
+    },
+    "rusty-joiner": {
+      "name": "Rusty Joiner",
+      "tmdb": 177508,
+      "imdb": "nm1566033",
+      "wikidata": "Q1770321",
+      "credit": "guest",
+      "billing": 9
+    },
+    "tom-kiesche": {
+      "name": "Tom Kiesche",
+      "tmdb": 76537,
+      "imdb": "nm0452622",
+      "wikidata": "Q7816457",
+      "credit": "guest",
+      "billing": 10
+    }
+  },
   "segments": [
     {
       "from": "00:03:35.426",

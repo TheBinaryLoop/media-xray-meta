@@ -23,6 +23,214 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 6
+    },
+    "sara-mornell": {
+      "name": "Sara Mornell",
+      "tmdb": 156785,
+      "imdb": "nm0605978",
+      "wikidata": "Q15429277",
+      "credit": "guest",
+      "billing": 7
+    },
+    "ben-lawson": {
+      "name": "Ben Lawson",
+      "tmdb": 1232323,
+      "imdb": "nm0493159",
+      "wikidata": "Q2033318",
+      "credit": "guest",
+      "billing": 8
+    },
+    "margo-harshman": {
+      "name": "Margo Harshman",
+      "tmdb": 79793,
+      "imdb": "nm0366106",
+      "wikidata": "Q265099",
+      "credit": "guest",
+      "billing": 9
+    },
+    "brandon-quinn": {
+      "name": "Brandon Quinn",
+      "tmdb": 123148,
+      "imdb": "nm0703778",
+      "wikidata": "Q1402501",
+      "credit": "guest",
+      "billing": 10
+    },
+    "jazz-raycole": {
+      "name": "Jazz Raycole",
+      "tmdb": 1212697,
+      "imdb": "nm0226934",
+      "wikidata": "Q456938",
+      "credit": "guest",
+      "billing": 11
+    },
+    "chad-addison": {
+      "name": "Chad Addison",
+      "tmdb": 1586678,
+      "imdb": "nm0168143",
+      "credit": "guest",
+      "billing": 12
+    },
+    "dan-lothian": {
+      "name": "Dan Lothian",
+      "tmdb": 1227869,
+      "credit": "guest",
+      "billing": 13
+    },
+    "derick-alexander": {
+      "name": "Derick Alexander",
+      "tmdb": 1236002,
+      "imdb": "nm0018373",
+      "credit": "guest",
+      "billing": 14
+    },
+    "ray-auxias": {
+      "name": "Ray Auxias",
+      "tmdb": 180277,
+      "imdb": "nm1820969",
+      "credit": "guest",
+      "billing": 15
+    },
+    "robert-alan-beuth": {
+      "name": "Robert Alan Beuth",
+      "tmdb": 86475,
+      "imdb": "nm0079612",
+      "wikidata": "Q23890936",
+      "credit": "guest",
+      "billing": 16
+    },
+    "christopher-goodman": {
+      "name": "Christopher Goodman",
+      "tmdb": 62082,
+      "imdb": "nm0998907",
+      "credit": "guest",
+      "billing": 17
+    },
+    "kiva-jump": {
+      "name": "Kiva Jump",
+      "tmdb": 1367902,
+      "imdb": "nm3615258",
+      "credit": "guest",
+      "billing": 18
+    },
+    "frederick-lawrence": {
+      "name": "Frederick Lawrence",
+      "tmdb": 1105274,
+      "imdb": "nm0492764",
+      "credit": "guest",
+      "billing": 19
+    },
+    "carol-mansell": {
+      "name": "Carol Mansell",
+      "tmdb": 172271,
+      "imdb": "nm0543738",
+      "wikidata": "Q2939846",
+      "credit": "guest",
+      "billing": 20
+    },
+    "steve-mize": {
+      "name": "Steve Mize",
+      "tmdb": 1589546,
+      "imdb": "nm1172806",
+      "credit": "guest",
+      "billing": 21
+    },
+    "karly-rothenberg": {
+      "name": "Karly Rothenberg",
+      "tmdb": 1219924,
+      "imdb": "nm1238748",
+      "wikidata": "Q3193502",
+      "credit": "guest",
+      "billing": 22
+    },
+    "tony-sancho": {
+      "name": "Tony Sancho",
+      "tmdb": 1165265,
+      "imdb": "nm1542902",
+      "wikidata": "Q7823345",
+      "credit": "guest",
+      "billing": 23
+    },
+    "james-t-schlegel": {
+      "name": "James T. Schlegel",
+      "tmdb": 2317695,
+      "imdb": "nm6411726",
+      "credit": "guest",
+      "billing": 24
+    },
+    "jonathan-craig-williams": {
+      "name": "Jonathan Craig Williams",
+      "tmdb": 1514484,
+      "imdb": "nm2263406",
+      "wikidata": "Q111725391",
+      "credit": "guest",
+      "billing": 25
+    },
+    "michael-rothhaar": {
+      "name": "Michael Rothhaar",
+      "tmdb": 1234044,
+      "imdb": "nm0745193",
+      "wikidata": "Q23674460",
+      "credit": "guest",
+      "billing": 26
+    }
+  },
   "segments": [
     {
       "from": "00:06:16.997",

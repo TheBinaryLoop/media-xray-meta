@@ -23,6 +23,144 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "ryan-o-neal": {
+      "name": "Ryan O'Neal",
+      "tmdb": 31070,
+      "imdb": "nm0641939",
+      "wikidata": "Q272923",
+      "credit": "guest",
+      "billing": 6
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 7
+    },
+    "scout-taylor-compton": {
+      "name": "Scout Taylor-Compton",
+      "tmdb": 21318,
+      "imdb": "nm0174021",
+      "wikidata": "Q239382",
+      "credit": "guest",
+      "billing": 8
+    },
+    "richard-cox": {
+      "name": "Richard Cox",
+      "tmdb": 31186,
+      "imdb": "nm0185210",
+      "wikidata": "Q2421372",
+      "credit": "guest",
+      "billing": 9
+    },
+    "chris-tardio": {
+      "name": "Chris Tardio",
+      "tmdb": 1218163,
+      "imdb": "nm0850387",
+      "wikidata": "Q2964873",
+      "credit": "guest",
+      "billing": 10
+    },
+    "deborah-zoe": {
+      "name": "Deborah Zoe",
+      "tmdb": 139597,
+      "imdb": "nm0957556",
+      "wikidata": "Q1181609",
+      "credit": "guest",
+      "billing": 11
+    },
+    "erich-anderson": {
+      "name": "Erich Anderson",
+      "tmdb": 58813,
+      "imdb": "nm0026687",
+      "wikidata": "Q2610657",
+      "credit": "guest",
+      "billing": 12
+    },
+    "ron-canada": {
+      "name": "Ron Canada",
+      "tmdb": 85170,
+      "imdb": "nm0133474",
+      "wikidata": "Q152082",
+      "credit": "guest",
+      "billing": 13
+    },
+    "susan-rohrer": {
+      "name": "Susan Rohrer",
+      "tmdb": 1242496,
+      "imdb": "nm0737606",
+      "wikidata": "Q113740366",
+      "credit": "guest",
+      "billing": 14
+    },
+    "guy-kent": {
+      "name": "Guy Kent",
+      "tmdb": 1455910,
+      "imdb": "nm2235711",
+      "wikidata": "Q5622391",
+      "credit": "guest",
+      "billing": 15
+    },
+    "david-greenman": {
+      "name": "David Greenman",
+      "tmdb": 1214444,
+      "imdb": "nm1476528",
+      "wikidata": "Q5234374",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:02:51.183",

@@ -23,6 +23,177 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "ryan-o-neal": {
+      "name": "Ryan O'Neal",
+      "tmdb": 31070,
+      "imdb": "nm0641939",
+      "wikidata": "Q272923",
+      "credit": "guest",
+      "billing": 6
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 7
+    },
+    "danielle-panabaker": {
+      "name": "Danielle Panabaker",
+      "tmdb": 31838,
+      "imdb": "nm1263939",
+      "wikidata": "Q230461",
+      "credit": "guest",
+      "billing": 8
+    },
+    "harry-van-gorkum": {
+      "name": "Harry Van Gorkum",
+      "tmdb": 58655,
+      "imdb": "nm0002246",
+      "wikidata": "Q1586837",
+      "credit": "guest",
+      "billing": 9
+    },
+    "don-franklin": {
+      "name": "Don Franklin",
+      "tmdb": 49327,
+      "imdb": "nm0291405",
+      "wikidata": "Q360807",
+      "credit": "guest",
+      "billing": 10
+    },
+    "paul-schackman": {
+      "name": "Paul Schackman",
+      "tmdb": 76025,
+      "imdb": "nm1073603",
+      "credit": "guest",
+      "billing": 11
+    },
+    "brooke-langton": {
+      "name": "Brooke Langton",
+      "tmdb": 35980,
+      "imdb": "nm0486728",
+      "wikidata": "Q257412",
+      "credit": "guest",
+      "billing": 12
+    },
+    "paris-tanaka": {
+      "name": "Paris Tanaka",
+      "tmdb": 190304,
+      "imdb": "nm1642296",
+      "credit": "guest",
+      "billing": 13
+    },
+    "emily-c-chang": {
+      "name": "Emily C. Chang",
+      "tmdb": 1190814,
+      "imdb": "nm1993113",
+      "wikidata": "Q5372103",
+      "credit": "guest",
+      "billing": 14
+    },
+    "richard-augustine": {
+      "name": "Richard Augustine",
+      "tmdb": 2138900,
+      "imdb": "nm0041936",
+      "credit": "guest",
+      "billing": 15
+    },
+    "estella-gabriel": {
+      "name": "Estella Gabriel",
+      "tmdb": 2481582,
+      "imdb": "nm2389471",
+      "credit": "guest",
+      "billing": 16
+    },
+    "david-kagen": {
+      "name": "David Kagen",
+      "tmdb": 64200,
+      "imdb": "nm0434563",
+      "wikidata": "Q5235815",
+      "credit": "guest",
+      "billing": 17
+    },
+    "jonathan-runyon": {
+      "name": "Jonathan Runyon",
+      "tmdb": 1383690,
+      "imdb": "nm2355300",
+      "wikidata": "Q24075926",
+      "credit": "guest",
+      "billing": 18
+    },
+    "dean-wayne": {
+      "name": "Dean Wayne",
+      "tmdb": 1487334,
+      "imdb": "nm5224031",
+      "credit": "guest",
+      "billing": 19
+    },
+    "ali-louise-hartman": {
+      "name": "Ali Louise Hartman",
+      "tmdb": 1439573,
+      "imdb": "nm5116720",
+      "credit": "guest",
+      "billing": 20
+    },
+    "susanne-allan-hartman": {
+      "name": "Susanne Allan Hartman",
+      "tmdb": 1439572,
+      "imdb": "nm5116773",
+      "credit": "guest",
+      "billing": 21
+    }
+  },
   "segments": [
     {
       "from": "00:05:38.528",

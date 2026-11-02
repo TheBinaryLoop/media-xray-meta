@@ -23,6 +23,163 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 3
+    },
+    "jonathan-adams": {
+      "name": "Jonathan Adams",
+      "tmdb": 13477,
+      "imdb": "nm0011095",
+      "wikidata": "Q983873",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "larry-poindexter": {
+      "name": "Larry Poindexter",
+      "tmdb": 25944,
+      "imdb": "nm0223315",
+      "wikidata": "Q1806102",
+      "credit": "guest",
+      "billing": 6
+    },
+    "tyrees-allen": {
+      "name": "Tyrees Allen",
+      "tmdb": 154229,
+      "imdb": "nm0021132",
+      "wikidata": "Q7861478",
+      "credit": "guest",
+      "billing": 7
+    },
+    "sam-trammell": {
+      "name": "Sam Trammell",
+      "tmdb": 131006,
+      "imdb": "nm0870794",
+      "wikidata": "Q40124",
+      "credit": "guest",
+      "billing": 8
+    },
+    "john-m-jackson": {
+      "name": "John M. Jackson",
+      "tmdb": 116128,
+      "imdb": "nm0413698",
+      "wikidata": "Q1700919",
+      "credit": "guest",
+      "billing": 9
+    },
+    "dominic-fumusa": {
+      "name": "Dominic Fumusa",
+      "tmdb": 154784,
+      "imdb": "nm1047883",
+      "wikidata": "Q80925",
+      "credit": "guest",
+      "billing": 10
+    },
+    "katherine-ann-mcgregor": {
+      "name": "Katherine Ann McGregor",
+      "tmdb": 1219539,
+      "imdb": "nm1056786",
+      "wikidata": "Q16832020",
+      "credit": "guest",
+      "billing": 11
+    },
+    "chris-conner": {
+      "name": "Chris Conner",
+      "tmdb": 1597992,
+      "imdb": "nm0175134",
+      "wikidata": "Q23011450",
+      "credit": "guest",
+      "billing": 12
+    },
+    "bonita-friedericy": {
+      "name": "Bonita Friedericy",
+      "tmdb": 25946,
+      "imdb": "nm0295041",
+      "wikidata": "Q451394",
+      "credit": "guest",
+      "billing": 13
+    },
+    "naja-hill": {
+      "name": "Naja Hill",
+      "tmdb": 1500196,
+      "imdb": "nm1495613",
+      "credit": "guest",
+      "billing": 14
+    },
+    "charles-janasz": {
+      "name": "Charles Janasz",
+      "tmdb": 1675046,
+      "imdb": "nm1648214",
+      "credit": "guest",
+      "billing": 15
+    },
+    "damian-t-raven": {
+      "name": "Damian T. Raven",
+      "tmdb": 1581578,
+      "imdb": "nm2020812",
+      "wikidata": "Q117478173",
+      "credit": "guest",
+      "billing": 16
+    },
+    "jeff-witzke": {
+      "name": "Jeff Witzke",
+      "tmdb": 144438,
+      "imdb": "nm0937175",
+      "credit": "guest",
+      "billing": 17
+    },
+    "marilyn-sue-perry": {
+      "name": "Marilyn Sue Perry",
+      "tmdb": 156870,
+      "imdb": "nm0675197",
+      "credit": "guest",
+      "billing": 18
+    },
+    "david-roberson": {
+      "name": "David Roberson",
+      "tmdb": 68223,
+      "imdb": "nm0730578",
+      "credit": "guest",
+      "billing": 19
+    }
+  },
   "segments": [
     {
       "from": "00:05:58.916",

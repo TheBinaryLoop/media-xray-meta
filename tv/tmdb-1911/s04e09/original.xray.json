@@ -23,6 +23,143 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "brendan-fehr": {
+      "name": "Brendan Fehr",
+      "tmdb": 72440,
+      "imdb": "nm0270451",
+      "wikidata": "Q707823",
+      "credit": "guest",
+      "billing": 7
+    },
+    "brian-howe": {
+      "name": "Brian Howe",
+      "tmdb": 1990,
+      "imdb": "nm0397788",
+      "wikidata": "Q472482",
+      "credit": "guest",
+      "billing": 8
+    },
+    "joseph-c-phillips": {
+      "name": "Joseph C. Phillips",
+      "tmdb": 1213328,
+      "imdb": "nm0680531",
+      "wikidata": "Q3810187",
+      "credit": "guest",
+      "billing": 9
+    },
+    "mandy-freund": {
+      "name": "Mandy Freund",
+      "tmdb": 1540683,
+      "imdb": "nm0294490",
+      "wikidata": "Q23891057",
+      "credit": "guest",
+      "billing": 10
+    },
+    "eric-ladin": {
+      "name": "Eric Ladin",
+      "tmdb": 188311,
+      "imdb": "nm1426686",
+      "wikidata": "Q5386930",
+      "credit": "guest",
+      "billing": 11
+    },
+    "eric-lange": {
+      "name": "Eric Lange",
+      "tmdb": 116514,
+      "imdb": "nm1441925",
+      "wikidata": "Q1351441",
+      "credit": "guest",
+      "billing": 12
+    },
+    "jon-wellner": {
+      "name": "Jon Wellner",
+      "tmdb": 1219224,
+      "imdb": "nm0920082",
+      "wikidata": "Q1861851",
+      "credit": "guest",
+      "billing": 13
+    },
+    "christopher-goodman": {
+      "name": "Christopher Goodman",
+      "tmdb": 62082,
+      "imdb": "nm0998907",
+      "credit": "guest",
+      "billing": 14
+    },
+    "daniel-lue": {
+      "name": "Daniel Lue",
+      "tmdb": 1233515,
+      "imdb": "nm1348111",
+      "wikidata": "Q104076054",
+      "credit": "guest",
+      "billing": 15
+    },
+    "maxwell-huckabee": {
+      "name": "Maxwell Huckabee",
+      "tmdb": 1452856,
+      "imdb": "nm2280163",
+      "wikidata": "Q6796112",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:03:10.203",

@@ -23,6 +23,120 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "markus-flanagan": {
+      "name": "Markus Flanagan",
+      "tmdb": 137264,
+      "imdb": "nm0281074",
+      "wikidata": "Q972469",
+      "credit": "guest",
+      "billing": 6
+    },
+    "suzzanne-douglas": {
+      "name": "Suzzanne Douglas",
+      "tmdb": 80622,
+      "imdb": "nm0235336",
+      "wikidata": "Q7651463",
+      "credit": "guest",
+      "billing": 7
+    },
+    "emil-beheshti": {
+      "name": "Emil Beheshti",
+      "tmdb": 202691,
+      "imdb": "nm1556504",
+      "wikidata": "Q23702398",
+      "credit": "guest",
+      "billing": 8
+    },
+    "jim-beaver": {
+      "name": "Jim Beaver",
+      "tmdb": 29862,
+      "imdb": "nm0064769",
+      "wikidata": "Q155378",
+      "credit": "guest",
+      "billing": 9
+    },
+    "charmin-lee": {
+      "name": "Charmin Lee",
+      "tmdb": 1628087,
+      "imdb": "nm0496980",
+      "wikidata": "Q5086496",
+      "credit": "guest",
+      "billing": 10
+    },
+    "sara-rue": {
+      "name": "Sara Rue",
+      "tmdb": 10131,
+      "imdb": "nm0749081",
+      "wikidata": "Q240199",
+      "credit": "guest",
+      "billing": 11
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 12
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 13
+    }
+  },
   "segments": [
     {
       "from": "00:41:24.696",

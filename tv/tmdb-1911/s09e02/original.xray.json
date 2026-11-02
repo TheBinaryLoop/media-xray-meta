@@ -23,6 +23,134 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "carrie-wiita": {
+      "name": "Carrie Wiita",
+      "tmdb": 967540,
+      "imdb": "nm2789587",
+      "credit": "guest",
+      "billing": 6
+    },
+    "yancey-arias": {
+      "name": "Yancey Arias",
+      "tmdb": 21049,
+      "imdb": "nm0034733",
+      "wikidata": "Q901190",
+      "credit": "guest",
+      "billing": 7
+    },
+    "john-ratzenberger": {
+      "name": "John Ratzenberger",
+      "tmdb": 7907,
+      "imdb": "nm0001652",
+      "wikidata": "Q374093",
+      "credit": "guest",
+      "billing": 8
+    },
+    "millicent-martin": {
+      "name": "Millicent Martin",
+      "tmdb": 162896,
+      "imdb": "nm0552815",
+      "wikidata": "Q2777836",
+      "credit": "guest",
+      "billing": 9
+    },
+    "greg-rikaart": {
+      "name": "Greg Rikaart",
+      "tmdb": 1226010,
+      "imdb": "nm1228731",
+      "wikidata": "Q359010",
+      "credit": "guest",
+      "billing": 10
+    },
+    "tim-peper": {
+      "name": "Tim Peper",
+      "tmdb": 1218198,
+      "imdb": "nm1776830",
+      "wikidata": "Q7804101",
+      "credit": "guest",
+      "billing": 11
+    },
+    "brittany-ishibashi": {
+      "name": "Brittany Ishibashi",
+      "tmdb": 1098756,
+      "imdb": "nm0410893",
+      "wikidata": "Q20090990",
+      "credit": "guest",
+      "billing": 12
+    },
+    "beth-crosby": {
+      "name": "Beth Crosby",
+      "tmdb": 1446885,
+      "imdb": "nm0188968",
+      "credit": "guest",
+      "billing": 13
+    },
+    "cleavon-mcclendon": {
+      "name": "Cleavon McClendon",
+      "tmdb": 1503720,
+      "imdb": "nm0565816",
+      "wikidata": "Q111648158",
+      "credit": "guest",
+      "billing": 14
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:04:21.155",

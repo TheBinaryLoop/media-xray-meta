@@ -23,6 +23,149 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "ryan-pinkston": {
+      "name": "Ryan Pinkston",
+      "tmdb": 78341,
+      "imdb": "nm1331735",
+      "wikidata": "Q549562",
+      "credit": "guest",
+      "billing": 6
+    },
+    "jaimie-alexander": {
+      "name": "Jaimie Alexander",
+      "tmdb": 59817,
+      "imdb": "nm1526352",
+      "wikidata": "Q253343",
+      "credit": "guest",
+      "billing": 7
+    },
+    "edwin-hodge": {
+      "name": "Edwin Hodge",
+      "tmdb": 56679,
+      "imdb": "nm0388064",
+      "wikidata": "Q2392907",
+      "credit": "guest",
+      "billing": 8
+    },
+    "jonathan-chesner": {
+      "name": "Jonathan Chesner",
+      "tmdb": 1224424,
+      "imdb": "nm1724254",
+      "wikidata": "Q18243558",
+      "credit": "guest",
+      "billing": 9
+    },
+    "brendan-fehr": {
+      "name": "Brendan Fehr",
+      "tmdb": 72440,
+      "imdb": "nm0270451",
+      "wikidata": "Q707823",
+      "credit": "guest",
+      "billing": 10
+    },
+    "nick-ballard": {
+      "name": "Nick Ballard",
+      "tmdb": 104467,
+      "imdb": "nm2633394",
+      "wikidata": "Q137791565",
+      "credit": "guest",
+      "billing": 11
+    },
+    "rick-peters": {
+      "name": "Rick Peters",
+      "tmdb": 105002,
+      "imdb": "nm0676648",
+      "wikidata": "Q3490043",
+      "credit": "guest",
+      "billing": 12
+    },
+    "michael-hyatt": {
+      "name": "Michael Hyatt",
+      "tmdb": 61084,
+      "imdb": "nm0404924",
+      "wikidata": "Q281951",
+      "credit": "guest",
+      "billing": 13
+    },
+    "lorna-raver": {
+      "name": "Lorna Raver",
+      "tmdb": 95696,
+      "imdb": "nm0712404",
+      "wikidata": "Q458482",
+      "credit": "guest",
+      "billing": 14
+    },
+    "philip-banks": {
+      "name": "Philip Banks",
+      "tmdb": 2327821,
+      "credit": "guest",
+      "billing": 15
+    },
+    "jason-lockhart": {
+      "name": "Jason Lockhart",
+      "tmdb": 40066,
+      "imdb": "nm0770647",
+      "credit": "guest",
+      "billing": 16
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:04:04.416",

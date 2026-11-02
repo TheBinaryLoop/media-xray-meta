@@ -23,6 +23,166 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "kayla-ewell": {
+      "name": "Kayla Ewell",
+      "tmdb": 109858,
+      "imdb": "nm0263881",
+      "wikidata": "Q4058",
+      "credit": "guest",
+      "billing": 6
+    },
+    "amy-pietz": {
+      "name": "Amy Pietz",
+      "tmdb": 134082,
+      "imdb": "nm0682970",
+      "wikidata": "Q442143",
+      "credit": "guest",
+      "billing": 7
+    },
+    "brando-eaton": {
+      "name": "Brando Eaton",
+      "tmdb": 208406,
+      "imdb": "nm2343444",
+      "wikidata": "Q898100",
+      "credit": "guest",
+      "billing": 8
+    },
+    "monique-coleman": {
+      "name": "Monique Coleman",
+      "tmdb": 180279,
+      "imdb": "nm0170912",
+      "wikidata": "Q230194",
+      "credit": "guest",
+      "billing": 9
+    },
+    "matt-bushell": {
+      "name": "Matt Bushell",
+      "tmdb": 57995,
+      "imdb": "nm1140952",
+      "wikidata": "Q1058379",
+      "credit": "guest",
+      "billing": 10
+    },
+    "lu-parker": {
+      "name": "Lu Parker",
+      "tmdb": 79081,
+      "imdb": "nm1951721",
+      "wikidata": "Q3837932",
+      "credit": "guest",
+      "billing": 11
+    },
+    "spencer-breslin": {
+      "name": "Spencer Breslin",
+      "tmdb": 35654,
+      "imdb": "nm0107748",
+      "wikidata": "Q251984",
+      "credit": "guest",
+      "billing": 12
+    },
+    "andrew-borba": {
+      "name": "Andrew Borba",
+      "tmdb": 167720,
+      "imdb": "nm0095960",
+      "wikidata": "Q23702025",
+      "credit": "guest",
+      "billing": 13
+    },
+    "ramon-de-ocampo": {
+      "name": "Ramon De Ocampo",
+      "tmdb": 171898,
+      "imdb": "nm0210625",
+      "wikidata": "Q9303875",
+      "credit": "guest",
+      "billing": 14
+    },
+    "earnestine-phillips": {
+      "name": "Earnestine Phillips",
+      "tmdb": 1781001,
+      "imdb": "nm2129374",
+      "credit": "guest",
+      "billing": 15
+    },
+    "heidi-sulzman": {
+      "name": "Heidi Sulzman",
+      "tmdb": 66498,
+      "imdb": "nm1197834",
+      "wikidata": "Q67984144",
+      "credit": "guest",
+      "billing": 16
+    },
+    "nichole-hiltz": {
+      "name": "Nichole Hiltz",
+      "tmdb": 59090,
+      "imdb": "nm0385346",
+      "wikidata": "Q3339690",
+      "credit": "guest",
+      "billing": 17
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 18
+    },
+    "rebecca-flinn-white": {
+      "name": "Rebecca Flinn-White",
+      "tmdb": 1503148,
+      "imdb": "nm2033646",
+      "credit": "guest",
+      "billing": 19
+    }
+  },
   "segments": [
     {
       "from": "00:03:41.542",

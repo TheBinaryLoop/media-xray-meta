@@ -23,6 +23,111 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "tarah-paige": {
+      "name": "Tarah Paige",
+      "tmdb": 63680,
+      "imdb": "nm1395985",
+      "wikidata": "Q7685305",
+      "credit": "guest",
+      "billing": 6
+    },
+    "gregory-scott-cummins": {
+      "name": "Gregory Scott Cummins",
+      "tmdb": 44178,
+      "imdb": "nm0192003",
+      "wikidata": "Q3776572",
+      "credit": "guest",
+      "billing": 7
+    },
+    "heath-freeman": {
+      "name": "Heath Freeman",
+      "tmdb": 157038,
+      "imdb": "nm0293411",
+      "wikidata": "Q109604275",
+      "credit": "guest",
+      "billing": 8
+    },
+    "jim-jansen": {
+      "name": "Jim Jansen",
+      "tmdb": 155031,
+      "imdb": "nm0418012",
+      "wikidata": "Q23153130",
+      "credit": "guest",
+      "billing": 9
+    },
+    "irene-roseen": {
+      "name": "Irene Roseen",
+      "tmdb": 79585,
+      "imdb": "nm0741788",
+      "credit": "guest",
+      "billing": 10
+    },
+    "dohn-norwood": {
+      "name": "Dohn Norwood",
+      "tmdb": 1223865,
+      "imdb": "nm1382564",
+      "wikidata": "Q40646674",
+      "credit": "guest",
+      "billing": 11
+    },
+    "christie-lynn-smith": {
+      "name": "Christie Lynn Smith",
+      "tmdb": 103832,
+      "imdb": "nm0807700",
+      "wikidata": "Q5110690",
+      "credit": "guest",
+      "billing": 12
+    }
+  },
   "segments": [
     {
       "from": "00:03:50.123",

@@ -23,6 +23,127 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "giovannie-espiritu": {
+      "name": "Giovannie Espiritu",
+      "tmdb": 1768809,
+      "imdb": "nm1482080",
+      "wikidata": "Q5564040",
+      "credit": "guest",
+      "billing": 6
+    },
+    "kathy-lamkin": {
+      "name": "Kathy Lamkin",
+      "tmdb": 93927,
+      "imdb": "nm0483541",
+      "wikidata": "Q3194107",
+      "credit": "guest",
+      "billing": 7
+    },
+    "janet-tamaro": {
+      "name": "Janet Tamaro",
+      "tmdb": 1220644,
+      "imdb": "nm1002023",
+      "wikidata": "Q6153624",
+      "credit": "guest",
+      "billing": 8
+    },
+    "heath-freeman": {
+      "name": "Heath Freeman",
+      "tmdb": 157038,
+      "imdb": "nm0293411",
+      "wikidata": "Q109604275",
+      "credit": "guest",
+      "billing": 9
+    },
+    "christie-lynn-smith": {
+      "name": "Christie Lynn Smith",
+      "tmdb": 103832,
+      "imdb": "nm0807700",
+      "wikidata": "Q5110690",
+      "credit": "guest",
+      "billing": 10
+    },
+    "mik-scriba": {
+      "name": "Mik Scriba",
+      "tmdb": 157021,
+      "imdb": "nm0780102",
+      "credit": "guest",
+      "billing": 11
+    },
+    "pancho-demmings": {
+      "name": "Pancho Demmings",
+      "tmdb": 62150,
+      "imdb": "nm0218596",
+      "wikidata": "Q432283",
+      "credit": "guest",
+      "billing": 12
+    },
+    "sandra-purpuro": {
+      "name": "Sandra Purpuro",
+      "tmdb": 1219586,
+      "imdb": "nm0700944",
+      "wikidata": "Q7416740",
+      "credit": "guest",
+      "billing": 13
+    },
+    "ty-panitz": {
+      "name": "Ty Panitz",
+      "tmdb": 25144,
+      "imdb": "nm1892830",
+      "wikidata": "Q469072",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:02:27.110",

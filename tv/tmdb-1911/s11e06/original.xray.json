@@ -23,6 +23,179 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 6
+    },
+    "laura-spencer": {
+      "name": "Laura Spencer",
+      "tmdb": 591519,
+      "imdb": "nm3189010",
+      "wikidata": "Q16832120",
+      "credit": "guest",
+      "billing": 7
+    },
+    "brenda-strong": {
+      "name": "Brenda Strong",
+      "tmdb": 101396,
+      "imdb": "nm0834947",
+      "wikidata": "Q31970",
+      "credit": "guest",
+      "billing": 8
+    },
+    "james-murray": {
+      "name": "James Murray",
+      "tmdb": 1638285,
+      "imdb": "nm2098978",
+      "wikidata": "Q53516410",
+      "credit": "guest",
+      "billing": 9
+    },
+    "sal-vulcano": {
+      "name": "Sal Vulcano",
+      "tmdb": 1374713,
+      "imdb": "nm1742600",
+      "wikidata": "Q53516268",
+      "credit": "guest",
+      "billing": 10
+    },
+    "nicholas-gonzalez": {
+      "name": "Nicholas Gonzalez",
+      "tmdb": 61852,
+      "imdb": "nm0327764",
+      "wikidata": "Q1139119",
+      "credit": "guest",
+      "billing": 11
+    },
+    "ali-hillis": {
+      "name": "Ali Hillis",
+      "tmdb": 58114,
+      "imdb": "nm0385029",
+      "wikidata": "Q299519",
+      "credit": "guest",
+      "billing": 12
+    },
+    "dat-phan": {
+      "name": "Dat Phan",
+      "tmdb": 173796,
+      "imdb": "nm1399960",
+      "wikidata": "Q5227086",
+      "credit": "guest",
+      "billing": 13
+    },
+    "stevie-lynn-jones": {
+      "name": "Stevie Lynn Jones",
+      "tmdb": 1327249,
+      "imdb": "nm4766015",
+      "wikidata": "Q7615594",
+      "credit": "guest",
+      "billing": 14
+    },
+    "brian-scolaro": {
+      "name": "Brian Scolaro",
+      "tmdb": 62840,
+      "imdb": "nm1046714",
+      "wikidata": "Q16204584",
+      "credit": "guest",
+      "billing": 15
+    },
+    "melissa-etezadi": {
+      "name": "Melissa Etezadi",
+      "tmdb": 1651161,
+      "imdb": "nm7650481",
+      "credit": "guest",
+      "billing": 16
+    },
+    "nefetari-spencer": {
+      "name": "Nefetari Spencer",
+      "tmdb": 98410,
+      "imdb": "nm0818045",
+      "credit": "guest",
+      "billing": 17
+    },
+    "ford-austin": {
+      "name": "Ford Austin",
+      "tmdb": 99427,
+      "imdb": "nm1284939",
+      "wikidata": "Q113946359",
+      "credit": "guest",
+      "billing": 18
+    },
+    "frederick-keeve": {
+      "name": "Frederick Keeve",
+      "tmdb": 1177469,
+      "imdb": "nm0444858",
+      "credit": "guest",
+      "billing": 19
+    },
+    "afsheen-olyaie": {
+      "name": "Afsheen Olyaie",
+      "tmdb": 1540119,
+      "imdb": "nm5727521",
+      "credit": "guest",
+      "billing": 20
+    },
+    "jamie-soricelli": {
+      "name": "Jamie Soricelli",
+      "tmdb": 2493107,
+      "imdb": "nm7749647",
+      "credit": "guest",
+      "billing": 21
+    }
+  },
   "segments": [
     {
       "from": "00:05:23.746",

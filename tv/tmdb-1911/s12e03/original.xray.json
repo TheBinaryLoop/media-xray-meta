@@ -23,6 +23,142 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "ed-asner": {
+      "name": "Ed Asner",
+      "tmdb": 68812,
+      "imdb": "nm0000799",
+      "wikidata": "Q154421",
+      "credit": "guest",
+      "billing": 6
+    },
+    "hal-holbrook": {
+      "name": "Hal Holbrook",
+      "tmdb": 11066,
+      "imdb": "nm0001358",
+      "wikidata": "Q314801",
+      "credit": "guest",
+      "billing": 7
+    },
+    "june-squibb": {
+      "name": "June Squibb",
+      "tmdb": 35515,
+      "imdb": "nm0820053",
+      "wikidata": "Q13560481",
+      "credit": "guest",
+      "billing": 8
+    },
+    "jack-plotnick": {
+      "name": "Jack Plotnick",
+      "tmdb": 29795,
+      "imdb": "nm0687443",
+      "wikidata": "Q953735",
+      "credit": "guest",
+      "billing": 9
+    },
+    "isaac-c-singleton-jr": {
+      "name": "Isaac C. Singleton, Jr.",
+      "tmdb": 1717,
+      "imdb": "nm0802280",
+      "wikidata": "Q3154735",
+      "credit": "guest",
+      "billing": 10
+    },
+    "kurt-scholler": {
+      "name": "Kurt Scholler",
+      "tmdb": 202871,
+      "imdb": "nm1461039",
+      "wikidata": "Q24052739",
+      "credit": "guest",
+      "billing": 11
+    },
+    "cyrus-arnold": {
+      "name": "Cyrus Arnold",
+      "tmdb": 1493218,
+      "imdb": "nm5928378",
+      "wikidata": "Q23016631",
+      "credit": "guest",
+      "billing": 12
+    },
+    "cade-canon-ball": {
+      "name": "Cade Canon Ball",
+      "tmdb": 1487329,
+      "imdb": "nm3322658",
+      "credit": "guest",
+      "billing": 13
+    },
+    "megan-suri": {
+      "name": "Megan Suri",
+      "tmdb": 2073513,
+      "imdb": "nm3514372",
+      "wikidata": "Q110663727",
+      "credit": "guest",
+      "billing": 14
+    },
+    "johnny-glasser": {
+      "name": "Johnny Glasser",
+      "tmdb": 1905147,
+      "imdb": "nm6138058",
+      "credit": "guest",
+      "billing": 15
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:05:31.372",

@@ -23,6 +23,158 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "kurt-caceres": {
+      "name": "Kurt Caceres",
+      "tmdb": 59889,
+      "imdb": "nm0127988",
+      "wikidata": "Q6446664",
+      "credit": "guest",
+      "billing": 7
+    },
+    "peyton-roney": {
+      "name": "Peyton Roney",
+      "tmdb": 1818498,
+      "imdb": "nm4898974",
+      "credit": "guest",
+      "billing": 8
+    },
+    "amy-stewart": {
+      "name": "Amy Stewart",
+      "tmdb": 1137050,
+      "imdb": "nm0829166",
+      "wikidata": "Q23908934",
+      "credit": "guest",
+      "billing": 9
+    },
+    "evan-helmuth": {
+      "name": "Evan Helmuth",
+      "tmdb": 114036,
+      "imdb": "nm1069312",
+      "wikidata": "Q33927154",
+      "credit": "guest",
+      "billing": 10
+    },
+    "robert-rusler": {
+      "name": "Robert Rusler",
+      "tmdb": 52306,
+      "imdb": "nm0750852",
+      "wikidata": "Q687218",
+      "credit": "guest",
+      "billing": 11
+    },
+    "roberto-sanchez": {
+      "name": "Roberto Sanchez",
+      "tmdb": 928812,
+      "imdb": "nm1273864",
+      "wikidata": "Q16301965",
+      "credit": "guest",
+      "billing": 12
+    },
+    "l-j-benet": {
+      "name": "L.J. Benet",
+      "tmdb": 1393310,
+      "imdb": "nm2722361",
+      "wikidata": "Q1797755",
+      "credit": "guest",
+      "billing": 13
+    },
+    "jeremy-glazer": {
+      "name": "Jeremy Glazer",
+      "tmdb": 77777,
+      "imdb": "nm0322241",
+      "wikidata": "Q11724257",
+      "credit": "guest",
+      "billing": 14
+    },
+    "walker-howard": {
+      "name": "Walker Howard",
+      "tmdb": 84272,
+      "imdb": "nm0907794",
+      "wikidata": "Q203713",
+      "credit": "guest",
+      "billing": 15
+    },
+    "ty-panitz": {
+      "name": "Ty Panitz",
+      "tmdb": 25144,
+      "imdb": "nm1892830",
+      "wikidata": "Q469072",
+      "credit": "guest",
+      "billing": 16
+    },
+    "ali-louise-hartman": {
+      "name": "Ali Louise Hartman",
+      "tmdb": 1439573,
+      "imdb": "nm5116720",
+      "credit": "guest",
+      "billing": 17
+    },
+    "wendy-worthington": {
+      "name": "Wendy Worthington",
+      "tmdb": 94904,
+      "imdb": "nm0941781",
+      "wikidata": "Q7982835",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:03:51.777",

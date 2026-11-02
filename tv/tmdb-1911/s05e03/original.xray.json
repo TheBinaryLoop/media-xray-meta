@@ -23,6 +23,150 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "arjay-smith": {
+      "name": "Arjay Smith",
+      "tmdb": 6070,
+      "imdb": "nm0807351",
+      "wikidata": "Q4791534",
+      "credit": "guest",
+      "billing": 7
+    },
+    "kaitlin-doubleday": {
+      "name": "Kaitlin Doubleday",
+      "tmdb": 52936,
+      "imdb": "nm1291974",
+      "wikidata": "Q1721796",
+      "credit": "guest",
+      "billing": 8
+    },
+    "michael-b-jordan": {
+      "name": "Michael B. Jordan",
+      "tmdb": 135651,
+      "imdb": "nm0430107",
+      "wikidata": "Q3308007",
+      "credit": "guest",
+      "billing": 9
+    },
+    "randy-oglesby": {
+      "name": "Randy Oglesby",
+      "tmdb": 102567,
+      "imdb": "nm0644750",
+      "wikidata": "Q7292351",
+      "credit": "guest",
+      "billing": 10
+    },
+    "jennifer-parsons": {
+      "name": "Jennifer Parsons",
+      "tmdb": 1236009,
+      "imdb": "nm0663844",
+      "wikidata": "Q17566618",
+      "credit": "guest",
+      "billing": 11
+    },
+    "brian-letscher": {
+      "name": "Brian Letscher",
+      "tmdb": 177217,
+      "imdb": "nm1101904",
+      "wikidata": "Q19631095",
+      "credit": "guest",
+      "billing": 12
+    },
+    "marcia-ann-burrs": {
+      "name": "Marcia Ann Burrs",
+      "tmdb": 1230871,
+      "imdb": "nm0123307",
+      "credit": "guest",
+      "billing": 13
+    },
+    "stephanie-turner": {
+      "name": "Stephanie Turner",
+      "tmdb": 1213664,
+      "imdb": "nm1765884",
+      "wikidata": "Q115091523",
+      "credit": "guest",
+      "billing": 14
+    },
+    "drew-james": {
+      "name": "Drew James",
+      "tmdb": 1367845,
+      "imdb": "nm0416449",
+      "credit": "guest",
+      "billing": 15
+    },
+    "shawn-hook": {
+      "name": "Shawn Hook",
+      "tmdb": 2172496,
+      "imdb": "nm2990194",
+      "wikidata": "Q18357706",
+      "credit": "guest",
+      "billing": 16
+    },
+    "tiffany-hines": {
+      "name": "Tiffany Hines",
+      "tmdb": 1224085,
+      "imdb": "nm2015692",
+      "wikidata": "Q1189338",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:05:51.410",

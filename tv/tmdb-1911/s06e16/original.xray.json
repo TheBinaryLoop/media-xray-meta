@@ -23,6 +23,86 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "michael-grant-terry": {
+      "name": "Michael Grant Terry",
+      "tmdb": 205984,
+      "imdb": "nm2163204",
+      "wikidata": "Q3308554",
+      "credit": "guest",
+      "billing": 6
+    },
+    "benjamin-byron-davis": {
+      "name": "Benjamin Byron Davis",
+      "tmdb": 1356013,
+      "imdb": "nm1177880",
+      "wikidata": "Q4888357",
+      "credit": "guest",
+      "billing": 7
+    },
+    "rafaella-biscayn-debest": {
+      "name": "Rafaella Biscayn-Debest",
+      "tmdb": 93307,
+      "imdb": "nm3035502",
+      "credit": "guest",
+      "billing": 8
+    },
+    "ryan-m-lee": {
+      "name": "Ryan M. Lee",
+      "tmdb": 1316845,
+      "imdb": "nm2541405",
+      "credit": "guest",
+      "billing": 9
+    }
+  },
   "segments": [
     {
       "from": "00:05:43.272",

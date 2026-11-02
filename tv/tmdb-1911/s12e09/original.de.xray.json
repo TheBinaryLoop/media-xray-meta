@@ -21,5 +21,44 @@
       "to": "00:33:57.940",
       "fingerprint": "AQAAjHuaREki5IyFJMoTWehx7GmIJzocRWGOb8gDPY-Mr0GyjEObKCCH__iP5IaP7D7xgBEdHamSxIfGI5eFWYpEPJqFpriJ5lkUFU-eBJH3Q8uZI_zwI_fxKHsCnVIGLsmPihf-wHtRhuARWm1gJ8Gz9ngM71inxQkcZspKJHtKITo84puGd-FxJVkoOBKN_4j1qAl0xJk51GmYonmwEz-eO_iDHGLzI89xZkdzo9mOpxuuKwh1E_5m4VeRk4CzwsdxfMfxI_mPcCHuTMcfxNVyaPlKhD--I1QU5RAj6sgfTD-D88J_ookHsjnSEMmeRUY1LocZPQuY_cXR_Og2DV96UOGu4MsV42TQ7DXCp4LkHTmmPDsqR4mOmp7QbGEYXFFOXM_R3Ohp4mnwKJmFSy_eI8x4Q_vx439wRheuPLiPSzsApAClDiiERBKQKMGMkJQAJpBQBABigAGEMCoEAQAQ4wzBgBAnOBCEGCCEIooQQpzhAinACFIMMQEEIco5wKzgggAkmBFCKKIJUYQAYgwRFAggAAGCAGIAEcIIIIQAQCggKEKIIEEEcAIIAiBARgg"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "john-boyd": "Special Agent James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "stephen-fry": "Dr. Gordon Wyatt"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "john-boyd": {
+      "name": "Tim Knauer",
+      "wikidata": "Q2434097"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "stephen-fry": {
+      "name": "Hubertus Bengsch",
+      "wikidata": "Q96210"
+    }
+  }
 }

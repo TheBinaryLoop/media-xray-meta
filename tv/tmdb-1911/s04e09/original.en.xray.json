@@ -21,5 +21,24 @@
       "to": "00:33:56.266",
       "fingerprint": "AQAAjBOTaUtEIaQkCVqeI3zwB78CnqnwJKExSw8aVM-DO3rxBw8r5PmhkRQzhOFyKTh1nDGeOcb0C3_xJFGOMNWhf0OWfkITHUd4QVunIL7wzwj_4pGJ5GE-fINjHV0XCh-PJ1I-_EWQrFUYNNN0XHg_4jUYaclyNBwXIZehsTRO7IeW-cFXPIGT6FCXHGF-oUe_oDmeHLmYQc92NPERSWloHFmVQ7lT5HiOmjreHF0SRdWM68JjIbQioRk-hcZTFdbxBKh-bJQdPDx0nXhN5Bt8PeiP58XNIw-ex-jT476g6oJJTGrEI9dYdDeafMOlvMjDUNBja2hmHqG8HG-With55KWgM0RPNJc-fMG1HQ905ejNobnk4VSiQD_CdM4mVM9RWjyoadcQ_oRmw1yWH6FF4k8DHimjPIAq70Xu5GD04nJRJ6QAJRAkThFiDBACKaQEAUABJgQRCBBAhQVGEESAMQARgBBBRkCABBMMIMCYUsAoQhEyiBCOhaTAAACYBJIrABwgghkAAKMCCCUAAMI4IowhBAlChCAICCCcMKBAAYBRhgkDAADAEAGAsQQ"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "eugene-byrd": "Clark Edison",
+    "brendan-fehr": "Jared Booth",
+    "brian-howe": "Sheriff Leonard Wilkinson",
+    "joseph-c-phillips": "Colonel Ryan Wolchuck",
+    "mandy-freund": "Lily Stegman",
+    "eric-ladin": "Paul Stegman",
+    "eric-lange": "Steve Jackson",
+    "jon-wellner": "Mike Campbell",
+    "christopher-goodman": "State Police Instructor",
+    "daniel-lue": "Cadet Williams",
+    "maxwell-huckabee": "Child Stegman"
+  }
 }

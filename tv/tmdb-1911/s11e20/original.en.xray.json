@@ -21,5 +21,24 @@
       "to": "00:33:45.136",
       "fingerprint": "AQAAjM6UJJm0KCgahcWPa009JNekIKQxhWNw5sKdB2f0oEkuSUFJKUceIXnxuIenBz8YpRmc5_B0ZmgT5Tgz_IgZykguGo6TCzuHbYmDJzxx6UGTZ-gunGLw5KFwXWj4Kigf_Eaf5QgzWYemSEeYPTiZC_4Q89CNPMPxC1nC-1CkZGYQnviPpz1KPUeLZuyDOzWSZkSePJg-Ec2YBfRxEZs1vDGSyQnSo0tvXOPxD6Z8XNmOHx4z4xQdIoyPrQqdQLvi4NQOesFxCZJOfFiXH-cHcYySDXmWo0fz48dz4T_CLK4ETWqO6DvOoCmeEbcRJxqPSs-LW9A6NF0UhE0YHiccPyGeU_DAHM9x6fgS9EaYqSP0HD_K7kjvon2PC82PS_DR58Fx4XgyXEf8Q9eOroePO8h--AAjgSIECWAIUAIRxbABRhFmiOAKEGMIUIQo4ZgQwDgHgAAgAAmEEAAIRZQAwBjCCMJKAASJEF4AJAggYDrAEBAEAqMUIwAJ4AwjChBADTSAKESJMUwJRogCRiFBsSDGKAUdUAQgJJzQAA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "john-boyd": "James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "eugene-byrd": "Clark Edison",
+    "michael-grant-terry": "Wendell Bray",
+    "john-shea": "Dr. Marcus Eldridge",
+    "bridgett-newton": "Hazel Mitchell",
+    "jim-pirri": "Declan Marshall",
+    "kimberly-guerrero": "Alice Tuuq",
+    "jay-jackson": "News Anchor",
+    "diane-mizota": "Reporter #2",
+    "nicole-pulliam": "Tiffany Chung",
+    "raney-branch": "Felicia Saroyan",
+    "sunnie-pelant": "Christine Booth"
+  }
 }

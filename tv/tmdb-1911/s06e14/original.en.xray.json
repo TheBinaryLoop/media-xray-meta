@@ -21,5 +21,21 @@
       "to": "00:34:40.052",
       "fingerprint": "AQAAjEmm5cmSJMLzQF-PLKnyon-C_xiTE2Z0IXmSUEN4Bb2I6-jCdGgYkQtypTl05KewfQGPUznmRTTiaXmgXQijSMGNRkc9OsGei2he9FmOk8eVBrnEQ75O5PXRVMyEXip-D3cuUCrl4MePXAkPsY6GnC_2oVmWHb2FmxE-vDMiCVJyIerxJBQufsXR67h6HM2FI4e-NIe7PUF-4TKeHf1xGnfg_EKHi8fRnClC8tCPPkeT53gqhYMeckSOfjmeoll-rOnwBj2YlEluqD_xG024xeiJcvnQcFmOn3iOUE4OKUnWINcmXNnBJ8OP9MQf6JaCJk10rAnKN_gH_cLU6FLg_cVzUKfRJT8uuYGij2huHMfxDH0hxoDf4uPx6_DxIz-OdAfgEypxHUEAEEQQgAAzhBgABQKBCAscYQwKhARjhBgjjFDGEQQAdFQwYjBhijJACRHOAElIgV4BAQkghhiGAAQUBEEsgMAIoABSAgAlhBDEMkCEclAhpBUDFDAoKABOAOEEEgpIyhBpDAhBgNGQGOaIUAY"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "eugene-byrd": "Clark Edison",
+    "carla-jimenez": "Lucy Rodriguez",
+    "peter-paige": "Darren Hargrove",
+    "elon-gold": "Dr. Paul Lidner",
+    "brady-smith": "Greg Bovitz",
+    "leslie-anne-panaligan": "Raina Erickson",
+    "kip-gilman": "Warren Erickson",
+    "candice-coke": "Dr. Nora Oldhouse"
+  }
 }

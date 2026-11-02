@@ -21,5 +21,21 @@
       "to": "00:33:58.339",
       "fingerprint": "AQAAjGLyJIyE2pmCTUfVJMi1C8l97GNy9FuNhseeWMdfIfQ4aA1zhDyHxrnw-CNueLMU4jl-8MqJ9JAu73ieIlYjPGU-PDieIj90x0c-o9cWNFOT0XiypEsy8DkanM7R6PgRKzw0agjzB3uOL3lwfkI7fmjWLcIblA-mhAmlC4-CH82YRFWQ8EwThCfc4SH-MDmewNRM_Mdu4ULjZMekOJ9wTVeKP0RTLehd4buQ6zu0H76KNI404nwyVImPfvAfPEfz4jiYPEdJWsGV31inI8dr6NNVfHlShEooUdrgEw921MrR-DMYam1QXS6sF-1y4ltqnAlT47zQw3twHXVyYqSi4GGLeMsc6CTSKjlu4q_xL_CS4z_Gzwih5XgenDnxhAKTG71yxEcVeMd9nIdPEWGPv_gSEnqXoJ9ooskLEgFFDAMGAOKEgIAYBQAwjiigtBAQAEQKVYgIJoQwgBBmAAGKEAUIEEIYCIBQwABAgHBMCAAMMIgQAgQixggCDCNAIYAAAEYBAAATUiEkBBLACCsgUgIohQBggBAGlFIEEEWUdEZAAQRxCAEA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "carla-gallo": "Daisy Wick",
+    "patricia-belcher": "Caroline Julian",
+    "vicki-lewis": "Helen Bridenbecker",
+    "jonathan-lapaglia": "Anton Deluca",
+    "todd-bosley": "Duane",
+    "bill-parks": "Chunky",
+    "david-greenman": "Marcus Geier",
+    "nichole-hiltz": "Roxie Lyon"
+  }
 }

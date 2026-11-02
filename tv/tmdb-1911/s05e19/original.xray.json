@@ -23,6 +23,156 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "josh-todd": {
+      "name": "Josh Todd",
+      "tmdb": 1224043,
+      "imdb": "nm0865205",
+      "wikidata": "Q1997691",
+      "credit": "guest",
+      "billing": 6
+    },
+    "molly-morgan": {
+      "name": "Molly Morgan",
+      "tmdb": 153934,
+      "imdb": "nm0604919",
+      "wikidata": "Q18419300",
+      "credit": "guest",
+      "billing": 7
+    },
+    "steven-hack": {
+      "name": "Steven Hack",
+      "tmdb": 1344294,
+      "imdb": "nm1035461",
+      "wikidata": "Q23833910",
+      "credit": "guest",
+      "billing": 8
+    },
+    "corinne-dekker": {
+      "name": "Corinne Dekker",
+      "tmdb": 208497,
+      "imdb": "nm1522906",
+      "credit": "guest",
+      "billing": 9
+    },
+    "hector-luis-bustamante": {
+      "name": "Hector Luis Bustamante",
+      "tmdb": 177198,
+      "imdb": "nm1080835",
+      "wikidata": "Q3144560",
+      "credit": "guest",
+      "billing": 10
+    },
+    "michael-des-barres": {
+      "name": "Michael Des Barres",
+      "tmdb": 65334,
+      "imdb": "nm0220735",
+      "wikidata": "Q683828",
+      "credit": "guest",
+      "billing": 11
+    },
+    "david-aranovich": {
+      "name": "David Aranovich",
+      "tmdb": 180103,
+      "imdb": "nm1564903",
+      "credit": "guest",
+      "billing": 12
+    },
+    "jennifer-defilippo": {
+      "name": "Jennifer DeFilippo",
+      "tmdb": 1645239,
+      "imdb": "nm3509865",
+      "credit": "guest",
+      "billing": 13
+    },
+    "michael-eliopoulos": {
+      "name": "Michael Eliopoulos",
+      "tmdb": 1773698,
+      "imdb": "nm0253681",
+      "credit": "guest",
+      "billing": 14
+    },
+    "elon-gold": {
+      "name": "Elon Gold",
+      "tmdb": 144227,
+      "imdb": "nm0324968",
+      "wikidata": "Q359177",
+      "credit": "guest",
+      "billing": 15
+    },
+    "tiffany-hines": {
+      "name": "Tiffany Hines",
+      "tmdb": 1224085,
+      "imdb": "nm2015692",
+      "wikidata": "Q1189338",
+      "credit": "guest",
+      "billing": 16
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 17
+    },
+    "john-wynn": {
+      "name": "John Wynn",
+      "tmdb": 174036,
+      "imdb": "nm1792493",
+      "wikidata": "Q111725396",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:03:05.384",

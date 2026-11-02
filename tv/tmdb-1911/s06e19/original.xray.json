@@ -23,6 +23,175 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "geoff-stults": {
+      "name": "Geoff Stults",
+      "tmdb": 22128,
+      "imdb": "nm0836176",
+      "wikidata": "Q255293",
+      "credit": "guest",
+      "billing": 6
+    },
+    "saffron-burrows": {
+      "name": "Saffron Burrows",
+      "tmdb": 9825,
+      "imdb": "nm0004787",
+      "wikidata": "Q232419",
+      "credit": "guest",
+      "billing": 7
+    },
+    "danny-trejo": {
+      "name": "Danny Trejo",
+      "tmdb": 11160,
+      "imdb": "nm0001803",
+      "wikidata": "Q223830",
+      "credit": "guest",
+      "billing": 8
+    },
+    "michael-clarke-duncan": {
+      "name": "Michael Clarke Duncan",
+      "tmdb": 61981,
+      "imdb": "nm0003817",
+      "wikidata": "Q483148",
+      "credit": "guest",
+      "billing": 9
+    },
+    "mini-anden": {
+      "name": "Mini Anden",
+      "tmdb": 142953,
+      "imdb": "nm1068565",
+      "wikidata": "Q234647",
+      "credit": "guest",
+      "billing": 10
+    },
+    "suzie-plakson": {
+      "name": "Suzie Plakson",
+      "tmdb": 8266,
+      "imdb": "nm0686442",
+      "wikidata": "Q1396070",
+      "credit": "guest",
+      "billing": 11
+    },
+    "mark-lainer": {
+      "name": "Mark Lainer",
+      "tmdb": 1996565,
+      "imdb": "nm0481884",
+      "credit": "guest",
+      "billing": 12
+    },
+    "carlo-rota": {
+      "name": "Carlo Rota",
+      "tmdb": 54793,
+      "imdb": "nm0744690",
+      "wikidata": "Q608695",
+      "credit": "guest",
+      "billing": 13
+    },
+    "elsie-gattas": {
+      "name": "Elsie Gattas",
+      "tmdb": 2479078,
+      "imdb": "nm3294338",
+      "credit": "guest",
+      "billing": 14
+    },
+    "michael-bower": {
+      "name": "Michael Bower",
+      "tmdb": 175533,
+      "imdb": "nm0100989",
+      "wikidata": "Q6833760",
+      "credit": "guest",
+      "billing": 15
+    },
+    "raheem-babalola": {
+      "name": "Raheem Babalola",
+      "tmdb": 1408801,
+      "imdb": "nm4538732",
+      "credit": "guest",
+      "billing": 16
+    },
+    "heather-ashley-chase": {
+      "name": "Heather Ashley Chase",
+      "tmdb": 1604990,
+      "imdb": "nm4415544",
+      "credit": "guest",
+      "billing": 17
+    },
+    "terra-dawn": {
+      "name": "Terra Dawn",
+      "tmdb": 1754124,
+      "credit": "guest",
+      "billing": 18
+    },
+    "mila-fresh": {
+      "name": "Mila Fresh",
+      "tmdb": 2397335,
+      "credit": "guest",
+      "billing": 19
+    },
+    "rey-hernandez": {
+      "name": "Rey Hernandez",
+      "tmdb": 76799,
+      "imdb": "nm1411388",
+      "wikidata": "Q95951797",
+      "credit": "guest",
+      "billing": 20
+    },
+    "gisselle-legere": {
+      "name": "Gisselle Legere",
+      "tmdb": 1754183,
+      "imdb": "nm3922399",
+      "credit": "guest",
+      "billing": 21
+    }
+  },
   "segments": [
     {
       "from": "00:05:43.228",

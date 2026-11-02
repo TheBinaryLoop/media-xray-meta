@@ -23,6 +23,142 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "robert-gant": {
+      "name": "Robert Gant",
+      "tmdb": 15283,
+      "imdb": "nm0304580",
+      "wikidata": "Q947525",
+      "credit": "guest",
+      "billing": 6
+    },
+    "travis-wester": {
+      "name": "Travis Wester",
+      "tmdb": 57404,
+      "imdb": "nm0922563",
+      "wikidata": "Q2602612",
+      "credit": "guest",
+      "billing": 7
+    },
+    "dilshad-vadsaria": {
+      "name": "Dilshad Vadsaria",
+      "tmdb": 207985,
+      "imdb": "nm2115111",
+      "wikidata": "Q113431",
+      "credit": "guest",
+      "billing": 8
+    },
+    "greg-pitts": {
+      "name": "Greg Pitts",
+      "tmdb": 84816,
+      "imdb": "nm0686008",
+      "wikidata": "Q5606142",
+      "credit": "guest",
+      "billing": 9
+    },
+    "brendan-fehr": {
+      "name": "Brendan Fehr",
+      "tmdb": 72440,
+      "imdb": "nm0270451",
+      "wikidata": "Q707823",
+      "credit": "guest",
+      "billing": 10
+    },
+    "fay-masterson": {
+      "name": "Fay Masterson",
+      "tmdb": 65409,
+      "imdb": "nm0557739",
+      "wikidata": "Q5438927",
+      "credit": "guest",
+      "billing": 11
+    },
+    "eltony-williams": {
+      "name": "Eltony Williams",
+      "tmdb": 204936,
+      "imdb": "nm1705546",
+      "wikidata": "Q87776216",
+      "credit": "guest",
+      "billing": 12
+    },
+    "cameron-bender": {
+      "name": "Cameron Bender",
+      "tmdb": 1227099,
+      "imdb": "nm0070451",
+      "wikidata": "Q18205451",
+      "credit": "guest",
+      "billing": 13
+    },
+    "matt-crabtree": {
+      "name": "Matt Crabtree",
+      "tmdb": 118237,
+      "imdb": "nm0960750",
+      "credit": "guest",
+      "billing": 14
+    },
+    "andre-m-johnson": {
+      "name": "Andre M. Johnson",
+      "tmdb": 1498435,
+      "imdb": "nm2599564",
+      "credit": "guest",
+      "billing": 15
+    },
+    "ryan-cartwright": {
+      "name": "Ryan Cartwright",
+      "tmdb": 76916,
+      "imdb": "nm0142206",
+      "wikidata": "Q3453757",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:04:18.351",

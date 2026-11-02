@@ -23,6 +23,148 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "guest",
+      "billing": 6
+    },
+    "erin-chambers": {
+      "name": "Erin Chambers",
+      "tmdb": 112376,
+      "imdb": "nm0150326",
+      "wikidata": "Q462468",
+      "credit": "guest",
+      "billing": 7
+    },
+    "christopher-darga": {
+      "name": "Christopher Darga",
+      "tmdb": 75923,
+      "imdb": "nm0201178",
+      "credit": "guest",
+      "billing": 8
+    },
+    "beth-grant": {
+      "name": "Beth Grant",
+      "tmdb": 5151,
+      "imdb": "nm0335275",
+      "wikidata": "Q271635",
+      "credit": "guest",
+      "billing": 9
+    },
+    "denise-crosby": {
+      "name": "Denise Crosby",
+      "tmdb": 1743,
+      "imdb": "nm0000344",
+      "wikidata": "Q234474",
+      "credit": "guest",
+      "billing": 10
+    },
+    "gill-gayle": {
+      "name": "Gill Gayle",
+      "tmdb": 59551,
+      "imdb": "nm0310887",
+      "credit": "guest",
+      "billing": 11
+    },
+    "robert-blesse": {
+      "name": "Robert Blesse",
+      "tmdb": 96495,
+      "imdb": "nm1591288",
+      "credit": "guest",
+      "billing": 12
+    },
+    "cameron-watson": {
+      "name": "Cameron Watson",
+      "tmdb": 1226057,
+      "imdb": "nm0914534",
+      "wikidata": "Q5026410",
+      "credit": "guest",
+      "billing": 13
+    },
+    "darren-o-hare": {
+      "name": "Darren O'Hare",
+      "tmdb": 1364066,
+      "imdb": "nm1394523",
+      "wikidata": "Q90230650",
+      "credit": "guest",
+      "billing": 14
+    },
+    "derwin-jordan": {
+      "name": "Derwin Jordan",
+      "tmdb": 61662,
+      "imdb": "nm0429911",
+      "wikidata": "Q42711275",
+      "credit": "guest",
+      "billing": 15
+    },
+    "burnadean-jones": {
+      "name": "Burnadean Jones",
+      "tmdb": 1353286,
+      "imdb": "nm0427664",
+      "credit": "guest",
+      "billing": 16
+    },
+    "scoot-mcnairy": {
+      "name": "Scoot McNairy",
+      "tmdb": 59233,
+      "imdb": "nm1058940",
+      "wikidata": "Q566037",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:04:34.753",

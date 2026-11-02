@@ -23,6 +23,150 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "jillian-bach": {
+      "name": "Jillian Bach",
+      "tmdb": 61219,
+      "imdb": "nm0045322",
+      "wikidata": "Q10306912",
+      "credit": "guest",
+      "billing": 7
+    },
+    "kate-vernon": {
+      "name": "Kate Vernon",
+      "tmdb": 19740,
+      "imdb": "nm0894690",
+      "wikidata": "Q288688",
+      "credit": "guest",
+      "billing": 8
+    },
+    "william-stanford-davis": {
+      "name": "William Stanford Davis",
+      "tmdb": 1227552,
+      "imdb": "nm1017853",
+      "wikidata": "Q117101766",
+      "credit": "guest",
+      "billing": 9
+    },
+    "joel-polis": {
+      "name": "Joel Polis",
+      "tmdb": 15418,
+      "imdb": "nm0689177",
+      "wikidata": "Q330349",
+      "credit": "guest",
+      "billing": 10
+    },
+    "peter-holden": {
+      "name": "Peter Holden",
+      "tmdb": 1225911,
+      "imdb": "nm0390253",
+      "wikidata": "Q7174703",
+      "credit": "guest",
+      "billing": 11
+    },
+    "chris-ufland": {
+      "name": "Chris Ufland",
+      "tmdb": 154773,
+      "imdb": "nm0880034",
+      "wikidata": "Q23053894",
+      "credit": "guest",
+      "billing": 12
+    },
+    "troy-winbush": {
+      "name": "Troy Winbush",
+      "tmdb": 76476,
+      "imdb": "nm0934569",
+      "wikidata": "Q3999801",
+      "credit": "guest",
+      "billing": 13
+    },
+    "bruno-amato": {
+      "name": "Bruno Amato",
+      "tmdb": 168829,
+      "imdb": "nm1106793",
+      "wikidata": "Q16148950",
+      "credit": "guest",
+      "billing": 14
+    },
+    "wade-williams": {
+      "name": "Wade Williams",
+      "tmdb": 51930,
+      "imdb": "nm0931898",
+      "wikidata": "Q275658",
+      "credit": "guest",
+      "billing": 15
+    },
+    "kristin-condon": {
+      "name": "Kristin Condon",
+      "tmdb": 1424710,
+      "imdb": "nm0195225",
+      "credit": "guest",
+      "billing": 16
+    },
+    "florence-vinger": {
+      "name": "Florence Vinger",
+      "tmdb": 933135,
+      "imdb": "nm2361117",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:04:38.140",

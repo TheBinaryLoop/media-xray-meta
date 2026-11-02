@@ -83,7 +83,11 @@ def reject_duplicate_keys(pairs: list[tuple[str, object]]) -> dict:
 
 
 def sort_key(entry: dict) -> tuple:
-    return (millis(entry["from"]), millis(entry["to"]), entry.get("who", ""), entry.get("type", ""), entry.get("id", ""))
+    # Entries about the whole item (trivia without a span) come first.
+    if "from" not in entry:
+        return (-1, -1, "", "", "", entry.get("text", ""))
+    return (millis(entry["from"]), millis(entry["to"]), entry.get("who", ""), entry.get("type", ""), entry.get("id", ""),
+            entry.get("text", ""))
 
 
 def canonical(document: dict) -> dict:
@@ -194,13 +198,9 @@ def check_timeline(file: File) -> None:
             check_span(f"{section}[{index}]", entry, runtime, runtime_text, report)
 
     people = document.get("people", {})
-    referenced = set()
     for index, appearance in enumerate(document.get("appearances", [])):
-        referenced.add(appearance["who"])
         if appearance["who"] not in people:
             report.error(f"appearances[{index}]: who {appearance['who']!r} is not a key of people")
-    for unused in sorted(set(people) - referenced):
-        report.warn(f"people.{unused} has no appearances")
 
     ids = [scene["id"] for scene in document.get("scenes", [])]
     for duplicate in sorted({i for i in ids if ids.count(i) > 1}):
@@ -234,14 +234,16 @@ def check_language(file: File, timeline: dict) -> None:
         report.warn("a single anchor fixes the offset but not the speed; add another far from it")
 
     for index, entry in enumerate(document.get("trivia", [])):
-        check_span(f"trivia[{index}]", entry, runtime, runtime_text, report)
+        if "from" in entry:
+            check_span(f"trivia[{index}]", entry, runtime, runtime_text, report)
 
     scene_ids = {scene["id"] for scene in timeline.get("scenes", [])}
     for key in sorted(set(document.get("scenes", {})) - scene_ids):
         report.error(f"scenes.{key}: no scene with that id in {file.edition}{SUFFIX}")
     people = set(timeline.get("people", {}))
-    for key in sorted(set(document.get("characters", {})) - people):
-        report.error(f"characters.{key}: no such key in people of {file.edition}{SUFFIX}")
+    for section in ("characters", "voices"):
+        for key in sorted(set(document.get(section, {})) - people):
+            report.error(f"{section}.{key}: no such key in people of {file.edition}{SUFFIX}")
 
 
 def check_canonical(file: File, fix: bool) -> None:

@@ -23,6 +23,157 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "adam-shapiro": {
+      "name": "Adam Shapiro",
+      "tmdb": 1255902,
+      "imdb": "nm1995781",
+      "wikidata": "Q104403821",
+      "credit": "guest",
+      "billing": 7
+    },
+    "nicole-sullivan": {
+      "name": "Nicole Sullivan",
+      "tmdb": 16845,
+      "imdb": "nm0005474",
+      "wikidata": "Q273107",
+      "credit": "guest",
+      "billing": 8
+    },
+    "mike-starr": {
+      "name": "Mike Starr",
+      "tmdb": 5170,
+      "imdb": "nm0823563",
+      "wikidata": "Q1373450",
+      "credit": "guest",
+      "billing": 9
+    },
+    "kurt-fuller": {
+      "name": "Kurt Fuller",
+      "tmdb": 29685,
+      "imdb": "nm0298281",
+      "wikidata": "Q712647",
+      "credit": "guest",
+      "billing": 10
+    },
+    "jimmy-smagula": {
+      "name": "Jimmy Smagula",
+      "tmdb": 1398836,
+      "imdb": "nm1123364",
+      "wikidata": "Q23939858",
+      "credit": "guest",
+      "billing": 11
+    },
+    "noel-gugliemi": {
+      "name": "Noel Gugliemi",
+      "tmdb": 53252,
+      "imdb": "nm0346595",
+      "wikidata": "Q3342658",
+      "credit": "guest",
+      "billing": 12
+    },
+    "rico-e-anderson": {
+      "name": "Rico E. Anderson",
+      "tmdb": 204068,
+      "imdb": "nm1066970",
+      "wikidata": "Q67842032",
+      "credit": "guest",
+      "billing": 13
+    },
+    "kelly-schumann": {
+      "name": "Kelly Schumann",
+      "tmdb": 1096728,
+      "imdb": "nm1893247",
+      "credit": "guest",
+      "billing": 14
+    },
+    "nikea-gamby-turner": {
+      "name": "Nikea Gamby-Turner",
+      "tmdb": 1546674,
+      "imdb": "nm2578920",
+      "wikidata": "Q105627252",
+      "credit": "guest",
+      "billing": 15
+    },
+    "meg-millidge": {
+      "name": "Meg Millidge",
+      "tmdb": 2461728,
+      "imdb": "nm5453331",
+      "credit": "guest",
+      "billing": 16
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 17
+    },
+    "brian-robinson": {
+      "name": "Brian Robinson",
+      "tmdb": 3443332,
+      "imdb": "nm2410356",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:04:32.177",

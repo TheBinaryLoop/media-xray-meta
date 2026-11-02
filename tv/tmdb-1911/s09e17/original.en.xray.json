@@ -21,5 +21,19 @@
       "to": "00:33:45.972",
       "fingerprint": "AQAAjEoSadEiJhEm5bh_IX-Q_PgbbAV_oekXoUef6Pjo4K0RLgx0D_kktDnSS6pQDtrMIQ11sMYf9PjRhyzcwfvQDrkENQyy6PAlXDl-40O_Af_xozJflGSO4w-Sn5OQKVN05IyG9yDroqIiHq5oaA-eIDplIcyZBn2OKTv0xcglSYvwow_45AtqMRTC3IUuREx6XLmCH1tz46GQJ8oJ8UkiKcg__GgSJUH14y96G2djoU2SHVmo70iInniU1HgiKkCmxhySSzmD70IzSnHhV6iJB0l4hJF_9KYSXHqCB5-GX0cSkTrC9HgeVM6DH-aI5FqCbD5u3HrwyUYTZzmuFkk_5IJVpsM_EteFE32U5LgOHuGBQ4oi_Phw7chxwbhx-gFr5MXlIn2M4-4BAIAhzAELBAFiEAQIBYARqJADUkDCICEOIgSMMYohB4gSABGlBBAKDKEUIgphAxiigCkAhEMIEqIUAUQYxoAwxiADiAAKGQAQcEISZgwlAiiEnAeAASoEcZ4wYBgxolxAREIkIA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "dendrie-taylor": "Georgia Grace",
+    "kevin-e-west": "Martin Fowler",
+    "shahine-ezell": "Horatio Mancini",
+    "chris-coy": "Graham Breslin",
+    "adam-dunnells": "Imposing Man",
+    "ignacio-serricchio": "Rodolfo Fuentes"
+  }
 }

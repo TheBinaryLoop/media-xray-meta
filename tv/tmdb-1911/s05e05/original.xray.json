@@ -23,6 +23,112 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 6
+    },
+    "andy-umberger": {
+      "name": "Andy Umberger",
+      "tmdb": 142204,
+      "imdb": "nm0880820",
+      "wikidata": "Q4761430",
+      "credit": "guest",
+      "billing": 7
+    },
+    "mozhan-navabi": {
+      "name": "Mozhan Navabi",
+      "tmdb": 81839,
+      "imdb": "nm2236560",
+      "wikidata": "Q386514",
+      "credit": "guest",
+      "billing": 8
+    },
+    "kasey-mahaffy": {
+      "name": "Kasey Mahaffy",
+      "tmdb": 1348611,
+      "imdb": "nm2241037",
+      "wikidata": "Q59773317",
+      "credit": "guest",
+      "billing": 9
+    },
+    "eli-goodman": {
+      "name": "Eli Goodman",
+      "tmdb": 1323225,
+      "imdb": "nm1787679",
+      "wikidata": "Q17466085",
+      "credit": "guest",
+      "billing": 10
+    },
+    "eli-bildner": {
+      "name": "Eli Bildner",
+      "tmdb": 1395209,
+      "imdb": "nm2694809",
+      "wikidata": "Q125762605",
+      "credit": "guest",
+      "billing": 11
+    },
+    "diedrich-bader": {
+      "name": "Diedrich Bader",
+      "tmdb": 5727,
+      "imdb": "nm0046033",
+      "wikidata": "Q449947",
+      "credit": "guest",
+      "billing": 12
+    }
+  },
   "segments": [
     {
       "from": "00:04:25.137",

@@ -23,6 +23,119 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "stephen-twitch-boss": {
+      "name": "Stephen 'tWitch' Boss",
+      "tmdb": 110743,
+      "imdb": "nm1361042",
+      "wikidata": "Q17711905",
+      "credit": "guest",
+      "billing": 6
+    },
+    "kelly-stables": {
+      "name": "Kelly Stables",
+      "tmdb": 107791,
+      "imdb": "nm1261587",
+      "wikidata": "Q261104",
+      "credit": "guest",
+      "billing": 7
+    },
+    "melinda-dahl": {
+      "name": "Melinda Dahl",
+      "tmdb": 1229703,
+      "imdb": "nm1510060",
+      "wikidata": "Q71012500",
+      "credit": "guest",
+      "billing": 8
+    },
+    "john-fleck": {
+      "name": "John Fleck",
+      "tmdb": 84312,
+      "imdb": "nm0281387",
+      "wikidata": "Q1333606",
+      "credit": "guest",
+      "billing": 9
+    },
+    "alex-weed": {
+      "name": "Alex Weed",
+      "tmdb": 191262,
+      "imdb": "nm1296548",
+      "wikidata": "Q4717962",
+      "credit": "guest",
+      "billing": 10
+    },
+    "ronnie-steadman": {
+      "name": "Ronnie Steadman",
+      "tmdb": 121905,
+      "imdb": "nm0824124",
+      "credit": "guest",
+      "billing": 11
+    },
+    "katheryn-winnick": {
+      "name": "Katheryn Winnick",
+      "tmdb": 26723,
+      "imdb": "nm0935395",
+      "wikidata": "Q268298",
+      "credit": "guest",
+      "billing": 12
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 13
+    }
+  },
   "segments": [
     {
       "from": "00:06:29.785",

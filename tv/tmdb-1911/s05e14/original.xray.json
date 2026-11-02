@@ -23,6 +23,126 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "joshua-malina": {
+      "name": "Joshua Malina",
+      "tmdb": 131642,
+      "imdb": "nm0539651",
+      "wikidata": "Q60422",
+      "credit": "guest",
+      "billing": 6
+    },
+    "henri-lubatti": {
+      "name": "Henri Lubatti",
+      "tmdb": 1215365,
+      "imdb": "nm0523825",
+      "wikidata": "Q3916731",
+      "credit": "guest",
+      "billing": 7
+    },
+    "amanda-schull": {
+      "name": "Amanda Schull",
+      "tmdb": 65871,
+      "imdb": "nm0776040",
+      "wikidata": "Q430600",
+      "credit": "guest",
+      "billing": 8
+    },
+    "rusty-schwimmer": {
+      "name": "Rusty Schwimmer",
+      "tmdb": 34407,
+      "imdb": "nm0005404",
+      "wikidata": "Q3038793",
+      "credit": "guest",
+      "billing": 9
+    },
+    "scott-caudill": {
+      "name": "Scott Caudill",
+      "tmdb": 168938,
+      "imdb": "nm0146464",
+      "wikidata": "Q27057591",
+      "credit": "guest",
+      "billing": 10
+    },
+    "john-apicella": {
+      "name": "John Apicella",
+      "tmdb": 152802,
+      "imdb": "nm0032033",
+      "wikidata": "Q23891047",
+      "credit": "guest",
+      "billing": 11
+    },
+    "daniel-polo": {
+      "name": "Daniel Polo",
+      "tmdb": 127728,
+      "imdb": "nm2406548",
+      "wikidata": "Q128855514",
+      "credit": "guest",
+      "billing": 12
+    },
+    "may-zayan": {
+      "name": "May Zayan",
+      "tmdb": 1426694,
+      "credit": "guest",
+      "billing": 13
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:40:52.152",

@@ -23,6 +23,127 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 6
+    },
+    "jos-viramontes": {
+      "name": "Jos Viramontes",
+      "tmdb": 209425,
+      "imdb": "nm1443032",
+      "wikidata": "Q23542432",
+      "credit": "guest",
+      "billing": 7
+    },
+    "marisa-ramirez": {
+      "name": "Marisa Ramirez",
+      "tmdb": 154988,
+      "imdb": "nm0708338",
+      "wikidata": "Q6430750",
+      "credit": "guest",
+      "billing": 8
+    },
+    "andrew-patrick-ralston": {
+      "name": "Andrew Patrick Ralston",
+      "tmdb": 1367255,
+      "imdb": "nm0707795",
+      "wikidata": "Q51858598",
+      "credit": "guest",
+      "billing": 9
+    },
+    "michael-papajohn": {
+      "name": "Michael Papajohn",
+      "tmdb": 20582,
+      "imdb": "nm0660244",
+      "wikidata": "Q948751",
+      "credit": "guest",
+      "billing": 10
+    },
+    "cole-schaefer": {
+      "name": "Cole Schaefer",
+      "tmdb": 1046772,
+      "imdb": "nm2335567",
+      "credit": "guest",
+      "billing": 11
+    },
+    "arnold-vosloo": {
+      "name": "Arnold Vosloo",
+      "tmdb": 16743,
+      "imdb": "nm0903677",
+      "wikidata": "Q297739",
+      "credit": "guest",
+      "billing": 12
+    },
+    "billy-gibbons": {
+      "name": "Billy Gibbons",
+      "tmdb": 105630,
+      "imdb": "nm0316531",
+      "wikidata": "Q369898",
+      "credit": "guest",
+      "billing": 13
+    },
+    "ryan-cartwright": {
+      "name": "Ryan Cartwright",
+      "tmdb": 76916,
+      "imdb": "nm0142206",
+      "wikidata": "Q3453757",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:04:32.516",

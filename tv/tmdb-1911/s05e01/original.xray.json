@@ -23,6 +23,102 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 6
+    },
+    "lenny-schmidt": {
+      "name": "Lenny Schmidt",
+      "tmdb": 1367511,
+      "imdb": "nm0773072",
+      "credit": "guest",
+      "billing": 7
+    },
+    "michael-bryan-french": {
+      "name": "Michael Bryan French",
+      "tmdb": 1224374,
+      "imdb": "nm0294153",
+      "wikidata": "Q6828895",
+      "credit": "guest",
+      "billing": 8
+    },
+    "amy-dudgeon": {
+      "name": "Amy Dudgeon",
+      "tmdb": 1244124,
+      "imdb": "nm1161738",
+      "wikidata": "Q66442417",
+      "credit": "guest",
+      "billing": 9
+    },
+    "alan-mueting": {
+      "name": "Alan Mueting",
+      "tmdb": 1450777,
+      "imdb": "nm2792091",
+      "credit": "guest",
+      "billing": 10
+    },
+    "cyndi-lauper": {
+      "name": "Cyndi Lauper",
+      "tmdb": 87255,
+      "imdb": "nm0490980",
+      "wikidata": "Q1545",
+      "credit": "guest",
+      "billing": 11
+    }
+  },
   "segments": [
     {
       "from": "00:41:35.472",

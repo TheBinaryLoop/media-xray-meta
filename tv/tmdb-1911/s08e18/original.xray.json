@@ -23,6 +23,116 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "ntare-guma-mbaho-mwine": {
+      "name": "Ntare Guma Mbaho Mwine",
+      "tmdb": 16760,
+      "imdb": "nm0616543",
+      "wikidata": "Q3345980",
+      "credit": "guest",
+      "billing": 6
+    },
+    "kareem-j-grimes": {
+      "name": "Kareem J. Grimes",
+      "tmdb": 1065869,
+      "imdb": "nm0342214",
+      "wikidata": "Q64358038",
+      "credit": "guest",
+      "billing": 7
+    },
+    "adam-kulbersh": {
+      "name": "Adam Kulbersh",
+      "tmdb": 169257,
+      "imdb": "nm1371179",
+      "credit": "guest",
+      "billing": 8
+    },
+    "annie-fitzgerald": {
+      "name": "Annie Fitzgerald",
+      "tmdb": 1367842,
+      "imdb": "nm0280173",
+      "credit": "guest",
+      "billing": 9
+    },
+    "ali-louise-hartman": {
+      "name": "Ali Louise Hartman",
+      "tmdb": 1439573,
+      "imdb": "nm5116720",
+      "credit": "guest",
+      "billing": 10
+    },
+    "susanne-allan-hartman": {
+      "name": "Susanne Allan Hartman",
+      "tmdb": 1439572,
+      "imdb": "nm5116773",
+      "credit": "guest",
+      "billing": 11
+    },
+    "danny-woodburn": {
+      "name": "Danny Woodburn",
+      "tmdb": 13645,
+      "imdb": "nm0940173",
+      "wikidata": "Q1164810",
+      "credit": "guest",
+      "billing": 12
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 13
+    }
+  },
   "segments": [
     {
       "from": "00:04:02.503",

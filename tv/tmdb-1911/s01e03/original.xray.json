@@ -23,6 +23,192 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 3
+    },
+    "jonathan-adams": {
+      "name": "Jonathan Adams",
+      "tmdb": 13477,
+      "imdb": "nm0011095",
+      "wikidata": "Q983873",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "jose-zuniga": {
+      "name": "José Zúñiga",
+      "tmdb": 10963,
+      "imdb": "nm0959242",
+      "wikidata": "Q966151",
+      "credit": "guest",
+      "billing": 6
+    },
+    "toby-hemingway": {
+      "name": "Toby Hemingway",
+      "tmdb": 60901,
+      "imdb": "nm1738172",
+      "wikidata": "Q629985",
+      "credit": "guest",
+      "billing": 7
+    },
+    "mark-totty": {
+      "name": "Mark Totty",
+      "tmdb": 1216160,
+      "imdb": "nm0869441",
+      "credit": "guest",
+      "billing": 8
+    },
+    "chris-conner": {
+      "name": "Chris Conner",
+      "tmdb": 1597992,
+      "imdb": "nm0175134",
+      "wikidata": "Q23011450",
+      "credit": "guest",
+      "billing": 9
+    },
+    "tom-dugan": {
+      "name": "Tom Dugan",
+      "tmdb": 1144361,
+      "imdb": "nm0240838",
+      "wikidata": "Q7815667",
+      "credit": "guest",
+      "billing": 10
+    },
+    "marlene-forte": {
+      "name": "Marlene Forte",
+      "tmdb": 146004,
+      "imdb": "nm0287168",
+      "wikidata": "Q2101495",
+      "credit": "guest",
+      "billing": 11
+    },
+    "gary-carlos-cervantes": {
+      "name": "Gary Carlos Cervantes",
+      "tmdb": 48136,
+      "imdb": "nm0148869",
+      "wikidata": "Q15044042",
+      "credit": "guest",
+      "billing": 12
+    },
+    "mandy-june-turpin": {
+      "name": "Mandy June Turpin",
+      "tmdb": 167290,
+      "imdb": "nm1451549",
+      "credit": "guest",
+      "billing": 13
+    },
+    "nicholas-hormann": {
+      "name": "Nicholas Hormann",
+      "tmdb": 150213,
+      "imdb": "nm0394778",
+      "wikidata": "Q17566621",
+      "credit": "guest",
+      "billing": 14
+    },
+    "kayla-mae-maloney": {
+      "name": "Kayla Mae Maloney",
+      "tmdb": 1252246,
+      "imdb": "nm1269334",
+      "credit": "guest",
+      "billing": 15
+    },
+    "avis-wrentmore": {
+      "name": "Avis Wrentmore",
+      "tmdb": 2458940,
+      "imdb": "nm1525561",
+      "credit": "guest",
+      "billing": 16
+    },
+    "christopher-dergregorian": {
+      "name": "Christopher DerGregorian",
+      "tmdb": 1436376,
+      "imdb": "nm1004260",
+      "credit": "guest",
+      "billing": 17
+    },
+    "tom-schmid": {
+      "name": "Tom Schmid",
+      "tmdb": 76023,
+      "imdb": "nm1528456",
+      "credit": "guest",
+      "billing": 18
+    },
+    "kristin-carey": {
+      "name": "Kristin Carey",
+      "tmdb": 173180,
+      "imdb": "nm0136985",
+      "wikidata": "Q24040318",
+      "credit": "guest",
+      "billing": 19
+    },
+    "samuel-carman": {
+      "name": "Samuel Carman",
+      "tmdb": 325606,
+      "imdb": "nm2017919",
+      "credit": "guest",
+      "billing": 20
+    },
+    "kavita-patil": {
+      "name": "Kavita Patil",
+      "tmdb": 159366,
+      "imdb": "nm1276956",
+      "wikidata": "Q6379293",
+      "credit": "guest",
+      "billing": 21
+    },
+    "heavy-d": {
+      "name": "Heavy D",
+      "tmdb": 18795,
+      "imdb": "nm0372809",
+      "wikidata": "Q450714",
+      "credit": "guest",
+      "billing": 22
+    },
+    "bryan-fox": {
+      "name": "Bryan Fox",
+      "tmdb": 4971472,
+      "imdb": "nm1484007",
+      "credit": "guest",
+      "billing": 23
+    }
+  },
   "segments": [
     {
       "from": "00:06:07.686",

@@ -23,6 +23,141 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "ryan-o-neal": {
+      "name": "Ryan O'Neal",
+      "tmdb": 31070,
+      "imdb": "nm0641939",
+      "wikidata": "Q272923",
+      "credit": "guest",
+      "billing": 6
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 7
+    },
+    "dorian-missick": {
+      "name": "Dorian Missick",
+      "tmdb": 26718,
+      "imdb": "nm0592923",
+      "wikidata": "Q476760",
+      "credit": "guest",
+      "billing": 8
+    },
+    "wendy-phillips": {
+      "name": "Wendy Phillips",
+      "tmdb": 64857,
+      "imdb": "nm0680881",
+      "wikidata": "Q1802596",
+      "credit": "guest",
+      "billing": 9
+    },
+    "melinda-page-hamilton": {
+      "name": "Melinda Page Hamilton",
+      "tmdb": 169024,
+      "imdb": "nm1561547",
+      "wikidata": "Q166306",
+      "credit": "guest",
+      "billing": 10
+    },
+    "zooey-deschanel": {
+      "name": "Zooey Deschanel",
+      "tmdb": 11664,
+      "imdb": "nm0221046",
+      "wikidata": "Q191719",
+      "credit": "guest",
+      "billing": 11
+    },
+    "jack-kehler": {
+      "name": "Jack Kehler",
+      "tmdb": 1240,
+      "imdb": "nm0444940",
+      "wikidata": "Q3157229",
+      "credit": "guest",
+      "billing": 12
+    },
+    "matt-mctighe": {
+      "name": "Matt McTighe",
+      "tmdb": 1036826,
+      "imdb": "nm2284053",
+      "credit": "guest",
+      "billing": 13
+    },
+    "j-j-boone": {
+      "name": "J.J. Boone",
+      "tmdb": 114929,
+      "imdb": "nm0095510",
+      "credit": "guest",
+      "billing": 14
+    },
+    "david-paul-francis": {
+      "name": "David Paul Francis",
+      "tmdb": 183923,
+      "imdb": "nm0290130",
+      "credit": "guest",
+      "billing": 15
+    },
+    "tiffany-hines": {
+      "name": "Tiffany Hines",
+      "tmdb": 1224085,
+      "imdb": "nm2015692",
+      "wikidata": "Q1189338",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:04:52.793",

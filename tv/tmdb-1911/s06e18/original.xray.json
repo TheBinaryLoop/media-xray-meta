@@ -23,6 +23,139 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "sarah-baker": {
+      "name": "Sarah Baker",
+      "tmdb": 461542,
+      "imdb": "nm1807222",
+      "wikidata": "Q7422078",
+      "credit": "guest",
+      "billing": 6
+    },
+    "kevin-will": {
+      "name": "Kevin Will",
+      "tmdb": 1219579,
+      "imdb": "nm0929558",
+      "wikidata": "Q16239443",
+      "credit": "guest",
+      "billing": 7
+    },
+    "r-f-daley": {
+      "name": "R.F. Daley",
+      "tmdb": 1503929,
+      "imdb": "nm1010938",
+      "credit": "guest",
+      "billing": 8
+    },
+    "jerrika-hinton": {
+      "name": "Jerrika Hinton",
+      "tmdb": 217589,
+      "imdb": "nm2056961",
+      "wikidata": "Q6183091",
+      "credit": "guest",
+      "billing": 9
+    },
+    "leigh-mccloskey": {
+      "name": "Leigh McCloskey",
+      "tmdb": 80502,
+      "imdb": "nm0565907",
+      "wikidata": "Q743723",
+      "credit": "guest",
+      "billing": 10
+    },
+    "jo-anne-worley": {
+      "name": "Jo Anne Worley",
+      "tmdb": 166994,
+      "imdb": "nm0941506",
+      "wikidata": "Q3179371",
+      "credit": "guest",
+      "billing": 11
+    },
+    "chad-jamian-williams": {
+      "name": "Chad Jamian Williams",
+      "tmdb": 1489637,
+      "imdb": "nm2701263",
+      "credit": "guest",
+      "billing": 12
+    },
+    "laura-eichhorn": {
+      "name": "Laura Eichhorn",
+      "tmdb": 589475,
+      "imdb": "nm2826362",
+      "credit": "guest",
+      "billing": 13
+    },
+    "horacio-galaviz": {
+      "name": "Horacio Galaviz",
+      "tmdb": 1448902,
+      "imdb": "nm2940506",
+      "credit": "guest",
+      "billing": 14
+    },
+    "dustyn-lotz": {
+      "name": "Dustyn Lotz",
+      "tmdb": 1519578,
+      "imdb": "nm3626646",
+      "credit": "guest",
+      "billing": 15
+    },
+    "ryan-cartwright": {
+      "name": "Ryan Cartwright",
+      "tmdb": 76916,
+      "imdb": "nm0142206",
+      "wikidata": "Q3453757",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:04:59.757",

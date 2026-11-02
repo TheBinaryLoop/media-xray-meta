@@ -23,6 +23,135 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "john-pyper-ferguson": {
+      "name": "John Pyper-Ferguson",
+      "tmdb": 95638,
+      "imdb": "nm0701561",
+      "wikidata": "Q2563511",
+      "credit": "guest",
+      "billing": 6
+    },
+    "aimee-garcia": {
+      "name": "Aimee Garcia",
+      "tmdb": 56457,
+      "imdb": "nm0305083",
+      "wikidata": "Q268039",
+      "credit": "guest",
+      "billing": 7
+    },
+    "arielle-vandenberg": {
+      "name": "Arielle Vandenberg",
+      "tmdb": 1218828,
+      "imdb": "nm2387237",
+      "wikidata": "Q4790499",
+      "credit": "guest",
+      "billing": 8
+    },
+    "anil-raman": {
+      "name": "Anil Raman",
+      "tmdb": 162359,
+      "imdb": "nm0707986",
+      "credit": "guest",
+      "billing": 9
+    },
+    "august-emerson": {
+      "name": "August Emerson",
+      "tmdb": 208727,
+      "imdb": "nm2420989",
+      "wikidata": "Q16207300",
+      "credit": "guest",
+      "billing": 10
+    },
+    "jason-rogel": {
+      "name": "Jason Rogel",
+      "tmdb": 111681,
+      "imdb": "nm1827430",
+      "wikidata": "Q6163370",
+      "credit": "guest",
+      "billing": 11
+    },
+    "shawn-carter-peterson": {
+      "name": "Shawn Carter Peterson",
+      "tmdb": 176491,
+      "imdb": "nm0677399",
+      "wikidata": "Q23542402",
+      "credit": "guest",
+      "billing": 12
+    },
+    "sterling-sulieman": {
+      "name": "Sterling Sulieman",
+      "tmdb": 223200,
+      "imdb": "nm2117181",
+      "wikidata": "Q93402525",
+      "credit": "guest",
+      "billing": 13
+    },
+    "billy-gibbons": {
+      "name": "Billy Gibbons",
+      "tmdb": 105630,
+      "imdb": "nm0316531",
+      "wikidata": "Q369898",
+      "credit": "guest",
+      "billing": 14
+    },
+    "ryan-cartwright": {
+      "name": "Ryan Cartwright",
+      "tmdb": 76916,
+      "imdb": "nm0142206",
+      "wikidata": "Q3453757",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:04:57.436",

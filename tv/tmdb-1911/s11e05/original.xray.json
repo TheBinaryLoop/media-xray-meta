@@ -23,6 +23,119 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "michael-grant-terry": {
+      "name": "Michael Grant Terry",
+      "tmdb": 205984,
+      "imdb": "nm2163204",
+      "wikidata": "Q3308554",
+      "credit": "guest",
+      "billing": 6
+    },
+    "tom-mison": {
+      "name": "Tom Mison",
+      "tmdb": 75073,
+      "imdb": "nm2070427",
+      "wikidata": "Q2589077",
+      "credit": "guest",
+      "billing": 7
+    },
+    "nicole-beharie": {
+      "name": "Nicole Beharie",
+      "tmdb": 87243,
+      "imdb": "nm2718512",
+      "wikidata": "Q3341003",
+      "credit": "guest",
+      "billing": 8
+    },
+    "dash-dobrofsky": {
+      "name": "Dash Dobrofsky",
+      "tmdb": 1529051,
+      "imdb": "nm4156626",
+      "wikidata": "Q123080967",
+      "credit": "guest",
+      "billing": 9
+    },
+    "malcolm-david-kelley": {
+      "name": "Malcolm David Kelley",
+      "tmdb": 77078,
+      "imdb": "nm1287636",
+      "wikidata": "Q310553",
+      "credit": "guest",
+      "billing": 10
+    },
+    "sean-patrick-thomas": {
+      "name": "Sean Patrick Thomas",
+      "tmdb": 11868,
+      "imdb": "nm0859503",
+      "wikidata": "Q959052",
+      "credit": "guest",
+      "billing": 11
+    },
+    "mike-faiola": {
+      "name": "Mike Faiola",
+      "tmdb": 149921,
+      "imdb": "nm1395512",
+      "wikidata": "Q3857384",
+      "credit": "guest",
+      "billing": 12
+    },
+    "justin-miles": {
+      "name": "Justin Miles",
+      "tmdb": 1381491,
+      "imdb": "nm3544163",
+      "credit": "guest",
+      "billing": 13
+    }
+  },
   "segments": [
     {
       "from": "00:04:35.248",

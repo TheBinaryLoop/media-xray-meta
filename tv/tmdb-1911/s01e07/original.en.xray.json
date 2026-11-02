@@ -21,5 +21,27 @@
       "to": "00:34:12.803",
       "fingerprint": "AQAAjGGjKNG2CD6qE7qCVybyKEHPwyNzHH6Cf5zgb0evHB-P83g-XMf0wxf47IHroM7gxTnOLBNyPQmSfbwxJZkYPHMUPEYOkUmQKw-uBr7UpNgzWXiSyEdyDeHRJDk-RQPnPPgR6cmDhH-wD0124gmYqCcqE6-oI-wElT7yPXA2iugZBzmXQ-uKMPvxM_h_VJkzeDzaZUdkHzqPs3iSUYW-UPgRLQlvfC--qvhS5OSh5chCEs-Jr3nQTQkaa7jkjPhYPBeOoz6eVIi-w-cqlM9xQWeOJjQ6KRqOkIePni--FT_KHW-MF-lf_BDNER9-5DsupOku9If-I1yP5sdPXDm69EEzbSGuI98NPUc_hF9xSUf3B_mN77DTQ-WC6cjRJzp4_Wh1_EZ14zkR2od2kQAClBACCIcAEEgYZYgyDAhiKBGGGAIA8-IQaAwhwECDkAMCGEiUUsAAAIwQAhkABDBAOIWQYsIARpxCkBEAAGaEU4WQAkKAQUi1BCihERNCWQAcEUwMYhUgChFijDJIIiSYIIwxAAxShEFBgCAIQQMYEAA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "t-j-thyne": "Jack Hodgins",
+    "jonathan-adams": "Daniel Goodman",
+    "eric-millegan": "Zack Addy",
+    "jeffrey-nordling": "David Ross",
+    "john-m-jackson": "Sam Cullen",
+    "sarayu-blue": "TV Reporter",
+    "rachelle-lefevre": "Amy Morton",
+    "heath-freeman": "Howard Epps",
+    "marcus-ashley": "Troy Pruit",
+    "michael-mantell": "Larry Carlyle",
+    "david-starzyk": "Ken Wright",
+    "joan-mcmurtrey": "Mary Wright",
+    "gabe-cohen": "Buck Harmon",
+    "price-carson": "Prison Guard",
+    "ivan-davila": "Agent #1",
+    "heavy-d": "Sid Shapiro",
+    "michael-rothhaar": "Judge Cohen"
+  }
 }

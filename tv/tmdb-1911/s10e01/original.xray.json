@@ -23,6 +23,193 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "guest",
+      "billing": 6
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 7
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 8
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 9
+    },
+    "daniel-lee-robertson-iii": {
+      "name": "Daniel Lee Robertson III",
+      "tmdb": 944734,
+      "imdb": "nm1269993",
+      "credit": "guest",
+      "billing": 10
+    },
+    "david-fabrizio": {
+      "name": "David Fabrizio",
+      "tmdb": 41318,
+      "imdb": "nm0264781",
+      "wikidata": "Q20556104",
+      "credit": "guest",
+      "billing": 11
+    },
+    "johnny-kostrey": {
+      "name": "Johnny Kostrey",
+      "tmdb": 117592,
+      "imdb": "nm2184310",
+      "credit": "guest",
+      "billing": 12
+    },
+    "ray-stefanelli": {
+      "name": "Ray Stefanelli",
+      "tmdb": 1415311,
+      "imdb": "nm1679368",
+      "credit": "guest",
+      "billing": 13
+    },
+    "brandon-young": {
+      "name": "Brandon Young",
+      "tmdb": 1224610,
+      "imdb": "nm1821785",
+      "credit": "guest",
+      "billing": 14
+    },
+    "dominic-pace": {
+      "name": "Dominic Pace",
+      "tmdb": 1215981,
+      "imdb": "nm0655124",
+      "wikidata": "Q107564343",
+      "credit": "guest",
+      "billing": 15
+    },
+    "gavin-macintosh": {
+      "name": "Gavin Macintosh",
+      "tmdb": 1435945,
+      "imdb": "nm3958652",
+      "wikidata": "Q16239135",
+      "credit": "guest",
+      "billing": 16
+    },
+    "paul-riley-fox": {
+      "name": "Paul Riley Fox",
+      "tmdb": 1735733,
+      "imdb": "nm0809538",
+      "credit": "guest",
+      "billing": 17
+    },
+    "terry-myers": {
+      "name": "Terry Myers",
+      "tmdb": 1602776,
+      "credit": "guest",
+      "billing": 18
+    },
+    "jd-cullum": {
+      "name": "JD Cullum",
+      "tmdb": 1184011,
+      "imdb": "nm0191631",
+      "wikidata": "Q794699",
+      "credit": "guest",
+      "billing": 19
+    },
+    "sterling-macer-jr": {
+      "name": "Sterling Macer Jr.",
+      "tmdb": 1246618,
+      "imdb": "nm0532160",
+      "wikidata": "Q113804287",
+      "credit": "guest",
+      "billing": 20
+    },
+    "rance-howard": {
+      "name": "Rance Howard",
+      "tmdb": 22250,
+      "imdb": "nm0397555",
+      "wikidata": "Q2004409",
+      "credit": "guest",
+      "billing": 21
+    },
+    "sam-anderson": {
+      "name": "Sam Anderson",
+      "tmdb": 36221,
+      "imdb": "nm0027402",
+      "wikidata": "Q374447",
+      "credit": "guest",
+      "billing": 22
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 23
+    }
+  },
   "segments": [
     {
       "from": "00:41:27.744",

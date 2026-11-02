@@ -23,6 +23,164 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 3
+    },
+    "jonathan-adams": {
+      "name": "Jonathan Adams",
+      "tmdb": 13477,
+      "imdb": "nm0011095",
+      "wikidata": "Q983873",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "jeffrey-nordling": {
+      "name": "Jeffrey Nordling",
+      "tmdb": 24048,
+      "imdb": "nm0635139",
+      "wikidata": "Q1465235",
+      "credit": "guest",
+      "billing": 6
+    },
+    "john-m-jackson": {
+      "name": "John M. Jackson",
+      "tmdb": 116128,
+      "imdb": "nm0413698",
+      "wikidata": "Q1700919",
+      "credit": "guest",
+      "billing": 7
+    },
+    "sarayu-blue": {
+      "name": "Sarayu Blue",
+      "tmdb": 1224130,
+      "imdb": "nm0710605",
+      "wikidata": "Q7423468",
+      "credit": "guest",
+      "billing": 8
+    },
+    "rachelle-lefevre": {
+      "name": "Rachelle Lefevre",
+      "tmdb": 58168,
+      "imdb": "nm0498956",
+      "wikidata": "Q233433",
+      "credit": "guest",
+      "billing": 9
+    },
+    "heath-freeman": {
+      "name": "Heath Freeman",
+      "tmdb": 157038,
+      "imdb": "nm0293411",
+      "wikidata": "Q109604275",
+      "credit": "guest",
+      "billing": 10
+    },
+    "marcus-ashley": {
+      "name": "Marcus Ashley",
+      "tmdb": 1225803,
+      "imdb": "nm0039092",
+      "credit": "guest",
+      "billing": 11
+    },
+    "michael-mantell": {
+      "name": "Michael Mantell",
+      "tmdb": 91030,
+      "imdb": "nm0544067",
+      "wikidata": "Q2778807",
+      "credit": "guest",
+      "billing": 12
+    },
+    "david-starzyk": {
+      "name": "David Starzyk",
+      "tmdb": 39465,
+      "imdb": "nm0823675",
+      "wikidata": "Q5240038",
+      "credit": "guest",
+      "billing": 13
+    },
+    "joan-mcmurtrey": {
+      "name": "Joan McMurtrey",
+      "tmdb": 1216135,
+      "imdb": "nm0573494",
+      "credit": "guest",
+      "billing": 14
+    },
+    "gabe-cohen": {
+      "name": "Gabe Cohen",
+      "tmdb": 1239556,
+      "imdb": "nm0169380",
+      "wikidata": "Q24048418",
+      "credit": "guest",
+      "billing": 15
+    },
+    "price-carson": {
+      "name": "Price Carson",
+      "tmdb": 36060,
+      "imdb": "nm0141307",
+      "credit": "guest",
+      "billing": 16
+    },
+    "ivan-davila": {
+      "name": "Ivan Davila",
+      "tmdb": 468183,
+      "imdb": "nm2077753",
+      "credit": "guest",
+      "billing": 17
+    },
+    "heavy-d": {
+      "name": "Heavy D",
+      "tmdb": 18795,
+      "imdb": "nm0372809",
+      "wikidata": "Q450714",
+      "credit": "guest",
+      "billing": 18
+    },
+    "michael-rothhaar": {
+      "name": "Michael Rothhaar",
+      "tmdb": 1234044,
+      "imdb": "nm0745193",
+      "wikidata": "Q23674460",
+      "credit": "guest",
+      "billing": 19
+    }
+  },
   "segments": [
     {
       "from": "00:08:02.049",

@@ -23,6 +23,196 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "guest",
+      "billing": 6
+    },
+    "ryan-o-neal": {
+      "name": "Ryan O'Neal",
+      "tmdb": 31070,
+      "imdb": "nm0641939",
+      "wikidata": "Q272923",
+      "credit": "guest",
+      "billing": 7
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 8
+    },
+    "alessandra-torresani": {
+      "name": "Alessandra Torresani",
+      "tmdb": 209038,
+      "imdb": "nm0003779",
+      "wikidata": "Q442720",
+      "credit": "guest",
+      "billing": 9
+    },
+    "reginald-veljohnson": {
+      "name": "Reginald VelJohnson",
+      "tmdb": 7672,
+      "imdb": "nm0001817",
+      "wikidata": "Q470153",
+      "credit": "guest",
+      "billing": 10
+    },
+    "david-deluise": {
+      "name": "David DeLuise",
+      "tmdb": 97600,
+      "imdb": "nm0217936",
+      "wikidata": "Q441941",
+      "credit": "guest",
+      "billing": 11
+    },
+    "ernie-grunwald": {
+      "name": "Ernie Grunwald",
+      "tmdb": 165448,
+      "imdb": "nm0344649",
+      "wikidata": "Q5394499",
+      "credit": "guest",
+      "billing": 12
+    },
+    "bess-wohl": {
+      "name": "Bess Wohl",
+      "tmdb": 62762,
+      "imdb": "nm0937384",
+      "wikidata": "Q80812631",
+      "credit": "guest",
+      "billing": 13
+    },
+    "skye-arens": {
+      "name": "Skye Arens",
+      "tmdb": 113903,
+      "imdb": "nm0805033",
+      "credit": "guest",
+      "billing": 14
+    },
+    "david-ackert": {
+      "name": "David Ackert",
+      "tmdb": 115093,
+      "imdb": "nm0010050",
+      "wikidata": "Q23038770",
+      "credit": "guest",
+      "billing": 15
+    },
+    "donovan-scott": {
+      "name": "Donovan Scott",
+      "tmdb": 57350,
+      "imdb": "nm0779073",
+      "wikidata": "Q730050",
+      "credit": "guest",
+      "billing": 16
+    },
+    "david-doty": {
+      "name": "David Doty",
+      "tmdb": 124086,
+      "imdb": "nm0234606",
+      "wikidata": "Q23005311",
+      "credit": "guest",
+      "billing": 17
+    },
+    "kacie-borrowman": {
+      "name": "Kacie Borrowman",
+      "tmdb": 2234536,
+      "imdb": "nm0097404",
+      "wikidata": "Q131935595",
+      "credit": "guest",
+      "billing": 18
+    },
+    "martin-chow": {
+      "name": "Martin Chow",
+      "tmdb": 1894728,
+      "imdb": "nm0159481",
+      "credit": "guest",
+      "billing": 19
+    },
+    "robert-dahey": {
+      "name": "Robert Dahey",
+      "tmdb": 74575,
+      "imdb": "nm1865597",
+      "credit": "guest",
+      "billing": 20
+    },
+    "loren-dean": {
+      "name": "Loren Dean",
+      "tmdb": 11628,
+      "imdb": "nm0000363",
+      "wikidata": "Q488723",
+      "credit": "guest",
+      "billing": 21
+    },
+    "ty-panitz": {
+      "name": "Ty Panitz",
+      "tmdb": 25144,
+      "imdb": "nm1892830",
+      "wikidata": "Q469072",
+      "credit": "guest",
+      "billing": 22
+    },
+    "james-mcmann": {
+      "name": "James McMann",
+      "tmdb": 2949130,
+      "imdb": "nm2282094",
+      "credit": "guest",
+      "billing": 23
+    }
+  },
   "segments": [
     {
       "from": "00:04:58.438",

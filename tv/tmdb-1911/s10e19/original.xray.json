@@ -23,6 +23,193 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "matt-burns": {
+      "name": "Matt Burns",
+      "tmdb": 995116,
+      "imdb": "nm2143655",
+      "credit": "guest",
+      "billing": 6
+    },
+    "houshang-touzie": {
+      "name": "Houshang Touzie",
+      "tmdb": 1684616,
+      "imdb": "nm0869791",
+      "wikidata": "Q90693080",
+      "credit": "guest",
+      "billing": 7
+    },
+    "hrach-titizian": {
+      "name": "Hrach Titizian",
+      "tmdb": 116447,
+      "imdb": "nm1553955",
+      "wikidata": "Q20687396",
+      "credit": "guest",
+      "billing": 8
+    },
+    "george-georgiou": {
+      "name": "George Georgiou",
+      "tmdb": 570010,
+      "imdb": "nm1745190",
+      "wikidata": "Q21806378",
+      "credit": "guest",
+      "billing": 9
+    },
+    "david-diaan": {
+      "name": "David Diaan",
+      "tmdb": 110610,
+      "imdb": "nm0205795",
+      "wikidata": "Q16193072",
+      "credit": "guest",
+      "billing": 10
+    },
+    "amir-talai": {
+      "name": "Amir Talai",
+      "tmdb": 203086,
+      "imdb": "nm1197519",
+      "wikidata": "Q1976929",
+      "credit": "guest",
+      "billing": 11
+    },
+    "mershad-torabi": {
+      "name": "Mershad Torabi",
+      "tmdb": 1869633,
+      "imdb": "nm3092422",
+      "credit": "guest",
+      "billing": 12
+    },
+    "marina-shtelen": {
+      "name": "Marina Shtelen",
+      "tmdb": 86287,
+      "imdb": "nm2630889",
+      "credit": "guest",
+      "billing": 13
+    },
+    "ammar-daraiseh": {
+      "name": "Ammar Daraiseh",
+      "tmdb": 1756075,
+      "imdb": "nm0200905",
+      "credit": "guest",
+      "billing": 14
+    },
+    "roman-mitichyan": {
+      "name": "Roman Mitichyan",
+      "tmdb": 204650,
+      "imdb": "nm2215706",
+      "wikidata": "Q26202699",
+      "credit": "guest",
+      "billing": 15
+    },
+    "trevor-keveloh": {
+      "name": "Trevor Keveloh",
+      "tmdb": 1583046,
+      "imdb": "nm7222693",
+      "credit": "guest",
+      "billing": 16
+    },
+    "nicholas-guilak": {
+      "name": "Nicholas Guilak",
+      "tmdb": 168172,
+      "imdb": "nm0346866",
+      "wikidata": "Q3339656",
+      "credit": "guest",
+      "billing": 17
+    },
+    "umar-khan": {
+      "name": "Umar Khan",
+      "tmdb": 1375186,
+      "imdb": "nm5418135",
+      "wikidata": "Q2592582",
+      "credit": "guest",
+      "billing": 18
+    },
+    "mehdi-merali": {
+      "name": "Mehdi Merali",
+      "tmdb": 1583045,
+      "imdb": "nm3432436",
+      "credit": "guest",
+      "billing": 19
+    },
+    "ardeshir-radpour": {
+      "name": "Ardeshir Radpour",
+      "tmdb": 1562427,
+      "imdb": "nm3080419",
+      "wikidata": "Q87399475",
+      "credit": "guest",
+      "billing": 20
+    },
+    "maggie-parto": {
+      "name": "Maggie Parto",
+      "tmdb": 110614,
+      "imdb": "nm3046066",
+      "credit": "guest",
+      "billing": 21
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 22
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 23
+    }
+  },
   "segments": [
     {
       "from": "00:07:26.955",

@@ -23,6 +23,117 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 6
+    },
+    "alimi-ballard": {
+      "name": "Alimi Ballard",
+      "tmdb": 165284,
+      "imdb": "nm0050584",
+      "wikidata": "Q725034",
+      "credit": "guest",
+      "billing": 7
+    },
+    "sarah-stouffer": {
+      "name": "Sarah Stouffer",
+      "tmdb": 550095,
+      "imdb": "nm3407550",
+      "wikidata": "Q16832032",
+      "credit": "guest",
+      "billing": 8
+    },
+    "beau-knapp": {
+      "name": "Beau Knapp",
+      "tmdb": 1078613,
+      "imdb": "nm3354041",
+      "wikidata": "Q20740615",
+      "credit": "guest",
+      "billing": 9
+    },
+    "marc-aden-gray": {
+      "name": "Marc Aden Gray",
+      "tmdb": 9384,
+      "imdb": "nm0336802",
+      "credit": "guest",
+      "billing": 10
+    },
+    "ali-louise-hartman": {
+      "name": "Ali Louise Hartman",
+      "tmdb": 1439573,
+      "imdb": "nm5116720",
+      "credit": "guest",
+      "billing": 11
+    },
+    "susanne-allan-hartman": {
+      "name": "Susanne Allan Hartman",
+      "tmdb": 1439572,
+      "imdb": "nm5116773",
+      "credit": "guest",
+      "billing": 12
+    },
+    "andrew-leeds": {
+      "name": "Andrew Leeds",
+      "tmdb": 173964,
+      "imdb": "nm0498572",
+      "wikidata": "Q23303183",
+      "credit": "guest",
+      "billing": 13
+    }
+  },
   "segments": [
     {
       "from": "00:06:13.118",

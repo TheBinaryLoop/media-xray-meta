@@ -23,6 +23,204 @@
     "frameRate": "25",
     "release": "25 fps European release with German audio only"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "ryan-o-neal": {
+      "name": "Ryan O'Neal",
+      "tmdb": 31070,
+      "imdb": "nm0641939",
+      "wikidata": "Q272923",
+      "credit": "guest",
+      "billing": 6
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 7
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 8
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 9
+    },
+    "laura-spencer": {
+      "name": "Laura Spencer",
+      "tmdb": 591519,
+      "imdb": "nm3189010",
+      "wikidata": "Q16832120",
+      "credit": "guest",
+      "billing": 10
+    },
+    "michael-grant-terry": {
+      "name": "Michael Grant Terry",
+      "tmdb": 205984,
+      "imdb": "nm2163204",
+      "wikidata": "Q3308554",
+      "credit": "guest",
+      "billing": 11
+    },
+    "michael-badalucco": {
+      "name": "Michael Badalucco",
+      "tmdb": 1010,
+      "imdb": "nm0045937",
+      "wikidata": "Q714675",
+      "credit": "guest",
+      "billing": 12
+    },
+    "billy-gibbons": {
+      "name": "Billy Gibbons",
+      "tmdb": 105630,
+      "imdb": "nm0316531",
+      "wikidata": "Q369898",
+      "credit": "guest",
+      "billing": 13
+    },
+    "mather-zickel": {
+      "name": "Mather Zickel",
+      "tmdb": 282835,
+      "imdb": "nm0955991",
+      "wikidata": "Q6786945",
+      "credit": "guest",
+      "billing": 14
+    },
+    "christopher-clausi": {
+      "name": "Christopher Clausi",
+      "tmdb": 1593369,
+      "imdb": "nm5323054",
+      "credit": "guest",
+      "billing": 15
+    },
+    "kelli-erdmann": {
+      "name": "Kelli Erdmann",
+      "tmdb": 1777805,
+      "imdb": "nm5412811",
+      "wikidata": "Q107492762",
+      "credit": "guest",
+      "billing": 16
+    },
+    "lyndell-higgins": {
+      "name": "Lyndell Higgins",
+      "tmdb": 2489294,
+      "imdb": "nm6686466",
+      "credit": "guest",
+      "billing": 17
+    },
+    "cary-huff": {
+      "name": "Cary Huff",
+      "tmdb": 2305389,
+      "imdb": "nm9065119",
+      "credit": "guest",
+      "billing": 18
+    },
+    "haylee-roderick": {
+      "name": "Haylee Roderick",
+      "tmdb": 2213883,
+      "imdb": "nm3415325",
+      "wikidata": "Q16233514",
+      "credit": "guest",
+      "billing": 19
+    },
+    "colton-wheeler": {
+      "name": "Colton Wheeler",
+      "tmdb": 2189547,
+      "imdb": "nm6892692",
+      "credit": "guest",
+      "billing": 20
+    },
+    "andrew-leeds": {
+      "name": "Andrew Leeds",
+      "tmdb": 173964,
+      "imdb": "nm0498572",
+      "wikidata": "Q23303183",
+      "credit": "guest",
+      "billing": 21
+    },
+    "ignacio-serricchio": {
+      "name": "Ignacio Serricchio",
+      "tmdb": 139868,
+      "imdb": "nm1579445",
+      "wikidata": "Q5992454",
+      "credit": "guest",
+      "billing": 22
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 23
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 24
+    }
+  },
   "segments": [
     {
       "from": "00:41:18.080",

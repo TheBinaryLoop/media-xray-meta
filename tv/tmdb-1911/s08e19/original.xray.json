@@ -23,6 +23,140 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 6
+    },
+    "joe-williamson": {
+      "name": "Joe Williamson",
+      "tmdb": 588333,
+      "imdb": "nm2006513",
+      "wikidata": "Q1691656",
+      "credit": "guest",
+      "billing": 7
+    },
+    "gloria-garayua": {
+      "name": "Gloria Garayua",
+      "tmdb": 52932,
+      "imdb": "nm1872697",
+      "wikidata": "Q3109116",
+      "credit": "guest",
+      "billing": 8
+    },
+    "j-d-walsh": {
+      "name": "J.D. Walsh",
+      "tmdb": 93053,
+      "imdb": "nm0909665",
+      "wikidata": "Q1676307",
+      "credit": "guest",
+      "billing": 9
+    },
+    "rona-benson": {
+      "name": "Rona Benson",
+      "tmdb": 1384706,
+      "imdb": "nm0072634",
+      "credit": "guest",
+      "billing": 10
+    },
+    "wilmer-calderon": {
+      "name": "Wilmer Calderon",
+      "tmdb": 59672,
+      "imdb": "nm0129551",
+      "wikidata": "Q19328121",
+      "credit": "guest",
+      "billing": 11
+    },
+    "nishi-munshi": {
+      "name": "Nishi Munshi",
+      "tmdb": 1157244,
+      "imdb": "nm3223665",
+      "wikidata": "Q56164765",
+      "credit": "guest",
+      "billing": 12
+    },
+    "tiffany-brouwer": {
+      "name": "Tiffany Brouwer",
+      "tmdb": 1158114,
+      "imdb": "nm1368796",
+      "wikidata": "Q9358677",
+      "credit": "guest",
+      "billing": 13
+    },
+    "james-ferris": {
+      "name": "James Ferris",
+      "tmdb": 89979,
+      "imdb": "nm1546272",
+      "credit": "guest",
+      "billing": 14
+    },
+    "ali-louise-hartman": {
+      "name": "Ali Louise Hartman",
+      "tmdb": 1439573,
+      "imdb": "nm5116720",
+      "credit": "guest",
+      "billing": 15
+    },
+    "susanne-allan-hartman": {
+      "name": "Susanne Allan Hartman",
+      "tmdb": 1439572,
+      "imdb": "nm5116773",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:04:24.590",

@@ -21,5 +21,19 @@
       "to": "00:33:40.675",
       "fingerprint": "AQAAjNEWMUqSSFGQ5FF-eEsbXDzuHH_Q5OiPPMmhOMk2XC56ITxxXNmR-sezbfgTIwspS-g1GU8zPNXRRkfzIw-SU0TFfEEj5biO_xFxGUyjoJnSFPkRXsrQXOlxScS34U9HTHludCFzxNCDUyy0LtKIZtQH7SkFx4aV40xNpFWIkyh28HlgBsmTRYgl_WiSHgyXKOnwBz-aKunQ469wvUgi70Ie-AuqLVGFsZ_QvRyYPAv6HE2PB9UueFIWDnVq5EiULEfJMrjy4EOfPGh-44tQLw_RPAyubDqeC8kTHVfLCHF6DT74GNeOh12GPnOO5hn-I2ImITkZ4lIW4iMVlE-F5sc1Gw8zPHwibElPo8kW8PzRjFmwH98R5lENjVw8hFbiBe3xHJeDntjyIU4jHSwlTlD0Io9wHc0RPmlwD2qaaEXFCs2iKZFw7cYP7cdTVG8AABBiAAlqBFCMSAiSIggAiCgCRCCJhACSAMKkE4IAhQAADBEhIGAaIASQokBhAZBACAlBADDAOeURUcMoYARCQilAgYCAWCIAAkAZYgSwRBkgCACCKYEYMsQJoA3RQFFiQFGCIQ"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "t-j-thyne": "Jack Hodgins",
+    "jonathan-adams": "Daniel Goodman",
+    "eric-millegan": "Zack Addy",
+    "dee-wallace": "Special Agent Callie Warner",
+    "ewan-chung": "CSI Tech",
+    "pat-skipper": "Vince McVicar",
+    "coby-ryan-mclaughlin": "David Simmons",
+    "bob-rusch": "Carnival Owner",
+    "loren-dean": "Russ Brennan"
+  }
 }

@@ -23,6 +23,140 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 6
+    },
+    "laura-spencer": {
+      "name": "Laura Spencer",
+      "tmdb": 591519,
+      "imdb": "nm3189010",
+      "wikidata": "Q16832120",
+      "credit": "guest",
+      "billing": 7
+    },
+    "la-monde-byrd": {
+      "name": "La Monde Byrd",
+      "tmdb": 1888283,
+      "imdb": "nm1483927",
+      "wikidata": "Q112623675",
+      "credit": "guest",
+      "billing": 8
+    },
+    "blake-berris": {
+      "name": "Blake Berris",
+      "tmdb": 1218789,
+      "imdb": "nm2062857",
+      "wikidata": "Q4924339",
+      "credit": "guest",
+      "billing": 9
+    },
+    "john-bishop": {
+      "name": "John Bishop",
+      "tmdb": 1145861,
+      "imdb": "nm0084087",
+      "wikidata": "Q98662996",
+      "credit": "guest",
+      "billing": 10
+    },
+    "elizabeth-tobias": {
+      "name": "Elizabeth Tobias",
+      "tmdb": 98412,
+      "imdb": "nm0864866",
+      "credit": "guest",
+      "billing": 11
+    },
+    "carter-hastings": {
+      "name": "Carter Hastings",
+      "tmdb": 1141501,
+      "imdb": "nm5209463",
+      "wikidata": "Q24576833",
+      "credit": "guest",
+      "billing": 12
+    },
+    "jay-glazer": {
+      "name": "Jay Glazer",
+      "tmdb": 1223081,
+      "imdb": "nm2025570",
+      "wikidata": "Q6166644",
+      "credit": "guest",
+      "billing": 13
+    },
+    "julie-stewart-binks": {
+      "name": "Julie Stewart-Binks",
+      "tmdb": 2493191,
+      "imdb": "nm7242092",
+      "credit": "guest",
+      "billing": 14
+    },
+    "michael-james-lazar": {
+      "name": "Michael James Lazar",
+      "tmdb": 1894881,
+      "imdb": "nm3061156",
+      "credit": "guest",
+      "billing": 15
+    },
+    "julia-tulupova": {
+      "name": "Julia Tulupova",
+      "tmdb": 2493197,
+      "imdb": "nm5322138",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:05:32.471",

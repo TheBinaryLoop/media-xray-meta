@@ -23,6 +23,164 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "jennifer-o-dell": {
+      "name": "Jennifer O'Dell",
+      "tmdb": 29479,
+      "imdb": "nm0640660",
+      "wikidata": "Q290598",
+      "credit": "guest",
+      "billing": 6
+    },
+    "jai-rodriguez": {
+      "name": "Jai Rodriguez",
+      "tmdb": 200709,
+      "imdb": "nm1177213",
+      "wikidata": "Q3496382",
+      "credit": "guest",
+      "billing": 7
+    },
+    "jamie-elle-mann": {
+      "name": "Jamie Elle Mann",
+      "tmdb": 555651,
+      "imdb": "nm1481774",
+      "credit": "guest",
+      "billing": 8
+    },
+    "neil-hopkins": {
+      "name": "Neil Hopkins",
+      "tmdb": 59755,
+      "imdb": "nm0394248",
+      "wikidata": "Q1627128",
+      "credit": "guest",
+      "billing": 9
+    },
+    "ravi-patel": {
+      "name": "Ravi Patel",
+      "tmdb": 206485,
+      "imdb": "nm2201027",
+      "wikidata": "Q7296648",
+      "credit": "guest",
+      "billing": 10
+    },
+    "megan-stevenson": {
+      "name": "Megan Stevenson",
+      "tmdb": 1505816,
+      "imdb": "nm3421867",
+      "wikidata": "Q119238671",
+      "credit": "guest",
+      "billing": 11
+    },
+    "ina-barron": {
+      "name": "Ina Barrón",
+      "tmdb": 61220,
+      "imdb": "nm1518346",
+      "credit": "guest",
+      "billing": 12
+    },
+    "kristi-clainos": {
+      "name": "Kristi Clainos",
+      "tmdb": 101625,
+      "imdb": "nm1627999",
+      "credit": "guest",
+      "billing": 13
+    },
+    "emily-nelson": {
+      "name": "Emily Nelson",
+      "tmdb": 66556,
+      "imdb": "nm1817612",
+      "credit": "guest",
+      "billing": 14
+    },
+    "claudia-choi": {
+      "name": "Claudia Choi",
+      "tmdb": 19281,
+      "imdb": "nm1695726",
+      "wikidata": "Q23691920",
+      "credit": "guest",
+      "billing": 15
+    },
+    "rafael-j-noble": {
+      "name": "Rafael J. Noble",
+      "tmdb": 168913,
+      "imdb": "nm1325037",
+      "wikidata": "Q24040315",
+      "credit": "guest",
+      "billing": 16
+    },
+    "joyce-guy": {
+      "name": "Joyce Guy",
+      "tmdb": 1213599,
+      "imdb": "nm0349824",
+      "wikidata": "Q6297500",
+      "credit": "guest",
+      "billing": 17
+    },
+    "monica-lee-gradischek": {
+      "name": "Monica Lee Gradischek",
+      "tmdb": 2404502,
+      "imdb": "nm0059787",
+      "wikidata": "Q16213533",
+      "credit": "guest",
+      "billing": 18
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 19
+    }
+  },
   "segments": [
     {
       "from": "00:05:27.912",

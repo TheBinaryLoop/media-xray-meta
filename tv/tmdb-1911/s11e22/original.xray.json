@@ -23,6 +23,133 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "ryan-o-neal": {
+      "name": "Ryan O'Neal",
+      "tmdb": 31070,
+      "imdb": "nm0641939",
+      "wikidata": "Q272923",
+      "credit": "guest",
+      "billing": 6
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "guest",
+      "billing": 7
+    },
+    "michael-grant-terry": {
+      "name": "Michael Grant Terry",
+      "tmdb": 205984,
+      "imdb": "nm2163204",
+      "wikidata": "Q3308554",
+      "credit": "guest",
+      "billing": 8
+    },
+    "todd-giebenhain": {
+      "name": "Todd Giebenhain",
+      "tmdb": 138606,
+      "imdb": "nm0317315",
+      "wikidata": "Q2438427",
+      "credit": "guest",
+      "billing": 9
+    },
+    "japheth-gordon": {
+      "name": "Japheth Gordon",
+      "tmdb": 968000,
+      "imdb": "nm2313689",
+      "credit": "guest",
+      "billing": 10
+    },
+    "stacie-theon": {
+      "name": "Stacie Theon",
+      "tmdb": 78405,
+      "imdb": "nm2722165",
+      "credit": "guest",
+      "billing": 11
+    },
+    "sonya-leslie": {
+      "name": "Sonya Leslie",
+      "tmdb": 1224154,
+      "imdb": "nm0504183",
+      "wikidata": "Q24023936",
+      "credit": "guest",
+      "billing": 12
+    },
+    "kylie-contreary": {
+      "name": "Kylie Contreary",
+      "tmdb": 1343731,
+      "imdb": "nm5826768",
+      "credit": "guest",
+      "billing": 13
+    },
+    "tim-guinee": {
+      "name": "Tim Guinee",
+      "tmdb": 40275,
+      "imdb": "nm0347375",
+      "wikidata": "Q788586",
+      "credit": "guest",
+      "billing": 14
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:06:00.187",

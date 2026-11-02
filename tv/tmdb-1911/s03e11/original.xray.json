@@ -23,6 +23,158 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "jamil-walker-smith": {
+      "name": "Jamil Walker Smith",
+      "tmdb": 82529,
+      "imdb": "nm0808606",
+      "wikidata": "Q463321",
+      "credit": "guest",
+      "billing": 6
+    },
+    "michelle-page": {
+      "name": "Michelle Page",
+      "tmdb": 59224,
+      "imdb": "nm1565101",
+      "wikidata": "Q1931165",
+      "credit": "guest",
+      "billing": 7
+    },
+    "erik-von-detten": {
+      "name": "Erik von Detten",
+      "tmdb": 12901,
+      "imdb": "nm0902184",
+      "wikidata": "Q979189",
+      "credit": "guest",
+      "billing": 8
+    },
+    "mekia-cox": {
+      "name": "Mekia Cox",
+      "tmdb": 202952,
+      "imdb": "nm2065368",
+      "wikidata": "Q4227431",
+      "credit": "guest",
+      "billing": 9
+    },
+    "taylor-kinney": {
+      "name": "Taylor Kinney",
+      "tmdb": 210271,
+      "imdb": "nm1978325",
+      "wikidata": "Q554315",
+      "credit": "guest",
+      "billing": 10
+    },
+    "james-black": {
+      "name": "James Black",
+      "tmdb": 106911,
+      "imdb": "nm0085316",
+      "wikidata": "Q1348272",
+      "credit": "guest",
+      "billing": 11
+    },
+    "daniel-roebuck": {
+      "name": "Daniel Roebuck",
+      "tmdb": 43774,
+      "imdb": "nm0736263",
+      "wikidata": "Q552031",
+      "credit": "guest",
+      "billing": 12
+    },
+    "michael-mcgrady": {
+      "name": "Michael McGrady",
+      "tmdb": 157015,
+      "imdb": "nm0569732",
+      "wikidata": "Q6832707",
+      "credit": "guest",
+      "billing": 13
+    },
+    "whitney-anderson": {
+      "name": "Whitney Anderson",
+      "tmdb": 87164,
+      "imdb": "nm0027575",
+      "wikidata": "Q7996670",
+      "credit": "guest",
+      "billing": 14
+    },
+    "stephanie-charles": {
+      "name": "Stephanie Charles",
+      "tmdb": 154048,
+      "imdb": "nm2569810",
+      "wikidata": "Q61059773",
+      "credit": "guest",
+      "billing": 15
+    },
+    "dani-jayden": {
+      "name": "Dani Jayden",
+      "tmdb": 1176880,
+      "imdb": "nm2230702",
+      "credit": "guest",
+      "billing": 16
+    },
+    "nathan-dean": {
+      "name": "Nathan Dean",
+      "tmdb": 66502,
+      "imdb": "nm1042728",
+      "credit": "guest",
+      "billing": 17
+    },
+    "david-greenman": {
+      "name": "David Greenman",
+      "tmdb": 1214444,
+      "imdb": "nm1476528",
+      "wikidata": "Q5234374",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:41:25.960",

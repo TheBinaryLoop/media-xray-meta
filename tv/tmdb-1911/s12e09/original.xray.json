@@ -23,6 +23,127 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "ignacio-serricchio": {
+      "name": "Ignacio Serricchio",
+      "tmdb": 139868,
+      "imdb": "nm1579445",
+      "wikidata": "Q5992454",
+      "credit": "guest",
+      "billing": 6
+    },
+    "stephen-fry": {
+      "name": "Stephen Fry",
+      "tmdb": 11275,
+      "imdb": "nm0000410",
+      "wikidata": "Q192912",
+      "credit": "guest",
+      "billing": 7
+    },
+    "erin-way": {
+      "name": "Erin Way",
+      "tmdb": 1012752,
+      "imdb": "nm2338525",
+      "wikidata": "Q45966",
+      "credit": "guest",
+      "billing": 8
+    },
+    "ronnie-gene-blevins": {
+      "name": "Ronnie Gene Blevins",
+      "tmdb": 98804,
+      "imdb": "nm1237235",
+      "wikidata": "Q4088048",
+      "credit": "guest",
+      "billing": 9
+    },
+    "jaime-bergman": {
+      "name": "Jaime Bergman",
+      "tmdb": 39173,
+      "imdb": "nm0074794",
+      "wikidata": "Q261541",
+      "credit": "guest",
+      "billing": 10
+    },
+    "joe-ochman": {
+      "name": "Joe Ochman",
+      "tmdb": 149684,
+      "imdb": "nm0643703",
+      "wikidata": "Q6211614",
+      "credit": "guest",
+      "billing": 11
+    },
+    "christina-carlisi": {
+      "name": "Christina Carlisi",
+      "tmdb": 157676,
+      "imdb": "nm0137583",
+      "wikidata": "Q5110759",
+      "credit": "guest",
+      "billing": 12
+    },
+    "john-philbin": {
+      "name": "John Philbin",
+      "tmdb": 103011,
+      "imdb": "nm0679904",
+      "wikidata": "Q6252750",
+      "credit": "guest",
+      "billing": 13
+    },
+    "bulat-nasibullin": {
+      "name": "Bulat Nasibullin",
+      "tmdb": 1882925,
+      "imdb": "nm5987000",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:06:18.136",

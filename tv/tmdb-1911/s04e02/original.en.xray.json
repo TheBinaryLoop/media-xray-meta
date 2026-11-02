@@ -21,5 +21,17 @@
       "to": "00:33:23.216",
       "fingerprint": "AQAAjErKJZKSBtRN5IKWHJG2HU-1oz9sGzd-5Dje41qLZutjvCqaR6nQE4-OizqSchqD7kbTD7tuVOKDKcxjlD2SC6G8BHseNPFR1lFwlEwG6kdoBnriDaXEo-GRg0too3LwJHtRi3gkGdEf_HiJLsmOZpRSXFGOH3sU8ELJ_FDGJC_24wkqsxNkPzilD_0SuGKQL0R4Gg_0D2HIrZiuIU5UnJkkNM-hkfkQH5aiNjij4HtRWkeY3MJzXFuwuUJ-42Tw5Hge8ChXHuZD1C9-hFmR7E5w4QyFKlGUo8me4SL4-EhPG09y5GIQ6iS0JDlykfjRzPguwWOO_UZ_5OI3JGeW4l_QTE-DqhqJSxseHaXHHVOaCfFyHT8h5TGaM8WjHHqSbMQfhPmC7TkeZULzFF-QR_ih6TxyWQ56EW-YYsrxH6QoZUAR8oggQgrghCAYCAAIUoowBA0J1gAJE7COWOAMUtBoDAgRmioAABMiGQEAIiIwIwyQhDgChROEAGkYA0kBygRA0BiqpDCECAOAIcAghJgBhjiDgKGEKQacQQZRAQQwABlCAA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "indira-varma": "Inspector Cate Pritchard",
+    "tuppence-middleton": "Vera Waterhouse",
+    "ed-coleman": "Cyril Bibby",
+    "michael-brandon": "Roger Frampton"
+  }
 }

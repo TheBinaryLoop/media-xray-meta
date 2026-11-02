@@ -23,6 +23,110 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "matthew-alan": {
+      "name": "Matthew Alan",
+      "tmdb": 207496,
+      "imdb": "nm1372721",
+      "wikidata": "Q21591417",
+      "credit": "guest",
+      "billing": 6
+    },
+    "jason-e-kelley": {
+      "name": "Jason E. Kelley",
+      "tmdb": 1450796,
+      "imdb": "nm2651918",
+      "wikidata": "Q106667638",
+      "credit": "guest",
+      "billing": 7
+    },
+    "antonio-d-charity": {
+      "name": "Antonio D. Charity",
+      "tmdb": 92611,
+      "imdb": "nm0152918",
+      "credit": "guest",
+      "billing": 8
+    },
+    "arnold-vosloo": {
+      "name": "Arnold Vosloo",
+      "tmdb": 16743,
+      "imdb": "nm0903677",
+      "wikidata": "Q297739",
+      "credit": "guest",
+      "billing": 9
+    },
+    "bryan-rasmussen": {
+      "name": "Bryan Rasmussen",
+      "tmdb": 156066,
+      "imdb": "nm0711299",
+      "credit": "guest",
+      "billing": 10
+    },
+    "tina-majorino": {
+      "name": "Tina Majorino",
+      "tmdb": 53930,
+      "imdb": "nm0001499",
+      "wikidata": "Q234321",
+      "credit": "guest",
+      "billing": 11
+    },
+    "ryan-cartwright": {
+      "name": "Ryan Cartwright",
+      "tmdb": 76916,
+      "imdb": "nm0142206",
+      "wikidata": "Q3453757",
+      "credit": "guest",
+      "billing": 12
+    }
+  },
   "segments": [
     {
       "from": "00:04:20.223",

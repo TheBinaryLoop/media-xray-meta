@@ -23,6 +23,156 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "ryan-o-neal": {
+      "name": "Ryan O'Neal",
+      "tmdb": 31070,
+      "imdb": "nm0641939",
+      "wikidata": "Q272923",
+      "credit": "guest",
+      "billing": 6
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 7
+    },
+    "melanie-paxson": {
+      "name": "Melanie Paxson",
+      "tmdb": 1212273,
+      "imdb": "nm0601609",
+      "wikidata": "Q1919002",
+      "credit": "guest",
+      "billing": 8
+    },
+    "max-adler": {
+      "name": "Max Adler",
+      "tmdb": 205335,
+      "imdb": "nm2301438",
+      "wikidata": "Q1372431",
+      "credit": "guest",
+      "billing": 9
+    },
+    "patrick-gallagher": {
+      "name": "Patrick Gallagher",
+      "tmdb": 17837,
+      "imdb": "nm0302466",
+      "wikidata": "Q119966",
+      "credit": "guest",
+      "billing": 10
+    },
+    "jed-rees": {
+      "name": "Jed Rees",
+      "tmdb": 15032,
+      "imdb": "nm0715915",
+      "wikidata": "Q6172620",
+      "credit": "guest",
+      "billing": 11
+    },
+    "aasha-davis": {
+      "name": "Aasha Davis",
+      "tmdb": 430151,
+      "imdb": "nm1632532",
+      "wikidata": "Q13560618",
+      "credit": "guest",
+      "billing": 12
+    },
+    "justin-welborn": {
+      "name": "Justin Welborn",
+      "tmdb": 74136,
+      "imdb": "nm0919482",
+      "wikidata": "Q3190511",
+      "credit": "guest",
+      "billing": 13
+    },
+    "paul-bartholomew": {
+      "name": "Paul Bartholomew",
+      "tmdb": 1864860,
+      "imdb": "nm0058692",
+      "credit": "guest",
+      "billing": 14
+    },
+    "doug-budin": {
+      "name": "Doug Budin",
+      "tmdb": 1786334,
+      "imdb": "nm0119013",
+      "credit": "guest",
+      "billing": 15
+    },
+    "dana-woods": {
+      "name": "Dana Woods",
+      "tmdb": 130619,
+      "imdb": "nm0940561",
+      "credit": "guest",
+      "billing": 16
+    },
+    "chelsea-o-toole": {
+      "name": "Chelsea O'Toole",
+      "tmdb": 1306640,
+      "imdb": "nm1837723",
+      "credit": "guest",
+      "billing": 17
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:04:05.140",

@@ -23,6 +23,150 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "joel-david-moore": {
+      "name": "Joel David Moore",
+      "tmdb": 59231,
+      "imdb": "nm0601376",
+      "wikidata": "Q371786",
+      "credit": "guest",
+      "billing": 6
+    },
+    "steven-christopher-parker": {
+      "name": "Steven Christopher Parker",
+      "tmdb": 230868,
+      "imdb": "nm1588622",
+      "wikidata": "Q2347491",
+      "credit": "guest",
+      "billing": 7
+    },
+    "kaylee-defer": {
+      "name": "Kaylee DeFer",
+      "tmdb": 1216163,
+      "imdb": "nm1560236",
+      "wikidata": "Q239223",
+      "credit": "guest",
+      "billing": 8
+    },
+    "mickey-jones": {
+      "name": "Mickey Jones",
+      "tmdb": 100230,
+      "imdb": "nm0428856",
+      "wikidata": "Q346965",
+      "credit": "guest",
+      "billing": 9
+    },
+    "nick-nordella": {
+      "name": "Nick Nordella",
+      "tmdb": 1226486,
+      "imdb": "nm0634984",
+      "credit": "guest",
+      "billing": 10
+    },
+    "oren-skoog": {
+      "name": "Oren Skoog",
+      "tmdb": 63476,
+      "imdb": "nm1372074",
+      "wikidata": "Q7101559",
+      "credit": "guest",
+      "billing": 11
+    },
+    "sam-golzari": {
+      "name": "Sam Golzari",
+      "tmdb": 54416,
+      "imdb": "nm1758979",
+      "wikidata": "Q7407530",
+      "credit": "guest",
+      "billing": 12
+    },
+    "jessalyn-wanlim": {
+      "name": "Jessalyn Wanlim",
+      "tmdb": 460636,
+      "imdb": "nm1801838",
+      "wikidata": "Q16222125",
+      "credit": "guest",
+      "billing": 13
+    },
+    "evan-arnold": {
+      "name": "Evan Arnold",
+      "tmdb": 169349,
+      "imdb": "nm0036439",
+      "wikidata": "Q20675897",
+      "credit": "guest",
+      "billing": 14
+    },
+    "laura-heisler": {
+      "name": "Laura Heisler",
+      "tmdb": 138774,
+      "imdb": "nm0374700",
+      "wikidata": "Q115368019",
+      "credit": "guest",
+      "billing": 15
+    },
+    "jordan-orr": {
+      "name": "Jordan Orr",
+      "tmdb": 95470,
+      "imdb": "nm1465268",
+      "wikidata": "Q1703644",
+      "credit": "guest",
+      "billing": 16
+    },
+    "giovanni-v-giusti": {
+      "name": "Giovanni V. Giusti",
+      "tmdb": 1046146,
+      "imdb": "nm3725724",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:05:09.380",

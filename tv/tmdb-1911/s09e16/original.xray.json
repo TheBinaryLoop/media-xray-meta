@@ -23,6 +23,120 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 6
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 7
+    },
+    "chris-browning": {
+      "name": "Chris Browning",
+      "tmdb": 76543,
+      "imdb": "nm0115152",
+      "wikidata": "Q17305722",
+      "credit": "guest",
+      "billing": 8
+    },
+    "homie-doroodian": {
+      "name": "Homie Doroodian",
+      "tmdb": 61699,
+      "imdb": "nm1304704",
+      "wikidata": "Q113577238",
+      "credit": "guest",
+      "billing": 9
+    },
+    "nazneen-contractor": {
+      "name": "Nazneen Contractor",
+      "tmdb": 180997,
+      "imdb": "nm1345890",
+      "wikidata": "Q6983534",
+      "credit": "guest",
+      "billing": 10
+    },
+    "chris-coppola": {
+      "name": "Chris Coppola",
+      "tmdb": 23791,
+      "imdb": "nm0178875",
+      "wikidata": "Q5106259",
+      "credit": "guest",
+      "billing": 11
+    },
+    "patrick-renna": {
+      "name": "Patrick Renna",
+      "tmdb": 69740,
+      "imdb": "nm0719606",
+      "wikidata": "Q725017",
+      "credit": "guest",
+      "billing": 12
+    },
+    "freddie-prinze-jr": {
+      "name": "Freddie Prinze Jr.",
+      "tmdb": 33260,
+      "imdb": "nm0005327",
+      "wikidata": "Q309756",
+      "credit": "guest",
+      "billing": 13
+    }
+  },
   "segments": [
     {
       "from": "00:03:53.423",

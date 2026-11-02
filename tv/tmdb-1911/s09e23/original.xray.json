@@ -23,6 +23,141 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "laura-spencer": {
+      "name": "Laura Spencer",
+      "tmdb": 591519,
+      "imdb": "nm3189010",
+      "wikidata": "Q16832120",
+      "credit": "guest",
+      "billing": 6
+    },
+    "madeleine-mcgraw": {
+      "name": "Madeleine McGraw",
+      "tmdb": 1530558,
+      "imdb": "nm6421259",
+      "wikidata": "Q65978332",
+      "credit": "guest",
+      "billing": 7
+    },
+    "christian-gehring": {
+      "name": "Christian Gehring",
+      "tmdb": 1148451,
+      "imdb": "nm4680905",
+      "wikidata": "Q98034210",
+      "credit": "guest",
+      "billing": 8
+    },
+    "shawn-ryan": {
+      "name": "Shawn Ryan",
+      "tmdb": 2451310,
+      "imdb": "nm2858580",
+      "credit": "guest",
+      "billing": 9
+    },
+    "ella-a-thomas": {
+      "name": "Ella A. Thomas",
+      "tmdb": 206045,
+      "imdb": "nm1724833",
+      "wikidata": "Q5364577",
+      "credit": "guest",
+      "billing": 10
+    },
+    "emily-montague": {
+      "name": "Emily Montague",
+      "tmdb": 168993,
+      "imdb": "nm1690293",
+      "wikidata": "Q63241935",
+      "credit": "guest",
+      "billing": 11
+    },
+    "shangela": {
+      "name": "Shangela",
+      "tmdb": 1029622,
+      "imdb": "nm3842784",
+      "wikidata": "Q7488379",
+      "credit": "guest",
+      "billing": 12
+    },
+    "joshua-bitton": {
+      "name": "Joshua Bitton",
+      "tmdb": 943154,
+      "imdb": "nm0084581",
+      "wikidata": "Q19953036",
+      "credit": "guest",
+      "billing": 13
+    },
+    "alix-elizabeth-gitter": {
+      "name": "Alix Elizabeth Gitter",
+      "tmdb": 1061512,
+      "imdb": "nm2160156",
+      "wikidata": "Q26709759",
+      "credit": "guest",
+      "billing": 14
+    },
+    "stefanie-black": {
+      "name": "Stefanie Black",
+      "tmdb": 85478,
+      "imdb": "nm1462513",
+      "wikidata": "Q50737229",
+      "credit": "guest",
+      "billing": 15
+    },
+    "puppett": {
+      "name": "Puppett",
+      "tmdb": 2457638,
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:05:43.880",

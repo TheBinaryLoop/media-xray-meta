@@ -23,6 +23,187 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "tina-majorino": {
+      "name": "Tina Majorino",
+      "tmdb": 53930,
+      "imdb": "nm0001499",
+      "wikidata": "Q234321",
+      "credit": "guest",
+      "billing": 6
+    },
+    "david-andriole": {
+      "name": "David Andriole",
+      "tmdb": 104645,
+      "imdb": "nm0029025",
+      "wikidata": "Q5230789",
+      "credit": "guest",
+      "billing": 7
+    },
+    "missy-doty": {
+      "name": "Missy Doty",
+      "tmdb": 1223003,
+      "imdb": "nm1671191",
+      "wikidata": "Q6879948",
+      "credit": "guest",
+      "billing": 8
+    },
+    "mary-pat-gleason": {
+      "name": "Mary Pat Gleason",
+      "tmdb": 62595,
+      "imdb": "nm0322325",
+      "wikidata": "Q6780492",
+      "credit": "guest",
+      "billing": 9
+    },
+    "mark-saul": {
+      "name": "Mark Saul",
+      "tmdb": 212218,
+      "imdb": "nm0766662",
+      "wikidata": "Q6769596",
+      "credit": "guest",
+      "billing": 10
+    },
+    "brandon-molale": {
+      "name": "Brandon Molale",
+      "tmdb": 63238,
+      "imdb": "nm0596404",
+      "wikidata": "Q3643715",
+      "credit": "guest",
+      "billing": 11
+    },
+    "kelly-perine": {
+      "name": "Kelly Perine",
+      "tmdb": 154060,
+      "imdb": "nm0670299",
+      "wikidata": "Q6386241",
+      "credit": "guest",
+      "billing": 12
+    },
+    "jaylen-barron": {
+      "name": "Jaylen Barron",
+      "tmdb": 1837705,
+      "imdb": "nm4978139",
+      "wikidata": "Q21582209",
+      "credit": "guest",
+      "billing": 13
+    },
+    "jillian-nelson": {
+      "name": "Jillian Nelson",
+      "tmdb": 1172770,
+      "imdb": "nm2744009",
+      "wikidata": "Q89189642",
+      "credit": "guest",
+      "billing": 14
+    },
+    "karole-foreman": {
+      "name": "Karole Foreman",
+      "tmdb": 1517281,
+      "imdb": "nm1679723",
+      "wikidata": "Q66826858",
+      "credit": "guest",
+      "billing": 15
+    },
+    "maury-morgan": {
+      "name": "Maury Morgan",
+      "tmdb": 1657643,
+      "imdb": "nm1787882",
+      "credit": "guest",
+      "billing": 16
+    },
+    "jenny-rainwater": {
+      "name": "Jenny Rainwater",
+      "tmdb": 1576545,
+      "imdb": "nm1674135",
+      "credit": "guest",
+      "billing": 17
+    },
+    "janell-inez": {
+      "name": "Janell Inez",
+      "tmdb": 200460,
+      "imdb": "nm0408596",
+      "credit": "guest",
+      "billing": 18
+    },
+    "jason-castle": {
+      "name": "Jason Castle",
+      "tmdb": 1367839,
+      "credit": "guest",
+      "billing": 19
+    },
+    "luke-kleintank": {
+      "name": "Luke Kleintank",
+      "tmdb": 967781,
+      "imdb": "nm3312554",
+      "wikidata": "Q6702097",
+      "credit": "guest",
+      "billing": 20
+    },
+    "wendy-worthington": {
+      "name": "Wendy Worthington",
+      "tmdb": 94904,
+      "imdb": "nm0941781",
+      "wikidata": "Q7982835",
+      "credit": "guest",
+      "billing": 21
+    },
+    "tiffany-hines": {
+      "name": "Tiffany Hines",
+      "tmdb": 1224085,
+      "imdb": "nm2015692",
+      "wikidata": "Q1189338",
+      "credit": "guest",
+      "billing": 22
+    }
+  },
   "segments": [
     {
       "from": "00:05:40.784",

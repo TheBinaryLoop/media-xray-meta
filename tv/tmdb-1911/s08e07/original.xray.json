@@ -23,6 +23,96 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "kevin-g-schmidt": {
+      "name": "Kevin G. Schmidt",
+      "tmdb": 85140,
+      "imdb": "nm0773056",
+      "wikidata": "Q26091",
+      "credit": "guest",
+      "billing": 6
+    },
+    "roberta-valderrama": {
+      "name": "Roberta Valderrama",
+      "tmdb": 1237292,
+      "imdb": "nm0883595",
+      "wikidata": "Q7351544",
+      "credit": "guest",
+      "billing": 7
+    },
+    "jana-marie-hupp": {
+      "name": "Jana Marie Hupp",
+      "tmdb": 1213344,
+      "imdb": "nm0403272",
+      "wikidata": "Q2888008",
+      "credit": "guest",
+      "billing": 8
+    },
+    "brad-william-henke": {
+      "name": "Brad William Henke",
+      "tmdb": 15376,
+      "imdb": "nm0377034",
+      "wikidata": "Q641408",
+      "credit": "guest",
+      "billing": 9
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 10
+    }
+  },
   "segments": [
     {
       "from": "00:04:43.766",

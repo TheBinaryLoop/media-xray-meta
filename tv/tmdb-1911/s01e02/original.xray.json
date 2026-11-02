@@ -23,6 +23,117 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 3
+    },
+    "jonathan-adams": {
+      "name": "Jonathan Adams",
+      "tmdb": 13477,
+      "imdb": "nm0011095",
+      "wikidata": "Q983873",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "anne-dudek": {
+      "name": "Anne Dudek",
+      "tmdb": 24198,
+      "imdb": "nm0240043",
+      "wikidata": "Q236918",
+      "credit": "guest",
+      "billing": 6
+    },
+    "jose-zuniga": {
+      "name": "José Zúñiga",
+      "tmdb": 10963,
+      "imdb": "nm0959242",
+      "wikidata": "Q966151",
+      "credit": "guest",
+      "billing": 7
+    },
+    "bahar-soomekh": {
+      "name": "Bahar Soomekh",
+      "tmdb": 2677,
+      "imdb": "nm1587232",
+      "wikidata": "Q269830",
+      "credit": "guest",
+      "billing": 8
+    },
+    "federico-dordei": {
+      "name": "Federico Dordei",
+      "tmdb": 1233609,
+      "imdb": "nm0196325",
+      "wikidata": "Q12686256",
+      "credit": "guest",
+      "billing": 9
+    },
+    "david-roberson": {
+      "name": "David Roberson",
+      "tmdb": 68223,
+      "imdb": "nm0730578",
+      "credit": "guest",
+      "billing": 10
+    },
+    "nicholas-massouh": {
+      "name": "Nicholas Massouh",
+      "tmdb": 191270,
+      "imdb": "nm1796806",
+      "credit": "guest",
+      "billing": 11
+    },
+    "tracy-howe": {
+      "name": "Tracy Howe",
+      "tmdb": 146367,
+      "imdb": "nm0397902",
+      "credit": "guest",
+      "billing": 12
+    },
+    "said-faraj": {
+      "name": "Said Faraj",
+      "tmdb": 109670,
+      "imdb": "nm0267057",
+      "wikidata": "Q24699885",
+      "credit": "guest",
+      "billing": 13
+    }
+  },
   "segments": [
     {
       "from": "00:06:45.636",

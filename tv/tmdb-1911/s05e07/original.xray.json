@@ -23,6 +23,135 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "debbie-lee-carrington": {
+      "name": "Debbie Lee Carrington",
+      "tmdb": 19753,
+      "imdb": "nm0140559",
+      "wikidata": "Q3020806",
+      "credit": "guest",
+      "billing": 6
+    },
+    "martin-klebba": {
+      "name": "Martin Klebba",
+      "tmdb": 4030,
+      "imdb": "nm0458514",
+      "wikidata": "Q151168",
+      "credit": "guest",
+      "billing": 7
+    },
+    "dan-castellaneta": {
+      "name": "Dan Castellaneta",
+      "tmdb": 198,
+      "imdb": "nm0144657",
+      "wikidata": "Q44442",
+      "credit": "guest",
+      "billing": 8
+    },
+    "wynn-everett": {
+      "name": "Wynn Everett",
+      "tmdb": 203734,
+      "imdb": "nm1570774",
+      "wikidata": "Q4529648",
+      "credit": "guest",
+      "billing": 9
+    },
+    "david-norona": {
+      "name": "David Norona",
+      "tmdb": 146162,
+      "imdb": "nm0635728",
+      "wikidata": "Q5238081",
+      "credit": "guest",
+      "billing": 10
+    },
+    "jeremiah-birkett": {
+      "name": "Jeremiah Birkett",
+      "tmdb": 116526,
+      "imdb": "nm0083586",
+      "wikidata": "Q24036596",
+      "credit": "guest",
+      "billing": 11
+    },
+    "everette-wallin": {
+      "name": "Everette Wallin",
+      "tmdb": 155011,
+      "imdb": "nm1577095",
+      "wikidata": "Q113581774",
+      "credit": "guest",
+      "billing": 12
+    },
+    "mike-randleman": {
+      "name": "Mike Randleman",
+      "tmdb": 1357697,
+      "imdb": "nm0709835",
+      "credit": "guest",
+      "billing": 13
+    },
+    "ryan-cartwright": {
+      "name": "Ryan Cartwright",
+      "tmdb": 76916,
+      "imdb": "nm0142206",
+      "wikidata": "Q3453757",
+      "credit": "guest",
+      "billing": 14
+    },
+    "stephen-fry": {
+      "name": "Stephen Fry",
+      "tmdb": 11275,
+      "imdb": "nm0000410",
+      "wikidata": "Q192912",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:04:17.436",

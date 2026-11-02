@@ -23,6 +23,143 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 6
+    },
+    "mac-brandt": {
+      "name": "Mac Brandt",
+      "tmdb": 1215837,
+      "imdb": "nm1991608",
+      "wikidata": "Q6722206",
+      "credit": "guest",
+      "billing": 7
+    },
+    "alicia-lagano": {
+      "name": "Alicia Lagano",
+      "tmdb": 105659,
+      "imdb": "nm0481122",
+      "wikidata": "Q2836768",
+      "credit": "guest",
+      "billing": 8
+    },
+    "alastair-james": {
+      "name": "Alastair James",
+      "tmdb": 1184206,
+      "imdb": "nm3904975",
+      "credit": "guest",
+      "billing": 9
+    },
+    "stella-maeve": {
+      "name": "Stella Maeve",
+      "tmdb": 74687,
+      "imdb": "nm1886524",
+      "wikidata": "Q2342145",
+      "credit": "guest",
+      "billing": 10
+    },
+    "r-c-ormond": {
+      "name": "R.C. Ormond",
+      "tmdb": 1378647,
+      "imdb": "nm1142306",
+      "wikidata": "Q110158257",
+      "credit": "guest",
+      "billing": 11
+    },
+    "aonika-laurent": {
+      "name": "Aonika Laurent",
+      "tmdb": 2475659,
+      "imdb": "nm0491204",
+      "wikidata": "Q99466410",
+      "credit": "guest",
+      "billing": 12
+    },
+    "tanner-novlan": {
+      "name": "Tanner Novlan",
+      "tmdb": 1172772,
+      "imdb": "nm3038664",
+      "wikidata": "Q101639479",
+      "credit": "guest",
+      "billing": 13
+    },
+    "tayla-parx": {
+      "name": "Tayla Parx",
+      "tmdb": 29225,
+      "imdb": "nm2264260",
+      "wikidata": "Q435807",
+      "credit": "guest",
+      "billing": 14
+    },
+    "katheryn-winnick": {
+      "name": "Katheryn Winnick",
+      "tmdb": 26723,
+      "imdb": "nm0935395",
+      "wikidata": "Q268298",
+      "credit": "guest",
+      "billing": 15
+    },
+    "ty-panitz": {
+      "name": "Ty Panitz",
+      "tmdb": 25144,
+      "imdb": "nm1892830",
+      "wikidata": "Q469072",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:04:09.649",

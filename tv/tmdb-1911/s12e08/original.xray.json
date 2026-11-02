@@ -23,6 +23,135 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "eddie-mcclintock": {
+      "name": "Eddie McClintock",
+      "tmdb": 120679,
+      "imdb": "nm0565858",
+      "wikidata": "Q561676",
+      "credit": "guest",
+      "billing": 7
+    },
+    "miranda-frigon": {
+      "name": "Miranda Frigon",
+      "tmdb": 137971,
+      "imdb": "nm1058352",
+      "wikidata": "Q10623856",
+      "credit": "guest",
+      "billing": 8
+    },
+    "a-leslie-kies": {
+      "name": "A Leslie Kies",
+      "tmdb": 1267388,
+      "imdb": "nm2731946",
+      "wikidata": "Q67595373",
+      "credit": "guest",
+      "billing": 9
+    },
+    "greg-evigan": {
+      "name": "Greg Evigan",
+      "tmdb": 70004,
+      "imdb": "nm0263760",
+      "wikidata": "Q1320797",
+      "credit": "guest",
+      "billing": 10
+    },
+    "lindsey-haun": {
+      "name": "Lindsey Haun",
+      "tmdb": 78229,
+      "imdb": "nm0369424",
+      "wikidata": "Q2437264",
+      "credit": "guest",
+      "billing": 11
+    },
+    "dale-raoul": {
+      "name": "Dale Raoul",
+      "tmdb": 174600,
+      "imdb": "nm0710632",
+      "wikidata": "Q3701026",
+      "credit": "guest",
+      "billing": 12
+    },
+    "tom-degnan": {
+      "name": "Tom Degnan",
+      "tmdb": 1218244,
+      "imdb": "nm3183569",
+      "wikidata": "Q19867991",
+      "credit": "guest",
+      "billing": 13
+    },
+    "wolfgang-bodison": {
+      "name": "Wolfgang Bodison",
+      "tmdb": 68672,
+      "imdb": "nm0090981",
+      "wikidata": "Q2589276",
+      "credit": "guest",
+      "billing": 14
+    },
+    "wylie-small": {
+      "name": "Wylie Small",
+      "tmdb": 1319670,
+      "imdb": "nm0806539",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:05:00.201",

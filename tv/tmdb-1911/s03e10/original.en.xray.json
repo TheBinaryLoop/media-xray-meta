@@ -21,5 +21,26 @@
       "to": "00:33:16.016",
       "fingerprint": "AQAAjMu1JNMSPOqBwjvyJBM0K8mhv0b8BL8NKwyP9zhzfHD2nMhoJMcoRVuFW9jxJ0eVMYcdiRrqLUhUHvnhZzmePphEHTb2yLh-PBoCfTH-HbmSfWCsHc-P6iqa6sQT4j56vvDkoJVeXDqm50jC5wijSuDxHH-KM8Qz3EfTHLVz7ImKvYeVDKySRClCiyzGX4OY98ijoVWIXyWuJ8Yt4jmupULl5XhpNLt2fGMazLtwjoOP-ISWZ84Q-kMv8MqDXgmOJzuubUpIfPGEZI8Q6mgukSizXMGPq8WjowcTHNGPpGKG7hPMHNdSPHKDXh9-5NMFLV8RycGV_WD0BztifYQ_QTt-5EuxHT-ycTHOQ0sk3WifIyeP55juw6EjWKwqVNwo_MGb9HhW_MG4XKiSwVWPV0ivQPs4AEMBEwQJKQgDwCEDgEAWQECUhAABIQAQjBIiFDFEGCCEQk4AQpQxhhCEkCIEGiuMcUYgAIgCjBGpgAAEIAgMUMIQQ4YgwiBACESIGseMYQAZARkzBAkgjAoGEMyQNQIhAARhRigijKFQKOUcAQ"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "eric-millegan": "Zack Addy",
+    "john-francis-daley": "Lance Sweets",
+    "channon-roe": "Danny Fitz",
+    "abigail-spencer": "Phillipa Fitz",
+    "chris-william-martin": "Garth Jodrey",
+    "wings-hauser": "Lenny Fitz",
+    "senta-moses": "April Presa",
+    "m-c-gainey": "Braxton Smalls",
+    "alicia-ziegler": "Chandler",
+    "darlena-tejeiro": "FBI Motor Tech Opal Warneke",
+    "andrew-lawrence": "Tim",
+    "burnadean-jones": "FBI Forensic Tech",
+    "john-edward-lee": "Tripp Goddard",
+    "christopher-may": "Park Ranger"
+  }
 }

@@ -21,5 +21,23 @@
       "to": "00:33:21.245",
       "fingerprint": "AQAAjNkSRuNCNOQMn9GSQEe-9Jjy4-oy4sePX-iLMPZj6CfeQ9MOMbmDH_kG9_ieoMElTcUj5PGFPxP041B0iI2NUjzUyPhz6Mf5I8-DplyH_njS0PhwYk8oBldbFD7qLV-w58V1FVWSZQ6iJz58QL_QPMi3Hn3Ug4-GB9Ep4gzMCGq-4O7hH33c4D38PAm-hcXTQ9GH5kLuCPzQw0uJPcRNC05-5MnSIbkO70R7XDqekGiaF_0kBnuQHDmqEz5v9MJHHWc2Bx9eJOuPMM_A3xVaJcO_Bk88YcLRFD2eofrRJE1QckezhMKbDreD9IGeXniRLJF4lDEasRGq4-gjaSqak8GLiBshz0F_IXcamMu5oVx6_Hipg1GTpIIr6UjHLBV6Q-uyEzc2HvqRliYAwIlBBDjGEMIUEOcEI9YxRRBhwBgABNMCACoEUcAgZAAgAilABHAGIaCQAoRochgBDgmCCBAAQA6m1AYQgAhhmkBGhAHQAOGFA04CIwAggjLLjCIKIWQYMmYQQoABwgJhABdMAQI"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "rick-scarry": "Priest",
+    "ryan-michelle-bathe": "Erin Miller",
+    "dale-godboldo": "Dr. Jonah Amayo",
+    "ellen-geer": "Anne Reilly",
+    "mandy-siegfried": "Amy Valeska",
+    "kelvin-yu": "Franklin Tung",
+    "charles-dougherty": "Hank Reilly",
+    "kazumi-aihara": "Traci Nishimura",
+    "matt-malloy": "Barney Reilly",
+    "kathryn-meisle": "Helen Reilly"
+  }
 }

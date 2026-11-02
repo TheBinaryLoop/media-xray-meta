@@ -23,6 +23,110 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 3
+    },
+    "jonathan-adams": {
+      "name": "Jonathan Adams",
+      "tmdb": 13477,
+      "imdb": "nm0011095",
+      "wikidata": "Q983873",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "margaret-avery": {
+      "name": "Margaret Avery",
+      "tmdb": 13307,
+      "imdb": "nm0001923",
+      "wikidata": "Q271846",
+      "credit": "guest",
+      "billing": 6
+    },
+    "jim-ortlieb": {
+      "name": "Jim Ortlieb",
+      "tmdb": 159394,
+      "imdb": "nm0651296",
+      "wikidata": "Q3808367",
+      "credit": "guest",
+      "billing": 7
+    },
+    "christina-r-copeland": {
+      "name": "Christina R. Copeland",
+      "tmdb": 63736,
+      "imdb": "nm1072778",
+      "credit": "guest",
+      "billing": 8
+    },
+    "heavy-d": {
+      "name": "Heavy D",
+      "tmdb": 18795,
+      "imdb": "nm0372809",
+      "wikidata": "Q450714",
+      "credit": "guest",
+      "billing": 9
+    },
+    "bob-bouchard": {
+      "name": "Bob Bouchard",
+      "tmdb": 1188076,
+      "imdb": "nm0098876",
+      "credit": "guest",
+      "billing": 10
+    },
+    "billy-gibbons": {
+      "name": "Billy Gibbons",
+      "tmdb": 105630,
+      "imdb": "nm0316531",
+      "wikidata": "Q369898",
+      "credit": "guest",
+      "billing": 11
+    },
+    "ty-panitz": {
+      "name": "Ty Panitz",
+      "tmdb": 25144,
+      "imdb": "nm1892830",
+      "wikidata": "Q469072",
+      "credit": "guest",
+      "billing": 12
+    }
+  },
   "segments": [
     {
       "from": "00:07:16.276",

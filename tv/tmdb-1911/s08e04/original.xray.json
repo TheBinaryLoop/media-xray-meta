@@ -23,6 +23,126 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 6
+    },
+    "brian-mcnamara": {
+      "name": "Brian McNamara",
+      "tmdb": 27238,
+      "imdb": "nm0573658",
+      "wikidata": "Q371495",
+      "credit": "guest",
+      "billing": 7
+    },
+    "arturo-del-puerto": {
+      "name": "Arturo del Puerto",
+      "tmdb": 1126417,
+      "imdb": "nm2276582",
+      "wikidata": "Q26924770",
+      "credit": "guest",
+      "billing": 8
+    },
+    "chris-butler": {
+      "name": "Chris Butler",
+      "tmdb": 1295493,
+      "imdb": "nm1504115",
+      "wikidata": "Q16539225",
+      "credit": "guest",
+      "billing": 9
+    },
+    "heather-mazur": {
+      "name": "Heather Mazur",
+      "tmdb": 1173006,
+      "imdb": "nm0563378",
+      "wikidata": "Q723461",
+      "credit": "guest",
+      "billing": 10
+    },
+    "drew-rausch": {
+      "name": "Drew Rausch",
+      "tmdb": 989607,
+      "imdb": "nm3040388",
+      "credit": "guest",
+      "billing": 11
+    },
+    "ryan-caltagirone": {
+      "name": "Ryan Caltagirone",
+      "tmdb": 1218817,
+      "imdb": "nm1324827",
+      "wikidata": "Q28223545",
+      "credit": "guest",
+      "billing": 12
+    },
+    "audrey-dundee-hannah": {
+      "name": "Audrey Dundee Hannah",
+      "tmdb": 1362890,
+      "imdb": "nm3425473",
+      "credit": "guest",
+      "billing": 13
+    },
+    "andy-t-tran": {
+      "name": "Andy T. Tran",
+      "tmdb": 1295291,
+      "imdb": "nm2903041",
+      "wikidata": "Q17403259",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:04:57.196",

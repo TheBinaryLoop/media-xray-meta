@@ -21,5 +21,25 @@
       "to": "00:33:48.067",
       "fingerprint": "AQAAjDujMYkSnBo85rhznIuWwh-NPAxd6D_SPsVrnDpemDxyLyNu5VCfI48WNJ42Em3E4GKO5kX8J2j-4PYhH7EUkcETZ0N_TOxhVsEtPAly2dD5BGGSVEKlXMGVB8enI4fqZkeYsdUwTdInNG4qtMvxHd1z-EuRD71xaUuJhpyKLzpctceFo7ahe8W1HJoEJ6HUoNchefJxOkK5EK5yHflR-sOfVHiUYRIz_OiHZIlPhBhpDlcUDT08ShKehRh7vDnSX9hC50FvsriUH4wURiMspoh4fBPCTBquftAZS6jEnMgJT-JxHm8Ob2bQH7Wyo0F-6L8QluFxdYE1ZSv64-E17LKKMFeOkswhGT--DFrEyMhCOcYzG3NmC1b-4nSq4vzhM1KgT0dzRTya97iGXyGeO0lQnxBd1OrxZxeeJsKJXSaYJ2yQKw-0_PgJwYgBQAFECFDAEaQIIAAAoQBRQABElCEEGSQQEooRJgAgmABgDCCUOGYIIQQBAoAUQhgiuVKIIGGAAYIAQpERCBhmAFCKCEaAMAxgAYwQCDAEmCCAAQCMAQI4QgggggFACBHAICCIBA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "eric-millegan": "Zack Addy",
+    "john-francis-daley": "Lance Sweets",
+    "erin-chambers": "Kat Curtis",
+    "christopher-darga": "Andrew Harding",
+    "beth-grant": "Lizbeth Harding",
+    "denise-crosby": "Margie Curtis",
+    "gill-gayle": "Gavin Lee",
+    "robert-blesse": "Charlie Rogan",
+    "cameron-watson": "Lyndon Page",
+    "darren-o-hare": "Clay Ansley",
+    "derwin-jordan": "Tim Peck",
+    "burnadean-jones": "FBI Forensic Tech",
+    "scoot-mcnairy": "Noel Liftin"
+  }
 }

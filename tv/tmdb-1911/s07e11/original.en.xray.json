@@ -21,5 +21,25 @@
       "to": "00:33:52.016",
       "fingerprint": "AQAAjKsURVoSIfkRUiaabBpxLdlxc5jQvA_y4zomOE3xjbgs6EnwGzcP97iLL4dtiFHx423hqEOf40INn3GCXjke9CF-5ERz5rik4Hxx7hIqZ3KA_0b1JCt--M9Rli4a4pJ03Ec3wimmH8mTvch_9EVzGxeeSDuecNfwNmiKHn-C_CtUJ8d3xK1Rf0MTZw12tRnwx0JoKoeWMfhOZMmWon8Q6hv8ZND2o7o4aM9zfESeKkGzJbPQcwtq7mh-xM-RLO3Rp-CO5xGaHxOjfHiXCrkOPanhdYa-JQ9yJkTzMqiSfThRKZOOnk4EhNSOZKF2XDt6Fc2VTHg-NFMveEmacMWkiwtCxUey7Dgf8H9w5UiW50HIH8ebF8-aLAjFJEfCo-xUPD54_GhSzUPHBz9yBzpyHY8uuDtxHcQAQUAwgpQACBgBGDDKAiGIAUQYgCwICggFiABGIAcIAUISBgAQQjAFigAECAmUMYIAAwgwhBgDDDBEAC-EYAQYBxAThBiigBFAAIIEIYIYJJgBghBDgAIEIiCEIQIgSQBBAgFrwIAEGagA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "ryan-o-neal": "Max Keenan",
+    "carla-gallo": "Daisy Wick",
+    "patricia-belcher": "Caroline Julian",
+    "j-p-manoux": "Farmer",
+    "william-sanderson": "Norbert Mobley",
+    "rebecca-tilney": "Claire Babcock",
+    "joe-adler": "Junior Babcock",
+    "ezra-buzzington": "Ephraim Babcock",
+    "mackenzie-mauzy": "Mobley",
+    "tico-wells": "Dennis Timmons",
+    "lewis-t-powell": "Cop",
+    "susanne-allan-hartman": "Christine Angela Booth"
+  }
 }

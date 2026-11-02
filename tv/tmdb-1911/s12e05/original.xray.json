@@ -23,6 +23,158 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "joel-david-moore": {
+      "name": "Joel David Moore",
+      "tmdb": 59231,
+      "imdb": "nm0601376",
+      "wikidata": "Q371786",
+      "credit": "guest",
+      "billing": 6
+    },
+    "fred-cross": {
+      "name": "Fred Cross",
+      "tmdb": 969294,
+      "imdb": "nm1451905",
+      "credit": "guest",
+      "billing": 7
+    },
+    "guy-boyd": {
+      "name": "Guy Boyd",
+      "tmdb": 19752,
+      "imdb": "nm0101777",
+      "wikidata": "Q2196287",
+      "credit": "guest",
+      "billing": 8
+    },
+    "julie-claire": {
+      "name": "Julie Claire",
+      "tmdb": 1212483,
+      "imdb": "nm0163267",
+      "wikidata": "Q6308085",
+      "credit": "guest",
+      "billing": 9
+    },
+    "marsha-thomason": {
+      "name": "Marsha Thomason",
+      "tmdb": 36219,
+      "imdb": "nm0859720",
+      "wikidata": "Q232410",
+      "credit": "guest",
+      "billing": 10
+    },
+    "justin-castor": {
+      "name": "Justin Castor",
+      "tmdb": 121742,
+      "imdb": "nm2583994",
+      "credit": "guest",
+      "billing": 11
+    },
+    "rafi-gavron": {
+      "name": "Rafi Gavron",
+      "tmdb": 21660,
+      "imdb": "nm1969169",
+      "wikidata": "Q983230",
+      "credit": "guest",
+      "billing": 12
+    },
+    "mike-erwin": {
+      "name": "Mike Erwin",
+      "tmdb": 164618,
+      "imdb": "nm0991437",
+      "wikidata": "Q1933137",
+      "credit": "guest",
+      "billing": 13
+    },
+    "alexie-gilmore": {
+      "name": "Alexie Gilmore",
+      "tmdb": 87669,
+      "imdb": "nm1773268",
+      "wikidata": "Q2644079",
+      "credit": "guest",
+      "billing": 14
+    },
+    "jaleel-white": {
+      "name": "Jaleel White",
+      "tmdb": 87079,
+      "imdb": "nm0924918",
+      "wikidata": "Q358306",
+      "credit": "guest",
+      "billing": 15
+    },
+    "haley-tju": {
+      "name": "Haley Tju",
+      "tmdb": 1625774,
+      "imdb": "nm3385609",
+      "wikidata": "Q21583275",
+      "credit": "guest",
+      "billing": 16
+    },
+    "alycen-malone": {
+      "name": "Alycen Malone",
+      "tmdb": 1730703,
+      "imdb": "nm1847060",
+      "wikidata": "Q27513039",
+      "credit": "guest",
+      "billing": 17
+    },
+    "sara-rue": {
+      "name": "Sara Rue",
+      "tmdb": 10131,
+      "imdb": "nm0749081",
+      "wikidata": "Q240199",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:03:59.144",

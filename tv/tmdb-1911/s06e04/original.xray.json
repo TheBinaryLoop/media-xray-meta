@@ -23,6 +23,138 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 6
+    },
+    "david-alan-grier": {
+      "name": "David Alan Grier",
+      "tmdb": 58563,
+      "imdb": "nm0004979",
+      "wikidata": "Q562596",
+      "credit": "guest",
+      "billing": 7
+    },
+    "lisa-marcos": {
+      "name": "Lisa Marcos",
+      "tmdb": 1470068,
+      "imdb": "nm1478589",
+      "wikidata": "Q456727",
+      "credit": "guest",
+      "billing": 8
+    },
+    "thomas-kopache": {
+      "name": "Thomas Kopache",
+      "tmdb": 9284,
+      "imdb": "nm0465664",
+      "wikidata": "Q7791601",
+      "credit": "guest",
+      "billing": 9
+    },
+    "greg-cipes": {
+      "name": "Greg Cipes",
+      "tmdb": 60227,
+      "imdb": "nm0996651",
+      "wikidata": "Q2700668",
+      "credit": "guest",
+      "billing": 10
+    },
+    "mimi-michaels": {
+      "name": "Mimi Michaels",
+      "tmdb": 78046,
+      "imdb": "nm1483657",
+      "wikidata": "Q6862171",
+      "credit": "guest",
+      "billing": 11
+    },
+    "corinne-reilly": {
+      "name": "Corinne Reilly",
+      "tmdb": 66561,
+      "imdb": "nm0717655",
+      "credit": "guest",
+      "billing": 12
+    },
+    "kathy-byron": {
+      "name": "Kathy Byron",
+      "tmdb": 1449099,
+      "imdb": "nm1483928",
+      "credit": "guest",
+      "billing": 13
+    },
+    "michael-duisenberg": {
+      "name": "Michael Duisenberg",
+      "tmdb": 966218,
+      "imdb": "nm1570545",
+      "credit": "guest",
+      "billing": 14
+    },
+    "zach-henry": {
+      "name": "Zach Henry",
+      "tmdb": 2249844,
+      "credit": "guest",
+      "billing": 15
+    },
+    "chrissy-sackel": {
+      "name": "Chrissy Sackel",
+      "tmdb": 2475643,
+      "imdb": "nm4593246",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:04:16.657",

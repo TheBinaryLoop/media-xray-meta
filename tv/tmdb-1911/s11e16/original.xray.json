@@ -23,6 +23,158 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "jordan-fisher": {
+      "name": "Jordan Fisher",
+      "tmdb": 1192274,
+      "imdb": "nm3332894",
+      "wikidata": "Q19955856",
+      "credit": "guest",
+      "billing": 6
+    },
+    "kirstin-maldonado": {
+      "name": "Kirstin Maldonado",
+      "tmdb": 1542853,
+      "imdb": "nm6375556",
+      "wikidata": "Q22912313",
+      "credit": "guest",
+      "billing": 7
+    },
+    "mitch-grassi": {
+      "name": "Mitch Grassi",
+      "tmdb": 1542849,
+      "imdb": "nm6377239",
+      "wikidata": "Q18921804",
+      "credit": "guest",
+      "billing": 8
+    },
+    "scott-hoying": {
+      "name": "Scott Hoying",
+      "tmdb": 1542852,
+      "imdb": "nm6377238",
+      "wikidata": "Q23009146",
+      "credit": "guest",
+      "billing": 9
+    },
+    "sam-tsui": {
+      "name": "Sam Tsui",
+      "tmdb": 1465109,
+      "imdb": "nm4449003",
+      "wikidata": "Q983689",
+      "credit": "guest",
+      "billing": 10
+    },
+    "b-k-cannon": {
+      "name": "B.K. Cannon",
+      "tmdb": 1437461,
+      "imdb": "nm2475992",
+      "wikidata": "Q109656739",
+      "credit": "guest",
+      "billing": 11
+    },
+    "nigel-gibbs": {
+      "name": "Nigel Gibbs",
+      "tmdb": 11915,
+      "imdb": "nm0316708",
+      "wikidata": "Q23015484",
+      "credit": "guest",
+      "billing": 12
+    },
+    "aaron-christian-howles": {
+      "name": "Aaron Christian Howles",
+      "tmdb": 1242464,
+      "imdb": "nm2608525",
+      "wikidata": "Q301831",
+      "credit": "guest",
+      "billing": 13
+    },
+    "anna-grace-barlow": {
+      "name": "Anna Grace Barlow",
+      "tmdb": 1456478,
+      "imdb": "nm2953809",
+      "wikidata": "Q125408555",
+      "credit": "guest",
+      "billing": 14
+    },
+    "barrett-carnahan": {
+      "name": "Barrett Carnahan",
+      "tmdb": 1267369,
+      "imdb": "nm4397556",
+      "wikidata": "Q36697339",
+      "credit": "guest",
+      "billing": 15
+    },
+    "gina-devivo": {
+      "name": "Gina DeVivo",
+      "tmdb": 1221022,
+      "imdb": "nm1279065",
+      "credit": "guest",
+      "billing": 16
+    },
+    "gavin-macintosh": {
+      "name": "Gavin Macintosh",
+      "tmdb": 1435945,
+      "imdb": "nm3958652",
+      "wikidata": "Q16239135",
+      "credit": "guest",
+      "billing": 17
+    },
+    "christopher-aber": {
+      "name": "Christopher Aber",
+      "tmdb": 1634324,
+      "imdb": "nm0008605",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:41:05.897",

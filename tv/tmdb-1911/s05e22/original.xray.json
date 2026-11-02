@@ -23,6 +23,133 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 6
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 7
+    },
+    "scott-atkinson": {
+      "name": "Scott Atkinson",
+      "tmdb": 102735,
+      "imdb": "nm0040797",
+      "wikidata": "Q23038763",
+      "credit": "guest",
+      "billing": 8
+    },
+    "deidrie-henry": {
+      "name": "Deidrie Henry",
+      "tmdb": 1225892,
+      "imdb": "nm1755731",
+      "credit": "guest",
+      "billing": 9
+    },
+    "reginald-ballard": {
+      "name": "Reginald Ballard",
+      "tmdb": 154096,
+      "imdb": "nm0050659",
+      "wikidata": "Q7308589",
+      "credit": "guest",
+      "billing": 10
+    },
+    "ned-vaughn": {
+      "name": "Ned Vaughn",
+      "tmdb": 51582,
+      "imdb": "nm0891224",
+      "wikidata": "Q6986117",
+      "credit": "guest",
+      "billing": 11
+    },
+    "skyler-james-sandak": {
+      "name": "Skyler James Sandak",
+      "tmdb": 1030314,
+      "imdb": "nm2243854",
+      "credit": "guest",
+      "billing": 12
+    },
+    "gina-torrecilla": {
+      "name": "Gina Torrecilla",
+      "tmdb": 2405739,
+      "imdb": "nm1151401",
+      "credit": "guest",
+      "billing": 13
+    },
+    "billy-gibbons": {
+      "name": "Billy Gibbons",
+      "tmdb": 105630,
+      "imdb": "nm0316531",
+      "wikidata": "Q369898",
+      "credit": "guest",
+      "billing": 14
+    },
+    "ty-panitz": {
+      "name": "Ty Panitz",
+      "tmdb": 25144,
+      "imdb": "nm1892830",
+      "wikidata": "Q469072",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:03:51.180",

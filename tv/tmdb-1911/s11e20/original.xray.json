@@ -23,6 +23,142 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "michael-grant-terry": {
+      "name": "Michael Grant Terry",
+      "tmdb": 205984,
+      "imdb": "nm2163204",
+      "wikidata": "Q3308554",
+      "credit": "guest",
+      "billing": 7
+    },
+    "john-shea": {
+      "name": "John Shea",
+      "tmdb": 78439,
+      "imdb": "nm0790291",
+      "wikidata": "Q28151",
+      "credit": "guest",
+      "billing": 8
+    },
+    "bridgett-newton": {
+      "name": "Bridgett Newton",
+      "tmdb": 162834,
+      "imdb": "nm0628468",
+      "credit": "guest",
+      "billing": 9
+    },
+    "jim-pirri": {
+      "name": "Jim Pirri",
+      "tmdb": 1225592,
+      "imdb": "nm0685308",
+      "wikidata": "Q2228120",
+      "credit": "guest",
+      "billing": 10
+    },
+    "kimberly-guerrero": {
+      "name": "Kimberly Guerrero",
+      "tmdb": 236022,
+      "imdb": "nm0635846",
+      "wikidata": "Q107097242",
+      "credit": "guest",
+      "billing": 11
+    },
+    "jay-jackson": {
+      "name": "Jay Jackson",
+      "tmdb": 1093709,
+      "imdb": "nm3085284",
+      "wikidata": "Q95625436",
+      "credit": "guest",
+      "billing": 12
+    },
+    "diane-mizota": {
+      "name": "Diane Mizota",
+      "tmdb": 14390,
+      "imdb": "nm0594601",
+      "wikidata": "Q11316632",
+      "credit": "guest",
+      "billing": 13
+    },
+    "nicole-pulliam": {
+      "name": "Nicole Pulliam",
+      "tmdb": 98811,
+      "imdb": "nm0700445",
+      "wikidata": "Q7030156",
+      "credit": "guest",
+      "billing": 14
+    },
+    "raney-branch": {
+      "name": "Raney Branch",
+      "tmdb": 1497918,
+      "imdb": "nm2642271",
+      "credit": "guest",
+      "billing": 15
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 16
+    }
+  },
   "segments": [
     {
       "from": "00:04:41.345",

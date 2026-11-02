@@ -23,6 +23,103 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "maurice-compte": {
+      "name": "Maurice Compte",
+      "tmdb": 48530,
+      "imdb": "nm0173997",
+      "wikidata": "Q20894978",
+      "credit": "guest",
+      "billing": 6
+    },
+    "kevin-bigley": {
+      "name": "Kevin Bigley",
+      "tmdb": 1032886,
+      "imdb": "nm3707003",
+      "wikidata": "Q16201337",
+      "credit": "guest",
+      "billing": 7
+    },
+    "ken-weiler": {
+      "name": "Ken Weiler",
+      "tmdb": 1217821,
+      "imdb": "nm0918015",
+      "wikidata": "Q24021130",
+      "credit": "guest",
+      "billing": 8
+    },
+    "amanda-jane-cooper": {
+      "name": "Amanda Jane Cooper",
+      "tmdb": 1380316,
+      "imdb": "nm2551131",
+      "credit": "guest",
+      "billing": 9
+    },
+    "tony-pasqualini": {
+      "name": "Tony Pasqualini",
+      "tmdb": 1380317,
+      "imdb": "nm1046400",
+      "wikidata": "Q23912327",
+      "credit": "guest",
+      "billing": 10
+    },
+    "brian-klugman": {
+      "name": "Brian Klugman",
+      "tmdb": 51996,
+      "imdb": "nm0460206",
+      "wikidata": "Q1631627",
+      "credit": "guest",
+      "billing": 11
+    }
+  },
   "segments": [
     {
       "from": "00:04:11.795",

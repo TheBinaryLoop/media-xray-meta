@@ -23,6 +23,151 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "kali-rocha": {
+      "name": "Kali Rocha",
+      "tmdb": 149665,
+      "imdb": "nm0733812",
+      "wikidata": "Q437449",
+      "credit": "guest",
+      "billing": 6
+    },
+    "kyle-gallner": {
+      "name": "Kyle Gallner",
+      "tmdb": 59219,
+      "imdb": "nm0973177",
+      "wikidata": "Q704395",
+      "credit": "guest",
+      "billing": 7
+    },
+    "lisa-thornhill": {
+      "name": "Lisa Thornhill",
+      "tmdb": 47058,
+      "imdb": "nm0861462",
+      "wikidata": "Q3242451",
+      "credit": "guest",
+      "billing": 8
+    },
+    "grace-caroline-currey": {
+      "name": "Grace Caroline Currey",
+      "tmdb": 54633,
+      "imdb": "nm1534201",
+      "wikidata": "Q5591180",
+      "credit": "guest",
+      "billing": 9
+    },
+    "amanda-carlin": {
+      "name": "Amanda Carlin",
+      "tmdb": 156692,
+      "imdb": "nm0137488",
+      "wikidata": "Q22575702",
+      "credit": "guest",
+      "billing": 10
+    },
+    "mary-gordon-murray": {
+      "name": "Mary Gordon Murray",
+      "tmdb": 1190638,
+      "imdb": "nm0615166",
+      "wikidata": "Q23930903",
+      "credit": "guest",
+      "billing": 11
+    },
+    "brent-jennings": {
+      "name": "Brent Jennings",
+      "tmdb": 84685,
+      "imdb": "nm0421116",
+      "wikidata": "Q15553290",
+      "credit": "guest",
+      "billing": 12
+    },
+    "jason-matthew-smith": {
+      "name": "Jason Matthew Smith",
+      "tmdb": 154702,
+      "imdb": "nm0808843",
+      "wikidata": "Q6163053",
+      "credit": "guest",
+      "billing": 13
+    },
+    "jim-hanna": {
+      "name": "Jim Hanna",
+      "tmdb": 1215988,
+      "imdb": "nm0360209",
+      "wikidata": "Q6195431",
+      "credit": "guest",
+      "billing": 14
+    },
+    "ariel-winter": {
+      "name": "Ariel Winter",
+      "tmdb": 42160,
+      "imdb": "nm1736769",
+      "wikidata": "Q26378",
+      "credit": "guest",
+      "billing": 15
+    },
+    "madison-davenport": {
+      "name": "Madison Davenport",
+      "tmdb": 52869,
+      "imdb": "nm1956478",
+      "wikidata": "Q528866",
+      "credit": "guest",
+      "billing": 16
+    },
+    "jenny-gregg-stewart": {
+      "name": "Jenny Gregg Stewart",
+      "tmdb": 1205490,
+      "imdb": "nm1642115",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
   "segments": [
     {
       "from": "00:04:11.962",

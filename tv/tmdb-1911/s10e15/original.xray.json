@@ -23,6 +23,163 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "laura-spencer": {
+      "name": "Laura Spencer",
+      "tmdb": 591519,
+      "imdb": "nm3189010",
+      "wikidata": "Q16832120",
+      "credit": "guest",
+      "billing": 6
+    },
+    "adam-tsekhman": {
+      "name": "Adam Tsekhman",
+      "tmdb": 476556,
+      "imdb": "nm2267372",
+      "wikidata": "Q89368122",
+      "credit": "guest",
+      "billing": 7
+    },
+    "todd-williams": {
+      "name": "Todd Williams",
+      "tmdb": 176762,
+      "imdb": "nm0931822",
+      "wikidata": "Q7812712",
+      "credit": "guest",
+      "billing": 8
+    },
+    "seth-peterson": {
+      "name": "Seth Peterson",
+      "tmdb": 109524,
+      "imdb": "nm0677397",
+      "wikidata": "Q3480189",
+      "credit": "guest",
+      "billing": 9
+    },
+    "jeremy-ratchford": {
+      "name": "Jeremy Ratchford",
+      "tmdb": 44205,
+      "imdb": "nm0711595",
+      "wikidata": "Q1338682",
+      "credit": "guest",
+      "billing": 10
+    },
+    "janelle-marra": {
+      "name": "Janelle Marra",
+      "tmdb": 1228623,
+      "imdb": "nm1553578",
+      "wikidata": "Q56045201",
+      "credit": "guest",
+      "billing": 11
+    },
+    "vito-d-ambrosio": {
+      "name": "Vito D'Ambrosio",
+      "tmdb": 1277,
+      "imdb": "nm0195101",
+      "wikidata": "Q3561275",
+      "credit": "guest",
+      "billing": 12
+    },
+    "matthew-downs": {
+      "name": "Matthew Downs",
+      "tmdb": 1444831,
+      "imdb": "nm4090781",
+      "wikidata": "Q60375434",
+      "credit": "guest",
+      "billing": 13
+    },
+    "victoria-garcia-kelleher": {
+      "name": "Victoria Garcia-Kelleher",
+      "tmdb": 1500108,
+      "imdb": "nm0445556",
+      "credit": "guest",
+      "billing": 14
+    },
+    "zack-schor": {
+      "name": "Zack Schor",
+      "tmdb": 1786097,
+      "imdb": "nm4548174",
+      "credit": "guest",
+      "billing": 15
+    },
+    "david-hemphill": {
+      "name": "David Hemphill",
+      "tmdb": 2118517,
+      "credit": "guest",
+      "billing": 16
+    },
+    "jaylen-moore": {
+      "name": "Jaylen Moore",
+      "tmdb": 1181296,
+      "imdb": "nm1272578",
+      "wikidata": "Q101446206",
+      "credit": "guest",
+      "billing": 17
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 18
+    },
+    "ryan-stallings": {
+      "name": "Ryan Stallings",
+      "tmdb": 4009766,
+      "imdb": "nm7284019",
+      "credit": "guest",
+      "billing": 19
+    }
+  },
   "segments": [
     {
       "from": "00:04:59.421",

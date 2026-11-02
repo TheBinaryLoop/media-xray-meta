@@ -23,6 +23,134 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "jonathan-slavin": {
+      "name": "Jonathan Slavin",
+      "tmdb": 112049,
+      "imdb": "nm0805587",
+      "wikidata": "Q6274439",
+      "credit": "guest",
+      "billing": 6
+    },
+    "colby-french": {
+      "name": "Colby French",
+      "tmdb": 155018,
+      "imdb": "nm0294062",
+      "wikidata": "Q5142024",
+      "credit": "guest",
+      "billing": 7
+    },
+    "steve-braun": {
+      "name": "Steve Braun",
+      "tmdb": 10867,
+      "imdb": "nm0105853",
+      "wikidata": "Q522884",
+      "credit": "guest",
+      "billing": 8
+    },
+    "darby-stanchfield": {
+      "name": "Darby Stanchfield",
+      "tmdb": 66497,
+      "imdb": "nm1581670",
+      "wikidata": "Q448484",
+      "credit": "guest",
+      "billing": 9
+    },
+    "eddie-mcclintock": {
+      "name": "Eddie McClintock",
+      "tmdb": 120679,
+      "imdb": "nm0565858",
+      "wikidata": "Q561676",
+      "credit": "guest",
+      "billing": 10
+    },
+    "valarie-pettiford": {
+      "name": "Valarie Pettiford",
+      "tmdb": 31138,
+      "imdb": "nm0678656",
+      "wikidata": "Q3553484",
+      "credit": "guest",
+      "billing": 11
+    },
+    "chris-conner": {
+      "name": "Chris Conner",
+      "tmdb": 1597992,
+      "imdb": "nm0175134",
+      "wikidata": "Q23011450",
+      "credit": "guest",
+      "billing": 12
+    },
+    "sean-patrick-murphy": {
+      "name": "Sean Patrick Murphy",
+      "tmdb": 1180936,
+      "imdb": "nm0614702",
+      "wikidata": "Q23014065",
+      "credit": "guest",
+      "billing": 13
+    },
+    "ted-lyde": {
+      "name": "Ted Lyde",
+      "tmdb": 1786422,
+      "imdb": "nm1101930",
+      "credit": "guest",
+      "billing": 14
+    },
+    "jordan-tartakow": {
+      "name": "Jordan Tartakow",
+      "tmdb": 2452432,
+      "imdb": "nm1033060",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:03:30.320",

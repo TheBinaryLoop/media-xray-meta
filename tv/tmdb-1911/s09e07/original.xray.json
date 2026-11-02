@@ -23,6 +23,135 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "angela-alvarado": {
+      "name": "Angela Alvarado",
+      "tmdb": 22621,
+      "imdb": "nm0023130",
+      "wikidata": "Q4762359",
+      "credit": "guest",
+      "billing": 7
+    },
+    "joaquim-de-almeida": {
+      "name": "Joaquim de Almeida",
+      "tmdb": 22462,
+      "imdb": "nm0021835",
+      "wikidata": "Q188432",
+      "credit": "guest",
+      "billing": 8
+    },
+    "lucila-sola": {
+      "name": "Lucila Solá",
+      "tmdb": 1010177,
+      "imdb": "nm1376482",
+      "wikidata": "Q97012620",
+      "credit": "guest",
+      "billing": 9
+    },
+    "geoffrey-rivas": {
+      "name": "Geoffrey Rivas",
+      "tmdb": 58651,
+      "imdb": "nm0729060",
+      "wikidata": "Q10288835",
+      "credit": "guest",
+      "billing": 10
+    },
+    "michael-fairman": {
+      "name": "Michael Fairman",
+      "tmdb": 84707,
+      "imdb": "nm0265637",
+      "wikidata": "Q3856160",
+      "credit": "guest",
+      "billing": 11
+    },
+    "julia-vera": {
+      "name": "Julia Vera",
+      "tmdb": 168881,
+      "imdb": "nm0893558",
+      "wikidata": "Q65978420",
+      "credit": "guest",
+      "billing": 12
+    },
+    "kevin-changaris": {
+      "name": "Kevin Changaris",
+      "tmdb": 2303244,
+      "imdb": "nm5866295",
+      "wikidata": "Q140779146",
+      "credit": "guest",
+      "billing": 13
+    },
+    "david-a-garcia": {
+      "name": "David A. Garcia",
+      "tmdb": 1517288,
+      "imdb": "nm6182000",
+      "credit": "guest",
+      "billing": 14
+    },
+    "logan-moreau": {
+      "name": "Logan Moreau",
+      "tmdb": 1651154,
+      "imdb": "nm5656084",
+      "wikidata": "Q38246806",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:05:50.611",

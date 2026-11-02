@@ -23,6 +23,171 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "lochlyn-munro": {
+      "name": "Lochlyn Munro",
+      "tmdb": 58058,
+      "imdb": "nm0613147",
+      "wikidata": "Q73930",
+      "credit": "guest",
+      "billing": 6
+    },
+    "logan-moreau": {
+      "name": "Logan Moreau",
+      "tmdb": 1651154,
+      "imdb": "nm5656084",
+      "wikidata": "Q38246806",
+      "credit": "guest",
+      "billing": 7
+    },
+    "gavin-macintosh": {
+      "name": "Gavin Macintosh",
+      "tmdb": 1435945,
+      "imdb": "nm3958652",
+      "wikidata": "Q16239135",
+      "credit": "guest",
+      "billing": 8
+    },
+    "callard-harris": {
+      "name": "Callard Harris",
+      "tmdb": 126422,
+      "imdb": "nm1675076",
+      "wikidata": "Q1027167",
+      "credit": "guest",
+      "billing": 9
+    },
+    "rachel-melvin": {
+      "name": "Rachel Melvin",
+      "tmdb": 176497,
+      "imdb": "nm1560493",
+      "wikidata": "Q4357092",
+      "credit": "guest",
+      "billing": 10
+    },
+    "dayo-ade": {
+      "name": "Dayo Ade",
+      "tmdb": 120889,
+      "imdb": "nm0011747",
+      "wikidata": "Q3019349",
+      "credit": "guest",
+      "billing": 11
+    },
+    "michael-dempsey": {
+      "name": "Michael Dempsey",
+      "tmdb": 80301,
+      "imdb": "nm0218749",
+      "credit": "guest",
+      "billing": 12
+    },
+    "rob-evors": {
+      "name": "Rob Evors",
+      "tmdb": 1368651,
+      "imdb": "nm1260534",
+      "credit": "guest",
+      "billing": 13
+    },
+    "kevin-m-horton": {
+      "name": "Kevin M. Horton",
+      "tmdb": 94769,
+      "imdb": "nm2431639",
+      "wikidata": "Q11915791",
+      "credit": "guest",
+      "billing": 14
+    },
+    "matt-lowe": {
+      "name": "Matt Lowe",
+      "tmdb": 1477958,
+      "imdb": "nm1644205",
+      "credit": "guest",
+      "billing": 15
+    },
+    "bret-green": {
+      "name": "Bret Green",
+      "tmdb": 1464057,
+      "imdb": "nm5393378",
+      "credit": "guest",
+      "billing": 16
+    },
+    "gayla-johnson": {
+      "name": "Gayla Johnson",
+      "tmdb": 1444243,
+      "imdb": "nm1112019",
+      "credit": "guest",
+      "billing": 17
+    },
+    "margaret-newborn": {
+      "name": "Margaret Newborn",
+      "tmdb": 1487350,
+      "imdb": "nm7172606",
+      "wikidata": "Q124022187",
+      "credit": "guest",
+      "billing": 18
+    },
+    "ignacio-serricchio": {
+      "name": "Ignacio Serricchio",
+      "tmdb": 139868,
+      "imdb": "nm1579445",
+      "wikidata": "Q5992454",
+      "credit": "guest",
+      "billing": 19
+    },
+    "sunnie-pelant": {
+      "name": "Sunnie Pelant",
+      "tmdb": 1607673,
+      "imdb": "nm6342776",
+      "wikidata": "Q111607515",
+      "credit": "guest",
+      "billing": 20
+    }
+  },
   "segments": [
     {
       "from": "00:05:01.502",

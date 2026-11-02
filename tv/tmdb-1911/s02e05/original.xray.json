@@ -23,6 +23,95 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "keri-lynn-pratt": {
+      "name": "Keri Lynn Pratt",
+      "tmdb": 77803,
+      "imdb": "nm0005325",
+      "wikidata": "Q449431",
+      "credit": "guest",
+      "billing": 6
+    },
+    "lamont-thompson": {
+      "name": "Lamont Thompson",
+      "tmdb": 1215374,
+      "imdb": "nm1476956",
+      "wikidata": "Q59825816",
+      "credit": "guest",
+      "billing": 7
+    },
+    "melinda-mcgraw": {
+      "name": "Melinda McGraw",
+      "tmdb": 58692,
+      "imdb": "nm0569927",
+      "wikidata": "Q2635096",
+      "credit": "guest",
+      "billing": 8
+    },
+    "jessica-capshaw": {
+      "name": "Jessica Capshaw",
+      "tmdb": 2205,
+      "imdb": "nm0004800",
+      "wikidata": "Q40057",
+      "credit": "guest",
+      "billing": 9
+    },
+    "susan-santiago": {
+      "name": "Susan Santiago",
+      "tmdb": 59227,
+      "imdb": "nm1013433",
+      "credit": "guest",
+      "billing": 10
+    }
+  },
   "segments": [
     {
       "from": "00:04:29.504",

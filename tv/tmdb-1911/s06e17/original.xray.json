@@ -23,6 +23,127 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "michael-welch": {
+      "name": "Michael Welch",
+      "tmdb": 56676,
+      "imdb": "nm0919616",
+      "wikidata": "Q236463",
+      "credit": "guest",
+      "billing": 6
+    },
+    "tahmus-rounds": {
+      "name": "Tahmus Rounds",
+      "tmdb": 167781,
+      "imdb": "nm0745774",
+      "wikidata": "Q50737236",
+      "credit": "guest",
+      "billing": 7
+    },
+    "hank-harris": {
+      "name": "Hank Harris",
+      "tmdb": 58739,
+      "imdb": "nm0364744",
+      "wikidata": "Q5648359",
+      "credit": "guest",
+      "billing": 8
+    },
+    "joel-mckinnon-miller": {
+      "name": "Joel McKinnon Miller",
+      "tmdb": 88950,
+      "imdb": "nm0571930",
+      "wikidata": "Q6213743",
+      "credit": "guest",
+      "billing": 9
+    },
+    "andy-mackenzie": {
+      "name": "Andy Mackenzie",
+      "tmdb": 41341,
+      "imdb": "nm0533268",
+      "wikidata": "Q23639420",
+      "credit": "guest",
+      "billing": 10
+    },
+    "david-ury": {
+      "name": "David Ury",
+      "tmdb": 1237876,
+      "imdb": "nm1352845",
+      "wikidata": "Q1176939",
+      "credit": "guest",
+      "billing": 11
+    },
+    "michael-lespinasse": {
+      "name": "Michael Lespinasse",
+      "tmdb": 1452959,
+      "imdb": "nm3719549",
+      "credit": "guest",
+      "billing": 12
+    },
+    "scott-lowell": {
+      "name": "Scott Lowell",
+      "tmdb": 105111,
+      "imdb": "nm0523116",
+      "wikidata": "Q1344181",
+      "credit": "guest",
+      "billing": 13
+    },
+    "tiffany-hines": {
+      "name": "Tiffany Hines",
+      "tmdb": 1224085,
+      "imdb": "nm2015692",
+      "wikidata": "Q1189338",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:05:18.053",

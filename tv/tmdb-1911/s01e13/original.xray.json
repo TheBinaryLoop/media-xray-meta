@@ -23,6 +23,157 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 3
+    },
+    "jonathan-adams": {
+      "name": "Jonathan Adams",
+      "tmdb": 13477,
+      "imdb": "nm0011095",
+      "wikidata": "Q983873",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "jose-pablo-cantillo": {
+      "name": "Jose Pablo Cantillo",
+      "tmdb": 20191,
+      "imdb": "nm1504678",
+      "wikidata": "Q350014",
+      "credit": "guest",
+      "billing": 6
+    },
+    "emilio-rivera": {
+      "name": "Emilio Rivera",
+      "tmdb": 53257,
+      "imdb": "nm0729256",
+      "wikidata": "Q5371935",
+      "credit": "guest",
+      "billing": 7
+    },
+    "matt-barr": {
+      "name": "Matt Barr",
+      "tmdb": 26970,
+      "imdb": "nm1204778",
+      "wikidata": "Q549232",
+      "credit": "guest",
+      "billing": 8
+    },
+    "robert-lasardo": {
+      "name": "Robert LaSardo",
+      "tmdb": 65831,
+      "imdb": "nm0489436",
+      "wikidata": "Q720233",
+      "credit": "guest",
+      "billing": 9
+    },
+    "dey-young": {
+      "name": "Dey Young",
+      "tmdb": 39568,
+      "imdb": "nm0949477",
+      "wikidata": "Q273137",
+      "credit": "guest",
+      "billing": 10
+    },
+    "mike-gomez": {
+      "name": "Mike Gomez",
+      "tmdb": 162235,
+      "imdb": "nm0327059",
+      "wikidata": "Q6847026",
+      "credit": "guest",
+      "billing": 11
+    },
+    "michael-cavanaugh": {
+      "name": "Michael Cavanaugh",
+      "tmdb": 101172,
+      "imdb": "nm0146938",
+      "wikidata": "Q1575582",
+      "credit": "guest",
+      "billing": 12
+    },
+    "dennis-cockrum": {
+      "name": "Dennis Cockrum",
+      "tmdb": 155825,
+      "imdb": "nm0168371",
+      "wikidata": "Q20604357",
+      "credit": "guest",
+      "billing": 13
+    },
+    "annette-m-lesure": {
+      "name": "Annette M. Lesure",
+      "tmdb": 1957905,
+      "imdb": "nm0154533",
+      "credit": "guest",
+      "billing": 14
+    },
+    "charles-carpenter": {
+      "name": "Charles Carpenter",
+      "tmdb": 1494157,
+      "imdb": "nm0139295",
+      "credit": "guest",
+      "billing": 15
+    },
+    "susan-leslie": {
+      "name": "Susan Leslie",
+      "tmdb": 149525,
+      "imdb": "nm0504185",
+      "credit": "guest",
+      "billing": 16
+    },
+    "edward-padilla": {
+      "name": "Edward Padilla",
+      "tmdb": 1781298,
+      "imdb": "nm0655717",
+      "wikidata": "Q21072477",
+      "credit": "guest",
+      "billing": 17
+    },
+    "adam-lieberman": {
+      "name": "Adam Lieberman",
+      "tmdb": 58594,
+      "imdb": "nm0509358",
+      "wikidata": "Q64492753",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:02:43.162",

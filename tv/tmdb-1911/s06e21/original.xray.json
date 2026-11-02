@@ -23,6 +23,124 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 6
+    },
+    "mckenzie-applegate": {
+      "name": "McKenzie Applegate",
+      "tmdb": 2450769,
+      "imdb": "nm2427516",
+      "credit": "guest",
+      "billing": 7
+    },
+    "michelle-l-gardner": {
+      "name": "Michelle L. Gardner",
+      "tmdb": 167262,
+      "imdb": "nm1648149",
+      "credit": "guest",
+      "billing": 8
+    },
+    "sean-o-bryan": {
+      "name": "Sean O'Bryan",
+      "tmdb": 33836,
+      "imdb": "nm0639917",
+      "wikidata": "Q5765589",
+      "credit": "guest",
+      "billing": 9
+    },
+    "pamela-gray": {
+      "name": "Pamela Gray",
+      "tmdb": 1207046,
+      "imdb": "nm0336860",
+      "wikidata": "Q22963692",
+      "credit": "guest",
+      "billing": 10
+    },
+    "reggie-watkins": {
+      "name": "Reggie Watkins",
+      "tmdb": 1350951,
+      "imdb": "nm2078516",
+      "wikidata": "Q114973259",
+      "credit": "guest",
+      "billing": 11
+    },
+    "matt-miller": {
+      "name": "Matt Miller",
+      "tmdb": 27709,
+      "imdb": "nm0588932",
+      "credit": "guest",
+      "billing": 12
+    },
+    "julie-wittner": {
+      "name": "Julie Wittner",
+      "tmdb": 191186,
+      "imdb": "nm1273412",
+      "credit": "guest",
+      "billing": 13
+    },
+    "pej-vahdat": {
+      "name": "Pej Vahdat",
+      "tmdb": 64297,
+      "imdb": "nm1798530",
+      "wikidata": "Q3374412",
+      "credit": "guest",
+      "billing": 14
+    }
+  },
   "segments": [
     {
       "from": "00:04:39.422",

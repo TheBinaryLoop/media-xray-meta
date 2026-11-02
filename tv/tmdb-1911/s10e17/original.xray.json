@@ -23,6 +23,135 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "carla-gallo": {
+      "name": "Carla Gallo",
+      "tmdb": 54708,
+      "imdb": "nm0303013",
+      "wikidata": "Q432281",
+      "credit": "guest",
+      "billing": 6
+    },
+    "david-monahan": {
+      "name": "David Monahan",
+      "tmdb": 100891,
+      "imdb": "nm0597521",
+      "wikidata": "Q5237651",
+      "credit": "guest",
+      "billing": 7
+    },
+    "alysia-reiner": {
+      "name": "Alysia Reiner",
+      "tmdb": 109740,
+      "imdb": "nm1130496",
+      "wikidata": "Q450344",
+      "credit": "guest",
+      "billing": 8
+    },
+    "china-anne-mcclain": {
+      "name": "China Anne McClain",
+      "tmdb": 80613,
+      "imdb": "nm1942207",
+      "wikidata": "Q230943",
+      "credit": "guest",
+      "billing": 9
+    },
+    "mckaley-miller": {
+      "name": "McKaley Miller",
+      "tmdb": 1355176,
+      "imdb": "nm3591790",
+      "wikidata": "Q287346",
+      "credit": "guest",
+      "billing": 10
+    },
+    "brielle-barbusca": {
+      "name": "Brielle Barbusca",
+      "tmdb": 1670805,
+      "imdb": "nm1850882",
+      "wikidata": "Q106558596",
+      "credit": "guest",
+      "billing": 11
+    },
+    "adam-zastrow": {
+      "name": "Adam Zastrow",
+      "tmdb": 1724206,
+      "imdb": "nm4261405",
+      "wikidata": "Q100629644",
+      "credit": "guest",
+      "billing": 12
+    },
+    "jenny-cooper": {
+      "name": "Jenny Cooper",
+      "tmdb": 1111852,
+      "imdb": "nm0505840",
+      "wikidata": "Q16205455",
+      "credit": "guest",
+      "billing": 13
+    },
+    "jordan-james-smith": {
+      "name": "Jordan James Smith",
+      "tmdb": 1023428,
+      "imdb": "nm3989911",
+      "wikidata": "Q64392166",
+      "credit": "guest",
+      "billing": 14
+    },
+    "shaan-sharma": {
+      "name": "Shaan Sharma",
+      "tmdb": 1184226,
+      "imdb": "nm3459555",
+      "credit": "guest",
+      "billing": 15
+    }
+  },
   "segments": [
     {
       "from": "00:05:11.190",

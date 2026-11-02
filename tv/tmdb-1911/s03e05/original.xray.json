@@ -23,6 +23,193 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "eric-millegan": {
+      "name": "Eric Millegan",
+      "tmdb": 162513,
+      "imdb": "nm1090644",
+      "wikidata": "Q559984",
+      "credit": "main",
+      "billing": 5
+    },
+    "rider-strong": {
+      "name": "Rider Strong",
+      "tmdb": 69807,
+      "imdb": "nm0835045",
+      "wikidata": "Q725903",
+      "credit": "guest",
+      "billing": 6
+    },
+    "azura-skye": {
+      "name": "Azura Skye",
+      "tmdb": 31715,
+      "imdb": "nm0005439",
+      "wikidata": "Q262652",
+      "credit": "guest",
+      "billing": 7
+    },
+    "lynsey-bartilson": {
+      "name": "Lynsey Bartilson",
+      "tmdb": 167253,
+      "imdb": "nm0058723",
+      "wikidata": "Q442176",
+      "credit": "guest",
+      "billing": 8
+    },
+    "terry-rhoads": {
+      "name": "Terry Rhoads",
+      "tmdb": 151262,
+      "imdb": "nm0722345",
+      "wikidata": "Q7704946",
+      "credit": "guest",
+      "billing": 9
+    },
+    "nathan-anderson": {
+      "name": "Nathan Anderson",
+      "tmdb": 92282,
+      "imdb": "nm0003405",
+      "wikidata": "Q23833907",
+      "credit": "guest",
+      "billing": 10
+    },
+    "vince-grant": {
+      "name": "Vince Grant",
+      "tmdb": 157009,
+      "imdb": "nm0335691",
+      "wikidata": "Q24091049",
+      "credit": "guest",
+      "billing": 11
+    },
+    "judy-prescott": {
+      "name": "Judy Prescott",
+      "tmdb": 152937,
+      "imdb": "nm0696113",
+      "wikidata": "Q6304558",
+      "credit": "guest",
+      "billing": 12
+    },
+    "paul-cassell": {
+      "name": "Paul Cassell",
+      "tmdb": 91033,
+      "imdb": "nm0144073",
+      "wikidata": "Q26197347",
+      "credit": "guest",
+      "billing": 13
+    },
+    "laurence-cohen": {
+      "name": "Laurence Cohen",
+      "tmdb": 194311,
+      "imdb": "nm0169544",
+      "credit": "guest",
+      "billing": 14
+    },
+    "caitlyn-folley": {
+      "name": "Caitlyn Folley",
+      "tmdb": 1009257,
+      "imdb": "nm1555427",
+      "wikidata": "Q16738957",
+      "credit": "guest",
+      "billing": 15
+    },
+    "charles-porter": {
+      "name": "Charles Porter",
+      "tmdb": 146009,
+      "imdb": "nm0692061",
+      "credit": "guest",
+      "billing": 16
+    },
+    "maia-madison": {
+      "name": "Maia Madison",
+      "tmdb": 183463,
+      "imdb": "nm0534998",
+      "credit": "guest",
+      "billing": 17
+    },
+    "jake-austin-walker": {
+      "name": "Jake Austin Walker",
+      "tmdb": 593051,
+      "imdb": "nm2397206",
+      "wikidata": "Q96185997",
+      "credit": "guest",
+      "billing": 18
+    },
+    "ashlyn-madden": {
+      "name": "Ashlyn Madden",
+      "tmdb": 1382995,
+      "imdb": "nm2823456",
+      "credit": "guest",
+      "billing": 19
+    },
+    "arron-fenton": {
+      "name": "Arron Fenton",
+      "tmdb": 1590270,
+      "imdb": "nm3201981",
+      "credit": "guest",
+      "billing": 20
+    },
+    "nathan-dean": {
+      "name": "Nathan Dean",
+      "tmdb": 66502,
+      "imdb": "nm1042728",
+      "credit": "guest",
+      "billing": 21
+    },
+    "david-greenman": {
+      "name": "David Greenman",
+      "tmdb": 1214444,
+      "imdb": "nm1476528",
+      "wikidata": "Q5234374",
+      "credit": "guest",
+      "billing": 22
+    },
+    "andre-roman": {
+      "name": "Andre Roman",
+      "tmdb": 4025685,
+      "imdb": "nm2817505",
+      "credit": "guest",
+      "billing": 23
+    }
+  },
   "segments": [
     {
       "from": "00:03:31.259",

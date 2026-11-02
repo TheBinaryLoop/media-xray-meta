@@ -23,6 +23,120 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "eugene-byrd": {
+      "name": "Eugene Byrd",
+      "tmdb": 342,
+      "imdb": "nm0126021",
+      "wikidata": "Q1319913",
+      "credit": "guest",
+      "billing": 6
+    },
+    "carla-jimenez": {
+      "name": "Carla Jimenez",
+      "tmdb": 1215979,
+      "imdb": "nm1266101",
+      "wikidata": "Q5041069",
+      "credit": "guest",
+      "billing": 7
+    },
+    "peter-paige": {
+      "name": "Peter Paige",
+      "tmdb": 151380,
+      "imdb": "nm0656739",
+      "wikidata": "Q919229",
+      "credit": "guest",
+      "billing": 8
+    },
+    "elon-gold": {
+      "name": "Elon Gold",
+      "tmdb": 144227,
+      "imdb": "nm0324968",
+      "wikidata": "Q359177",
+      "credit": "guest",
+      "billing": 9
+    },
+    "brady-smith": {
+      "name": "Brady Smith",
+      "tmdb": 134179,
+      "imdb": "nm0807501",
+      "wikidata": "Q727288",
+      "credit": "guest",
+      "billing": 10
+    },
+    "leslie-anne-panaligan": {
+      "name": "Leslie-Anne Panaligan",
+      "tmdb": 204507,
+      "imdb": "nm2244033",
+      "wikidata": "Q6530575",
+      "credit": "guest",
+      "billing": 11
+    },
+    "kip-gilman": {
+      "name": "Kip Gilman",
+      "tmdb": 157404,
+      "imdb": "nm0319445",
+      "wikidata": "Q15823362",
+      "credit": "guest",
+      "billing": 12
+    },
+    "candice-coke": {
+      "name": "Candice Coke",
+      "tmdb": 1046202,
+      "imdb": "nm1051245",
+      "wikidata": "Q15790902",
+      "credit": "guest",
+      "billing": 13
+    }
+  },
   "segments": [
     {
       "from": "00:05:23.675",

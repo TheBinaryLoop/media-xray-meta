@@ -23,6 +23,157 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "john-boyd": {
+      "name": "John Boyd",
+      "tmdb": 58621,
+      "imdb": "nm1668372",
+      "wikidata": "Q1706307",
+      "credit": "main",
+      "billing": 2
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 3
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 4
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 5
+    },
+    "michael-grant-terry": {
+      "name": "Michael Grant Terry",
+      "tmdb": 205984,
+      "imdb": "nm2163204",
+      "wikidata": "Q3308554",
+      "credit": "guest",
+      "billing": 6
+    },
+    "braden-fitzgerald": {
+      "name": "Braden Fitzgerald",
+      "tmdb": 1467990,
+      "imdb": "nm4256099",
+      "credit": "guest",
+      "billing": 7
+    },
+    "miriam-flynn": {
+      "name": "Miriam Flynn",
+      "tmdb": 35109,
+      "imdb": "nm0283565",
+      "wikidata": "Q654909",
+      "credit": "guest",
+      "billing": 8
+    },
+    "shanna-collins": {
+      "name": "Shanna Collins",
+      "tmdb": 59217,
+      "imdb": "nm1821051",
+      "wikidata": "Q511757",
+      "credit": "guest",
+      "billing": 9
+    },
+    "chastity-dotson": {
+      "name": "Chastity Dotson",
+      "tmdb": 202950,
+      "imdb": "nm0234554",
+      "wikidata": "Q18246086",
+      "credit": "guest",
+      "billing": 10
+    },
+    "grant-harvey": {
+      "name": "Grant Harvey",
+      "tmdb": 1058027,
+      "imdb": "nm2908492",
+      "wikidata": "Q16196488",
+      "credit": "guest",
+      "billing": 11
+    },
+    "reva-rose": {
+      "name": "Reva Rose",
+      "tmdb": 1374479,
+      "imdb": "nm0741629",
+      "wikidata": "Q7317713",
+      "credit": "guest",
+      "billing": 12
+    },
+    "mary-gillis": {
+      "name": "Mary Gillis",
+      "tmdb": 1580500,
+      "imdb": "nm0319304",
+      "credit": "guest",
+      "billing": 13
+    },
+    "chris-aquilino": {
+      "name": "Chris Aquilino",
+      "tmdb": 1450445,
+      "imdb": "nm6930800",
+      "wikidata": "Q140043132",
+      "credit": "guest",
+      "billing": 14
+    },
+    "david-l-king": {
+      "name": "David L. King",
+      "tmdb": 1350869,
+      "imdb": "nm0454634",
+      "wikidata": "Q22575743",
+      "credit": "guest",
+      "billing": 15
+    },
+    "dallas-liu": {
+      "name": "Dallas Liu",
+      "tmdb": 1792920,
+      "imdb": "nm4020501",
+      "wikidata": "Q108079955",
+      "credit": "guest",
+      "billing": 16
+    },
+    "joe-j-thomas": {
+      "name": "Joe J. Thomas",
+      "tmdb": 1494094,
+      "imdb": "nm1741007",
+      "credit": "guest",
+      "billing": 17
+    },
+    "shalita-grant": {
+      "name": "Shalita Grant",
+      "tmdb": 1493225,
+      "imdb": "nm3659314",
+      "wikidata": "Q21651763",
+      "credit": "guest",
+      "billing": 18
+    }
+  },
   "segments": [
     {
       "from": "00:04:53.565",

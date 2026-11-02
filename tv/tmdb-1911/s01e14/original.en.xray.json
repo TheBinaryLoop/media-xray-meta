@@ -21,5 +21,20 @@
       "to": "00:34:02.691",
       "fingerprint": "AQAAjJKUMPyE-8IThziPqP6QnF0CcxeuHK9QqzUaLmygn0HzqCjNFWwywU6IZ9IxybmC5j10Dn9Q9vBhHl7nHKFIC7qGK8sH_UduRfg8ND-6xcdpaQgfRxGS70P_45NFtEkd-D3-iEX5YJcQ5swhxRs1hMnRRerx4DvC_OhlXCmk77huopQOo5NKPBd-iFukSfjRNTqaa8ePKzl05kR_NKEPsuGLmyUi8UFTy7jw8cB3pNWhVyuONM_xEg1zoXiCijzSBxch-ke-46KP7Rz64AeTMMQT5XCEbzncNGKCf7glMBny5dBzNNUj5Cn8RNnRTMqOc8bxy0YziSla6cfJo1YW1DiZItd0PITqtPjQM-BX3IckoiRfRC_68DjcKcHlC-fh7Qh_aCeResrR6-gDR4xCouOFSWwAQARlAACKrAIKAQGAw0xZpIRBAADgDFAICUQEMQYAABgBigAFmDDGAAQEYsYIpAhwWgAFjDAQAGYMUEA5Z4BQiiBEjDEAKCJEAcIAwAgjhniAlELAEEAIIUBQAYgiAghRkAGGICEEEQQ"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "t-j-thyne": "Jack Hodgins",
+    "jonathan-adams": "Daniel Goodman",
+    "eric-millegan": "Zack Addy",
+    "christina-chambers": "Karen Anderson",
+    "dana-cuomo": "Female Tech",
+    "shashawnee-hall": "Ian Dyson",
+    "michael-e-rodgers": "Jesse Kane",
+    "michael-bowen": "Ray Sparks",
+    "marc-raducci": "Eddie",
+    "roderick-mccarthy": "Security Guard"
+  }
 }

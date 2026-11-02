@@ -23,6 +23,102 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "ryan-o-neal": {
+      "name": "Ryan O'Neal",
+      "tmdb": 31070,
+      "imdb": "nm0641939",
+      "wikidata": "Q272923",
+      "credit": "guest",
+      "billing": 6
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 7
+    },
+    "h-richard-greene": {
+      "name": "H. Richard Greene",
+      "tmdb": 157426,
+      "imdb": "nm0338768",
+      "wikidata": "Q23047369",
+      "credit": "guest",
+      "billing": 8
+    },
+    "dave-allen-clark": {
+      "name": "Dave Allen Clark",
+      "tmdb": 1748206,
+      "imdb": "nm0163834",
+      "credit": "guest",
+      "billing": 9
+    },
+    "christopher-baskerville": {
+      "name": "Christopher Baskerville",
+      "tmdb": 2047167,
+      "imdb": "nm3169780",
+      "credit": "guest",
+      "billing": 10
+    },
+    "deirdre-lovejoy": {
+      "name": "Deirdre Lovejoy",
+      "tmdb": 58966,
+      "imdb": "nm0522479",
+      "wikidata": "Q512105",
+      "credit": "guest",
+      "billing": 11
+    }
+  },
   "segments": [
     {
       "from": "00:05:48.996",

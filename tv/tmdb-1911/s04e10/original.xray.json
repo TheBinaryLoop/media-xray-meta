@@ -23,6 +23,189 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "ryan-o-neal": {
+      "name": "Ryan O'Neal",
+      "tmdb": 31070,
+      "imdb": "nm0641939",
+      "wikidata": "Q272923",
+      "credit": "guest",
+      "billing": 6
+    },
+    "patricia-belcher": {
+      "name": "Patricia Belcher",
+      "tmdb": 56358,
+      "imdb": "nm0006970",
+      "wikidata": "Q433355",
+      "credit": "guest",
+      "billing": 7
+    },
+    "peggy-miley": {
+      "name": "Peggy Miley",
+      "tmdb": 31716,
+      "imdb": "nm0587323",
+      "wikidata": "Q17166314",
+      "credit": "guest",
+      "billing": 8
+    },
+    "amy-farrington": {
+      "name": "Amy Farrington",
+      "tmdb": 155689,
+      "imdb": "nm0268424",
+      "wikidata": "Q4749179",
+      "credit": "guest",
+      "billing": 9
+    },
+    "william-r-moses": {
+      "name": "William R. Moses",
+      "tmdb": 68527,
+      "imdb": "nm0608632",
+      "wikidata": "Q1377988",
+      "credit": "guest",
+      "billing": 10
+    },
+    "dyllan-christopher": {
+      "name": "Dyllan Christopher",
+      "tmdb": 167689,
+      "imdb": "nm0160553",
+      "wikidata": "Q1268807",
+      "credit": "guest",
+      "billing": 11
+    },
+    "keith-diamond": {
+      "name": "Keith Diamond",
+      "tmdb": 154629,
+      "imdb": "nm0224659",
+      "wikidata": "Q5036213",
+      "credit": "guest",
+      "billing": 12
+    },
+    "judson-mills": {
+      "name": "Judson Mills",
+      "tmdb": 22113,
+      "imdb": "nm0005235",
+      "wikidata": "Q1573028",
+      "credit": "guest",
+      "billing": 13
+    },
+    "lydia-look": {
+      "name": "Lydia Look",
+      "tmdb": 1217870,
+      "imdb": "nm0519642",
+      "wikidata": "Q22260821",
+      "credit": "guest",
+      "billing": 14
+    },
+    "charles-parnell": {
+      "name": "Charles Parnell",
+      "tmdb": 124112,
+      "imdb": "nm0663174",
+      "wikidata": "Q5081506",
+      "credit": "guest",
+      "billing": 15
+    },
+    "dona-hardy": {
+      "name": "Dona Hardy",
+      "tmdb": 54705,
+      "imdb": "nm0362620",
+      "wikidata": "Q5293794",
+      "credit": "guest",
+      "billing": 16
+    },
+    "fawn-irish": {
+      "name": "Fawn Irish",
+      "tmdb": 1580200,
+      "imdb": "nm1073059",
+      "credit": "guest",
+      "billing": 17
+    },
+    "donald-elson": {
+      "name": "Donald Elson",
+      "tmdb": 16172,
+      "imdb": "nm0255703",
+      "wikidata": "Q131338663",
+      "credit": "guest",
+      "billing": 18
+    },
+    "charles-champion": {
+      "name": "Charles Champion",
+      "tmdb": 23850,
+      "imdb": "nm2244890",
+      "credit": "guest",
+      "billing": 19
+    },
+    "eli-jane": {
+      "name": "Eli Jane",
+      "tmdb": 928116,
+      "imdb": "nm2897828",
+      "credit": "guest",
+      "billing": 20
+    },
+    "nichole-hiltz": {
+      "name": "Nichole Hiltz",
+      "tmdb": 59090,
+      "imdb": "nm0385346",
+      "wikidata": "Q3339690",
+      "credit": "guest",
+      "billing": 21
+    },
+    "ty-panitz": {
+      "name": "Ty Panitz",
+      "tmdb": 25144,
+      "imdb": "nm1892830",
+      "wikidata": "Q469072",
+      "credit": "guest",
+      "billing": 22
+    }
+  },
   "segments": [
     {
       "from": "00:06:58.319",
