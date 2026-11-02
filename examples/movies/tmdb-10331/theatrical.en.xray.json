@@ -1,0 +1,37 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "en",
+  "anchors": [
+    {
+      "kind": "subtitle",
+      "from": "00:04:52.300",
+      "to": "00:04:54.900",
+      "text": "They're coming to get you, Barbra."
+    },
+    {
+      "kind": "chromaprint",
+      "from": "01:21:40.000",
+      "to": "01:21:50.000",
+      "fingerprint": "AQAAT0mUaEkSRZEGAA"
+    }
+  ],
+  "scenes": {
+    "cemetery": "The cemetery",
+    "farmhouse": "Barbra reaches the farmhouse"
+  },
+  "characters": {
+    "barbra": "Barbra",
+    "ben": "Ben"
+  },
+  "trivia": [
+    {
+      "from": "00:01:20.000",
+      "to": "00:01:40.000",
+      "text": "The distributor retitled the film from \"Night of the Flesh Eaters\" and removed the copyright notice from the title frames along with the old name. US law at the time required a notice, so the film entered the public domain on release.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Night_of_the_Living_Dead#Copyright_status_and_home_media"
+      ]
+    }
+  ]
+}

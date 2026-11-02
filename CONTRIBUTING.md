@@ -1,6 +1,7 @@
 # Contributing
 
 Thank you for helping. Every contribution is a pull request that adds or edits `*.xray.json` files.
+Each item is a timeline file plus one file per language.
 The format is described in [docs/format.md](docs/format.md).
 
 ## Licence: read this first
@@ -22,15 +23,19 @@ retitled" is a fact anyone may state. Copying the sentence in which a website st
 trivia in your own words and link where you learned it. Wikipedia is a good source to cite, but its
 text is CC BY-SA and must not be pasted in.
 
-## Making a file
+## Making an item
 
 1. Decide which **release** you are timing: the cut, and the copy you are watching. Every time you
    write is a position in that copy. Describe it in `reference.release`.
-2. Put the file at the path for its TMDB id and edition (see [docs/format.md](docs/format.md#where-a-file-lives)).
-3. Add at least two **anchors**, one near the start and one near the end. A subtitle line with its
-   on-screen times is the easiest kind to add by hand.
-4. Add whatever you know: scenes, segments, appearances, music, trivia. A file with only an intro
-   segment and two anchors is already useful.
+2. Create the timeline file, `<edition>.xray.json`, in the directory for its TMDB id (see
+   [docs/format.md](docs/format.md#files)): ids, the reference, and whatever you know of segments,
+   scenes (with ids), people and appearances.
+3. Create a language file, `<edition>.<language>.xray.json`, for each language you write in or take
+   audio from: at least two **anchors** in some language, one near the start and one near the end (a
+   subtitle line with its on-screen times is the easiest kind to add by hand), and any scene titles,
+   character names and trivia in that language.
+4. A small item is already useful: an intro segment and two anchors is enough to skip the intro.
+   Translating an existing item means adding one language file and touching nothing else.
 5. Run the checks:
 
    ```sh

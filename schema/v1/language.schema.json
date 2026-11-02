@@ -1,0 +1,154 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "title": "media-xray v1: language",
+  "description": "Everything about one item that depends on a language: the anchors taken from that language's audio and subtitles, and the text a viewer reads. Lives beside the timeline file as <edition>.<language>.xray.json.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "language"
+  ],
+  "properties": {
+    "$schema": {
+      "description": "Optional editor hint pointing at this schema. Ignored by consumers.",
+      "type": "string"
+    },
+    "schemaVersion": {
+      "const": 1
+    },
+    "language": {
+      "description": "The language of everything in this file. Also the second part of the file name.",
+      "$ref": "xray.schema.json#/$defs/language"
+    },
+    "anchors": {
+      "description": "Recognisable moments in this language's audio or subtitles that map the timeline onto a copy.",
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/anchor"
+      }
+    },
+    "scenes": {
+      "description": "Scene titles, keyed by the scene ids of the timeline file.",
+      "type": "object",
+      "propertyNames": {
+        "$ref": "xray.schema.json#/$defs/slug"
+      },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "characters": {
+      "description": "Character names as credited in this language, keyed by the people keys of the timeline file.",
+      "type": "object",
+      "propertyNames": {
+        "$ref": "xray.schema.json#/$defs/slug"
+      },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "trivia": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/trivium"
+      }
+    }
+  },
+  "$defs": {
+    "anchor": {
+      "oneOf": [
+        {
+          "description": "A line of dialogue as it appears in this language's subtitles, timed to the reference.",
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "from",
+            "to",
+            "text"
+          ],
+          "properties": {
+            "kind": {
+              "const": "subtitle"
+            },
+            "from": {
+              "$ref": "xray.schema.json#/$defs/time"
+            },
+            "to": {
+              "$ref": "xray.schema.json#/$defs/time"
+            },
+            "text": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 200
+            }
+          }
+        },
+        {
+          "description": "A Chromaprint fingerprint of this language's audio track between from and to, as fpcalc prints it by default: compressed and base64url, with the algorithm encoded inside. Dialogue is part of the fingerprint, so it only matches a track in the same language.",
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "kind",
+            "from",
+            "to",
+            "fingerprint"
+          ],
+          "properties": {
+            "kind": {
+              "const": "chromaprint"
+            },
+            "from": {
+              "$ref": "xray.schema.json#/$defs/time"
+            },
+            "to": {
+              "$ref": "xray.schema.json#/$defs/time"
+            },
+            "fingerprint": {
+              "type": "string",
+              "pattern": "^[A-Za-z0-9_-]+$"
+            }
+          }
+        }
+      ]
+    },
+    "trivium": {
+      "description": "A fact about the moment, written in this language in the contributor's own words, with a source.",
+      "type": "object",
+      "allOf": [
+        {
+          "$ref": "xray.schema.json#/$defs/span"
+        },
+        {
+          "$ref": "xray.schema.json#/$defs/provenance"
+        }
+      ],
+      "required": [
+        "text",
+        "sources"
+      ],
+      "unevaluatedProperties": false,
+      "properties": {
+        "text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https?://"
+          }
+        },
+        "spoiler": {
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}

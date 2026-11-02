@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "de",
+  "scenes": {
+    "cemetery": "Der Friedhof"
+  }
+}

@@ -17,33 +17,15 @@
     "frameRate": "24000/1001",
     "release": "Illustrative only: the times in this example were not taken from a real release"
   },
-  "anchors": [
-    {
-      "kind": "subtitle",
-      "from": "00:04:52.300",
-      "to": "00:04:54.900",
-      "language": "en",
-      "text": "They're coming to get you, Barbra."
-    },
-    {
-      "kind": "chromaprint",
-      "from": "01:21:40.000",
-      "to": "01:21:50.000",
-      "algorithm": 2,
-      "fingerprint": "AQAAT0mUaEkSRZEGAA"
-    }
-  ],
   "people": {
     "barbra": {
       "name": "Judith O'Dea",
-      "character": "Barbra",
       "tmdb": 97913,
       "imdb": "nm0640621",
       "wikidata": "Q271297"
     },
     "ben": {
       "name": "Duane Jones",
-      "character": "Ben",
       "tmdb": 97912,
       "imdb": "nm0427977",
       "wikidata": "Q941415"
@@ -74,19 +56,14 @@
   ],
   "scenes": [
     {
+      "id": "cemetery",
       "from": "00:00:00.000",
-      "to": "00:08:41.500",
-      "title": {
-        "en": "The cemetery",
-        "de": "Der Friedhof"
-      }
+      "to": "00:08:41.500"
     },
     {
+      "id": "farmhouse",
       "from": "00:08:41.500",
-      "to": "00:16:30.250",
-      "title": {
-        "en": "Barbra reaches the farmhouse"
-      }
+      "to": "00:16:30.250"
     }
   ],
   "segments": [
@@ -94,18 +71,6 @@
       "from": "01:34:20.000",
       "to": "01:36:12.000",
       "type": "outro"
-    }
-  ],
-  "trivia": [
-    {
-      "from": "00:01:20.000",
-      "to": "00:01:40.000",
-      "text": {
-        "en": "The distributor retitled the film from \"Night of the Flesh Eaters\" and removed the copyright notice from the title frames along with the old name. US law at the time required a notice, so the film entered the public domain on release."
-      },
-      "sources": [
-        "https://en.wikipedia.org/wiki/Night_of_the_Living_Dead#Copyright_status_and_home_media"
-      ]
     }
   ]
 }
