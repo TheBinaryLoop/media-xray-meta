@@ -4,8 +4,21 @@ Open, time-coded scene metadata for films and TV episodes, the kind of data behi
 X-Ray: who is on screen right now, what song is playing, what this scene is called, where the intro
 ends, and trivia tied to the moment you paused on.
 
-Everything here is plain JSON checked against a published JSON Schema, kept in git, and dedicated to
-the public domain under [CC0 1.0](LICENSE). Any player, media server or tool may use it.
+Everything here is plain JSON checked against published JSON Schemas, kept in git, and dedicated to
+the public domain under [CC0 1.0](LICENSE). Any player, media server or tool may use it. Text for
+viewers is kept per language, so the data works the same for a German viewer as for an English one.
+
+## What is in it
+
+| Title | Items | Segments | Anchors |
+|---|---|---|---|
+| *Bones* (2005), all 12 seasons | 246 episodes | 234 intros, 244 credits | English (245 episodes) and German (all 246) |
+| *Deadpool* (2016) | theatrical cut | credits, ending before the post-credits scene | English and German |
+
+All of it is machine-generated and verified as described in
+[tools/generate/README.md](tools/generate/README.md), so every segment says
+`"reviewed": false` until a person has checked it. Who is on screen, scene names, music and trivia are
+not filled in yet; the format has room for them.
 
 ## Layout
 
@@ -18,6 +31,7 @@ movies/tmdb-<id>/<edition>.<language>.xray.json   one per language: anchors, sce
 tv/tmdb-<series id>/s<NN>e<NN>/...                the same for an episode
 examples/                        sample files; their timings are illustrative, not real data
 tools/validate.py                schema and consistency checks, also run in CI
+tools/generate/                  the scripts that produced the generated data, and how they work
 ```
 
 ## An item in brief
@@ -54,8 +68,8 @@ tools/validate.py                schema and consistency checks, also run in CI
 Times refer to one specific release, named in `reference`. Your copy will usually differ from it by
 a few seconds, or run 4% fast if it is a PAL release. The **anchors** let a consumer work out the
 exact mapping for its own file, from whichever audio or subtitle language it has: anchors are kept
-per language because a dub does not sound like the original. Read [docs/format.md](docs/format.md) before consuming or producing
-data.
+per language because a dub does not sound like the original. Read [docs/format.md](docs/format.md)
+before consuming or producing data.
 
 People, music and titles are stored as **ids** (TMDB, IMDb, Wikidata, MusicBrainz), not copied
 names, photos and biographies. Consumers look those up, so this repository stays free of other
@@ -79,5 +93,5 @@ own words, a source for every trivia item, and `python tools/validate.py` must p
 
 ## Licence
 
-The data, schema and tools are dedicated to the public domain under
+The data, schemas and tools are dedicated to the public domain under
 [CC0 1.0 Universal](LICENSE). By contributing you dedicate your contribution under the same terms.

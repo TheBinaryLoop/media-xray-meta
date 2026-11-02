@@ -1,10 +1,10 @@
 ## What this adds or changes
 
-<!-- Title(s), edition, and which sections: anchors, scenes, segments, appearances, music, trivia. -->
+<!-- Title(s), edition, languages, and which sections: anchors, scenes, segments, appearances, music, trivia. -->
 
 ## Release the times were taken from
 
-<!-- e.g. 2017 Criterion Blu-ray, 1080p. Same as reference.release in the file. -->
+<!-- e.g. 2017 Criterion Blu-ray, 1080p. Same as reference.release in the timeline file. -->
 
 ## Checklist
 
