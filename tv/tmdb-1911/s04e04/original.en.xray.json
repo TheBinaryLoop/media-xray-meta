@@ -40,5 +40,27 @@
     "cesar-millan": "Cesar Millan",
     "david-greenman": "Marcus Geier",
     "ty-panitz": "Parker Booth"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Cesar Millan makes a guest appearance. The episode was also nominated for a Genesis Award.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Its production code (3AKY17) marks it as one of the six episodes made during season 3's production that were held over to season 4 after the writers' strike reshuffled the schedule.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3",
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

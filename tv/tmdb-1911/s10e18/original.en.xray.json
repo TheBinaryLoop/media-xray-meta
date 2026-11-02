@@ -40,5 +40,16 @@
     "christian-telesmar": "Agent Keene",
     "ignacio-serricchio": "Rodolfo Fuentes",
     "sunnie-pelant": "Christine Booth"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Guest star Linda Lavin plays the judge whom the team asks to halt the execution of the man convicted in \"The Baker in the Bits\".",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

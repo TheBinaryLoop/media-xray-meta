@@ -176,5 +176,43 @@
       "confidence": 1.0,
       "reviewed": false
     }
+  ],
+  "music": [
+    {
+      "from": "00:05:50.870",
+      "to": "00:06:19.370",
+      "recording": {
+        "title": "Bones Theme",
+        "artist": "The Crystal Method",
+        "musicbrainz": "dedde453-8fb9-46bc-941c-5dde411b7e64"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.84,
+      "reviewed": false
+    },
+    {
+      "from": "00:24:46.720",
+      "to": "00:25:01.450",
+      "recording": {
+        "title": "Free Los Angeles",
+        "artist": "Baby",
+        "musicbrainz": "4520c595-3f05-463f-8f8d-563eee9e9267"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.77,
+      "reviewed": false
+    },
+    {
+      "from": "00:41:20.560",
+      "to": "00:41:39.680",
+      "recording": {
+        "title": "Precious",
+        "artist": "Depeche Mode",
+        "musicbrainz": "9020dde5-9e04-405f-8ad2-65b5a126bb68"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.56,
+      "reviewed": false
+    }
   ]
 }

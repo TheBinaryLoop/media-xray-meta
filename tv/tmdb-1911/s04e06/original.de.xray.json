@@ -60,5 +60,17 @@
       "name": "Robin Kahnmeyer",
       "wikidata": "Q2159820"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Der Produktionscode (3AKY18) weist sie als eine der sechs Folgen aus, die noch für die dritte Staffel gedreht wurden, wegen der streikbedingten Umplanung aber erst in Staffel 4 liefen.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3",
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

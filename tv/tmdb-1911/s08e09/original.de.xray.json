@@ -60,5 +60,17 @@
       "name": "Schaukje Könning",
       "wikidata": "Q2231998"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Der Produktionscode (7AKY17) weist sie als eine der vier zusätzlich bestellten Folgen aus, die während der siebten Staffel gedreht, aber erst in Staffel 8 gesendet wurden.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_7",
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

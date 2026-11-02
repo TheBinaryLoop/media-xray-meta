@@ -60,5 +60,27 @@
       "name": "Tobias Nath",
       "wikidata": "Q97504"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Nach einem Armbruch beim Eishockey diagnostiziert Brennan bei Praktikant Wendell Bray das Ewing-Sarkom, eine seltene Form von Knochenkrebs.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Recurring_cast"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Regie führte David Boreanaz.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -226,5 +226,43 @@
       "confidence": 1.0,
       "reviewed": false
     }
+  ],
+  "music": [
+    {
+      "from": "00:06:07.140",
+      "to": "00:06:35.640",
+      "recording": {
+        "title": "Bones Theme",
+        "artist": "The Crystal Method",
+        "musicbrainz": "dedde453-8fb9-46bc-941c-5dde411b7e64"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.81,
+      "reviewed": false
+    },
+    {
+      "from": "00:16:26.830",
+      "to": "00:16:34.670",
+      "recording": {
+        "title": "The City Streets",
+        "artist": "Positive Flow",
+        "musicbrainz": "d0c03d11-2742-46d5-9cbc-0d631b00dd65"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.74,
+      "reviewed": false
+    },
+    {
+      "from": "00:40:14.550",
+      "to": "00:40:22.380",
+      "recording": {
+        "title": "Cold Hands (Warm Heart)",
+        "artist": "Brendan Benson",
+        "musicbrainz": "8ce15b49-713c-44dd-837a-9db3fe7794bc"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.56,
+      "reviewed": false
+    }
   ]
 }

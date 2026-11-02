@@ -153,5 +153,43 @@
       "confidence": 1.0,
       "reviewed": false
     }
+  ],
+  "music": [
+    {
+      "from": "00:08:35.210",
+      "to": "00:09:03.700",
+      "recording": {
+        "title": "Bones Theme",
+        "artist": "The Crystal Method",
+        "musicbrainz": "dedde453-8fb9-46bc-941c-5dde411b7e64"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.88,
+      "reviewed": false
+    },
+    {
+      "from": "00:20:48.180",
+      "to": "00:21:37.570",
+      "recording": {
+        "title": "See the Sun",
+        "artist": "Pete Murray",
+        "musicbrainz": "f99c019e-82f5-400a-97a7-61cb24d1185b"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.86,
+      "reviewed": false
+    },
+    {
+      "from": "00:28:54.530",
+      "to": "00:29:45.940",
+      "recording": {
+        "title": "The Dumbing Down of Love",
+        "artist": "Frou Frou",
+        "musicbrainz": "6dd877d4-dad3-458e-a401-ddc7b38e2f6c"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.82,
+      "reviewed": false
+    }
   ]
 }

@@ -60,5 +60,25 @@
       "name": "Gerrit Schmidt-Foß",
       "wikidata": "Q1514801"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Gedreht wurde in einem stillgelegten Frauengefängnis. Produziert wurde die Folge als vierte, gesendet aber als siebte.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/A_Man_on_Death_Row#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Hier tritt erstmals der Serienmörder Howard Epps (Heath Freeman) auf, der in der zweiten Staffel noch zweimal zurückkehrt.",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Besetzung_und_Synchronisation"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

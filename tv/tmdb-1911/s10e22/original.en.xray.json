@@ -39,5 +39,16 @@
     "derek-mio": "Owen Ellickson",
     "tug-coker": "Kevin Dunlop",
     "pej-vahdat": "Arastoo Vaziri"
-  }
+  },
+  "trivia": [
+    {
+      "text": "The season finale was written to work as a possible series finale, because the writers did not yet know whether Bones would be renewed.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -60,5 +60,17 @@
       "name": "Rainer Fritzsche",
       "wikidata": "Q1362641"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Das Drehbuch schrieb Kathy Reichs, deren Leben und Romane die Serie inspiriert haben.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_5#Episodes",
+        "https://en.wikipedia.org/wiki/Kathy_Reichs#Television"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

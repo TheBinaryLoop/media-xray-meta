@@ -86,5 +86,17 @@
       "name": "Marius Clarén",
       "wikidata": "Q1899418"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Die 200. Folge, geschrieben von Stephen Nathan und inszeniert von David Boreanaz, ist eine Hommage an Alfred Hitchcock: Das Team findet sich im Hollywood der 1950er wieder, Brennan als Polizistin beim LAPD, Booth als Juwelendieb.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

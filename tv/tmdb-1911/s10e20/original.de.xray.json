@@ -60,5 +60,17 @@
       "name": "Annina Braunmiller",
       "wikidata": "Q567180"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Das Drehbuch schrieb Kathy Reichs zusammen mit ihrer Tochter Kerry Reichs.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes",
+        "https://en.wikipedia.org/wiki/Kathy_Reichs#Television"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

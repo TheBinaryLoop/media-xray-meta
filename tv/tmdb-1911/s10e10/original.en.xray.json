@@ -28,5 +28,17 @@
     "ignacio-serricchio": "Rodolfo Fuentes",
     "sunnie-pelant": "Christine Booth",
     "pej-vahdat": "Arastoo Vaziri"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Stephen Nathan wrote and David Boreanaz directed the 200th episode, a tribute to Alfred Hitchcock that recasts the team in 1950s Hollywood, with Brennan as an LAPD detective and Booth as a jewel thief.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -172,5 +172,43 @@
       "confidence": 1.0,
       "reviewed": false
     }
+  ],
+  "music": [
+    {
+      "from": "00:04:13.860",
+      "to": "00:04:42.240",
+      "recording": {
+        "title": "Bones Theme",
+        "artist": "The Crystal Method",
+        "musicbrainz": "dedde453-8fb9-46bc-941c-5dde411b7e64"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.83,
+      "reviewed": false
+    },
+    {
+      "from": "00:35:59.020",
+      "to": "00:37:10.860",
+      "recording": {
+        "title": "Some of Us",
+        "artist": "Starsailor",
+        "musicbrainz": "d553f250-0d3e-435b-bcea-e776b9613b5a"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.85,
+      "reviewed": false
+    },
+    {
+      "from": "00:41:42.650",
+      "to": "00:41:57.250",
+      "recording": {
+        "title": "Some of Us",
+        "artist": "Starsailor",
+        "musicbrainz": "d553f250-0d3e-435b-bcea-e776b9613b5a"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.84,
+      "reviewed": false
+    }
   ]
 }

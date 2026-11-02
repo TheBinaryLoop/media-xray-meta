@@ -60,5 +60,17 @@
       "name": "Robin Kahnmeyer",
       "wikidata": "Q2159820"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Die Folge macht Werbung für „Avatar“: Praktikant Fisher steht für die Premiere an. Die Idee kam von Avatar-Produzent Jon Landau, und Fisher-Darsteller Joel David Moore spielt selbst in „Avatar“ mit.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_5#Storyline",
+        "https://en.wikipedia.org/wiki/Bones_season_5#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

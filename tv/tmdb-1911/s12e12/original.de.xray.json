@@ -90,5 +90,17 @@
       "name": "Marius Clarén",
       "wikidata": "Q1899418"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Das Serienfinale inszenierte David Boreanaz. Am 15. Dezember 2016 fiel die letzte Klappe für Bones.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

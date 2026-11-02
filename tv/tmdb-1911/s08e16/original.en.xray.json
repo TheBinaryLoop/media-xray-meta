@@ -39,5 +39,16 @@
     "dejon-laquake": "Manny Manicone",
     "luke-kleintank": "Finn Abernathy",
     "tiffany-hines": "Michelle Welton"
-  }
+  },
+  "trivia": [
+    {
+      "text": "The episode was nominated for a 2014 Prism Award for Best Drama Episode – Substance Abuse, and John Francis Daley was nominated for his performance in it.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

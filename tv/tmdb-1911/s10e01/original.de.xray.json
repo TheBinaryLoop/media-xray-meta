@@ -80,5 +80,28 @@
       "name": "David Kunze",
       "wikidata": "Q47765524"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "In dieser Folge stirbt Lance Sweets – John Francis Daleys letzter Auftritt als Hauptdarsteller. Daley brauchte eine Pause für die Regie des Remakes „Vacation“, und Showrunner Stephen Nathan fand den Tod der Figur wirkungsvoller als einen bloßen Abschied.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_10#Main_cast"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "John Boyd ist erstmals als junger FBI-Agent James Aubrey zu sehen. Angekündigt war er für eine wiederkehrende Rolle, später wurde er fester Hauptdarsteller.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

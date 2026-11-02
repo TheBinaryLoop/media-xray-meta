@@ -60,5 +60,16 @@
       "name": "Dagmar Biener",
       "wikidata": "Q1157249"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Linda Lavin spielt als Gaststar die Richterin, die die Hinrichtung des in „Die Bestandteile des Bäckers“ verurteilten Mannes stoppen soll.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

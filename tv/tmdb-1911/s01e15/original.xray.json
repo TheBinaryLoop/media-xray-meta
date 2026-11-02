@@ -130,5 +130,31 @@
       "confidence": 1.0,
       "reviewed": false
     }
+  ],
+  "music": [
+    {
+      "from": "00:06:27.320",
+      "to": "00:06:55.820",
+      "recording": {
+        "title": "Bones Theme",
+        "artist": "The Crystal Method",
+        "musicbrainz": "dedde453-8fb9-46bc-941c-5dde411b7e64"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.81,
+      "reviewed": false
+    },
+    {
+      "from": "00:25:23.060",
+      "to": "00:25:28.880",
+      "recording": {
+        "title": "Hot Blooded",
+        "artist": "Foreigner",
+        "musicbrainz": "8b501049-f7d6-4bc0-84c3-37004e15f6db"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.53,
+      "reviewed": false
+    }
   ]
 }

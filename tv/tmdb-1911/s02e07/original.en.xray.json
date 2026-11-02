@@ -41,5 +41,16 @@
     "ariel-winter": "Liza",
     "madison-davenport": "Megan",
     "jenny-gregg-stewart": "Pageant Contestant"
-  }
+  },
+  "trivia": [
+    {
+      "text": "From this episode on, Tamara Taylor appears in the opening credits as a series regular.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_2#Main_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

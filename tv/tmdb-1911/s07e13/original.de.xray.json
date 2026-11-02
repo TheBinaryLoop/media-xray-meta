@@ -75,5 +75,17 @@
       "name": "Viktor Neumann",
       "wikidata": "Q2524349"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Regie führte David Boreanaz; mit dieser Folge endet die auf 13 Episoden verkürzte Staffel.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_7#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_7"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

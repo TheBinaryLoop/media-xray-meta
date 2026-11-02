@@ -65,5 +65,17 @@
       "name": "Tobias Nath",
       "wikidata": "Q97504"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Emily Deschanels Regiedebüt. Schon in der sechsten Staffel sollte sie Regie führen, doch Terminprobleme verhinderten das bis zu dieser Premiere der letzten Staffel.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

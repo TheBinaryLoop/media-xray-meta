@@ -60,5 +60,17 @@
       "name": "Tobias Nath",
       "wikidata": "Q97504"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Betty White ist erneut als Dr. Beth Mayer aus Staffel 11 zu sehen, und Schauspieler David Faustino taucht als er selbst unter den Verdächtigen auf.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_12#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

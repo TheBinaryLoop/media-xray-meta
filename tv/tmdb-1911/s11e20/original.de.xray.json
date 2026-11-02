@@ -65,5 +65,17 @@
       "name": "Tobias Nath",
       "wikidata": "Q97504"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Das Drehbuch schrieb Kathy Reichs gemeinsam mit ihrer Tochter Kerry.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Episodes",
+        "https://en.wikipedia.org/wiki/Kathy_Reichs#Television"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

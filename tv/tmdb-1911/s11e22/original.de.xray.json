@@ -70,5 +70,18 @@
       "name": "Tobias Nath",
       "wikidata": "Q97504"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Regie führte David Boreanaz. Das Staffelfinale bringt Eric Millegan als Zack Addy zurück, der sich als Brennans Entführer entpuppt.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Production"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

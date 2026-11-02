@@ -40,5 +40,16 @@
     "horacio-galaviz": "Man in Crowd",
     "dustyn-lotz": "Kevin (uncredited)",
     "ryan-cartwright": "Vincent Nigel-Murray"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Co-written by John Francis Daley, who plays Sweets, together with Jonathan Goldstein.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

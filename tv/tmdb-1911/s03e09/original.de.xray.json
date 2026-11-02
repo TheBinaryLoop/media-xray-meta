@@ -76,5 +76,25 @@
       "name": "Dennis Schmidt-Foß",
       "wikidata": "Q102945"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Ab dieser Folge steht John Francis Daley als Hauptdarsteller im Vorspann.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3#Main_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Dies war die letzte neue Folge vor der streikbedingten Pause; erst am 14. April 2008, über vier Monate später, ging es weiter.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

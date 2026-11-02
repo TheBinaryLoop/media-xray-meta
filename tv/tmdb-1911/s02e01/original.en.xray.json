@@ -39,5 +39,27 @@
     "jonell-kennedy": "Dr. Lawrence",
     "marlon-john": "Fireman",
     "jeremy-luke": "Eddie Bean"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Tamara Taylor debuts as Dr. Camille Saroyan, the lab's new head, replacing Jonathan Adams' Dr. Goodman, who is said to be on sabbatical from this episode on and never seen again. Taylor was billed as a guest for six episodes before joining the opening credits.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Titan_on_the_Tracks",
+        "https://en.wikipedia.org/wiki/Bones_season_2#Main_cast",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Main_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "The premiere was first pitched as a story about an assassin targeting FBI agents; studio executives pushed for something more dramatic, which led to the train wreck. Hanson added a stock-manipulation plot drawn from his work on the Canadian series \"Traders\".",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Titan_on_the_Tracks#Conception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

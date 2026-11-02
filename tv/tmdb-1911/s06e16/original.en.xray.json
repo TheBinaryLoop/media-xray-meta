@@ -33,5 +33,16 @@
     "benjamin-byron-davis": "Tariq Grazdani",
     "rafaella-biscayn-debest": "Captive Girl #1 (uncredited)",
     "ryan-m-lee": "Businessman (uncredited)"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Directed by David Boreanaz, his second episode as director that season.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

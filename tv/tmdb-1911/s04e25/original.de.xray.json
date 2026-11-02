@@ -65,5 +65,17 @@
       "name": "Hans-Jürgen Dittberner",
       "wikidata": "Q1577655"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Seth MacFarlane spricht Stewie Griffin aus „Family Guy“, der Booth als Halluzination erscheint; Stewies Dialoge für die Folge schrieb MacFarlane selbst.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes",
+        "https://en.wikipedia.org/wiki/Seth_MacFarlane#Guest_appearances"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

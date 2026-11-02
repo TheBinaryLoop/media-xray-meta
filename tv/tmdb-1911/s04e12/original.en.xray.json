@@ -46,5 +46,16 @@
     "david-dustin-kenyon": "Circus Roustabout (uncredited)",
     "mighty-mike-murga": "Strongman Clown (uncredited)",
     "ryan-cartwright": "Vincent Nigel-Murray"
-  }
+  },
+  "trivia": [
+    {
+      "text": "This is where the cover names \"Buck and Wanda Moosejaw\" originate; Booth and Brennan use them again in season 8's \"The Diamond in the Rough\".",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

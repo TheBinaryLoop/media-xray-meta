@@ -42,5 +42,17 @@
     "meg-millidge": "Barista",
     "sunnie-pelant": "Christine Booth",
     "brian-robinson": "Glen Fisher"
-  }
+  },
+  "trivia": [
+    {
+      "text": "As the series' 206th episode, it made Bones the longest-running one-hour drama ever produced by 20th Century Fox Television. To mark the number, the episode names all 206 bones of the human body.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

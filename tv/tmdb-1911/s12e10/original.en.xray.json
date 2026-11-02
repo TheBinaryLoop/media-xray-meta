@@ -41,5 +41,17 @@
     "matthew-jones": "Dwayne Hawkins",
     "morgan-lindholm": "Carly Catalano",
     "andrew-lutheran": "Prop Master"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Dr. Beth Mayer is back, again played by Betty White, and David Faustino plays himself as one of the suspects.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_12#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -41,5 +41,17 @@
     "scott-alan-smith": "Bruce Hanover",
     "seth-macfarlane": "Stewie Griffin (voice)",
     "steven-meek": "Dr. Les Granger"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Seth MacFarlane voices Stewie Griffin from \"Family Guy\", who appears to Booth as a hallucination; MacFarlane wrote Stewie's dialogue for the episode himself.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes",
+        "https://en.wikipedia.org/wiki/Seth_MacFarlane#Guest_appearances"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

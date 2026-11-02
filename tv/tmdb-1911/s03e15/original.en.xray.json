@@ -37,5 +37,18 @@
     "alain-uy": "Grad Student #2",
     "megan-paul": "Grad Student #3",
     "david-greenman": "Marcus Geier"
-  }
+  },
+  "trivia": [
+    {
+      "text": "The finale reveals Zack Addy as the apprentice of the cannibal serial killer Gormogon, ending Eric Millegan's run as a series regular. He later returns only as a guest.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Main_cast",
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Gormogon_(Laurence_Todd_Rosenthal)"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

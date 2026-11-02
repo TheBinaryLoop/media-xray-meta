@@ -41,5 +41,16 @@
     "chehon-wespi-tschopp": "Rocko",
     "harrison-white": "Janitor",
     "leslie-augustine": "Ballroom Dancer"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Booth and Brennan revive their undercover identities \"Buck and Wanda Moosejaw\", first used in season 4's \"Double Trouble in the Panhandle\".",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

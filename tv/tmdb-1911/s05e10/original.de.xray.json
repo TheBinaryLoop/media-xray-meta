@@ -70,5 +70,17 @@
       "name": "Anne Helm",
       "wikidata": "Q99906"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Emily Deschanels Schwester Zooey Deschanel spielt Brennans Cousine Margaret – das erste gemeinsame Auftreten der beiden Schwestern vor der Kamera. Die Folge spielt mehrfach darauf an, wie ähnlich sich die beiden sehen – Booth glaubt sogar, Brennans Schwester vor sich zu haben.",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Folge_94_(5x10)",
+        "https://en.wikipedia.org/wiki/Zooey_Deschanel#2003%E2%80%932010:_Breakthrough"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

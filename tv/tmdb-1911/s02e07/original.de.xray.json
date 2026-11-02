@@ -55,5 +55,16 @@
       "name": "David Turba",
       "wikidata": "Q111609"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Ab dieser Folge wird Tamara Taylor als feste Hauptdarstellerin im Vorspann geführt.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_2#Main_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

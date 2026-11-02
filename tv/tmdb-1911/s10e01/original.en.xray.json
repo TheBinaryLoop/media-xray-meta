@@ -47,5 +47,28 @@
     "rance-howard": "Jerold Norsky",
     "sam-anderson": "Hugo Sanderson",
     "sunnie-pelant": "Christine Booth"
-  }
+  },
+  "trivia": [
+    {
+      "text": "John Boyd debuts as junior FBI agent James Aubrey. He was announced in a recurring role but was later made a series regular.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Lance Sweets is killed in this episode, John Francis Daley's last as a regular. Daley needed time off to direct the \"Vacation\" remake, and showrunner Stephen Nathan felt a death would hit harder than simply writing the character out.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_10#Main_cast"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

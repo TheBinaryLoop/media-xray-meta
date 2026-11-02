@@ -39,5 +39,16 @@
     "lonnie-lardner": "Reporter on TV",
     "porscha-coleman": "Female Dancer #1",
     "angela-meryl": "Female Dancer #2"
-  }
+  },
+  "trivia": [
+    {
+      "text": "The case was inspired by a real one: disc jockey Eduardo Sanchez went missing and was later found mummified inside a wall of a nightclub in Winnipeg, Canada, as reported by the National Post in December 2003.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Man_in_the_Wall#Conception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

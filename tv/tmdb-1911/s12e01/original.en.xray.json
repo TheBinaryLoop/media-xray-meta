@@ -34,5 +34,17 @@
     "ravi-kapoor": "Dr. Mihir Roshan",
     "tim-guinee": "Dr. Brandon Faulk",
     "sara-rue": "Karen Delfs"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Emily Deschanel's directing debut. She had first been slated to direct in season 6, but scheduling got in the way until this final-season premiere.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

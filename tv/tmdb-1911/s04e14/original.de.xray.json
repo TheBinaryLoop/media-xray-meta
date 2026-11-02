@@ -65,5 +65,16 @@
       "name": "Katharina Koschny",
       "wikidata": "Q101686"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Die Folge brachte der Serie bei den 61. Primetime Emmy Awards eine Nominierung für das beste Szenenbild einer Single-Camera-Serie ein.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -41,5 +41,17 @@
     "brit-shaw": "Jeannine Kovac",
     "dave-roberts": "Dave Roberts",
     "gerardo-celasco": "Mark Kovac"
-  }
+  },
+  "trivia": [
+    {
+      "text": "The series finale was directed by David Boreanaz. Filming on Bones ended for good on December 15, 2016.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

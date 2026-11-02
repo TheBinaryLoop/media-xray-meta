@@ -60,5 +60,18 @@
       "name": "Tobias Nath",
       "wikidata": "Q97504"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Das Drehbuch schrieb Kathy Reichs gemeinsam mit ihrer Tochter Kerry Reichs. Der Produktionscode (8AKY21) weist die Folge als eine der zwei Episoden aus, die während Staffel 8 gedreht, aber erst in Staffel 9 gesendet wurden.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_9#Production",
+        "https://en.wikipedia.org/wiki/Kathy_Reichs#Television"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

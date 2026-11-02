@@ -35,5 +35,17 @@
     "chris-coy": "Graham Breslin",
     "adam-dunnells": "Imposing Man",
     "ignacio-serricchio": "Rodolfo Fuentes"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Introduces Ignacio Serricchio as Rodolfo Fuentes, a Cuban forensic anthropologist seeking asylum who joins the rotating interns.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

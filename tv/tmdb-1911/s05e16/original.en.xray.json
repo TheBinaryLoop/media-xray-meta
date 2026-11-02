@@ -37,5 +37,16 @@
     "paul-ganus": "Lawyer",
     "angela-elayne-gibbs": "Jocelyn Arrington",
     "laura-izibor": "Gemma Arrington (uncredited)"
-  }
+  },
+  "trivia": [
+    {
+      "text": "David Boreanaz directed the show's 100th episode, which revisits the very first case Booth and Brennan worked together and features Eric Millegan's return as Zack.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_5#Storyline"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -65,5 +65,17 @@
       "name": "Tobias Nath",
       "wikidata": "Q97504"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "NHL-Legende Luc Robitaille hat einen Gastauftritt. Weil Booth ausfällt, springt Marisa Coughlan als Agentin Payton Perotta vorübergehend für ihn ein.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Casting"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

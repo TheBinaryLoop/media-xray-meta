@@ -60,5 +60,27 @@
       "name": "Rainer Fritzsche",
       "wikidata": "Q1362641"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Der Produktionscode (3AKY19) weist sie als eine der sechs Folgen aus, die noch für die dritte Staffel gedreht wurden, wegen der streikbedingten Umplanung aber erst in Staffel 4 liefen.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3",
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Die zweiteilige Staffelpremiere wurde vor Ort in London und Oxford gedreht.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Filming",
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

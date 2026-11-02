@@ -40,5 +40,17 @@
     "alex-skuby": "Gavin Chadwick",
     "sandra-rosko": "Recovering Gambler",
     "sunnie-pelant": "Christine Booth"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Written by Kathy Reichs with her daughter Kerry Reichs.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes",
+        "https://en.wikipedia.org/wiki/Kathy_Reichs#Television"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

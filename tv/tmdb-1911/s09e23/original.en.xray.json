@@ -40,5 +40,17 @@
     "alix-elizabeth-gitter": "Jillian Rice",
     "stefanie-black": "Terry Blake",
     "puppett": "Madam's Apple Patron (uncredited)"
-  }
+  },
+  "trivia": [
+    {
+      "text": "First appearance of Laura Spencer as intern Jessica Warren.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Recurring_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

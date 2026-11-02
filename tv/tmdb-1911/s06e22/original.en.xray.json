@@ -36,5 +36,17 @@
     "bryan-rasmussen": "Dock Worker",
     "tina-majorino": "Special Agent Genevieve Shaw",
     "ryan-cartwright": "Vincent Nigel-Murray"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Intern Vincent Nigel-Murray (Ryan Cartwright) is shot dead by Broadsky. Hart Hanson explained that Cartwright had landed a regular role on \"Alphas\", and that the writers chose to kill off the audience's favourite intern for the heartbreak.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Production"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

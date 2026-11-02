@@ -65,5 +65,17 @@
       "name": "Dagmar Biener",
       "wikidata": "Q1157249"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Den Dokumentarfilmer Andrew Jursic spielt Dave Thomas, bekannt als Doug McKenzie aus „SCTV“, der zugleich zu den Drehbuchautoren der Serie gehörte.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes",
+        "https://en.wikipedia.org/wiki/Dave_Thomas_(actor)#Career"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

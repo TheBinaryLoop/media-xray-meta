@@ -65,5 +65,16 @@
       "name": "Dagmar Biener",
       "wikidata": "Q1157249"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Das Finale der neunten Staffel inszenierte David Boreanaz.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

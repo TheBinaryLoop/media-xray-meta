@@ -55,5 +55,26 @@
       "name": "David Turba",
       "wikidata": "Q111609"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Die Folge entstand vor „Der Mann im Jeep“, wurde aber danach gesendet. Hanson wollte damit die Privatschul-Absolventin Brennan dem an staatlichen Schulen und in der Army geprägten Booth gegenüberstellen.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/A_Boy_in_a_Tree#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Nachdem die ersten drei Folgen in der Zielgruppe ihren Dienstagsendeplatz gewonnen hatten, bestellte Fox eine komplette erste Staffel.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/A_Boy_in_a_Tree#Response",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#American_ratings"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

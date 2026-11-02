@@ -60,5 +60,17 @@
       "name": "Annina Braunmiller",
       "wikidata": "Q567180"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Laura Spencer hat ihren ersten Auftritt als Praktikantin Jessica Warren.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Recurring_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

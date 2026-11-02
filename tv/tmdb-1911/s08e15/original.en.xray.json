@@ -45,5 +45,17 @@
     "dean-wayne": "FBI Agent / Driver (uncredited)",
     "ali-louise-hartman": "Christine Booth",
     "susanne-allan-hartman": "Christine Angela Booth"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Written by Dave Thomas, the comedian and actor who worked on the show's writing staff and as a consulting producer.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes",
+        "https://en.wikipedia.org/wiki/Dave_Thomas_(actor)#Career"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

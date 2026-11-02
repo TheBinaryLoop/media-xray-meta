@@ -55,5 +55,18 @@
       "name": "Sven Hasper",
       "wikidata": "Q2371097"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Betty White spielt als Gaststar die forensische Anthropologin Dr. Beth Mayer, eine Mentorin Brennans. In Staffel 12 kehrt sie zurück.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_11#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Casting"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

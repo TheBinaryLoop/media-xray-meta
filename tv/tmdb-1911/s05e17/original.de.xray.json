@@ -60,5 +60,16 @@
       "name": "Tobias Nath",
       "wikidata": "Q97504"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Robert Englund spielt als Gaststar den Hausmeister Ray Buxley, Brennans einzigen Freund aus der Schulzeit.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_5#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

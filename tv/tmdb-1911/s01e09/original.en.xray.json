@@ -36,5 +36,16 @@
     "bob-bouchard": "Mr. Addy",
     "billy-gibbons": "Angela's Dad",
     "ty-panitz": "Parker Booth"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Written specifically for a December broadcast, this Christmas episode traps the team in the lab over the holiday and gave the writers room to explore Brennan's lost parents and her time in foster care.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Man_in_the_Fallout_Shelter#Conception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

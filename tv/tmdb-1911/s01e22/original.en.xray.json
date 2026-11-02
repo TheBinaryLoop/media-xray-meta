@@ -35,5 +35,25 @@
     "coby-ryan-mclaughlin": "David Simmons",
     "bob-rusch": "Carnival Owner",
     "loren-dean": "Russ Brennan"
-  }
+  },
+  "trivia": [
+    {
+      "text": "The episode won a Genesis Award for drawing attention to the issue of pig slaughter.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "The season finale introduces Brennan's brother Russ, played by Loren Dean.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Recurring_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

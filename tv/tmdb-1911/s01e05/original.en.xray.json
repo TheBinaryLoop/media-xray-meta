@@ -40,5 +40,16 @@
     "kirsten-severson": "Lab Worker",
     "ryan-churchill": "Student #2",
     "tiffany-o-hara": "Student"
-  }
+  },
+  "trivia": [
+    {
+      "text": "The writers used this case of a dead child to establish Brennan's past as a foster child and show her at her most vulnerable.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/A_Boy_in_a_Bush#Conception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

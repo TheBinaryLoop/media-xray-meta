@@ -137,5 +137,31 @@
       "confidence": 1.0,
       "reviewed": false
     }
+  ],
+  "music": [
+    {
+      "from": "00:04:44.380",
+      "to": "00:05:12.760",
+      "recording": {
+        "title": "Bones Theme",
+        "artist": "The Crystal Method",
+        "musicbrainz": "dedde453-8fb9-46bc-941c-5dde411b7e64"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.87,
+      "reviewed": false
+    },
+    {
+      "from": "00:41:13.440",
+      "to": "00:41:33.980",
+      "recording": {
+        "title": "Too Easy",
+        "artist": "OneRepublic",
+        "musicbrainz": "8f1dc35a-cbc0-49b6-a110-86bf4641ccb5"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.68,
+      "reviewed": false
+    }
   ]
 }

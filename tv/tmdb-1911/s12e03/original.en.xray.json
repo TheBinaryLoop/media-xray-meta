@@ -40,5 +40,16 @@
     "megan-suri": "Claire",
     "johnny-glasser": "Orderly #2 (uncredited)",
     "pej-vahdat": "Arastoo Vaziri"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Ed Asner and Hal Holbrook both appear as guest stars.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_12#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -40,5 +40,17 @@
     "michael-duisenberg": "Ray Kaminski (uncredited)",
     "zach-henry": "Charles Braverman (uncredited)",
     "chrissy-sackel": "ER Nurse (uncredited)"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Professor Bunsen Jude, \"The Science Dude\" (David Alan Grier), a children's TV science host, is modelled on Bill Nye \"the Science Guy\".",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_6#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

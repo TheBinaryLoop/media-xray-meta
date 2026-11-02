@@ -41,5 +41,18 @@
     "joel-flynn": "Justin Ross (Real Estate Agent) (uncredited)",
     "paige-ivy": "Lab Tech (uncredited)",
     "betty-white": "Dr. Beth Mayer"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Betty White guest-stars as forensic anthropologist Dr. Beth Mayer, a mentor of Brennan's. She returns in season 12.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_11#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Casting"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

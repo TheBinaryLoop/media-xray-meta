@@ -37,5 +37,16 @@
     "leslie-anne-panaligan": "Raina Erickson",
     "kip-gilman": "Warren Erickson",
     "candice-coke": "Dr. Nora Oldhouse"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Emily Deschanel was originally set to make her directing debut with this Valentine's Day wedding episode. It was postponed because the episode aired during February sweeps, when preparing to direct would have reduced Brennan's screen time.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

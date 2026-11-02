@@ -60,5 +60,17 @@
       "name": "Hubertus Bengsch",
       "wikidata": "Q96210"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Stephen Fry kehrt als Gordon Wyatt zurück, die Rolle, die er erstmals in der zweiten Staffel spielte.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

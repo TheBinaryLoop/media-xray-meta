@@ -44,5 +44,16 @@
     "sunnie-pelant": "Christine Booth",
     "pej-vahdat": "Arastoo Vaziri",
     "brit-shaw": "Jeannine Kovac"
-  }
+  },
+  "trivia": [
+    {
+      "text": "The penultimate episode is structured around point of view: every act is seen through the eyes of a different main character, six in all, covering Cam and Arastoo's wedding party and the day after.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

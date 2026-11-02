@@ -40,5 +40,18 @@
     "b-j-mitchell": "Ben",
     "nora-dunn": "Tess Brown",
     "wendy-worthington": "Waitress"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Written by Kathy Reichs together with her daughter Kerry Reichs. Its production code (8AKY21) marks it as one of the two episodes made during season 8 but aired in season 9.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_9#Production",
+        "https://en.wikipedia.org/wiki/Kathy_Reichs#Television"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

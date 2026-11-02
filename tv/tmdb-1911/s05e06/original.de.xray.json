@@ -60,5 +60,16 @@
       "name": "Tobias Nath",
       "wikidata": "Q97504"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Die Folge erhielt einen Genesis Award, weil sie auf die Zustände in der industriellen Hühnerhaltung aufmerksam machte.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

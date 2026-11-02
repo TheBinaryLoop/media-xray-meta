@@ -151,5 +151,31 @@
       "confidence": 1.0,
       "reviewed": false
     }
+  ],
+  "music": [
+    {
+      "from": "00:06:43.830",
+      "to": "00:07:13.870",
+      "recording": {
+        "title": "Bones Theme",
+        "artist": "The Crystal Method",
+        "musicbrainz": "dedde453-8fb9-46bc-941c-5dde411b7e64"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.81,
+      "reviewed": false
+    },
+    {
+      "from": "00:40:06.830",
+      "to": "00:41:19.500",
+      "recording": {
+        "title": "Every Ship Must Sail Away",
+        "artist": "Blue Merle",
+        "musicbrainz": "234cbf59-bcf0-4cd0-922f-d1e28064f28d"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.79,
+      "reviewed": false
+    }
   ]
 }

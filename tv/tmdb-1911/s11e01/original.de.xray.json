@@ -65,5 +65,26 @@
       "name": "Marius Clarén",
       "wikidata": "Q1899418"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Die Dreharbeiten zur elften Staffel begannen am 3. August 2015. Regie bei der Premiere führte Randy Zisk, der gerade leitender Regieproduzent der Serie geworden war.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_11#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Kim Raver spielt in den ersten beiden Folgen der Staffel die FBI-Agentin Grace Miller.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

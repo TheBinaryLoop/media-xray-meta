@@ -60,5 +60,17 @@
       "name": "Hannes Maurer",
       "wikidata": "Q1576049"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Die erste neue Folge nach der Pause wegen des Autorenstreiks lief am 14. April 2008 auf einem neuen Sendeplatz am Montag.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Broadcast_history"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

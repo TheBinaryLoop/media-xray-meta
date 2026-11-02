@@ -65,5 +65,16 @@
       "name": "Anne Helm",
       "wikidata": "Q99906"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Die Folge war 2014 für einen Prism Award als beste Drama-Episode zum Thema Sucht nominiert; auch John Francis Daley erhielt eine Nominierung für seine Darstellung.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

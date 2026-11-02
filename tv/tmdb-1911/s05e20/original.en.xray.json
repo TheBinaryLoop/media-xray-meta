@@ -41,5 +41,17 @@
     "wade-williams": "Sheriff Gus Abrams",
     "kristin-condon": "Wiccan (uncredited)",
     "florence-vinger": "Wiccan (uncredited)"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Written by Kathy Reichs, the author whose life and novels inspired the series.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_5#Episodes",
+        "https://en.wikipedia.org/wiki/Kathy_Reichs#Television"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -191,5 +191,43 @@
       "confidence": 1.0,
       "reviewed": false
     }
+  ],
+  "music": [
+    {
+      "from": "00:03:55.220",
+      "to": "00:04:23.720",
+      "recording": {
+        "title": "Bones Theme",
+        "artist": "The Crystal Method",
+        "musicbrainz": "dedde453-8fb9-46bc-941c-5dde411b7e64"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.82,
+      "reviewed": false
+    },
+    {
+      "from": "00:36:21.220",
+      "to": "00:38:32.670",
+      "recording": {
+        "title": "Bring On the Wonder",
+        "artist": "Susan Enan feat. Sarah McLachlan",
+        "musicbrainz": "a02c7ea4-fd11-4331-ba9a-eefa1a0d43bd"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.86,
+      "reviewed": false
+    },
+    {
+      "from": "00:41:14.030",
+      "to": "00:41:21.870",
+      "recording": {
+        "title": "Bring On the Wonder",
+        "artist": "Susan Enan feat. Sarah McLachlan",
+        "musicbrainz": "a02c7ea4-fd11-4331-ba9a-eefa1a0d43bd"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.62,
+      "reviewed": false
+    }
   ]
 }

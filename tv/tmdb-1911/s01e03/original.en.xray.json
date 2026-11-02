@@ -47,5 +47,26 @@
     "kavita-patil": "Theresa Petty",
     "heavy-d": "Sid Shapiro",
     "bryan-fox": "Guard"
-  }
+  },
+  "trivia": [
+    {
+      "text": "After the first three episodes topped the key demographics in their Tuesday slot, Fox ordered a full first season.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/A_Boy_in_a_Tree#Response",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#American_ratings"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "It was made ahead of the second-aired episode, \"The Man in the S.U.V.\". Hanson designed the story to set Brennan, schooled at elite private institutions, against Booth, who went through public school and the Army.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/A_Boy_in_a_Tree#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

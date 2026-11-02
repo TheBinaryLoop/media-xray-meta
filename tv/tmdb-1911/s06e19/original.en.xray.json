@@ -45,5 +45,28 @@
     "mila-fresh": "Tattoo Parlor Girl (uncredited)",
     "rey-hernandez": "Bar Biker (uncredited)",
     "gisselle-legere": "Bar Patron (uncredited)"
-  }
+  },
+  "trivia": [
+    {
+      "text": "A backdoor pilot for the spin-off \"The Finder\", created by Hart Hanson from Richard Greener's \"The Locator\" books. The episode takes Booth and Brennan to Key West, Florida, home base of the planned spin-off, and meet Walter Sherman (Geoff Stults), Leo Knox (Michael Clarke Duncan) and Ike Latulippe (Saffron Burrows).",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#The_Finder",
+        "https://en.wikipedia.org/wiki/Bones_season_6#Spin-off_series",
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Ableger_The_Finder"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Filming was planned for December 2010 but slipped to February 2011 over creative differences; Hanson joked on Twitter that the studio's notes asked for it to be \"better\". Fox picked up \"The Finder\" as a series in May 2011, but it was cancelled after 13 episodes.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#The_Finder",
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Ableger_The_Finder"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -56,5 +56,16 @@
       "name": "David Turba",
       "wikidata": "Q111609"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Vorbild war ein echter Fall: Der DJ Eduardo Sanchez verschwand und wurde später mumifiziert in einer Wand eines Nachtclubs im kanadischen Winnipeg gefunden, worüber die National Post im Dezember 2003 berichtete.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Man_in_the_Wall#Conception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

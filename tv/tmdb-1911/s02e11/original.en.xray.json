@@ -39,5 +39,17 @@
     "ryan-cutrona": "Robert Kirby",
     "bryan-cuprill": "Dan Burridge",
     "loren-dean": "Russ Brennan"
-  }
+  },
+  "trivia": [
+    {
+      "text": "This episode was directed by David Duchovny.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_2#Episodes",
+        "https://en.wikipedia.org/wiki/David_Duchovny#Career"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -100,5 +100,16 @@
       "name": "Marius Clarén",
       "wikidata": "Q1899418"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Die vorletzte Folge ist aus wechselnden Perspektiven erzählt: Jeder Akt begleitet eine der sechs Hauptfiguren durch Cams und Arastoos Hochzeitsfeier und den Tag danach.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

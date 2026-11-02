@@ -81,5 +81,16 @@
       "name": "Marius Clarén",
       "wikidata": "Q1899418"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Das Staffelfinale wurde so geschrieben, dass es auch als Serienfinale getaugt hätte, denn die Autoren wussten noch nicht, ob Bones verlängert würde.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

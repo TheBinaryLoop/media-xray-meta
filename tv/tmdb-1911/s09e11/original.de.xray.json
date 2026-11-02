@@ -60,5 +60,16 @@
       "name": "Marius Clarén",
       "wikidata": "Q1899418"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Die olympische Turnerin McKayla Maroney hat einen Gastauftritt.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

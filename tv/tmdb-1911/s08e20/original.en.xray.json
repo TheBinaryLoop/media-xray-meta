@@ -38,5 +38,17 @@
     "curtis-armstrong": "Oscar Schultz",
     "dave-thomas": "Andrew Jursic",
     "terry-walters": "Pat Richards"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Documentary maker Andrew Jursic is played by Dave Thomas, best known as Doug McKenzie of SCTV, who was also one of the show's writers.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes",
+        "https://en.wikipedia.org/wiki/Dave_Thomas_(actor)#Career"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

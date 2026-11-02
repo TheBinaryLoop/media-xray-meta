@@ -70,5 +70,17 @@
       "name": "Hans Werner Olm",
       "wikidata": "Q99340"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Das Drehbuch stammt von Dave Thomas, Komiker und Schauspieler, der zum Autorenteam der Serie gehörte und als beratender Produzent tätig war.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes",
+        "https://en.wikipedia.org/wiki/Dave_Thomas_(actor)#Career"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

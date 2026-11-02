@@ -39,5 +39,18 @@
     "kylie-contreary": "Melissa Goodman",
     "tim-guinee": "Dr. Brandon Faulk",
     "sunnie-pelant": "Christine Booth"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Directed by David Boreanaz. The season finale brings back Eric Millegan as Zack Addy, who is revealed as the figure who abducts Brennan.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Production"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

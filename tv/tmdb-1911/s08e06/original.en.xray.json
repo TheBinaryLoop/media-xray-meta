@@ -38,5 +38,17 @@
     "missy-bailey": "Lab Technician",
     "luke-kleintank": "Finn Abernathy",
     "pej-vahdat": "Arastoo Vaziri"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Its production code (7AKY14) marks it as one of the four extra episodes Fox ordered during season 7's production, which were held over to season 8.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_7",
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

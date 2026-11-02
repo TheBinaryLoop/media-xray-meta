@@ -65,5 +65,16 @@
       "name": "Marius Clarén",
       "wikidata": "Q1899418"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Zweite und letzte Folge mit Kim Raver als FBI-Agentin Grace Miller.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -37,5 +37,18 @@
     "sean-patrick-thomas": "Dr. John Cruz",
     "mike-faiola": "Joel Brown",
     "justin-miles": "Martin Alcott"
-  }
+  },
+  "trivia": [
+    {
+      "text": "First half of a crossover with Fox's \"Sleepy Hollow\": Tom Mison as Ichabod Crane and Nicole Beharie as Abbie Mills join the investigation. The story concludes in the \"Sleepy Hollow\" episode \"Dead Men Tell No Tales\", where Booth and Brennan appear; both parts aired on October 29, 2015.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_11#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Crossover_with_Sleepy_Hollow"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

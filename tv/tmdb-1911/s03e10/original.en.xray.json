@@ -42,5 +42,17 @@
     "burnadean-jones": "FBI Forensic Tech",
     "john-edward-lee": "Tripp Goddard",
     "christopher-may": "Park Ranger"
-  }
+  },
+  "trivia": [
+    {
+      "text": "First new episode after the writers' strike break, aired on April 14, 2008 in a new Monday slot.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Broadcast_history"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

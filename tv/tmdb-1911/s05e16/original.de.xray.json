@@ -65,5 +65,16 @@
       "name": "Evelyn Meyka",
       "wikidata": "Q1381776"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Die 100. Folge, inszeniert von David Boreanaz. Sie blendet zurück zum ersten gemeinsamen Fall von Booth und Brennan und bringt Eric Millegan als Zack zurück.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_5#Storyline"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

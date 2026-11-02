@@ -44,5 +44,16 @@
     "susan-angelo": "Susan Sprung",
     "sterling-macer-jr": "Victor Stark",
     "sunnie-pelant": "Christine Booth"
-  }
+  },
+  "trivia": [
+    {
+      "text": "The season 9 finale was directed by David Boreanaz.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

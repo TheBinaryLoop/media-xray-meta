@@ -43,5 +43,17 @@
     "joanna-cassidy": "Marianne Booth",
     "ali-louise-hartman": "Christine Booth",
     "susanne-allan-hartman": "Christine Angela Booth"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Joanna Cassidy guest-stars as Booth's mother, Marianne Booth.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_8#Recurring_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

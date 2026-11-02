@@ -40,5 +40,18 @@
     "gatsby-coram": "SWAT Agent",
     "sharon-omi": "Doctor",
     "pej-vahdat": "Arastoo Vaziri"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Sara Rue appears as behavioural analyst Karen Delfs, a multi-episode role announced in November 2015 that carries on into season 12.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_11#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Recurring_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

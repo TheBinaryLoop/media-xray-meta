@@ -42,5 +42,17 @@
     "susanne-allan-hartman": "Christine Angela Booth",
     "andrew-leeds": "Christopher Pelant",
     "reed-diamond": "Hayes Flynn"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Directed by David Boreanaz, this is the last episode of the shortened 13-episode season.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_7#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_7"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

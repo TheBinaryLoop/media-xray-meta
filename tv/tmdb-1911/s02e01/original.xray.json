@@ -169,5 +169,31 @@
       "confidence": 1.0,
       "reviewed": false
     }
+  ],
+  "music": [
+    {
+      "from": "00:05:12.040",
+      "to": "00:05:42.090",
+      "recording": {
+        "title": "Bones Theme",
+        "artist": "The Crystal Method",
+        "musicbrainz": "dedde453-8fb9-46bc-941c-5dde411b7e64"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.84,
+      "reviewed": false
+    },
+    {
+      "from": "00:31:14.760",
+      "to": "00:31:51.450",
+      "recording": {
+        "title": "The Greatest",
+        "artist": "Cat Power",
+        "musicbrainz": "358eb5de-f0d8-45c6-92f7-adb6fd6a988b"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.86,
+      "reviewed": false
+    }
   ]
 }

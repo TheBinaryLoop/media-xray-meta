@@ -34,5 +34,17 @@
     "ron-marasco": "Lewis Slater",
     "coby-ryan-mclaughlin": "David Simmons",
     "adam-lieberman": "FBI Agent Sanders"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Boreanaz and Deschanel wore earpieces for the sing-along to Foreigner's \"Hot Blooded\", and one fell out of Boreanaz's ear during filming. He also admitted on the DVD commentary, which he recorded with Deschanel, that he kept the script on the dashboard during the car scenes.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Two_Bodies_in_the_Lab#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_1#DVD_release"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

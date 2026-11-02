@@ -37,5 +37,16 @@
     "ali-louise-hartman": "Christine Booth",
     "susanne-allan-hartman": "Christine Angela Booth",
     "andrew-leeds": "Christopher Pelant"
-  }
+  },
+  "trivia": [
+    {
+      "text": "The season 8 finale was directed by David Boreanaz.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -56,5 +56,16 @@
       "name": "David Turba",
       "wikidata": "Q111609"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Die Weihnachtsfolge wurde eigens für eine Ausstrahlung im Dezember geschrieben. Dass das Team über die Feiertage im Labor festsitzt, gab den Autoren Raum für Brennans verschwundene Eltern und ihre Zeit in Pflegefamilien.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Man_in_the_Fallout_Shelter#Conception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

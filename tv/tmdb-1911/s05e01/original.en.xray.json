@@ -35,5 +35,18 @@
     "amy-dudgeon": "FBI Agent",
     "alan-mueting": "Clinic Visitor (uncredited)",
     "cyndi-lauper": "Avalon Harmonia"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Cyndi Lauper guest-stars as the psychic Avalon Harmonia, a role she returns to in later seasons.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_5#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

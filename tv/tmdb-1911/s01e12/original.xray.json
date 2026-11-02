@@ -168,5 +168,31 @@
       "confidence": 1.0,
       "reviewed": false
     }
+  ],
+  "music": [
+    {
+      "from": "00:06:14.620",
+      "to": "00:06:44.900",
+      "recording": {
+        "title": "Bones Theme",
+        "artist": "The Crystal Method",
+        "musicbrainz": "dedde453-8fb9-46bc-941c-5dde411b7e64"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.83,
+      "reviewed": false
+    },
+    {
+      "from": "00:37:54.910",
+      "to": "00:39:20.040",
+      "recording": {
+        "title": "Feel It Now",
+        "artist": "Black Rebel Motorcycle Club",
+        "musicbrainz": "057d2d79-c460-4474-bd70-485bcbc3cfcd"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.89,
+      "reviewed": false
+    }
   ]
 }

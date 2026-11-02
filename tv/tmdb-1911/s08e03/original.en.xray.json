@@ -36,5 +36,27 @@
     "scott-subiono": "Steve Keneally",
     "dajuan-johnson": "Drew Franklin",
     "danielle-panabaker": "Olivia Sparling"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Danielle Panabaker guest-stars as rookie FBI agent Olivia Sparling.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_8#Recurring_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Its production code (7AKY15) marks it as one of the four extra episodes Fox ordered during season 7's production, which were held over to season 8.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_7",
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

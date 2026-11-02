@@ -65,5 +65,17 @@
       "name": "Tobias Nath",
       "wikidata": "Q97504"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Anders als sonst trägt die Folge einen spanischen Originaltitel. Der Produktionscode (8AKY22) weist sie als eine der zwei Episoden aus, die während Staffel 8 gedreht, aber erst in Staffel 9 gesendet wurden.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_9#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

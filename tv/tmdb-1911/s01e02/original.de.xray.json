@@ -56,5 +56,34 @@
       "name": "David Turba",
       "wikidata": "Q111609"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Das Finale wurde in der University Hall auf dem Campus der Loyola Marymount University in Los Angeles gedreht.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Man_in_the_S.U.V.#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Laut Autor Stephen Nathan setzt die Folge bewusst auf falsche Fährten: Die Autobombe zu Beginn soll das Publikum glauben lassen, der Fahrer aus dem Nahen Osten sei ein Terrorist.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Man_in_the_S.U.V.#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Obwohl als zweite Folge gesendet, wurde sie erst nach „Der Junge am Baum“ geschrieben und gedreht, das als dritte Folge lief.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Man_in_the_S.U.V.#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

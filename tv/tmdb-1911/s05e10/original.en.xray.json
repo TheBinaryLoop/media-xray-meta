@@ -40,5 +40,17 @@
     "j-j-boone": "Teller",
     "david-paul-francis": "Hindu Gentleman",
     "tiffany-hines": "Michelle Welton"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Emily Deschanel's sister Zooey Deschanel guest-stars as Brennan's cousin Margaret, the first time the two sisters appeared on screen together. The script plays on their resemblance: Booth even takes her for Brennan's sister.",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Folge_94_(5x10)",
+        "https://en.wikipedia.org/wiki/Zooey_Deschanel#2003%E2%80%932010:_Breakthrough"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -36,5 +36,17 @@
     "irene-roseen": "Sister Karen Dunne",
     "dohn-norwood": "Black Man",
     "christie-lynn-smith": "Caroline Epps"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Howard Epps, the death-row killer from season 1's \"A Man on Death Row\", returns.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_2#Episodes",
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Besetzung_und_Synchronisation"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

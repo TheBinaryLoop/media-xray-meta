@@ -191,5 +191,31 @@
       "confidence": 1.0,
       "reviewed": false
     }
+  ],
+  "music": [
+    {
+      "from": "00:02:42.670",
+      "to": "00:03:11.170",
+      "recording": {
+        "title": "Bones Theme",
+        "artist": "The Crystal Method",
+        "musicbrainz": "dedde453-8fb9-46bc-941c-5dde411b7e64"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.84,
+      "reviewed": false
+    },
+    {
+      "from": "00:40:55.630",
+      "to": "00:41:12.960",
+      "recording": {
+        "title": "Nada es para siempre",
+        "artist": "Elefante",
+        "musicbrainz": "26b4d9eb-4809-474b-a523-9dd656e7e9ff"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.8,
+      "reviewed": false
+    }
   ]
 }

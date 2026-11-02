@@ -38,5 +38,17 @@
     "christina-carlisi": "Agnes Doyle",
     "john-philbin": "Ned Dixon",
     "bulat-nasibullin": "Dustin Doyle"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Stephen Fry returns as Gordon Wyatt, the character he first played in season 2.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -35,5 +35,16 @@
     "marisa-coughlan": "Special Agent Payton Perotta",
     "marco-sanchez": "Thomas Vega",
     "deirdre-lovejoy": "Heather Taffet"
-  }
+  },
+  "trivia": [
+    {
+      "text": "The episode earned the show an Emmy nomination for Outstanding Art Direction for a Single-Camera Series at the 61st Primetime Emmy Awards.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

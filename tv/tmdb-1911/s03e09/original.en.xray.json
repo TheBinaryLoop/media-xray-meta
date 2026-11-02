@@ -47,5 +47,25 @@
     "loren-dean": "Russ Brennan",
     "ty-panitz": "Parker Booth",
     "james-mcmann": "Santa #5 (uncredited)"
-  }
+  },
+  "trivia": [
+    {
+      "text": "John Francis Daley joins the opening credits as a series regular from this episode.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3#Main_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "This was the last new episode before the writers' strike hiatus; the show did not return until April 14, 2008, more than four months later.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -55,5 +55,27 @@
       "name": "David Turba",
       "wikidata": "Q111609"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Tamara Taylor ist erstmals als Dr. Camille Saroyan zu sehen, die neue Laborleiterin. Sie ersetzt Jonathan Adams' Dr. Goodman, der ab dieser Folge als im Sabbatjahr gilt und nie wieder auftaucht. Taylor war zunächst sechs Folgen lang Gaststar, bevor sie in den Vorspann aufrückte.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Titan_on_the_Tracks",
+        "https://en.wikipedia.org/wiki/Bones_season_2#Main_cast",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Main_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Ursprünglich sollte es um einen Attentäter gehen, der FBI-Agenten ins Visier nimmt; das Studio wünschte sich mehr Dramatik, so entstand das Zugunglück. Hanson ergänzte eine Geschichte um Börsenmanipulation, inspiriert von seiner Arbeit an der kanadischen Serie „Traders“.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Titan_on_the_Tracks#Conception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -144,5 +144,43 @@
       "confidence": 1.0,
       "reviewed": false
     }
+  ],
+  "music": [
+    {
+      "from": "00:07:15.890",
+      "to": "00:07:44.390",
+      "recording": {
+        "title": "Bones Theme",
+        "artist": "The Crystal Method",
+        "musicbrainz": "dedde453-8fb9-46bc-941c-5dde411b7e64"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.85,
+      "reviewed": false
+    },
+    {
+      "from": "00:23:28.830",
+      "to": "00:24:43.160",
+      "recording": {
+        "title": "Have Yourself a Merry Little Christmas",
+        "artist": "Tori Amos",
+        "musicbrainz": "7e8eabff-548c-4dd6-8702-884ac90f561f"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.88,
+      "reviewed": false
+    },
+    {
+      "from": "00:40:03.270",
+      "to": "00:40:56.460",
+      "recording": {
+        "title": "Have Yourself a Merry Little Christmas",
+        "artist": "Tori Amos",
+        "musicbrainz": "7e8eabff-548c-4dd6-8702-884ac90f561f"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.83,
+      "reviewed": false
+    }
   ]
 }

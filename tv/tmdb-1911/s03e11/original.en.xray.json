@@ -42,5 +42,17 @@
     "dani-jayden": "School Girl (uncredited)",
     "nathan-dean": "FBI Agent Charlie Burns",
     "david-greenman": "Marcus Geier"
-  }
+  },
+  "trivia": [
+    {
+      "text": "This episode was made for season 2 (originally slotted as its 19th episode) but Fox pulled it after the Virginia Tech shooting, as the story involves the remains of a college athlete. It finally aired on April 21, 2008, during season 3.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Broadcast_history",
+        "https://en.wikipedia.org/wiki/Bones_season_3"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

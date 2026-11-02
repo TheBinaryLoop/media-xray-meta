@@ -39,5 +39,17 @@
     "joe-coots": "Howie Henshaw",
     "b-j-clinkscales": "D.C. Cop",
     "jessica-juarez": "Estrella Gangster"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Breaking with the show's English title pattern, the episode's original title is in Spanish. Its production code (8AKY22) marks it as one of the two episodes made during season 8 but aired in season 9.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_9#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -45,5 +45,17 @@
     "marc-labelle": "Hockey Teammate (uncredited)",
     "wesley-sellick": "Hockey Player (uncredited)",
     "marisa-coughlan": "Special Agent Payton Perotta"
-  }
+  },
+  "trivia": [
+    {
+      "text": "NHL legend Luc Robitaille guest-stars. With Booth sidelined, Marisa Coughlan's Agent Payton Perotta steps in as his temporary replacement.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Casting"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -65,5 +65,18 @@
       "name": "Susanne Lüning",
       "wikidata": "Q2369377"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Cyndi Lauper spielt als Gaststar die Hellseherin Avalon Harmonia – eine Rolle, die sie in späteren Staffeln wieder aufnimmt.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_5#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

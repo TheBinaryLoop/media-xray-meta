@@ -40,5 +40,17 @@
     "nicole-pulliam": "Tiffany Chung",
     "raney-branch": "Felicia Saroyan",
     "sunnie-pelant": "Christine Booth"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Written by Kathy Reichs together with her daughter Kerry.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Episodes",
+        "https://en.wikipedia.org/wiki/Kathy_Reichs#Television"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

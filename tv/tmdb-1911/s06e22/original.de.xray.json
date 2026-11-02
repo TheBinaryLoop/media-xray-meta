@@ -65,5 +65,17 @@
       "name": "Julien Haggége",
       "wikidata": "Q103839"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Praktikant Vincent Nigel-Murray (Ryan Cartwright) wird von Broadsky erschossen. Laut Hart Hanson hatte Cartwright eine feste Rolle in der Serie „Alphas“ bekommen, und man ließ den beim Publikum beliebtesten Praktikanten bewusst sterben, um die Zuschauer ins Herz zu treffen.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Production"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

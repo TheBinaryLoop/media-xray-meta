@@ -39,5 +39,28 @@
     "meili-cady": "Tracy Leveque (uncredited)",
     "jesse-jet-set-hudson": "Man (uncredited)",
     "arnold-vosloo": "Jacob Broadsky"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Directed by David Boreanaz; it was produced as the season's 10th episode.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_6#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "The episode introduces Arnold Vosloo as sniper Jacob Broadsky, Booth's former mentor and the season's new recurring antagonist, who turns out to be the shooter.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_6#Episodes"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

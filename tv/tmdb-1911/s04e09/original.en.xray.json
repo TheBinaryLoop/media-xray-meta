@@ -40,5 +40,17 @@
     "christopher-goodman": "State Police Instructor",
     "daniel-lue": "Cadet Williams",
     "maxwell-huckabee": "Child Stegman"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Brendan Fehr makes his first appearance as Booth's younger brother Jared.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes",
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Besetzung_und_Synchronisation"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

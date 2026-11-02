@@ -60,5 +60,16 @@
       "name": "Julien Haggége",
       "wikidata": "Q103839"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Das Drehbuch schrieb Sweets-Darsteller John Francis Daley zusammen mit Jonathan Goldstein.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

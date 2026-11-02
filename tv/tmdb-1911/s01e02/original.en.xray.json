@@ -37,5 +37,34 @@
     "nicholas-massouh": "Farid Masruk",
     "tracy-howe": "Officer",
     "said-faraj": "Hamid Masruk"
-  }
+  },
+  "trivia": [
+    {
+      "text": "According to writer Stephen Nathan, the episode is built on misdirection: the opening car bombing is staged to make viewers assume the Middle Eastern driver is a terrorist.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Man_in_the_S.U.V.#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "It aired as the second episode, but \"A Boy in a Tree\" (broadcast third) was actually written and filmed before it.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Man_in_the_S.U.V.#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "The climactic scene was shot in University Hall on the Loyola Marymount University campus in Los Angeles.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Man_in_the_S.U.V.#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

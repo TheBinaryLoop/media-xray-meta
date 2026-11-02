@@ -48,5 +48,27 @@
     "ed-coleman": "Cyril Bibby",
     "michael-brandon": "Roger Frampton",
     "sean-blakemore": "Grayson Barasa"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Its production code (3AKY19) marks it as one of the six episodes made during season 3's production that were held over to season 4 after the writers' strike reshuffled the schedule.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3",
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "The two-part season opener was filmed in England, in London and Oxford.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Filming",
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

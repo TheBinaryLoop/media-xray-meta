@@ -38,5 +38,16 @@
     "alastair-duncan": "Heinrich Gloeckner",
     "freddie-prinze-jr": "Danny Beck",
     "mather-zickel": "Aldo Clemens"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Introduces two recurring figures from Booth's past: Freddie Prinze Jr. as CIA operative Danny Beck, and Aldo Clemens (Mather Zickel), who counselled Booth during his sniper days.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

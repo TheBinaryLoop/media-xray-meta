@@ -60,5 +60,25 @@
       "name": "Dennis Schmidt-Foß",
       "wikidata": "Q102945"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Die Folge gewann einen Genesis Award, weil sie auf die Problematik der Schweineschlachtung aufmerksam machte.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Im Staffelfinale tritt erstmals Brennans Bruder Russ auf, gespielt von Loren Dean.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Recurring_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

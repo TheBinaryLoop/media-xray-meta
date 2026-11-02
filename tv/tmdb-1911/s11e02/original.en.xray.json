@@ -38,5 +38,16 @@
     "matthew-holmes": "Alex",
     "margaret-newborn": "Onlooker",
     "pej-vahdat": "Arastoo Vaziri"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Second and last episode with Kim Raver as FBI Special Agent Grace Miller.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

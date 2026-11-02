@@ -65,5 +65,18 @@
       "name": "Evelyn Meyka",
       "wikidata": "Q1381776"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Im Finale entpuppt sich Zack Addy als Schüler des kannibalischen Serienmörders Gormogon. Damit endet Eric Millegans Zeit als Hauptdarsteller; danach kehrt er nur noch als Gast zurück.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Main_cast",
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Gormogon_(Laurence_Todd_Rosenthal)"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

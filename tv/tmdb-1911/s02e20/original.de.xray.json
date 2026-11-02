@@ -55,5 +55,26 @@
       "name": "David Turba",
       "wikidata": "Q111609"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Regie führte Kameramann Caleb Deschanel, der Vater von Emily Deschanel.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_2#Episodes",
+        "https://en.wikipedia.org/wiki/Caleb_Deschanel#Personal_life"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Vor der Ausstrahlung richtete Fox für die Figuren der Folge eigene MySpace-Profile mit Blogeinträgen ein. Das Team nutzt in der Folge Hinweise von diesen Seiten – und die Zuschauer konnten dieselben Seiten selbst nach Verdächtigen durchforsten.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Social_and_web_media"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

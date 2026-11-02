@@ -39,5 +39,16 @@
     "emily-wilson": "Emma",
     "joshua-dov": "Wes Ott",
     "theresa-june-tao": "FBI Tech"
-  }
+  },
+  "trivia": [
+    {
+      "text": "The episode received an Emmy nomination for Outstanding Special Visual Effects in a Supporting Role at the 64th Primetime Emmy Awards.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

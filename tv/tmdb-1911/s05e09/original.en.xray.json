@@ -41,5 +41,17 @@
     "laura-heisler": "Jill Rifton",
     "jordan-orr": "Doug Seeger",
     "giovanni-v-giusti": "Skateboarder Avatar Fan (uncredited)"
-  }
+  },
+  "trivia": [
+    {
+      "text": "The episode promotes the film \"Avatar\": intern Fisher queues for the film's premiere. The tie-in was proposed by Avatar producer Jon Landau, and Fisher's actor Joel David Moore appears in \"Avatar\" himself.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_5#Storyline",
+        "https://en.wikipedia.org/wiki/Bones_season_5#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -60,5 +60,17 @@
       "name": "Rainer Fritzsche",
       "wikidata": "Q1362641"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Mit dieser 206. Folge wurde Bones zur langlebigsten einstündigen Dramaserie von 20th Century Fox Television. Passend zur Zahl werden in der Episode alle 206 Knochen des menschlichen Körpers genannt.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -154,5 +154,43 @@
       "confidence": 1.0,
       "reviewed": false
     }
+  ],
+  "music": [
+    {
+      "from": "00:02:31.150",
+      "to": "00:02:59.770",
+      "recording": {
+        "title": "Bones Theme",
+        "artist": "The Crystal Method",
+        "musicbrainz": "dedde453-8fb9-46bc-941c-5dde411b7e64"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.85,
+      "reviewed": false
+    },
+    {
+      "from": "00:11:56.350",
+      "to": "00:12:48.000",
+      "recording": {
+        "title": "Pride",
+        "artist": "Syntax",
+        "musicbrainz": "98085e3a-e9b9-427c-a253-dea1e4156a8c"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.89,
+      "reviewed": false
+    },
+    {
+      "from": "00:40:09.680",
+      "to": "00:41:42.410",
+      "recording": {
+        "title": "Pride",
+        "artist": "Syntax",
+        "musicbrainz": "98085e3a-e9b9-427c-a253-dea1e4156a8c"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

@@ -36,5 +36,16 @@
     "andrew-j-west": "Josh Parsons",
     "steven-m-porter": "Roy Meyers",
     "tiffany-glass": "Dead Wife 2009 (uncredited)"
-  }
+  },
+  "trivia": [
+    {
+      "text": "The episode won a Genesis Award for raising awareness of industrial chicken farming.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -38,5 +38,16 @@
     "ben-falcone": "Andy Pfleuger",
     "shanley-caswell": "Dede",
     "rebecca-abraham": "Young Sara (uncredited)"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Robert Englund guest-stars as Ray Buxley, the janitor who was Brennan's only friend in high school.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_5#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

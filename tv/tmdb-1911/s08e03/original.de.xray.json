@@ -60,5 +60,27 @@
       "name": "Dagmar Biener",
       "wikidata": "Q1157249"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Danielle Panabaker spielt als Gaststar die junge FBI-Agentin Olivia Sparling.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_8#Recurring_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Der Produktionscode (7AKY15) weist sie als eine der vier zusätzlich bestellten Folgen aus, die während der siebten Staffel gedreht, aber erst in Staffel 8 gesendet wurden.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_7",
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -56,5 +56,27 @@
       "name": "Hannes Maurer",
       "wikidata": "Q1576049"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Cesar Millan hat einen Gastauftritt. Außerdem war die Folge für einen Genesis Award nominiert.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Der Produktionscode (3AKY17) weist sie als eine der sechs Folgen aus, die noch für die dritte Staffel gedreht wurden, wegen der streikbedingten Umplanung aber erst in Staffel 4 liefen.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3",
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -60,5 +60,18 @@
       "name": "Tobias Nath",
       "wikidata": "Q97504"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Erster Teil eines Crossovers mit der Fox-Serie „Sleepy Hollow“: Tom Mison als Ichabod Crane und Nicole Beharie als Abbie Mills ermitteln mit. Abgeschlossen wird die Geschichte in der „Sleepy Hollow“-Folge „Dead Men Tell No Tales“ mit Booth und Brennan; beide Teile liefen am 29. Oktober 2015.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_11#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Crossover_with_Sleepy_Hollow"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

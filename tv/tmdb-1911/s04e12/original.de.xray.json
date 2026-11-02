@@ -60,5 +60,16 @@
       "name": "Julien Haggége",
       "wikidata": "Q103839"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Booth und Brennan ermitteln verdeckt als „Buck und Wanda Moosejaw“; diese Tarnidentitäten holen sie in der achten Staffel in „Die Tücke und die Tänzerin“ wieder hervor.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

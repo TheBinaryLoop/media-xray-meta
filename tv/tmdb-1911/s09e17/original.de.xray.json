@@ -55,5 +55,17 @@
       "name": "Hannes Maurer",
       "wikidata": "Q1576049"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Ignacio Serricchio ist erstmals als Rodolfo Fuentes zu sehen, ein kubanischer forensischer Anthropologe, der in den USA Asyl sucht und zu den wechselnden Praktikanten stößt.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

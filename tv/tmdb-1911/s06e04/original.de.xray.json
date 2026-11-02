@@ -60,5 +60,17 @@
       "name": "Dagmar Biener",
       "wikidata": "Q1157249"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Professor Bunsen Jude, „The Science Dude“ (David Alan Grier), Moderator einer Wissenschaftssendung für Kinder, ist an Bill Nye „the Science Guy“ angelehnt.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_6#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

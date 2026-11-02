@@ -38,5 +38,27 @@
     "camille-mana": "(voice) (uncredited)",
     "terry-myers": "(uncredited)",
     "charlie-worsham": "Colin Haynes"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Brennan diagnoses intern Wendell Bray with Ewing's sarcoma, a rare bone cancer, after he breaks his arm playing hockey.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Recurring_cast"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Directed by David Boreanaz.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

@@ -55,5 +55,17 @@
       "name": "David Turba",
       "wikidata": "Q111609"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Die Folge wurde für die zweite Staffel gedreht und sollte dort als 19. Episode laufen. Nach dem Amoklauf an der Virginia Tech zog Fox sie zurück, weil es um die Überreste eines College-Sportlers geht. Gesendet wurde sie erst am 21. April 2008 in der dritten Staffel.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Broadcast_history",
+        "https://en.wikipedia.org/wiki/Bones_season_3"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

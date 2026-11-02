@@ -38,5 +38,17 @@
     "edward-james-gage": "Stan Nokes",
     "omi-vaidya": "Hamid Hirani",
     "david-greenman": "Marcus Geier"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Its production code (3AKY18) marks it as one of the six episodes made during season 3's production that were held over to season 4 after the writers' strike reshuffled the schedule.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3",
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

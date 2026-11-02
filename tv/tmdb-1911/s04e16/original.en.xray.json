@@ -41,5 +41,17 @@
     "ren-casey": "Young Deputy",
     "ryan-t-husk": "D.C. Cop (uncredited)",
     "ryan-cartwright": "Vincent Nigel-Murray"
-  }
+  },
+  "trivia": [
+    {
+      "text": "The first episode of Bones directed by David Boreanaz. He went on to direct more episodes, including the series finale.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

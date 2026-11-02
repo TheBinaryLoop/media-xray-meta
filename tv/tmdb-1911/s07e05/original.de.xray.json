@@ -60,5 +60,16 @@
       "name": "Robin Kahnmeyer",
       "wikidata": "Q2159820"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Die Folge war bei den 64. Primetime Emmy Awards für die besten visuellen Effekte in unterstützender Funktion nominiert.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

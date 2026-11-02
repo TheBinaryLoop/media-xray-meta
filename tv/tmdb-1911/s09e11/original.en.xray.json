@@ -43,5 +43,16 @@
     "brandee-steger": "Aubrey",
     "kevin-stidham": "Store Clerk (uncredited)",
     "pej-vahdat": "Arastoo Vaziri"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Olympic gymnast McKayla Maroney guest-stars.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

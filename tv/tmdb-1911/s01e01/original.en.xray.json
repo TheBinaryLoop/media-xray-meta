@@ -43,5 +43,46 @@
     "jeff-witzke": "FBI Agent #2",
     "marilyn-sue-perry": "Customs Agent",
     "david-roberson": "Bennett Gibson"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Hart Hanson modelled the murder victim on a congressional intern in the vein of the Chandra Levy case; the political angle let him show Brennan as someone who pursues the truth no matter who stands in the way.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pilot_(Bones)#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "The first scene with Angela and Brennan, set inside Washington Dulles airport, was actually filmed at the Los Angeles Convention Center; the opening shot of a landing plane came from footage filmed at Reagan National Airport.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pilot_(Bones)#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "The pilot drew about 10.8 million viewers, the biggest audience for a Fox Tuesday-night drama premiere since \"24\" in November 2001.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pilot_(Bones)#Reception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "from": "00:04:19.700",
+      "to": "00:04:21.700",
+      "text": "Booth sizes up the partnership with an X-Files comparison. Critics made the same link: Entertainment Weekly likened the leads' chemistry to Mulder and Scully.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pilot_(Bones)#Cultural_references",
+        "https://en.wikipedia.org/wiki/Pilot_(Bones)#Reception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

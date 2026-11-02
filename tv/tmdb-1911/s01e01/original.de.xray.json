@@ -55,5 +55,46 @@
       "name": "David Turba",
       "wikidata": "Q111609"
     }
-  }
+  },
+  "trivia": [
+    {
+      "text": "Die erste gemeinsame Szene von Angela und Brennan spielt am Flughafen Washington Dulles, wurde aber im Los Angeles Convention Center gedreht; die Eröffnungsaufnahme der landenden Maschine stammt dagegen vom Reagan National Airport.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pilot_(Bones)#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Hart Hanson legte das Mordopfer als Kongress-Praktikantin nach dem Vorbild des Falls Chandra Levy an. Der politische Hintergrund sollte zeigen, dass Brennan die Wahrheit sucht, egal wer ihr im Weg steht.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pilot_(Bones)#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Rund 10,8 Millionen Menschen sahen den Pilotfilm – so viele wie bei keinem Dienstags-Serienstart von Fox seit „24“ im November 2001.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pilot_(Bones)#Reception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "from": "00:04:19.700",
+      "to": "00:04:21.700",
+      "text": "Booth vergleicht die neue Partnerschaft mit „Akte X“. Auch mehrere Kritiker zogen den Vergleich zu Mulder und Scully.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pilot_(Bones)#Cultural_references",
+        "https://en.wikipedia.org/wiki/Pilot_(Bones)#Reception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }

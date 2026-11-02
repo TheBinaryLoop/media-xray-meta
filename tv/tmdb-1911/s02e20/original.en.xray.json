@@ -42,5 +42,26 @@
     "stephen-full": "Waiter",
     "henry-t-yamada": "Sushi Chef #3",
     "wilkie-ferguson": "Sous Chef"
-  }
+  },
+  "trivia": [
+    {
+      "text": "Before the broadcast, Fox set up MySpace profiles and blogs for the episode's characters. The team uses clues from these pages in the episode, and viewers could browse the same pages to size up the suspects.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Social_and_web_media"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "The director is cinematographer Caleb Deschanel, Emily Deschanel's father.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_2#Episodes",
+        "https://en.wikipedia.org/wiki/Caleb_Deschanel#Personal_life"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
 }
