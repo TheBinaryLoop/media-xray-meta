@@ -61,7 +61,13 @@ thread per job; only small extracts leave it.
    on the Wayback Machine). AcoustID's lookup service was tried for unknown songs and does not work on
    music under dialogue or not aligned with the start of a recording, so songs nobody listed are not
    found. AcoustID fingerprints cover only about the first two minutes of a recording, so a cue ends
-   where its matches end.
+   where its matches end, and a song used from a later point is missed.
+   The speed is checked per season, not assumed: most *Bones* seasons of this release are PAL-sped,
+   season 4 is not, and candidates for seasons 6 to 12 are matched at both speeds (a recording at the
+   wrong speed does not match). For seasons 6 to 12, which FOX never listed, candidates come from
+   lyrics: `lyrics.py` transcribes the music-heavy stretches, songs are identified from the sung lines
+   by searching their lyrics (never from lists of the show's music), and only the ones whose
+   fingerprint is then found are kept, about half of them.
 10. **Trivia** (`deadpool_trivia.py`, `bones_trivia.py`): facts from pages fetched and read for the
     purpose (English and German Wikipedia), written anew in English and German, each with its source.
     A fact is tied to a moment only where a transcript line or a matched music cue places it;
