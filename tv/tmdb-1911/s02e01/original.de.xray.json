@@ -21,5 +21,61 @@
       "to": "00:33:50.454",
       "fingerprint": "AQAAjE_SJGKKZkqP3ojOKUgOJu_RRNqCU8EXPdgi0cJIhSM-xH4g3Uj74jkqyhSaMw_O4RSP_gij414qlPIFiTpKKTl-NKmUHNof4RxRPmhStOmhRaEehM8SNPlx4lFolMvRXBceIqIWZniU4s-hRa-IioqOP_gONMyhPccftD-aKhJxLZBPocmD8Pgu42KKPmvR_BjjHKGcHX6PhJeOqbGKN3gmfDl8CucunBMuCc6Pp3jwB8Ml5ce1NsOtC_EiUSgPn8G34znE2Ma7HPoRRqKET_jQRsdwifBzRHrwDaeOL8YnUqj_wM9wsYaoU0O1I3yUoGmujNj7DftH3KHw9AiSJ3TQRkyFb0TeHX5M5CFVlMpy_Ph44_dR6YabHPWiD8mF9DpO1EeTLXh0wDPiRUlGIcnDoz7REweCFAJBCAOIwYAZAAxBCAIBoKBCEMEEMcIAYhQg0hAhCCHCICcUQ4wAAiABSAAlgAFAAGCQQ0AhAAEpEAEABIAAGSUIYkgBSBAjjEBDBACAAEIEUAAAQrQQiEEEARIEECMUQIQJQBAgFA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "eric-millegan": "Dr. Zack Addy"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "eric-millegan": {
+      "name": "David Turba",
+      "wikidata": "Q111609"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Tamara Taylor ist erstmals als Dr. Camille Saroyan zu sehen, die neue Laborleiterin. Sie ersetzt Jonathan Adams' Dr. Goodman, der ab dieser Folge als im Sabbatjahr gilt und nie wieder auftaucht. Taylor war zunächst sechs Folgen lang Gaststar, bevor sie in den Vorspann aufrückte.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Titan_on_the_Tracks",
+        "https://en.wikipedia.org/wiki/Bones_season_2#Main_cast",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Main_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Ursprünglich sollte es um einen Attentäter gehen, der FBI-Agenten ins Visier nimmt; das Studio wünschte sich mehr Dramatik, so entstand das Zugunglück. Hanson ergänzte eine Geschichte um Börsenmanipulation, inspiriert von seiner Arbeit an der kanadischen Serie „Traders“.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Titan_on_the_Tracks#Conception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

@@ -21,5 +21,62 @@
       "to": "00:33:57.898",
       "fingerprint": "AQAAjEkeJZVWpFYs4XowKrvwoAl99E8iXCKFpEmTHKEoBo1xncED9y-eHPeRNA51hHmCXhz-49ew00Gf5XBOJNakHKGoJDP-4dq0BNxxovmPvniQjcezZPgfRP_xw_2E58G56HiZ4z_EM7hE49OI60nwHKU8lBmjY8qPpHeCLHKOLyFJnAx-sGSCTLyF5H_wHU0TxkEvH9_BGl7OY48W5F8G5QQVa8QXMdB5dIsRKccTXsH1oGmaI9QF_cKH9HiUPDh34XnwK-MIXw-u6EGeVkjGBs274CeeME-CScslgckU4ccT-NGAdElO45LqBNr8CJHyZfiNS8pymCp-Gc7W41zyIF9M6EWOOsFPHc2PE8dUWHmQPWGOpgp-fMGHHXmiHI-SIz-0lSnC5MIO_niCZ3xQfhLyXEh-PDuaUNlx4KF5AEAUowIg5BBiQCgAoCHAAIeUEcwIJQhiAhCBLCEAGCOkAgoBIgAwQDHEBKAIGKMEgAIAAxAxgikCoDLWEMMEIAgIBb0higAAgSCCEAKcA0RAJwUAQgADiACOAAM9AkAAAiQAUDHoBBKQGYGUYYQQY5ABSIEgAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "patricia-belcher": "Caroline Julian",
+    "cyndi-lauper": "Stephanie Susan „Avalon Harmonia“ James"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "patricia-belcher": {
+      "name": "Evelyn Meyka",
+      "wikidata": "Q1381776"
+    },
+    "cyndi-lauper": {
+      "name": "Susanne Lüning",
+      "wikidata": "Q2369377"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Cyndi Lauper spielt als Gaststar die Hellseherin Avalon Harmonia – eine Rolle, die sie in späteren Staffeln wieder aufnimmt.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_5#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

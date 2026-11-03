@@ -21,5 +21,60 @@
       "to": "00:33:54.288",
       "fingerprint": "AQAAjMkjTdBf3NB5_LiO_mge4c7w0cONng3MBX3QlYYf-DHCjkefBfaRwiq0J8IRJubRSyJ6FKHMw5qy4DzEF9-SIxc-BhcaHXd2nOiPH37RJx6a4-qR8PORv4FvXIfXHf_hZzi-o880XJSMPMvxQtNdNGeG60F-4z_8FM9xnUKTPOgjHceHhBdx3kKyNUcTs8KfHn4wJ8uN9wnCTUSy6NlxNOcxXV_w5wl-xIoayJF3xD7SX4HOFDkuJWES4skV_HhQiUSjp8F_PJ6Q89AXHnmiMBTxy6g-NDeOH82Yo9qF5gnCjlogP8hHNJrCot1R6rCOJ0O-49RxHz9cfAuPLx_0DNdxIdaHdqTwI-Th5_g2aXggJjuqn9CJCwcChELCKWaUIMBYoQASQgkDgBKMAGAMUAYIpAhiACgkhDACGW2YEIApCYAwwgCFGCJCIUeAIwCiSwFARBAigCGADCQEEAAJggVADimCCCEOCGYQMEIIgZDCDFEijZNMEQAIMRIAIpQDTDBEACFSAYGRBA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "john-boyd": "Special Agent James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "patricia-belcher": "Caroline Julian",
+    "pej-vahdat": "Arastoo Vaziri"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "john-boyd": {
+      "name": "Tim Knauer",
+      "wikidata": "Q2434097"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    },
+    "pej-vahdat": {
+      "name": "Marius Clarén",
+      "wikidata": "Q1899418"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Zweite und letzte Folge mit Kim Raver als FBI-Agentin Grace Miller.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

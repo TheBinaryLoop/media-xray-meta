@@ -21,5 +21,56 @@
       "to": "00:33:22.676",
       "fingerprint": "AQAAjAo5qZSCP6j4o4mOht2DUsyDM7GEPo0qMLmQZ4yRnJkV_GiMysfT6AevJBKe44-QOHQR5lmqGNNvdBMjvJVQ-ULyTBSiD3iog3miZEcuHj2h5wgtNFssDV9G54iTw8fFQXuSIMx14XEFxoe_THBe_Eh_MMsPlUF9mOsE_Rr8I-HIZKh9PFODL4ef-MNz4bpANmXwQ8Su8nhyotGfEH1GVI9h58gnFQknCVO5UDHmzgumnDn64R-e5EgjqcRpMOjUHAcUycePXMeP49eQBtqR78KT7AijfMV4cUS7XImhB3wRKUf444IuIrZgRU1wk4vwHd6X4cF_RMqeIZlFDazCC_8jTJFGVA-Pk8d_5PPwKMNMaMiS43GiGH9wfQLNMgdDicdTHrETwUevQP6CrsyOa4lymEdPXEeWZzmaR8VDmajyAoWAkQAAAQVAzgggjAMMAAAIgcgIAAQSSAHgAAJAKC2MYMIRZYUUBiBGgCACKGaFYEAAYQwEQGGDCHeQUUWgFbA4hRRjwgBDgBTIAGYIMw4IAIQwgBAEgDAEMAUIYEoYywwQhDkglFAG"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "john-boyd": "Special Agent James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "michael-grant-terry": "Wendell Bray"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "john-boyd": {
+      "name": "Tim Knauer",
+      "wikidata": "Q2434097"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Betty White ist erneut als Dr. Beth Mayer aus Staffel 11 zu sehen, und Schauspieler David Faustino taucht als er selbst unter den Verdächtigen auf.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_12#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

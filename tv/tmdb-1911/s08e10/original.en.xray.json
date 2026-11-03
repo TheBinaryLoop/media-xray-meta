@@ -21,5 +21,36 @@
       "to": "00:33:22.346",
       "fingerprint": "AQAAjE5IUsGZp2hfNDsu_Xj2CXmKhD1x4tVxK8EfHfeDJ1uUIcyULUj2BSdePMe1Z3jgSkKeJIEQfRneEM_yBIz4R2hOPB9yJGMi5Wi2JKj1ookTpUW3qsGLZlcoPMkjJD9yEdaOn8MleMzx40miI0zFTKgSHurXIV9WXIvxTBHuCw2X62CU_MFfnFmOjfwR-TGeInkj9EmOtDrKH2qSpwOTlwpqBU8zQdcRfiGaHxzFYufxhFaCZl_x4MqOB_U_3HhMxI8cWHMmjOqh6wNjwZyG_kR_iGOOXOLwhDBz-Ed_9BR4XOBC3biQFgmP__hxmIwufAfPHD7R68gvJB2O6cTxozmBHz1--Ad-HOlxETr6PciD44f1IschFHtSXPcBQgQmghCCEBdKAOAYIQJSKgRACjCAAAAMUscUEIo4pABjxADEKGAIEQMAAMAQA4yjBEghBACIKSEcQcRRRJQwhAAmBBIGMaGEJAIpjwgUAgiAQECECECYUZSAIjXhVlgFjLNKSCJAdMQwAAgAAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "michael-grant-terry": "Wendell Bray",
+    "dmitry-chaplin": "Kendrick Mann",
+    "sarah-scott": "Laila Serrano",
+    "marta-dubois": "Maureen Serrano",
+    "vince-corazza": "Palmer Heston",
+    "alison-white": "Registrar",
+    "mary-murphy": "Herself",
+    "tyce-diorio": "Himself",
+    "andres-perez-molina": "Tommy Kentner",
+    "chehon-wespi-tschopp": "Rocko",
+    "harrison-white": "Janitor",
+    "leslie-augustine": "Ballroom Dancer"
+  },
+  "trivia": [
+    {
+      "text": "Booth and Brennan revive their undercover identities \"Buck and Wanda Moosejaw\", first used in season 4's \"Double Trouble in the Panhandle\".",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

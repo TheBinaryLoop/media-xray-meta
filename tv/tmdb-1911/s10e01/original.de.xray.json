@@ -21,5 +21,87 @@
       "to": "00:33:50.275",
       "fingerprint": "AQAAjAuThFK0JElw3UdHEVvIG31G4fuRX4TOHNdxZj-eRslk9CzR7AqeGE9TXDrSZ8HN4smlFn8wP6iDtPah5-iPrFKOPFkO_SFi8wG157jiZvimNIippYMknDK-5Li2oCfRzAf9Cq-SCSozwh1f3MSj6NAXi9jf406IONPh83iJPDoUpT3CKxfmLNPhsfjwLEbThAgvCGei0EEcZnlx6fiuoT8avRLu4wuPXHlwXka4_AjzDFciKbkEHfnRS2iuHBeeG9ePi8aUd0SfIfmRy_hBZZdxKgmNiT-aH89R0UdT0Qr6HM2JH9EFLYkcMA-Hkxz2kOiTHVqgj0G-E89xmONi4k4UoVH-oM4noeLgGck65AzwZ_hUobmk4VSiwEnyDecb-AmZIJmTFjmDw1GJR0_xJHsQprsUaDzxIO8R5uGhPZmEnEEz8kWZH39GACAIEEwI4QQiChAAhCIICwCAMAAKCIRQRAJBhBOEAEuEAAQQY4AABCCgFCLAAACaJAQBYwwRQBgmDGAAAACMQUIQRgABQAFhtCYeEESIMMIoAAAwChEABBNKIACIEFAgAAgRwEAAEACEAYsAUIIBRwA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "john-boyd": "Special Agent James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "carla-gallo": "Daisy Wick",
+    "eugene-byrd": "Dr. Clark Edison",
+    "patricia-belcher": "Caroline Julian",
+    "gavin-macintosh": "Parker Booth"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "john-boyd": {
+      "name": "Tim Knauer",
+      "wikidata": "Q2434097"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "carla-gallo": {
+      "name": "Sonja Spuhl",
+      "wikidata": "Q1493351"
+    },
+    "eugene-byrd": {
+      "name": "Rainer Fritzsche",
+      "wikidata": "Q1362641"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    },
+    "gavin-macintosh": {
+      "name": "David Kunze",
+      "wikidata": "Q47765524"
+    }
+  },
+  "trivia": [
+    {
+      "text": "In dieser Folge stirbt Lance Sweets – John Francis Daleys letzter Auftritt als Hauptdarsteller. Daley brauchte eine Pause für die Regie des Remakes „Vacation“, und Showrunner Stephen Nathan fand den Tod der Figur wirkungsvoller als einen bloßen Abschied.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_10#Main_cast"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "John Boyd ist erstmals als junger FBI-Agent James Aubrey zu sehen. Angekündigt war er für eine wiederkehrende Rolle, später wurde er fester Hauptdarsteller.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

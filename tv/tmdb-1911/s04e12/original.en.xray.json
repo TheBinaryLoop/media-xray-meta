@@ -21,5 +21,41 @@
       "to": "00:33:58.877",
       "fingerprint": "AQAAjEmaKFLWJENIhoV__HgOckWlXIh-QrUQ8S8ejyh7Fa7QJyLy8BSayfmgPYnEILuJPsEfXHwIL1-IbrmI60Gfw_nQy8j64zmHalme4DkqHS2XI8ze4D4-2DmeTTh58MqO50nxDU2pINQNfXmEHP1ymEWfB-iTw6eHfsHf4czxI3x22D707sKVw6OOnkHF7ci09UKLv_h-9JiiFKOJk8OD6shtJNTxH19A7_hjVJLRC0-WEiEpQWeuId_R7wTV41qRX-iJo48oiFn1Y9N0lEMoHtv4wzxKbXnx5mi0L-iV4M-RBeITJggzy8e5gP3h-MDIVESpy2heIUzWjdAm58GPP9CoND1e4pyOZnyg8BWeJs3wHVnS0_iOSOGDczmhZ_hTNPJRtcfzCZf2oE-06EF6VMfz4HkS7KEBBIBEwCAAiCFKCAAAggIARZBRBAhAEBBCUiUQUYoQBAAQ3gAjCQAEAUCAIURIIQgAwhEhgAUAAA0VMYAI4pQgUhFABDFKGSSYAUIwQwAASkkAgAFGQIaoAAIpQAxRCDAJiAIEIGCAIIwIATwC1CAC"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "ed-gale": "Lavalle",
+    "lester-speight": "Magnum",
+    "greg-romero-wilson": "Tumbles",
+    "bernard-white": "Dr. Albert Muir",
+    "mageina-tovah": "Madame Nina",
+    "michael-monks": "Dell Hicks",
+    "maggie-baird": "Sandra Hicks",
+    "stephen-lee": "Texas Ranger",
+    "michael-patrick-mcgill": "Oklahoma Officer",
+    "andy-richter": "Henry Simon",
+    "jason-james-richter": "Clown #2",
+    "alix-angelis": "Juggling Twin (uncredited)",
+    "kris-angelis": "Juggling Twin (uncredited)",
+    "deon-aumaier": "Angry Clown (uncredited)",
+    "david-dustin-kenyon": "Circus Roustabout (uncredited)",
+    "mighty-mike-murga": "Strongman Clown (uncredited)",
+    "ryan-cartwright": "Vincent Nigel-Murray"
+  },
+  "trivia": [
+    {
+      "text": "This is where the cover names \"Buck and Wanda Moosejaw\" originate; Booth and Brennan use them again in season 8's \"The Diamond in the Rough\".",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

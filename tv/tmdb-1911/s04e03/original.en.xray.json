@@ -21,5 +21,44 @@
       "to": "00:33:55.651",
       "fingerprint": "AQAAjEmyZMuyJETPw-XRo9fh4PCx34JoTURIofmCHkf_wJOPZlFyxH6g5ugXTLEe_NDhsTleXLiiEE3iZUGOeznuw7_wMcX-Ie6PhIoeCf9WXDrcJsceNBM-pgHrhDqOaKGJLwzOEueVwleJ_8IV49Bz4YPGD-dyPDguHCl-nE9xHOF53AmN91B8HNzCxMFzNFuP_kSu49fRJzF-okfzGNVz5MUPncefSQh77ciPE08PfTiz4gqOj8cL6C18BopvQYel-HjIIfZxHx6L5_iH_YafwUeVR-CchHjygcmYOcKT43gH_EfiBzGdCRMjnMX1HGmVHXopIb9wHJclHnXCHGaG_NCe47HwPyiaI9d7_AYBEAMGOQGEYoo4YhgjoFBCGCcBECSAIUYBAAAEgBjiiSHCKQIQiwA5IZwIRyGgLGeCQGIggEgIgQwAlDgJjMOMEUUEIEYygRBDxADiAGCOKSsYQ4owAAwzxhEMBAEEEQGMsaAEIIRXQgogkADCOA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "carla-gallo": "Daisy Wick",
+    "michele-greene": "Amanda O'Rourke",
+    "lisa-lackey": "Veronica Landau",
+    "john-dimaggio": "Jim Dodd",
+    "jill-wagner": "Holly Markwell",
+    "amanda-anka": "Joe's Wife",
+    "brennan-elliott": "Mark Gaffney",
+    "tim-griffin": "Pete Steckel",
+    "rob-boltin": "Jason DeFry",
+    "richard-gant": "Arthur Lang",
+    "dee-freeman": "Sgt. Frances Diamond",
+    "dan-sachoff": "Bill O'Rourke",
+    "dave-shalansky": "Joe",
+    "scott-barry": "Cheater",
+    "scoot-mcnairy": "Noel Liftin",
+    "tina-battaglia": "Jim's Wife",
+    "kip-garwood": "Tightey Whitey Guy",
+    "jolie-summers": "Tightey Whitey Wife",
+    "ted-mehous": "Dwight"
+  },
+  "trivia": [
+    {
+      "text": "Its production code (3AKY16) marks it as one of the six episodes made during season 3's production that were held over to season 4 after the writers' strike reshuffled the schedule.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3",
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

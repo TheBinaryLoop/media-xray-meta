@@ -21,5 +21,35 @@
       "to": "00:34:15.824",
       "fingerprint": "AQAAjErC3IkiOA-Y7_iHJzjRPAg3vINm5_CPI8cPVGCUx0HTRcGXHHmg0wuid0lw6cGFZ3ieo3rxBw23YmaOP-BtxZjSpEcylB0s8QjzVMMf4b3Q50WTTJKDj7rw4y98Ivl2pOfxC09eoccD5Sf8Hk9045kveNyPPleKmk5gG86RKMqOXAov7IlwZkliNJcSnD-eD3WPM1PwhMd-_PDTgFYoBkcPf0Y_jsKPa6-RPDfC_ELPzLjyBD9y5dDyI8xzXNGDS2Ek4xdC-bkgHtPN42KSEFeT1dBzBM3kXGiXObhu7LxhHVciIyRDPBl040cU_ah-4iiV4jHe5NiHH0x-_MdDCU_0ZCn-BVN5OMLRBxeUMzr41JilPAmeDz18oTqeJf1w_WiXNceULw_yjJQgHWEcAGGIQ8owBIARFBQtCCAAMSEBQsAQRiABjgCiCFECACYgQEQxABQQkhmkABMEECAAcEIAghgQThAALESGAislMY4AgpASiEChCCIIAESEAkIIAAmACAgECDKSUAOFsYYARRUySAEFCFOEGmgUIAQSZgAigAABBAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "t-j-thyne": "Jack Hodgins",
+    "jonathan-adams": "Daniel Goodman",
+    "eric-millegan": "Zack Addy",
+    "evan-ellingson": "David Cook",
+    "paul-butcher": "Shawn Cook",
+    "natacha-roi": "Margaret Sanders",
+    "michelle-anne-johnson": "Sara Johnston",
+    "paul-parducci": "Kyle Henning",
+    "kathleen-m-darcy": "Ellie Nelson",
+    "john-sanchez": "Child Advocate",
+    "maximillian-roeg": "Skyler Nelson",
+    "kirsten-severson": "Lab Worker",
+    "ryan-churchill": "Student #2",
+    "tiffany-o-hara": "Student"
+  },
+  "trivia": [
+    {
+      "text": "The writers used this case of a dead child to establish Brennan's past as a foster child and show her at her most vulnerable.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/A_Boy_in_a_Bush#Conception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

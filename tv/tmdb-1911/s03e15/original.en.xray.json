@@ -21,5 +21,34 @@
       "to": "00:33:41.923",
       "fingerprint": "AQAAjIsWSY-E7ThF3GiOUH2GknkhPkd-XH8CL6RRpTR-9MbRC8ePVzTmUwvqFzdzmFGMRNeJ_Pg2ozeePHiOv0H-IakjMJvhMGnRJ0X-D2dy_HCTCNeFX6gymvCixkR5SHmCtFQO_oHzCNN-4wwf5NKFZNpYBU7y48nU4DpahceJ5tnQZsqGpG0RRlJ6oVb04HnwZwzRHOVxZdyRmOIQ8UGfI_kQ5hKe5fh0KfgbPD2Y3EP4E8lvxKTS48yeCOoWR0I6SsUXHE1F56jOINkc8YiV49Ie-HHQH1eOE6GdB1oWPcHVQ_eKVM_xhgYzPWgiZsalISeS5Ue57HiT5ei8w5WE9j1YZiouyYKWHFU5lF0mmLmCdgLbBY22oWpa7PyRw8tLnMczoWl41Bfu5EQjVE6p4M8xdTmuBPpxE37Q8-CVG28JVgeAgAAMIcAgIABp4QQDRAihBAGAAoWMAcYoIggARDCLDKAIEGIMEcAIoQAjDiAEiHAAQAGEJAIBgggACFghABBECOcEQpAQABQSDCBACBGEISUEAYQIgsgRwIhAFAMAKCKAIQQxgQRAygE"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "eric-millegan": "Zack Addy",
+    "john-francis-daley": "Lance Sweets",
+    "patricia-belcher": "Caroline Julian",
+    "jill-arrington": "Attractive Newswoman",
+    "donnie-jeffcoat": "Howie Madison",
+    "graham-miller": "Grad Student #1",
+    "alain-uy": "Grad Student #2",
+    "megan-paul": "Grad Student #3",
+    "david-greenman": "Marcus Geier"
+  },
+  "trivia": [
+    {
+      "text": "The finale reveals Zack Addy as the apprentice of the cannibal serial killer Gormogon, ending Eric Millegan's run as a series regular. He later returns only as a guest.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Main_cast",
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Gormogon_(Laurence_Todd_Rosenthal)"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

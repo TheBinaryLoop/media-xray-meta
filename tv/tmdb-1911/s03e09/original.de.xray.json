@@ -21,5 +21,80 @@
       "to": "00:33:50.320",
       "fingerprint": "AQAAjFm4REwSaah-_McX45KMw4vzBHmOoOKhPSGuB8-JWjrCOBOuBHkOMc6MP8E9pJEcPD_aa0UzPojOw1V24SmeBc2F8sizhXhYhLYTaPmD2D-eOcYURU5RJiYepqiVJ0Hzo8xsNE9GXEqew1OQv0kKVX2EovmJJ2smKF-OH3mK6wn-IFnEdglCncKPH_6DJwquHE_M4M0R3cGZZIUrRsEJRXkQ8niiHHxyPEfTOKJRU8YP_ngvNMuOUmnMYVeGKpXR_MKPR3piXKbQB82YT0ieHfGHP4VzE4ev41LqIE_iEsle7Ef1obmDilE-_CpY5zD24yn-LSKSVEcOTyqeJElU3AfTJ_B4dO4wSZE8IZ1uJE8u4dkiuGLQj8cj1cKXK0J-iA9iq8cTi0Qz7UYyMR_y4FlGXJKSoc7RHFeOnIWmpDnCRCn2THhzAGCIgIKQwIQBRBFmkBROCGQAMoYIxAAXjBhhmBJKCCIAEQI4RoAHAgBnBAPMCEIIYxQ4gK0jBEBJvCHKASUMQZAQogQwThAjgiACI-eVQEAhRIFBUhHBBEAEEkOIMAogARAoBEEIpHEIAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "eric-millegan": "Dr. Zack Addy",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "ryan-o-neal": "Matthew Brennan/Max Keenan",
+    "patricia-belcher": "Caroline Julian",
+    "loren-dean": "Russ Brennan/Kyle Keenan",
+    "ty-panitz": "Parker Booth"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "eric-millegan": {
+      "name": "David Turba",
+      "wikidata": "Q111609"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "ryan-o-neal": {
+      "name": "Hans-Jürgen Dittberner",
+      "wikidata": "Q1577655"
+    },
+    "patricia-belcher": {
+      "name": "Evelyn Meyka",
+      "wikidata": "Q1381776"
+    },
+    "loren-dean": {
+      "name": "Dennis Schmidt-Foß",
+      "wikidata": "Q102945"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Ab dieser Folge steht John Francis Daley als Hauptdarsteller im Vorspann.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3#Main_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Dies war die letzte neue Folge vor der streikbedingten Pause; erst am 14. April 2008, über vier Monate später, ging es weiter.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

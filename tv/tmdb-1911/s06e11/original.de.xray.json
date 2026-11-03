@@ -21,5 +21,87 @@
       "to": "00:33:46.484",
       "fingerprint": "AQAAjMyTJUpEoQd6Gs2D8FmQLKGIR0ly9E0x5cETShnBj1LgP8dz7MXzI82jo18TKEp1BQ91HH5xdYiT7McV2InwY_2T4N0u5Eg4Zg7xcMEYJjjvwmeHW5jFBdMZ-BLSX-jTRtBN4kf-EaF8NEyUlbj2gM9H5HiEXwPj7UZT4TViXvh13NGDLGyUDk394xGaMUvR__gxk0K9ww5znBd6RA-LRCVTYl-GH5eO80TFT_DRJz_-IKeJ5NrRrEtRpQ--48M-4sOD5OaQcU3wicTf4tmDC9SNp_gJKkmOKyXhf_hoXKngskTOclCTlUSYPKHR5_iE8oWTiQ_-DPCuIpcC50YXKUrARsd96CL6FfGNB8yOZ6mHKYrE4WyOWk9wJ93w5DiFZ_mDK8uD3EdlZjQahXmEp4d-fGkOTV48IsxDJgABBBJCMAAMMABRAZAB0BiEGABIIGAFAMQVIAQFQBBAgATMIGGENIoIZQSAQAiAFACGIYEEQgAEwAQCVgghiTHMAEyEJUARRQwYCgiFBDCQEAEVAQAqJRFAxBiwiTAGSMAIAAQYR4ghUgAB"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "ryan-o-neal": "Matthew Brennan/Max Keenan",
+    "patricia-belcher": "Caroline Julian",
+    "michael-grant-terry": "Wendell Bray",
+    "deirdre-lovejoy": "Heather Taffet / „Der Totengräber“",
+    "arnold-vosloo": "Jacob Broadsky"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "ryan-o-neal": {
+      "name": "Hans-Jürgen Dittberner",
+      "wikidata": "Q1577655"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    },
+    "deirdre-lovejoy": {
+      "name": "Katharina Koschny",
+      "wikidata": "Q101686"
+    },
+    "arnold-vosloo": {
+      "name": "Erich Räuker",
+      "wikidata": "Q1353099"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Die Folge führt Arnold Vosloo als Scharfschützen Jacob Broadsky ein, Booths früheren Mentor und neuen wiederkehrenden Gegenspieler der Staffel, der sich als Schütze entpuppt.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_6#Episodes"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Regie führte David Boreanaz; produziert wurde die Folge als zehnte der Staffel.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_6#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

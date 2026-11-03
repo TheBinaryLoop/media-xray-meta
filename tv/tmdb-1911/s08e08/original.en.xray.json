@@ -21,5 +21,36 @@
       "to": "00:33:52.221",
       "fingerprint": "AQAAjEqYKFGiMMmQizL0HPl0-CnGf4hzHBdTJFe0T_DI40fDow-qJdEMJ1GVY7q4ITchJTfCh1SMBy_-yGjiH6HSPND94FxJsA4aclDEHR_CH2k3aoF2pYiFLlmO5huu6UL4XYGWHtcj4ryg8YhWD1dSZMkTxcI9qHeCSEqYH83bYHhQJirCrId0Ez_R7T3sE_KOWGyMlrlwThbyC0dS9yCbo9LJwfmD7jiP-0Iz9DT6C076I5meI--6oz2akUmFR8b0jDmaUhkeT8O_IlnqIDweJafwJzgNN83xxLiSYz_SiDYkilcwS5yEJoyLPjjxHPeL-8SZZDkeHs6PnIyOLw_mM7jxjcOJ6IdGPUTESFl4VOSIO4NPCbyzEjeycDokPXPQWINunAwRxiGJPjiVHO3RL8GfIY8gJWMehOZWfIlO8B_-AXkeQ7-CM8kAQwQzCAApExDOESeAwUAQggASiACEODDGIASAsEAY4AgwggiALAEMCAYFcQIUIwBigCkkCFDACAGgAwgAp4gijhHGoDNEMAiIQQQAYZgSwghDIkNEGYoAFoATAxAkRHACAJGGMEEIAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "joel-david-moore": "Colin Fisher",
+    "jay-paulson": "Seth Zalinsky",
+    "stephanie-lemelin": "Alexa Eaton",
+    "adam-cagley": "Elliot Eaton",
+    "eva-fisher": "Annie Pinkus",
+    "joe-o-connor": "Larry Barron",
+    "jeff-witzke": "Denny Bennet",
+    "kurt-caceres": "Paramedic",
+    "marcus-folmar": "Rex",
+    "ralph-garman": "Morgan Donnelly",
+    "donnell-barrett": "M.C."
+  },
+  "trivia": [
+    {
+      "text": "Its production code (7AKY13) marks it as one of the four extra episodes Fox ordered during season 7's production, which were held over to season 8.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_7",
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

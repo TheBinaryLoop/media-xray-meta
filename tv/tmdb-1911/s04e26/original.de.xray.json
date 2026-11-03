@@ -21,5 +21,110 @@
       "to": "00:33:47.638",
       "fingerprint": "AQAAjEqkJOESJsnAJM5CdJp0_Ch_2NGxb4PPw3-Kq8GLR9PRTGGQlMqR73h2o0-C7ScqSb7wRA7eDRHfQdeDXEdj3egX4zR6BU0S9fhmFVpmreiTOfiFy0VfC9uZ4zOYy8QTJKOcB5G040t-PNMX9IErGhOZyLgTsBRyaOSlYHTYouuF_7iG5qhHfHqDblrSCVaTG8-PRlqRd9hBHlOCWtmF5GmOvOiPJ0V_PDu-pgke7UIlKsnR_DgiZzmkSg82J1_wKjuu4T8i-2iyB-VzMCc1nEmXYCveHB9-qcWNH-mFBPaFq-WKRklEHkdzouKFcz1iaiqSXXBUtDt28A0mPkLTH0mLdDoeLTyuw2NH7Ap-JJwWKzLyF836CFWOy0flLGiuBIke5oj9YU62VLiWEDeau-h14-JyjHzxCA_BHP5RSg-RVNEPARiAQgikACVAAEeYsEQYIwwTwhDCAAGKCQQAQQIqSggAQhkmiEKCICWMYERwighgSlGhGCFACSQgMQIAJBgSTABBkEBEgEiAAsIqo4QR4DGAEHAMCkWJEBISwAgCiBAAgUJUCIKMAQ"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "joel-david-moore": "Colin Fisher",
+    "ryan-o-neal": "Matthew Brennan/Max Keenan",
+    "eric-millegan": "Dr. Zack Addy",
+    "carla-gallo": "Daisy Wick",
+    "eugene-byrd": "Dr. Clark Edison",
+    "patricia-belcher": "Caroline Julian",
+    "michael-grant-terry": "Wendell Bray",
+    "brendan-fehr": "Jared Booth",
+    "ryan-cartwright": "Vincent Nigel-Murray",
+    "pej-vahdat": "Arastoo Vaziri"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "joel-david-moore": {
+      "name": "Robin Kahnmeyer",
+      "wikidata": "Q2159820"
+    },
+    "ryan-o-neal": {
+      "name": "Hans-Jürgen Dittberner",
+      "wikidata": "Q1577655"
+    },
+    "eric-millegan": {
+      "name": "David Turba",
+      "wikidata": "Q111609"
+    },
+    "carla-gallo": {
+      "name": "Sonja Spuhl",
+      "wikidata": "Q1493351"
+    },
+    "eugene-byrd": {
+      "name": "Rainer Fritzsche",
+      "wikidata": "Q1362641"
+    },
+    "patricia-belcher": {
+      "name": "Evelyn Meyka",
+      "wikidata": "Q1381776"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    },
+    "brendan-fehr": {
+      "name": "Kim Hasper",
+      "wikidata": "Q1741498"
+    },
+    "ryan-cartwright": {
+      "name": "Julien Haggége",
+      "wikidata": "Q103839"
+    },
+    "pej-vahdat": {
+      "name": "Marius Clarén",
+      "wikidata": "Q1899418"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Die Nachtclub-Geschichte spielt sich nur in Booths Kopf ab, während er im Koma liegt; Hodgins' Erzählstimme ist ein Text, den Brennan an seinem Bett tippt. Am Ende löscht sie ihn, und Booth wacht auf, ohne sie zu erkennen.",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Folge_84_(4x26)"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Ein ungewöhnliches Staffelfinale: Alle Figuren leben ein anderes Leben. Booth und Brennan sind verheiratet und betreiben einen Nachtclub namens „The Lab“, der dem Jeffersonian-Labor nachempfunden ist; Zack ist Brennans Assistent.",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Folge_84_(4x26)"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

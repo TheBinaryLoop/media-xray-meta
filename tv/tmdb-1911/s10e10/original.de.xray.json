@@ -21,5 +21,82 @@
       "to": "00:33:42.544",
       "fingerprint": "AQAAjEmYpEmkDNWmE8p4od6eFLny40c7sWga7biaKEM_H2F-6Ho25JKPJ0ezo58ofOiZ40eddMaTjIjVZAx8rdBxNDfRF9dw7LkgXg04tUeuUClGTcnxFPmPE32IJj-ev9gjBk9-ZA984T-ix9D7BM-ENM5wCZfyodl7nNQRbdyzQQuzJ8j6FE8k4Sh5NLzCobw4uGmO_ALrC1qyRcSlI0704DmekcGPK8WD8MnRvIeuLZOQh1Nx2WDORGiu47lwpxvO7IGXqMRz4o2MT2geVmj2HY92gWUWVDrRaMc_5Az0XXiLZlKipDGkvMf5Y32KnBnxPR3CnIa2dDliSfnxZDHuoyeaPMgfIcnxo5RSG3PkBsn0pYg-7PDv4U2n4EbPHc1x7Xj0CmH2Ckn0HEeP5kzxfMKVo7nQX0WPKWeO5D3CH01z4WS44D8AwQARAAFECFGACSEMggwLhhAACgaBmiFKAEGNUERIAQgAyBBEDFAeEEqEEwYIIgRyRglhFGAGKMUQg1IYIICAAFCGEAEAAQQUMEAo4KgwEgAgBBHGACCIIYQaYBBAQAgigCQGAwQIIRArwAxhlgAFmAJCESAABQ"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "john-boyd": "Special Agent James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "ryan-o-neal": "Matthew Brennan/Max Keenan",
+    "carla-gallo": "Daisy Wick",
+    "eugene-byrd": "Dr. Clark Edison",
+    "patricia-belcher": "Caroline Julian",
+    "laura-spencer": "Jessica Warren",
+    "michael-grant-terry": "Wendell Bray",
+    "pej-vahdat": "Arastoo Vaziri"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "john-boyd": {
+      "name": "Tim Knauer",
+      "wikidata": "Q2434097"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "carla-gallo": {
+      "name": "Sonja Spuhl",
+      "wikidata": "Q1493351"
+    },
+    "eugene-byrd": {
+      "name": "Rainer Fritzsche",
+      "wikidata": "Q1362641"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    },
+    "laura-spencer": {
+      "name": "Annina Braunmiller",
+      "wikidata": "Q567180"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    },
+    "pej-vahdat": {
+      "name": "Marius Clarén",
+      "wikidata": "Q1899418"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Die 200. Folge, geschrieben von Stephen Nathan und inszeniert von David Boreanaz, ist eine Hommage an Alfred Hitchcock: Das Team findet sich im Hollywood der 1950er wieder, Brennan als Polizistin beim LAPD, Booth als Juwelendieb.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

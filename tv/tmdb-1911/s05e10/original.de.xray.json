@@ -21,5 +21,66 @@
       "to": "00:33:41.034",
       "fingerprint": "AQAAjEzYZHIE58Kj4_BI6uiVIXy1FVrm40kUIZeE9kEzHg-P_XguNHtyhNMf6GRwSkbYIw-OGvqI4hWUucfhJ-gOXQl-PMNztEdz_Ed-XEf5HE7xwxKX7biOhEf4422S4D-OjcXVg0-PJ3tQE018_Ebzrwif5dDJB6GS8PhxFfCy5Dh3HFWaIzqN5FmOH7t0PM1xH32NO8iRHI4So8uYDM8xWR_ho0dyHSEjzbAmyRkcR0cv_DiPp8Z_NMv6I5R8fAlxJntxjQ4hqmGFi7ly5JJyTJnSwgcf-GFRpWooXMLF9NgPPzuusMGFH33waApxbj4adcUkOloR5sOjQ6MUozmNF1eCPse0vHiSpsh94ocf_MFx6XiESH-gZWSGbMcnTL6K5g8eAoEkEk4YJJhhQEBlhAIAEAOVQwAZq5wxSAkLgBIcCqGoAsAhBhQzhADABAIKGCCEAIA4gCCB4BikiARKGIABUswZgwUwRFACABKEAEAcIAgAYBDEABijGCDGUiAIEIIoIKEQihjADGCMFIMIMA4ooAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "ryan-o-neal": "Matthew Brennan/Max Keenan",
+    "carla-gallo": "Daisy Wick",
+    "tiffany-hines": "Michelle Welton"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "ryan-o-neal": {
+      "name": "Hans-Jürgen Dittberner",
+      "wikidata": "Q1577655"
+    },
+    "carla-gallo": {
+      "name": "Sonja Spuhl",
+      "wikidata": "Q1493351"
+    },
+    "tiffany-hines": {
+      "name": "Anne Helm",
+      "wikidata": "Q99906"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Emily Deschanels Schwester Zooey Deschanel spielt Brennans Cousine Margaret – das erste gemeinsame Auftreten der beiden Schwestern vor der Kamera. Die Folge spielt mehrfach darauf an, wie ähnlich sich die beiden sehen – Booth glaubt sogar, Brennans Schwester vor sich zu haben.",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Folge_94_(5x10)",
+        "https://en.wikipedia.org/wiki/Zooey_Deschanel#2003%E2%80%932010:_Breakthrough"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

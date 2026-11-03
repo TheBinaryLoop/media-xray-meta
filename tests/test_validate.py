@@ -150,6 +150,23 @@ class ItemTest(unittest.TestCase):
         self.en["characters"]["johnny"] = "Johnny"
         self.assertFails("characters.johnny")
 
+    def test_trivia_may_cover_the_whole_item(self):
+        whole = {k: v for k, v in self.en["trivia"][0].items() if k not in ("from", "to")}
+        self.en["trivia"].insert(0, whole)
+        self.assertPasses()
+
+    def test_trivia_span_needs_both_ends(self):
+        del self.en["trivia"][0]["to"]
+        self.assertFails("trivia/0")
+
+    def test_voice_needs_a_person(self):
+        self.de["voices"] = {"johnny": {"name": "Someone", "wikidata": "Q1"}}
+        self.assertFails("voices.johnny")
+
+    def test_voice_needs_an_id(self):
+        self.de["voices"] = {"ben": {"name": "Someone"}}
+        self.assertFails("voices/ben")
+
     def test_trivia_needs_a_source(self):
         self.en["trivia"][0]["sources"] = []
         self.assertFails("trivia/0/sources")

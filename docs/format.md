@@ -136,12 +136,15 @@ All timeline entries have `from` and `to` (end exclusive). Each list is kept sor
 
 ### Timeline: `people` and `appearances`
 
-`people` is keyed by a short slug that only means something inside the item (`ben`, `barbra`,
-`young-ellie`). Each person carries at least one external id (`tmdb`, `imdb` or `wikidata`) and a
-`name`. The name is a label for whoever is reviewing the file. Consumers should take what they
-display (name, photo, biography) from the ids, so a correction made upstream reaches everyone and no
-licensed data is copied here. When two performers play one character (younger and older versions,
-say), give each their own key.
+`people` is the item's cast, keyed by a short slug that only means something inside the item
+(`ben`, `barbra`, `emily-deschanel`). Each person carries at least one external id (`tmdb`, `imdb` or
+`wikidata`) and a `name`. The name is a label for whoever is reviewing the file. Consumers should take
+what they display (name, photo, biography) from the ids, so a correction made upstream reaches
+everyone and no licensed data is copied here. `credit` says whether they are part of the `main` cast
+or a `guest`, and `billing` keeps the credited order, lowest first: billing order is information, it
+says who leads. When two performers play one character (younger and older versions, say), give each
+their own key. A person need not have any appearances: the list is the cast whether or not anyone has
+timed who is on screen.
 
 An appearance says that `who` is present between `from` and `to`. `presence` is `on-screen` (the
 default) or `voice` for someone heard but not seen. One person's appearances of the same presence
@@ -165,15 +168,18 @@ A `recording` with a `title` and optionally an `artist` and a MusicBrainz record
 `background` (score or a song under the scene), `on-screen` (performed or played within the story),
 `opening` or `closing` titles.
 
-### Language: `scenes` and `characters`
+### Language: `scenes`, `characters` and `voices`
 
 `scenes` maps scene ids to their titles in this language. `characters` maps people keys to who they
-play, as credited in this language: dubs rename characters.
+play, as credited in this language: dubs rename characters. `voices` maps people keys to who speaks
+the character in this language's dub (a `name` and at least one id, preferably Wikidata), so a viewer
+watching the German version can see that Emily Deschanel's Brennan is voiced by Ranja Bonalana. The
+original language has no `voices`.
 
 ### Language: `trivia`
 
-A fact tied to a stretch of the film, written in this language in the contributor's own words with at
-least one source URL. `spoiler: true` marks one a player should hide until asked. Trivia is not
+A fact tied to a stretch of the film, or to the whole item when `from` and `to` are left out, written
+in this language in the contributor's own words with at least one source URL. `spoiler: true` marks one a player should hide until asked. Trivia is not
 expected to be a translation of another language's: each language collects its own.
 
 ## Provenance
@@ -182,7 +188,7 @@ Every timeline entry, and every trivia entry, may say how it came to exist:
 
 | Field | Meaning |
 |---|---|
-| `source` | `human` (the default when omitted), `face`, `speaker`, `audio-fingerprint`, `shot-detection`, `video-analysis` (picture measurements such as black frames or brightness) or `subtitles` |
+| `source` | `human` (the default when omitted), `face`, `speaker`, `audio-fingerprint`, `shot-detection`, `video-analysis` (picture measurements such as black frames or brightness), `subtitles` or `language-model` (written by a language model from the cited sources) |
 | `confidence` | the tool's own score between 0 and 1. **Required** whenever `source` is not `human`. |
 | `reviewed` | whether a person has checked the entry. **Required** whenever `source` is not `human`. |
 

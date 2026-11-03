@@ -21,5 +21,22 @@
       "to": "00:33:15.126",
       "fingerprint": "AQAAjFmS5EuFZM0XPAn-o9nRabuE6o_gPcIY9kh4BaFF4T9OKVMC38OTBbwR3kiuDI6z5CiN70eV_EiWMwzCVEeZPXi7iWg6YrqFZ11xCnH2sEFSMYuOR8mD2trQPDteHj9xPDnuJ1HwXETCZ0UuZgz2xWh-g-nojMhjNMwVaGQeBT8L54HEbXjyI8yyHKU__DgJ_-CHj3uQKsly6BX2wxdyRVUYPGgWhuhyPHg6vBmOSD0xZWSOP8ZzPEmDdLLxGN_RPD26KSMuZUqJL8rRe2hO_JNwHqEcQouK-OGElrjg40OvYJSYpMM9_Csup0geVUMmXsaN5tFRWZSG5wmaSGkRfhmS4_hBRgoeVRy-JVWUIuE1XAm4L4Ec4gxypyjOwDtCJkqpBElDjzj6oLEpvGBPoyfsIJJ_6NGQ4xSPnEuGO0cvC3kA4BRBiAAhhCAAQIKIEAoYIRwRDBCjEEAEIeEIYnAZAAASAghigGACIUMAEBYcAgghUiFqkBNVECAcYYRQB5AABihhBJJGLAMEAIQwR4BRRFVgEGAMAMM4EE4R4KwCDgAhFA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "john-boyd": "James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "carla-gallo": "Daisy Wick",
+    "sean-marquette": "Emory Stewart",
+    "alison-haislip": "Alexis Sherman",
+    "mindy-cohn": "Valentina",
+    "debbon-ayer": "Emilia Brooks",
+    "sam-lloyd": "Donald McKeon",
+    "jack-topalian": "Richie Williams",
+    "tracey-costello": "Doctor",
+    "terryn-westbrook": "Nurse"
+  }
 }

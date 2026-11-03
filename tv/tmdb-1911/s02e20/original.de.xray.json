@@ -21,5 +21,60 @@
       "to": "00:33:15.254",
       "fingerprint": "AQAAjJSSNFGSKQq-hAuuCdWLMHoHMf-APcrRNNMRUo5xRsSF6scVJy765FFwI-xCNHvxOfiPC12eHGHD419kPDsepmiYoz9iMZEOLU8V5DuatBf47-ANHz-eHLOEMOdxSoGeQx26KMUXHZV-aHkW5MG845so4RL4V2ASxki2MBHibcElhnCTBz-eE2eL50Ia-UisxMelw4-DJ8qF72iiJUcbZUbyGyH844O_oz_yHs8DTf-Raj6Y58GFhw8i_WiqFnqO88iXB03EJUck5iKeHVL0qMeXZHJwqkYe_HiO5seZZgU5a8GVZ4PHBXliAU0yh-h_QVUi6MwT3EIe5vhxJUEvHw23Y1eCHg6f4hd-FTWTDLleJFy946bwLMeUHc8jmD76HNWPVAwPMVQ7hCWLHzfKGVN6NPNRPcfl40hD4REAg5gBBgFHmAECCESccAACgIBiQBFhmAFQAGCYINIgAAgySAAgCEEeAGKgIIgwIwAxhgEBESBEMCEMEogwIYRQABAiDDJAAQYAAwYIAI1zgjgAjAIIAEOVQpQYIQRwTAkAiAAMOCcMQYAAChCkRAjnFA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "eric-millegan": "Dr. Zack Addy"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "eric-millegan": {
+      "name": "David Turba",
+      "wikidata": "Q111609"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Regie führte Kameramann Caleb Deschanel, der Vater von Emily Deschanel.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_2#Episodes",
+        "https://en.wikipedia.org/wiki/Caleb_Deschanel#Personal_life"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Vor der Ausstrahlung richtete Fox für die Figuren der Folge eigene MySpace-Profile mit Blogeinträgen ein. Das Team nutzt in der Folge Hinweise von diesen Seiten – und die Zuschauer konnten dieselben Seiten selbst nach Verdächtigen durchforsten.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Social_and_web_media"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

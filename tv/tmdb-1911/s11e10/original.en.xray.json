@@ -21,5 +21,37 @@
       "to": "00:33:47.728",
       "fingerprint": "AQAAjEokJUuiJFIy_GEEXmj4JAivW9ARa-Hxhwt-IeehB2nE8Phx0Vsy4Tua3Tn6hccP_gidyRY0LYqSJnjCMzj05gj7REczpcZ1TAhzJPYP_3hSEe-FH7VzNFOKZyl8HsmPXDiz3Lhy9DMa5Tl-4_LxNEf3wj-eJAqe6ehy7JFxblp0RE8zJIfHBM8UXMLTHDd2oTnC71AlJsHPIZ50_Baaoy--I-6hRUUlCnkWPeiFJh_GTMdzPEGzdChJB31KaHbwSMdbXJmeoEquoxmJjzeeRLOC5DryC52OKcOeHReO62GCPLuQLKFyVGGT4VqownuEr0cXXXA0Bd8mIdqeQnSkEKF-kP6CK7tyeDgCsdKe4Dn83Lhs6JGWTSGuzEIOJs-OUCn-Q3-QUzmOZ-ngLcdxxOHhfIfkBeEXUEcoOtBFACIYEEA5QYA0gjkDgQZCEGGIAUB4oIBAQBFBBEIAIkAAksgBgAwRyhBCEFEIOgKkBkCQIpJCKBknoCECCwepABIxRqVQCgGgBAIEC4EQUkgRIARDDhhgnBEEEOAABEAQgBRQQAgnjBBNGbaEAIAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "john-boyd": "James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "patricia-belcher": "Caroline Julian",
+    "sara-rue": "Leslie Green",
+    "john-bain": "Alex",
+    "billy-lush": "Seth Turkland",
+    "marlon-young": "Lieutenant",
+    "carlos-sanz": "Julian Molina",
+    "owen-teague": "Jesse",
+    "tonja-kahlens": "Mackenzie",
+    "gatsby-coram": "SWAT Agent",
+    "sharon-omi": "Doctor",
+    "pej-vahdat": "Arastoo Vaziri"
+  },
+  "trivia": [
+    {
+      "text": "Sara Rue appears as behavioural analyst Karen Delfs, a multi-episode role announced in November 2015 that carries on into season 12.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_11#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Recurring_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

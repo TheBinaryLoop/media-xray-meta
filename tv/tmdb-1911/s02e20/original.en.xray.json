@@ -21,5 +21,47 @@
       "to": "00:33:15.254",
       "fingerprint": "AQAAjGmSKJySJQn0I30-fKKDK1KOc0uLXk6xPcMlKTmeHHn4ofoe4yESfTueHE2O_EcTccezBBekM5kQ5vnBHLkPLU3AZMytQd2Rh3gcXDKNR8mSBn8UPEf_YMpz5MbDQLmRa0EpLRZu_XjeCJYuI50UGpoTErmKXnjxRMeUE4mTJDpiyUZzBtPxEDVFchh7TMuPLzv-QA9-nMnBNHpw8bAaHpV4XNmR5ym0H75WXEgv5ah1_IgjPYf6I8uTo6nz4TeeRMf54kaVMheaPDRyhbie41GpGE0dRgjls3h8PMO5Lcin5NB3pPxx7Qse-UN_UHlyPDuxC02D5HkQSt2FdseVMBi5PMFT5QLj58J3PFuKXUVyxVMQKlF8_Bp-_EifEXrCPHhC5Dl2wUHeC38H8R_yY08-nBcq_WioHY-Qhym0-ggT8sbaxsFBNsd5AGQQMIQBIwA0DBgALBBIcAAQIaAAIrgRwAAQCEJWCQiEUQoBIhgAUjIHpGGEOkAAIQ5SQZABhjEkBFAAOACYQwgIYYRAjhCCKAKKAEAEAB4JQAhhBCAgmGEMCGQUIgQAAwg0jgCgGIUUEAAGQ4JQAAyzTAgEhXBICFIAAw"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "eric-millegan": "Zack Addy",
+    "a-j-buckley": "Dan",
+    "brian-hallisay": "Ben Michaelson",
+    "hillary-tuck": "Abby Singer",
+    "elizabeth-bond": "Customer",
+    "dan-martin": "Major",
+    "larry-bates": "Ernie Summers",
+    "anna-zielinski": "Carly Victor",
+    "howard-m-lockie": "Homeland Security Agent",
+    "lucas-dudley": "Rescue Team Member",
+    "brooke-josephson": "Hostess",
+    "stephen-full": "Waiter",
+    "henry-t-yamada": "Sushi Chef #3",
+    "wilkie-ferguson": "Sous Chef"
+  },
+  "trivia": [
+    {
+      "text": "Before the broadcast, Fox set up MySpace profiles and blogs for the episode's characters. The team uses clues from these pages in the episode, and viewers could browse the same pages to size up the suspects.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Social_and_web_media"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "The director is cinematographer Caleb Deschanel, Emily Deschanel's father.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_2#Episodes",
+        "https://en.wikipedia.org/wiki/Caleb_Deschanel#Personal_life"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

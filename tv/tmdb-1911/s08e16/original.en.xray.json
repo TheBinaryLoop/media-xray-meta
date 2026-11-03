@@ -21,5 +21,34 @@
       "to": "00:32:57.386",
       "fingerprint": "AQAAjErIaEmiCo-O58FZ5EuhfQiT41uOa4uO51YQ_XjSHtoppKeGS2iWXLiiH3_Qo7nwzDnOJDPOrGhO9MGL18TE7Cxc-Md_OA9HUD9epD84V0iP_8h1iOdxLvARviJ6pYSPPMkO6Ud-mKSKfviLJ-JRXUH6QkfYMdNQ8jHcB5eSRce5HB6P41cQWgwVPIoO1TkeIm-ORkkuVJWiCpdSGUeWeOqhUYpEhFkmhcPuw1-Jj02M5sxwClaT44-OnDmSSfnh5nHQ7fgzNGeH6sETKbiSxEdOJHtxL0fzC3sH3kL8EHKUZEbswx17HE1FbWiXDN-DPDW07_BZIl92eC8eZSccKdEMJ8aLB82TcQFLW2iYJEdopzkURiwR62gqompwEVbSPDgrxDxEbxPi6niSlLiH9NBvXEEpyUiXhGRxyRTeo8yozfgVAEYQQwwjIQAgwAEECACNEAERIkABxh0jhiDiBBFCCAMMIEwAYJAgCCGimFGKAAEAQAgQ46QEEgHChFIMDKMEAsAAIQQiAilBgCVEmOEAMBYaREARiCBkgDDASgAEKMQxCwhUCDRGiAM"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "ever-carradine": "Delores Martin",
+    "lizze-broadway": "Kat Martin",
+    "nick-thurston": "Nick Pavonetti",
+    "aaron-jennings": "Garrett Saunders",
+    "victoria-gabrielle-platt": "Mary Manicone",
+    "dale-e-turner": "Howard Utley",
+    "steph-duvall": "Reggie Trotter",
+    "dejon-laquake": "Manny Manicone",
+    "luke-kleintank": "Finn Abernathy",
+    "tiffany-hines": "Michelle Welton"
+  },
+  "trivia": [
+    {
+      "text": "The episode was nominated for a 2014 Prism Award for Best Drama Episode – Substance Abuse, and John Francis Daley was nominated for his performance in it.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

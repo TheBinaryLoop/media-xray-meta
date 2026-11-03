@@ -21,5 +21,22 @@
       "to": "00:33:43.952",
       "fingerprint": "AQAAjEyyMAuTBpN-5LiKj8R36A8RLauo41H6Da6Ohx1--LhzXDLxJNlxVmPRPNbQ5zL2B9eR67gYKPeR5wvOa9iiZwx4PKrxoI2IPdbxHKEeZ3gOfYe7HbPSXNBPPMd_cNmFxosiouYDKUe0-2iz46SHN4ZPfN1wUsGLSyijJDqaJOImJP0RXceVKPiugFMyHT1SaHbGIE9v_AacT4jVQ0-iXMjz4OzhnMXN4U_xWBNyXQm0TPnRIzyc9ET1B0-tFE11IeSPnFGFHy-YMD4aHW8u9JyG5kd-JOgJj1nw3cEafRpRPbio46JmXNSRLKeQ6z4eJRQqGt1VOFeKHy7KSMf54POMnIHaSEdEnsOJH2x4_FmCXpiiqTnuXESYDQ-h58KpkAj_IK6W4sb1oDyaHTdlfLugp8fvIPKEXwYFJHIMASGEQEwwBAQxgAgElAASUCAgAkgIA5gAgCCGhAEKGUYAAgxIIAhTDEGRALCQIEKAMMIBZICQQDiAiGDGKKEYEBAZAIkBpBACgCAOCQCAAUAAhwQAhAgmCUGOCaWBEwRZBYBxAimABDBSAIMUApAA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "michael-welch": "Norman Hayes",
+    "tahmus-rounds": "Professor Peter Simpkins",
+    "hank-harris": "Kent Durham",
+    "joel-mckinnon-miller": "U.S. Border Agent",
+    "andy-mackenzie": "Bernie Gillespie",
+    "david-ury": "Larry Wolfram",
+    "michael-lespinasse": "Trainee",
+    "scott-lowell": "Dr. Douglas Filmore",
+    "tiffany-hines": "Michelle Welton"
+  }
 }

@@ -21,5 +21,39 @@
       "to": "00:33:51.581",
       "fingerprint": "AQAAjMqUSNc0POHR82iebDp-PGFe7JVwFOmlDB8VEQrD6LiO4x3SSA9O5ghFZTl0IvCfFN98XEpw7WgW1A9eKRbyiYmKZPpxPQL_EE10_MSXoVcQ5okS6Df6o6ly0NPRZE-FXht26cQZF4949MwCR2yMi4Un5RCdxWijLDnuPfi-4j2ay4J2onqC8B7OLDmeXGiyo2-QVL2QD80x_RFuWIqO6Ic4HvkOi9fxRomFH02pTEWkH89xRbiUUUL6CXxyEUf0aLigL8fFI9x0NE0tHPGOZIm6o5tyXNOD42sGV9mD_ELyEVeOZisxNcqCREe8HVd04Tr8HS-Dh8mR_AiTxTEYKsmMs9hxNM8ON-5REV11OE8HP1-hHTeeh8YVHUfzox-Jp2xY3BmFK0iu5ghTFc0p4fpwHd_RnAwirVFyqD6yA0EEEAAACxQ0ABgCSVRCEAAMAoo4BYAwDBhChQEEGMcEIYAIBoAhEAkghAIQKakEY4YzQkIwRBlDACBAIEqQ4IYAQoAgwgCGCFIEEEOEMh4Ra4hAhgApqCLgdAAEI0JgSgABIAEGAAQOKYIUUAgYCg"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "eric-millegan": "Dr. Zack Addy"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "eric-millegan": {
+      "name": "David Turba",
+      "wikidata": "Q111609"
+    }
+  }
 }

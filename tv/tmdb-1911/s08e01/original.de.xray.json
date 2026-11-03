@@ -21,5 +21,59 @@
       "to": "00:33:45.642",
       "fingerprint": "AQAAjEqkSAqTiAmOH49wCclyZgjl45EeNLsW8CIeuFtqeFG34aLwEPl49IFuD-GTGM3wn6hyHKcRqspwQb8Rv8d_ot4RhmIMXR9y_KgNP8uDKlI-XEUkPoY76EHIC3seHH_QVOEmVEyOd0L4gIrSQzvRVP3Ra7ge8EY_-EQoT_giB88u7PmFJuqMvsY_9ISdB493I414aEf_w08QXkuHXSSeOqiSL3Cc5UUtfch3qbgP7QzRjEmLJwovVFSiVGg4KWg-HyUzB9qPpkkZ4ZISeXiScQzCfGGOWomR88KhZz2unngXaWgeon8R58qJUsb2RPCTGU-aJ_hzuPuCcvmQrLmCHH6EJwmeUA--HFsDPMyFlLOFXsGPK8cXHX4lqBc-JWoQqvHxcyHewz964_TR8Ki0I3cGlVqEyMzRLOEj9LpU3D0eRpjJAdOQZ0IBpAAjTAlBgAHCiAKKAYAQgYhgRwFAqNDACEaBEoJYAAAyzGAkEDBCIOUMEIQRQChQRgAhCAICCCAYAUAQRExAgAhEAADAAAEQEcAIxIAAigmLlBEIASIYEUwIBAhjAiABABIM"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "ryan-o-neal": "Matthew Brennan/Max Keenan",
+    "eugene-byrd": "Dr. Clark Edison",
+    "patricia-belcher": "Caroline Julian",
+    "reed-diamond": "Hayes Flynn"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "ryan-o-neal": {
+      "name": "Hans-Jürgen Dittberner",
+      "wikidata": "Q1577655"
+    },
+    "eugene-byrd": {
+      "name": "Rainer Fritzsche",
+      "wikidata": "Q1362641"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    },
+    "reed-diamond": {
+      "name": "Viktor Neumann",
+      "wikidata": "Q2524349"
+    }
+  }
 }

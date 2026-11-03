@@ -21,5 +21,32 @@
       "to": "00:33:31.562",
       "fingerprint": "AQAAjFPSJcmFPziLNxPxI1_xhZTg47vgQ5-O6zB_nDuUQj8u7WiFV3TQnOjxKakw7fCh4-mD9AR--EPlC0X6GNrzochz-OhRJ4WT7UYTa3jSDQ-7CEwYZYtA68aPE7iOMIqcbVB79AKTaT-uqEav2Hhv1B-uLhfm3Gh6BnWMH81RUjrxs_gx9YJ9cFuy4zjCH8iP80FfBc8y4R5EVceDy8dD5XgehHvwZzqY5_gq3JiObzkeFs1j9MeXiEzxMTmqe7D64vjxHB5p4dZhssh3Q9cV5MJ34TsFHyex44fVIxynHM994Dt65YTXBTxxPcXJHOKP6OiFH92Jcf_hMbsC5jpy7NDOF2IHz1NYtNmHM8uFhxe0H_kNgggRVEADDFAKIAEEERIABYBFFghhBDQCIUEkEII4IhBDQRphBDJKKACAEMAIYJByCDDpjDIGKYEII8IIZggghDBHQXKKCmWIEgQ8RAUATBDkjAHAFI4cAwQAgghACBEhEGfEQQEAMEIJAAgBwAhkFA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "matthew-alan": "Matt Leishenger",
+    "jason-e-kelley": "Skip MacDonald",
+    "antonio-d-charity": "Armed Guard",
+    "arnold-vosloo": "Jacob Broadsky",
+    "bryan-rasmussen": "Dock Worker",
+    "tina-majorino": "Special Agent Genevieve Shaw",
+    "ryan-cartwright": "Vincent Nigel-Murray"
+  },
+  "trivia": [
+    {
+      "text": "Intern Vincent Nigel-Murray (Ryan Cartwright) is shot dead by Broadsky. Hart Hanson explained that Cartwright had landed a regular role on \"Alphas\", and that the writers chose to kill off the audience's favourite intern for the heartbreak.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Production"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

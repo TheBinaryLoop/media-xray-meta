@@ -21,5 +21,66 @@
       "to": "00:33:52.758",
       "fingerprint": "AQAAjFEYRUmSpBr-QNuFJtahXbTQ_EK-fchVITyLZgsXnMe3zENJjWisREcuon8wJeqxcz8uMQzq7ENzB9xzHDGd0XjCGc8l4IIvInuiQKV25Gke4llm4eGNs0nRuD3q4QiaV2BviD-4xYJFHxolookzIryOiSU-hg8eDbduWEIlK8We70jOFFny43qwOSeqLUojXKFyo0ezDzke8oaWnHh0IedxJTkuHcd-XEf9oUIypRqOv7hm5NHRB9mN4wmio0lunJfwnUSeONAThBf8HH1QSbrgJXmCyiSuCN-MJHryIMxylHoDOznOH090Ib0OPTTCPEKZKOHhaNlRU07wLB_6w0uUI-uCZMGePcF7_LhzPFvwzPhDIXwCn0efozqa5Bz0RDzCC81zfNh_VGkcocnxT0j-I_w0NDX2_MIXnDkAYCAAQBhlCEFAGGEIEIAQA5RAjGBEoAFEIGC4QgIAQRBAwBgAEEEEIQE8YoIAQ4RUDgkulDJEQkQEssBCAwAiRDABkBYGMmEQIMAQJoxQCAEmBEQGMEARYIAQgIEQ1hhkMADgEEKNQUIQQgRHBg"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "eugene-byrd": "Dr. Clark Edison"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "eugene-byrd": {
+      "name": "Rainer Fritzsche",
+      "wikidata": "Q1362641"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Der Produktionscode (3AKY19) weist sie als eine der sechs Folgen aus, die noch für die dritte Staffel gedreht wurden, wegen der streikbedingten Umplanung aber erst in Staffel 4 liefen.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3",
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Die zweiteilige Staffelpremiere wurde vor Ort in London und Oxford gedreht.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Filming",
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

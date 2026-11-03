@@ -21,5 +21,62 @@
       "to": "00:33:41.923",
       "fingerprint": "AQAAjEuySHokTDlOEW_QnAilHX32QvyJ_HD0B09IozJ9_KhS4w56fMApicKeTyh9xKU3iMkUDiEzAvfRO0FzKUfOHPqR5QwDxwWlSziuXHhY4dIK5HksOM4oaN0jHLpzhHlQNcKZUej44oWrFzkfyGmOfDjOLEO7TygfNFWMnNCPML2GyUkWIz90lHKmQUuYZNh3_EQ_DulRKx0upcG3ozlRyil-ZJWYQT9iGsy0vHBOfHXw5WCFH35JhD_0GrmJX_gRlp2hKPmkIJ8e_AR6NL-g5w7OifiFSVdSPB6FS4e54Af1Z0j2EOGPpj_eBv9INMqTBxUX0_iMU0GWw1_R44L1qMG5QMuPiXLGIA-Po8eUcsezLPhxngLDPEyEX9gPJ0uOipLwIMmN_MfzKFLAi2liAICAwE4IBRgjQAhEgWEEGEGEAkIgIgFzBjECiCEEGCK8IEYoRICjVBlAPCDEKA0AQgpBoJAxVhJAEDIOSIgAAtIMAABBCgJiiTNACKgIAwAIQ5nAAAAkBBPDAACIAMwgIaARQhEAAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "eric-millegan": "Dr. Zack Addy",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "patricia-belcher": "Caroline Julian"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "eric-millegan": {
+      "name": "David Turba",
+      "wikidata": "Q111609"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "patricia-belcher": {
+      "name": "Evelyn Meyka",
+      "wikidata": "Q1381776"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Im Finale entpuppt sich Zack Addy als Schüler des kannibalischen Serienmörders Gormogon. Damit endet Eric Millegans Zeit als Hauptdarsteller; danach kehrt er nur noch als Gast zurück.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Main_cast",
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Gormogon_(Laurence_Todd_Rosenthal)"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

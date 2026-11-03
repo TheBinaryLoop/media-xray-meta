@@ -21,5 +21,45 @@
       "to": "00:33:50.454",
       "fingerprint": "AQAAjFqkRMqSZBk8hjDlGFf3IH_xoo_w6sNT6L_RZAu68BLyozj88MNOPMd55OGhJ0LHIzvOC3yOfijJEOFfNCOeC9UmBX52PD846kLe8MjD4wm07Hj0IfrxHk11PLmEvFB2psj1owIZKcdr3KEi5OShfYH_I1I5HLuUIT8e6THOF_ktND9qYc_xUWiW-EF_4VcQZ9A95DxmJsdDHU3Ho88VBT-6F16WJTW8hcaZIdJ8XEez60IkrXhxH32Gxjp-VDu8Dp6VglEoHeeJHP1x63Cb-Oh1ZJeIkO6GltNxPSFkRwgT6rhW4ntQicd1nMoS5BE0MwgT58M1pjiP32juoeSFPFEH_UeV5kc8GV7H4Q_Stwq0Z0akz0WzSEtw7TiaF5XPGHmT44cmJRvSbT9coe-F_EYTMZtQJgMgFBIECAUEIVIoAIwQRiFmFALAKEUAMwAKRRQyGChqhEIUWAUMcAAAgASRRBB2jAIKGCEEQYIIQpgwRhACABDQEIaYAIJQoRRxziAhBiUAAAQEAFQhYgQAyAkgCEFQOSAMYBAYQgxTAhiphCCCAg"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "eric-millegan": "Zack Addy",
+    "christine-estabrook": "Lisa Supac",
+    "ray-wise": "Rick Turco",
+    "ann-cusack": "Brianna's Lawyer",
+    "alex-hyde-white": "Mr. Hobbes",
+    "timothy-landfield": "Daniel Burrows",
+    "sam-witwer": "Mitchell Downs",
+    "allison-dunbar": "Brianna Lynch",
+    "jonell-kennedy": "Dr. Lawrence",
+    "marlon-john": "Fireman",
+    "jeremy-luke": "Eddie Bean"
+  },
+  "trivia": [
+    {
+      "text": "Tamara Taylor debuts as Dr. Camille Saroyan, the lab's new head, replacing Jonathan Adams' Dr. Goodman, who is said to be on sabbatical from this episode on and never seen again. Taylor was billed as a guest for six episodes before joining the opening credits.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Titan_on_the_Tracks",
+        "https://en.wikipedia.org/wiki/Bones_season_2#Main_cast",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Main_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "The premiere was first pitched as a story about an assassin targeting FBI agents; studio executives pushed for something more dramatic, which led to the train wreck. Hanson added a stock-manipulation plot drawn from his work on the Canadian series \"Traders\".",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Titan_on_the_Tracks#Conception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

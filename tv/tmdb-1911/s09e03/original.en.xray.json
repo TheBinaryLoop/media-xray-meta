@@ -21,5 +21,35 @@
       "to": "00:33:32.918",
       "fingerprint": "AQAAjMriiFmDRttRLsfUIx0lJPEWoc0GlviZYoqPbjquHp_moxm3oyaa5kj2Zgj15WgU5vii49Oxq0UfMFl5PD1OJPqENyeaJiEqHuWhyRFy0bjSo8kjRF_hu2iTZBR0bQixXceZKCPqI3twIk2eHLn4QWGfIGVU_DjqxEdFMcfqeQiTG0kSNjkuPEfPuMgP_UIa_-iGp8aD6kVzvEFj1Ef-AN-hbSqa6DywG6fwCw_xV5D4oUR8tCuu46jcovmOHEclE3-GH4ePFy8-Hk-QF9yPHXF0XD_ExhpyvFyM8Dr057hPhJnSoN7xNJh5BfnRVoeWJ8d1XLsCpw_kH1cWhDnRk8jTo_wNsX0Rxkl0HNePdNmFE7qEnEfDo3yFB1eQH2A0MgwBaARjSjAEMLHCOiSAF0AJQwTSihBCEGACCIGIdwZQgRAVDDhggDJAIecMAIJohoADBAAAhRAKDGEc0AwihERSBhEGRFMIOGCAo4YhZhQzhCAnEJACCQGACBIgx4ViUCGFAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "patricia-belcher": "Caroline Julian",
+    "michael-grant-terry": "Wendell Bray",
+    "aline-elasmar": "Maria Alvarado",
+    "felix-avitia": "Javier Alvarado",
+    "vicellous-shannon": "Curtis Martin",
+    "steven-w-bailey": "Geoffrey Middlebury",
+    "chum-ehelepola": "Mo Khan",
+    "joe-coots": "Howie Henshaw",
+    "b-j-clinkscales": "D.C. Cop",
+    "jessica-juarez": "Estrella Gangster"
+  },
+  "trivia": [
+    {
+      "text": "Breaking with the show's English title pattern, the episode's original title is in Spanish. Its production code (8AKY22) marks it as one of the two episodes made during season 8 but aired in season 9.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_9#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

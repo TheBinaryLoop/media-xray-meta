@@ -21,5 +21,34 @@
       "to": "00:33:47.766",
       "fingerprint": "AQAAjErKSEqjoVeM62Dy48cTcL6C7wjjFNqH_LjygMmj4OKOKTv-4K-QPh-SJ2KmBL9xOC-OEyehPUmIZmRwzHnAq83hJinxH8_wRy38I_kRZgwfNE2WCX-KK-CJ6o_RSNlOjA3RNzD94BIR8UejQ5eMcrnQLFkUnMUPhokhpgmjoiRFnEfVQBLHUeh89GiyhBW052gihsYTkPG2IJSPhlGPcpqRbyJ4MD6uXNDJox96Bjt9fOmhUaJgN6kQUtM1fMcP_wu-4sxJJNubBOGP_ejR5CZ-zMoS4YnzIPm2EHnQ9EXohId6Hz-uZzAjzcHDFf1M6Dlyws3RPkFupcJ5aEcTCidVqL-GMDvR9sO80PjCHb8UlARPAU3k4Tma3kff4gjJRE9xiM8h5VMn9PCRvT2cZ0d4Psb3QTmRS0sAwZgA1IAjDFGSCSGEZwYgoAARXCMBBIlAACYoAIYRBwzgBAEBAEGCEMIEJYZoYUVARgOChCDCECOAEUQLhgAxAiEiHAQEKG4gIIIBhggExjHBDBHAGOcAIhoIAYAFMgmgFCAACCGYIQA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "t-j-thyne": "Jack Hodgins",
+    "jonathan-adams": "Daniel Goodman",
+    "eric-millegan": "Zack Addy",
+    "anne-dudek": "Tessa Jankow",
+    "laz-alonso": "George Warren",
+    "robert-gossett": "Mr. Taylor",
+    "morris-chestnut": "Agent Oakes",
+    "bokeem-woodbine": "Randall Hall",
+    "p-j-marino": "FBI Forensic Guy",
+    "charles-duckworth": "Rulz",
+    "lonnie-lardner": "Reporter on TV",
+    "porscha-coleman": "Female Dancer #1",
+    "angela-meryl": "Female Dancer #2"
+  },
+  "trivia": [
+    {
+      "text": "The case was inspired by a real one: disc jockey Eduardo Sanchez went missing and was later found mummified inside a wall of a nightclub in Winnipeg, Canada, as reported by the National Post in December 2003.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Man_in_the_Wall#Conception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

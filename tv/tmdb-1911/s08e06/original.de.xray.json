@@ -21,5 +21,76 @@
       "to": "00:33:19.965",
       "fingerprint": "AQAAjEq8SdSSoH_QjJKOh0nS4B_2HMkVxNacwu2I73jY48zha8MTFlF3JAcP18cbAU0k5XiKH24OHsdL-Id77Bm-wz86HSeFswn6Q3xRZ_h2_PjRCxOzPnh044mOB5WjgcmIx8bTBJdEDZUiNOPxB9OFZKk05HiOE7_QTL6Mi0iOtMmxj4dPMMfMJEfYB8nSJFGOiziPPgus8ihLPGmNG7p0NGfQ49TxED0tHF8ePFOHZCmlI_aLKctSHiF1aGeKMNZInMdzMDnCI_mMO3gSKg2uC0d_-DJqMcazI0-hZX-D8NlDOKaH-zh9XEXDhaNQE4mzpivy4y-FesuMNIq6Qsqi57j1INdwFM0S6THYLkVsHvKRRvvxC7hDEq_xI1dyIXkTotZyNGqCf_gOQQVBRBCujGCEWGUgGsBRBJg2UxEknAMIEicEQEoCSCQQDjlGKGJIWegkMQyAbIUCAjiBGBMOcUIBIogIhogigDBBGIFEISCAYwQRJAQAAiAhEDEMAAUAgGYgSAgCQDBkiHHAGAM"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "joel-david-moore": "Colin Fisher",
+    "eugene-byrd": "Dr. Clark Edison",
+    "michael-grant-terry": "Wendell Bray",
+    "luke-kleintank": "Finn Abernathy",
+    "pej-vahdat": "Arastoo Vaziri"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "joel-david-moore": {
+      "name": "Robin Kahnmeyer",
+      "wikidata": "Q2159820"
+    },
+    "eugene-byrd": {
+      "name": "Rainer Fritzsche",
+      "wikidata": "Q1362641"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    },
+    "luke-kleintank": {
+      "name": "Ozan Ünal",
+      "wikidata": "Q2043019"
+    },
+    "pej-vahdat": {
+      "name": "Marius Clarén",
+      "wikidata": "Q1899418"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Der Produktionscode (7AKY14) weist sie als eine der vier zusätzlich bestellten Folgen aus, die während der siebten Staffel gedreht, aber erst in Staffel 8 gesendet wurden.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_7",
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

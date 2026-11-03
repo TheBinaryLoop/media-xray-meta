@@ -21,5 +21,36 @@
       "to": "00:32:54.749",
       "fingerprint": "AQAAjEoUhlJCKeA6BU1YoXN0_DjCrGfwi8E25cdvVD7UuMfxHHcgPKhFUfB8vAcsjcOTC-fgiseJ-8MPHd_x48QbXAzhFmLyo1IjR_gsfMfhHVcGnTp-9OnwnTgPPYcr_HiRK8dhX8Mp-NnxH37w5DjxHY1-5N2hI7qOo3regDEXfMKTcziavgifK4aObGKO_4g59JlyUIV7oWoyVcioiDl6NLiYobH2odZR-LLQJmGOMJqyzNBkIl9WeM-EH8-PL2gcomdwn_hEjETTjDp6PJSE20L00YdaT8ip4sebOkhzCa8e6HFQacoFVhfk34gPP-lQ68ITg3kSgvok9CjPw38QJlRmSDyuMjr0E3CVrEee7BF-Ettb4cF1I9Vy6BfyXQIDRAkGCIEUREhJxBBQykjkAGCIIaWYJooIZyAlCBgFFDDCISIBM0Y4IABShBrkADdEKEIMEoQQxwEgRAlggHGAJIQIIAIxZYCTQAhECRHAMCAcAUIwICQSyggtDDAOCEGAIUQoBwQWzAg"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "david-gallagher": "Ryan Stephenson",
+    "bruce-thomas": "JP Gratton",
+    "blake-shields": "Chuck Kennedy",
+    "nancy-youngblut": "Cecilia Stephenson",
+    "john-livingston": "Wade Schmidt",
+    "sylva-kelegian": "Rita Gratton",
+    "brett-gilbert": "Hippie #1",
+    "dustin-hess": "Hippie #2",
+    "mark-doerr": "Patrick Stephenson",
+    "gilley-grey": "Trooper (uncredited)",
+    "ryan-cartwright": "Vincent Nigel-Murray"
+  },
+  "trivia": [
+    {
+      "text": "Its production code (3AKY15) marks it as one of the six episodes made during season 3's production that were held over to season 4 after the writers' strike reshuffled the schedule.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3",
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

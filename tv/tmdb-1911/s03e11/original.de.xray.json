@@ -21,5 +21,51 @@
       "to": "00:33:50.448",
       "fingerprint": "AQAAjNIShUkSRUuCS3lxtmjWo33xG_sRXgmkPeiJJ8caEU2jpegVC_-h33jiDCdCU4Y_TOKiHGuP98dTod6OhvkmIs9I9JGSQ8w2NBoV3DTyJ7gepJySBKqk4PmC_Hjh3vjxPGiXWURTMWGIvIOY7EF8HG-skGiWW0GkrwLPI4mUTTFR-fhCPIqOG3meBNqfI8xz41JC_Ed7wfuxn0bOyJCyC-_xB090nIsUglmEMPKFpyLuwuGDiyeacCUxHc95JF-fInZyzMqS4DtK5graMXiCXJSh38iPypGPRgqLmNHRy4T4yej1IseFXM8K7ymuEp2OMFH54xQjZLmG5sidycJzh_gES8uRTQvxHKJz5MkHH1_gC0-ajDnGC82JPiH24PHBMpj5ox8aLsg5FbrIHNGissLRo8mULD54HsmRVyG2O_jwiA6-XOguAAAYQkQqIYwTjgCBiFMEAAYYoIAowAAjUACFiGOOUICAkAQYAgQxjCghCAAIIMAAA0YowIAjxAlDKVNCCyEEMIgAY5RyCCgDjDDKAAEAAJAQAwgBVCmksCMAOAC8EQIAgYQZghjhDEXAEA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "eric-millegan": "Dr. Zack Addy"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "eric-millegan": {
+      "name": "David Turba",
+      "wikidata": "Q111609"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Die Folge wurde für die zweite Staffel gedreht und sollte dort als 19. Episode laufen. Nach dem Amoklauf an der Virginia Tech zog Fox sie zurück, weil es um die Überreste eines College-Sportlers geht. Gesendet wurde sie erst am 21. April 2008 in der dritten Staffel.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Broadcast_history",
+        "https://en.wikipedia.org/wiki/Bones_season_3"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

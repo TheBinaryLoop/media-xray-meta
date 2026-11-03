@@ -21,5 +21,55 @@
       "to": "00:33:37.142",
       "fingerprint": "AQAAjJkkJUqkTcGJH_-hiUKaHP2JLySmHIyVpMR-PDmqZTN-_PCPnh8uvMly_DjPCE-cIZeSHDrCW8MPv_CPwz8mOzi4CtGl430gr3gj40ZFmJh-_Kj34MELXYETB44f8IKnJDv04EaOH4enNA_CZHnw9IXuFc2R8-DxDaE_aM-Rjo8SVHmL60HVfnCoC36O8jl4F2GWQY8OH3lCxfB5MDvyhSruGc0FjRziTin44UfZZfiR71CU57iS47RnxIlHobmFH8d-XDryJ2CcQ1euBfGdAM1RmWGW4lIenNmP7oev40deoh25BHp-xJJyPGHRTxpcHQyXCHkh5hmiHu_xx0SrZA3OowkfPPiPS86R7IkQpjsq83h-HZ4knbCTY07Qcwqe6kNThUf4AWIYgQABgRAxQBHIjELCIIAEAYYZQgFiSiEmJBtGKKKIIoIghhQGArwi2VAAAGoIVk4oQAgABigBGDFCAgGFYIwhAwRCgCEADGCAMSEAI4AgYoAgxgAAACMMAKAMBwogIogEZAADHCBAAACIIEAAAg"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "michael-grant-terry": "Wendell Bray"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Robert Englund spielt als Gaststar den Hausmeister Ray Buxley, Brennans einzigen Freund aus der Schulzeit.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_5#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

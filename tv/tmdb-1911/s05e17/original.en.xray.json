@@ -21,5 +21,33 @@
       "to": "00:33:37.142",
       "fingerprint": "AQAAjJSkRIm0KTiRH-eh5Qg3GT9RSxIx5eClY-yNJw_abBx-HP5Rixee4Q1zPM-Ev7iUI1cSQY-QHz38wkfPo6mDfsd-cA6iHnqO9Xgj48cHJjf64_KDH_2J7QpUcofCGGfmJMCDBz-OA6Wc4tMFNeGHpj_Cg39wPFKO_ND-IB0fZajyBqUewu5xRY4E_wHDo-2LdMyhS0d0WrAa6cF29DtydB4H8SdC2caLcyrOE1925M-g6KHRXEG-a_h1PBFHCc2Pwz-O6D08Fdp18LqiIH4awMfNZsGVJ7iUHt1D-EPsHF9KSCH5BHmyC-d4PBUYe0MT5wEfIXFzpJ-EsTuOZxlOZiOqVguaOsd_XM-JH2GcQzdy6WhuRI-EcmGHMFFOkM0cPHhU2MkBQhhBZAkDDAGMOKYQYgABxgQDCBqFlRKKMEKBYYIgBhRBRChFCCAEGeJgCgoAYIGiyhhHECAAIKCIMAQYYIJQRCBEjAFCAKIAMAwAQYGBBgAEBFEAEYAIYAYYABwgAgAFCgECIAAEAgYogAxhlAI"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "michael-grant-terry": "Wendell Bray",
+    "robert-englund": "Ray Buxley",
+    "jenica-bergere": "Officer Becky Conway",
+    "victor-webster": "Brad Benson",
+    "megan-hilty": "Julie Coyle",
+    "suzy-nakamura": "Carrie Turner",
+    "ben-falcone": "Andy Pfleuger",
+    "shanley-caswell": "Dede",
+    "rebecca-abraham": "Young Sara (uncredited)"
+  },
+  "trivia": [
+    {
+      "text": "Robert Englund guest-stars as Ray Buxley, the janitor who was Brennan's only friend in high school.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_5#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

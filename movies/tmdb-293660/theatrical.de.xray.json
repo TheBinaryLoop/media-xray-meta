@@ -33,5 +33,258 @@
       "to": "01:37:27.616",
       "fingerprint": "AQAAjEo3jcqSoOTRq_gufD9CRVwgbsi-oj8-ZXiUY5cUHNcTlLkQt3KQuMyx--g1fGL2ofmUEIzcSCqe41zxJUh-ND96FefQvNBIdfjxDX9wolcL87iiQxePH_3xyzh-SD76HT6saMQZWDn84BRzSP7x43DFHL-RH8-KF87R-XhwEzmk_EIuKQXNHf0O5mh-HDueHXlz6MpxpziH_UVVHS6PTod6nOD1wNWxJ0f4IMyz4sjNYfrwB9V1XD16bLwDRHsIbUdz5sgiJpkT_DieEpx4hMazDeKPU0dYUsaPWTmuHM05odaR7_jIQrtINDfGRdCPWlk6iC_Ma6g16EX4CVQo_Mdh_MLxHvmR_Mdz-MfPAQmMAkBgJRQzwhKEGAJACMQoYoYChxQASgDLjUAMAECFEAARzoRADAAAAIOSIiMlcAhRBzxQxgliELQCSUWUcFAAZTBxxChiFFCGQAaIQEoAAhDShiFkBBHMKISAFQAZa6gQFAgCALJUASKAMI4CRBQ"
     }
+  ],
+  "characters": {
+    "ryan-reynolds": "Wade Wilson / Deadpool",
+    "morena-baccarin": "Vanessa Carlysle",
+    "ed-skrein": "Ajax",
+    "t-j-miller": "Weasel",
+    "gina-carano": "Angel Dust",
+    "leslie-uggams": "Blind Al",
+    "brianna-hildebrand": "Negasonic Teenage Warhead",
+    "stefan-kapicic": "Colossus",
+    "karan-soni": "Dopinder",
+    "jed-rees": "Recruiter",
+    "stan-lee": "DJ"
+  },
+  "voices": {
+    "ryan-reynolds": {
+      "name": "Dennis Schmidt-Foß",
+      "wikidata": "Q102945"
+    },
+    "morena-baccarin": {
+      "name": "Melanie Hinze",
+      "wikidata": "Q102373"
+    },
+    "ed-skrein": {
+      "name": "Manuel Straube",
+      "wikidata": "Q1891725"
+    },
+    "t-j-miller": {
+      "name": "Tommy Morgenstern",
+      "wikidata": "Q1658027"
+    },
+    "gina-carano": {
+      "name": "Svantje Wascher",
+      "wikidata": "Q15435839"
+    },
+    "leslie-uggams": {
+      "name": "Denise Gorzelanny",
+      "wikidata": "Q1187757"
+    },
+    "brianna-hildebrand": {
+      "name": "Maximiliane Häcke",
+      "wikidata": "Q1659750"
+    },
+    "stefan-kapicic": {
+      "name": "Waléra Kanischtscheff",
+      "wikidata": "Q1233652"
+    },
+    "karan-soni": {
+      "name": "Marius Clarén",
+      "wikidata": "Q1899418"
+    },
+    "jed-rees": {
+      "name": "Marcus Off",
+      "wikidata": "Q1517672"
+    },
+    "stan-lee": {
+      "name": "Peter Groeger",
+      "wikidata": "Q98948"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Als Fox die Drehbuchautoren Rhett Reese und Paul Wernick nicht für jeden Drehtag bezahlen wollte, übernahm Ryan Reynolds ihre Gage selbst.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Filming"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Colossus ist vollständig computergeneriert. Am Set stand Andre Tricoteux für ihn, seine Bewegungen nahm später T. J. Storm noch einmal auf, und seine Stimme wurde im Dezember 2015 mit Stefan Kapičić neu besetzt.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Post-production",
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Visual_effects"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Der Film enthält rund 1.500 Effekteinstellungen, 700 mehr als geplant; 800 davon wurden in den letzten vier Wochen der Produktion fertig.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Visual_effects"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Fox gab den Film erst frei, nachdem 2012 mit kleinem Budget gedrehte Testaufnahmen im Juli 2014 ins Netz gelangten und begeistert aufgenommen wurden. Im September 2025 gab Ryan Reynolds zu, sie selbst geleakt zu haben.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Development"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Gedreht wurde vom 23. März bis 29. Mai 2015 in und um Vancouver. Die Kämpfe auf der Schnellstraße entstanden auf dem Georgia Viaduct, das der Produktion zwei Wochen lang zur Verfügung stand, egal bei welchem Wetter.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Filming"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Marvel-Miterfinder Stan Lee hat einen Cameo-Auftritt als DJ in einem Stripclub.",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Deadpool_(Film)#Comicvorlage_und_popkulturelle_Referenzen"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "from": "00:00:40.000",
+      "to": "00:02:26.000",
+      "text": "Deadpool-Miterfinder Rob Liefeld wird schon im Vorspann gegrüßt: Ein Kaffeebecher mit dem Namen „Rob L.“ fliegt durch die eingefrorene Szene. Später hat Liefeld außerdem einen Cameo-Auftritt als Söldner in der Bar.",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Deadpool_(Film)#Comicvorlage_und_popkulturelle_Referenzen"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "from": "00:00:40.000",
+      "to": "00:02:26.000",
+      "text": "Der Vorspann fährt durch einen einzigen eingefrorenen Moment der Schlägerei im verunglückenden Auto und nennt statt Namen Typen, etwa „Produced by asshats“ und „Directed by an overpaid tool“. Ryan Reynolds, Regisseur Tim Miller und die Drehbuchautoren haben diese Credits selbst geschrieben, um den Ton des Films vorzugeben.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Visual_effects"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "from": "00:23:29.080",
+      "to": "00:23:56.810",
+      "text": "Im Drehbuch lief unter dieser Montage Frank Sinatras „It Was a Very Good Year“. Erst im Schnitt wurde daraus Neil Sedakas „Calendar Girl“.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Music"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "from": "00:30:16.500",
+      "to": "00:30:23.200",
+      "text": "Gedreht wurde Deadpool unter dem Arbeitstitel „Wham!“. Songs von Wham! und George Michael tauchen im ganzen Film immer wieder auf, ebenso Anspielungen auf das Wham!-Album „Make It Big“.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Filming",
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Music"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "from": "00:37:14.800",
+      "to": "00:37:20.000",
+      "text": "Negasonic Teenage Warhead wurde aus der Liste der für Fox verfügbaren Comicfiguren vor allem wegen ihres Namens ausgewählt. Der stammt von einem Lied der Band Monster Magnet aus dem Jahr 1995.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Writing",
+        "https://de.wikipedia.org/wiki/Deadpool_(Film)#Comicvorlage_und_popkulturelle_Referenzen"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "from": "00:40:03.000",
+      "to": "00:40:09.300",
+      "text": "Deadpools Frage, ob Professor X „gerade“ von James McAvoy oder Patrick Stewart gespielt wird, kam erst nach den Dreharbeiten dazu. Beide Schauspieler verkörperten die Figur in den X-Men-Filmen, und die Zeile wurde für viele Zuschauer zum Lieblingssatz.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Post-production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "from": "00:41:24.100",
+      "to": "00:41:28.000",
+      "text": "Die Bitte um einen Anzug, der weder grün noch animiert ist, zielt auf Green Lantern (2011), in dem Ryan Reynolds die Titelrolle spielte. Der Film enttäuschte Kritik und Publikum und warf das Deadpool-Projekt zurück.",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Deadpool_(Film)#Comicvorlage_und_popkulturelle_Referenzen",
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Development"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "from": "01:00:01.740",
+      "to": "01:01:28.410",
+      "text": "Der „Deadpool Rap“ von Teamheadkick läuft während der Montage, in der Deadpool Francis jagt.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Music"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "from": "01:04:51.300",
+      "to": "01:04:54.500",
+      "text": "Wie in den Comics durchbricht Deadpool ständig die vierte Wand und spricht das Publikum direkt an.",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Deadpool_(Film)#Comicvorlage_und_popkulturelle_Referenzen"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "from": "01:18:20.700",
+      "to": "01:18:24.000",
+      "text": "Ryan Reynolds hat diesen Satz am Set improvisiert, und er stimmt: Aus Budgetgründen gibt es im Film nur zwei X-Men. Er wurde zum Lieblingssatz von Jim Gianopulos, dem damaligen Chef von Fox.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Filming"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "from": "01:20:31.300",
+      "to": "01:20:40.500",
+      "text": "Achtundvierzig Stunden vor der Freigabe kürzte Fox das Budget auf 58 Millionen Dollar. Bei der folgenden Überarbeitung des Drehbuchs vergisst Deadpool seine Waffentasche, was der Produktion eine teure Schießerei im Finale ersparte.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Writing"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "from": "01:46:58.370",
+      "to": "01:48:06.240",
+      "text": "Die Szene nach dem Abspann parodiert die am Ende von Ferris macht blau (1986), dessen Held ebenfalls mit dem Publikum spricht. Deadpool schickt im Bademantel alle nach Hause und kündigt Cable für die Fortsetzung an.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deadpool_(film)#Writing",
+        "https://de.wikipedia.org/wiki/Deadpool_(Film)#Comicvorlage_und_popkulturelle_Referenzen"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

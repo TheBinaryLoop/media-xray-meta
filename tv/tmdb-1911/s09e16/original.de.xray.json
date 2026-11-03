@@ -21,5 +21,54 @@
       "to": "00:32:44.483",
       "fingerprint": "AQAAjJKSnEkiDfEPPXiCSxe0_OgVCnmP5kKVD1fwohci5cN5vNBpXEeJvce5G64OnXjw5zgPMw3U4wh8HC6-43yHHviFH2eIOj8u6SH-I9R-JCP1oXmSJzg-Hd9zPCFF9CZcHXWOp7hTHc4_3JwUREoeaA-2KEdupcc348kHfymOX7h0BbmSToYWvgh9FQ9r7MrxK8d7w8_xC1my6kjWH09b1BslUJxelH6QH3qIKh20RBoe_YiuLNEi9JoUNHjG42_wPOh2I5nOHWF-lA92KviFS9kHZmUG53OCXEieFyXOdLiyRFQCKumRL4PmJDfSvUHD48wJxw2-4600bL2CmTz6iQgTS8Hxo1oOR0uh-UR-DQ-PhpFWVI6OL8mxi7GwIw3nHBcFXUhj8Th-3JuGRwAAjDbEIGKMIAYQLJhgCikjjECIAkAEA1aJRQDQggNNEABGGAOEAIARBoADxGhCABACCCCIQEJQQYkhwghBBABMGMEcAAAgogwiSAjkDDBIEWCIEQApIIAhggFpCOEECQUIJFIAJZgQABAkHAEOCQCUAQ"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "carla-gallo": "Daisy Wick",
+    "patricia-belcher": "Caroline Julian",
+    "freddie-prinze-jr": "Danny Beck"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "carla-gallo": {
+      "name": "Sonja Spuhl",
+      "wikidata": "Q1493351"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    },
+    "freddie-prinze-jr": {
+      "name": "Dennis Schmidt-Foß",
+      "wikidata": "Q102945"
+    }
+  }
 }

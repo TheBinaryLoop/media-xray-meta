@@ -21,5 +21,35 @@
       "to": "00:33:12.234",
       "fingerprint": "AQAAjFmiaZkzPMV15MppXEen5cLlB815XFnwwM9RH0WfE6Ol5PiJ_KGCZMl2wdNmHH-M48fR5Eh-ImeOtwOfCq7z4MfDY3PoIJwF8QiP70YfeJlwhkf34kJ_PMdDJvgRPrh36FnQqk9QMowoIkcfoXmW4kesPISakBam3PDTI8sx5SinJ8gfQhfRK8ZxiUf_4g_ChYfR45h-vAseNOMTBImrBM2jGD1GRRpOpjhFBz3R6Cr-C194XB-aoj0eLQgz2dCkI_wnw0qOUxmexniHbz1-NkTaC-GyCHuKRmHyoTqykxL0GNFPlEQ7XziD5kTFhGGO77iDL7mEZ8SJH90oUUazSMtxXcApCTAVCU9SIj1UHjk2iedw-gn6Czb-o6dxHWyqdcMFBY0BgBIgEEKKAiWAEEYAphAAU1BKFDCICSIJUYoBSwAUDzEkoFAAIAAJ0AoqJAQ1xAAhigAEUGFZwIQcYQlggAAAiCIQSSEgQAQAIhQAmEBEDEEAGcGAZVIYIBhUVhEAhEEAGWcI"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "sarah-baker": "Kim",
+    "kevin-will": "Randy Shepard",
+    "r-f-daley": "Terry Bemis",
+    "jerrika-hinton": "Nadine Tweed",
+    "leigh-mccloskey": "Lee Coleman",
+    "jo-anne-worley": "Diane Michaels",
+    "chad-jamian-williams": "Gary",
+    "laura-eichhorn": "Melissa Lawson",
+    "horacio-galaviz": "Man in Crowd",
+    "dustyn-lotz": "Kevin (uncredited)",
+    "ryan-cartwright": "Vincent Nigel-Murray"
+  },
+  "trivia": [
+    {
+      "text": "Co-written by John Francis Daley, who plays Sweets, together with Jonathan Goldstein.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

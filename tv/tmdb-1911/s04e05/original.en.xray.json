@@ -21,5 +21,37 @@
       "to": "00:33:38.550",
       "fingerprint": "AQAAjFmYRI2SULge1If-SsKUP0LoG0_Cg1d4mDmeDzdz_A9-odl61JzxKkaOJ35whjl6pYKWNAxyHi0RLVrxaUmh3cPFIw-J54GtpcLlE7GOp9CjRBy2J9B7ZHm-wE6-wLl0dPKPby0uEQ8i59DyrAgTMWuEf3CzI1d0XIKq4_oJ9Upi3CzyJCFqHV5pTMqNi0L24_1wHbmiBX0PJ9tRMT_-iDjBPCX6HUkupFbxlMHv4ErgJ8dHnHpxdXBMB3_xnziiyxGaK0mZoc-RD03THH0-bcgvQctREvHTHLzw5GjG5CHKODrCHeKPMHEe8MUx0wgb5UMzJU8a6EtxIs-wF1fxPsGP57haBkz-CGFnFW-SQ1dy5NRAPxYuo8rQpPpwf7iULDMu4ZfQhM6FTj_OF48jPGGOZj56BXkGXRKcSLiknMh1_BUAg5wQggiHEFDMACCIQMgQV4QARAhhgFIGEuOAMMoAIYwRQBEGERPCIEYEEI4SQ4AiRiAlBHNAEWEEEwYAAw5wijBhgBFgCQKME0AJZQBARABCIHFMGMWcAguAAggQgkBgDKAACYYUUQAAwhADSAEglCAC"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "eric-millegan": "Zack Addy",
+    "michael-grant-terry": "Wendell Bray",
+    "jamie-renee-smith": "Karen",
+    "ronobir-lahiri": "Barista",
+    "debra-christofferson": "Kelly Sutton",
+    "lisa-kaminir": "Tilda Addison",
+    "ryan-alvarez": "Ralph",
+    "todd-robert-anderson": "David Sutton",
+    "matt-doherty": "Gary Tushman",
+    "dean-cudworth": "Jim Amerian",
+    "ransford-doherty": "Detective Paynter",
+    "brian-david-miller": "Todd",
+    "gregory-hinton": "Orderly"
+  },
+  "trivia": [
+    {
+      "text": "Eric Millegan returns for a guest appearance as Zack Addy.",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Besetzung_und_Synchronisation"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

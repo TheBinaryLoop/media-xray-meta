@@ -21,5 +21,56 @@
       "to": "00:33:16.016",
       "fingerprint": "AQAAjOJkRUqUJJjXI6ZyMJGhXaKOJwmD_LhzfCWD54IVfsgOfZmQP3GCSxceHRdZ_PCP_LhycriPZ6IQ5tFQJX1xZsdE-fjwY3vxaCpqqUMONUcaZznOWcF3NGFqUD9yHZzEI5HMB5fI44arxviaC2cl4XzwI5qahUim7rhOtIfHB-Xj4VlePMIkKafQrFE2IdePH3q6Id8y7D8qfVow5cOT4OoBP1eCK_Gy4AqLdkfzDFxq4xmR70ayDx6zH7WyaXgcWcETXEd4JKwF5heelQmu4cpRayHReMiVQ0cYcodf_KBeTD-utYiPZNFRLvguHiWP6-hfnELy6QjzBD2eH82D3kdeJP2LklmMhsNv4nzwZcizQFeO_IKfBCdxM0eVdWgWJTwi-4GuI0sePehT4Vrxo1r4wyODLA8NTb4Q5hV-AYIEgEwgRYxCWAHACGGAGSsYIQAJZwwAgkMKkOXAIKMUQIowgIgwxABjCEQGMGAAAEJIAgAEAiLEACAISUMMAABIqBwQhkNhBAeKGm4AEhgAgRRRBBGHiEICA2AAIQJgIghghDJAmCBGCOUIJgAYywQ"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "eric-millegan": "Dr. Zack Addy",
+    "john-francis-daley": "Dr. Lance Sweets"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "eric-millegan": {
+      "name": "David Turba",
+      "wikidata": "Q111609"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Die erste neue Folge nach der Pause wegen des Autorenstreiks lief am 14. April 2008 auf einem neuen Sendeplatz am Montag.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Broadcast_history"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

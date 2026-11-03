@@ -21,5 +21,37 @@
       "to": "00:34:01.104",
       "fingerprint": "AQAAjKJEMVKSBfkV9Am0nEH4o4nS44mSxUZND82Jhw_OI-GPMLWDyUkWHVfQvKiSHw9L4WmEp0fyHGGeMiiZg97B4nMWnMzgHTueFo1nhLqL5gq0T5KQXzjKLDe-wzn6E_l8_DF06tip6pj4Q8sT1EcYrheePPiH6gos7wj1JMcuEq-DPHGYgLlGCe5xY-uPL0iYJtuHONXRD5cxo-Hy4Ce-LEf4I6mYg0TfFD888WjJ46TRtAifHE2xpjlUS9QKt8fm1KiVCRo5C2Hi4Azx6-gFP8d15MkOLa6D7GKOZzuaOsdEJakk5HwSnM1K_IFu8QjDJFlQ68bhZceD5wtOH93hPEdlPHjCXcKTJLownUNDhQ-O9mi25MVF4_mOyvzQ_Nj1IEE-NHO-4COOp0a3I_zxQvzwG3oewUeuePgBJwwgggLGABOUAEYUIRQJZQhFgkogCCHMIEKcFAwAYIABghCglDJICUGMIgIoEJwDEjFBgTGAKcAcFAQAQaQQQgAEiGDAMaEIIQIAYkRgSACDjHEAGEAAHAYBg4wAAnJgnFIGOGoEEkAgBQ"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "janet-varney": "Maureen Perot",
+    "christine-lakin": "Vanessa Newcomb",
+    "sunkrish-bala": "Buddy Shirazi",
+    "zachary-knighton": "Chet Newcomb",
+    "stoney-westmoreland": "Jungle Jim Delroy",
+    "omid-abtahi": "Hal Shirazi",
+    "rich-hutchman": "Kevin Howard",
+    "michael-adler": "Pastor Rick",
+    "jerry-ray-shea": "FBI Forensic Tech",
+    "ren-casey": "Young Deputy",
+    "ryan-t-husk": "D.C. Cop (uncredited)",
+    "ryan-cartwright": "Vincent Nigel-Murray"
+  },
+  "trivia": [
+    {
+      "text": "The first episode of Bones directed by David Boreanaz. He went on to direct more episodes, including the series finale.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

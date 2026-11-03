@@ -21,5 +21,36 @@
       "to": "00:33:38.836",
       "fingerprint": "AQAAjEwmakoUXMtxNMxDXBeeLKh9-Ee140fyID8-C_UNHz9q4sH54CdxXMf14wtCp50g9jgPPZNphD--C88xmnHAhvMQZpDyIS_GLBdOXceZozlCWsmEZOmiH3WOo7oTNElyvAeaOof28MQs6fhTeAxLHIyVZUKTLF2J-BF0pTiTQ1EPLSvyaMHJ42jSY0uUw7-CIx9cSXgiFec2bD9CPRd-BfleqNqF0A6aU8Qzh-iDB5VVXBnOhCRyRkuC5PCPV8GPJ_nhJ2rwVUIzP9Ce5URIJdCSRUzxMA_iY6Yq-OEp0PmET4d0wsfDKcaDn9iso3mWo_pwCpcORxzOPEHk4w-0NDr6KDiY_NCu4uKT4ImSCLWkHE70BqHE8viGPO3RODlqhYeep8iFg8q54zPeRhHOB6GUMdDikARFSERGIWQ8Uw5YB6gQhwlFkNCAGQeJAkwwAACoChhACAQAoSCIAYAYCRx2xDhDBHcMGEcUEsQAAQEjgCkogOIIMQQIEYAZQQRxABiCAGAeGQWAEUgaI5EiigJhiVAKAIQEBQgpKYgAxAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "john-boyd": "James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "laura-spencer": "Jessica Warren",
+    "taylor-spreitler": "Courtney Hodsoll",
+    "michael-cram": "Ted Thompson",
+    "juliette-jeffers": "Cheryl McMichael",
+    "mahryah-shain": "Scott Simon",
+    "rick-overton": "Minister",
+    "jason-galloway": "Brother Tepper",
+    "wendy-worthington": "Waitress",
+    "alex-skuby": "Gavin Chadwick",
+    "sandra-rosko": "Recovering Gambler",
+    "sunnie-pelant": "Christine Booth"
+  },
+  "trivia": [
+    {
+      "text": "Written by Kathy Reichs with her daughter Kerry Reichs.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes",
+        "https://en.wikipedia.org/wiki/Kathy_Reichs#Television"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

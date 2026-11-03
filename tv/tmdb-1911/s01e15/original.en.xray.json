@@ -21,5 +21,32 @@
       "to": "00:34:07.171",
       "fingerprint": "AQAAjFLISFKI_8ePlrmCH6E1ND_0DHokpfhRBflx9MyRQzvRdEQuHa-G4_kRN0ShQ39wpC9CORGuQ-WRM8evoZWIpjp-VG7h80i28sgfCdfRxJlZlEuHlhNO5IVG9rgyI_-LPnSQHi1-PD90H-UypN08tPzw-PhRSnjSSjiO5jzy5fig_GCkJEkScQN-4DviHseP4ziOE_kJKXtGxMfVose9oB9xb0PkPvgITdrhB_shHjnuoPnwfUMObdmJMBxjXD6qHxdhH9fGCT0mHs4WlHrxJcfDCN6PP3g-XIl2XEefK8MUTkderkaiR8lRX4LFXDh9HOdxTSpcaUWePtA_hHqk4ElMbsiXo_nRWReU63hzRMeFNsklAAAMEFQAwBgSgCulhZNCAakAYAQZEIRXCDBhCBSGAIUQQQARQAQARBBAABEOAGQIYMw44SATlprkkCIgGEkwI8AIYwAwmDogGACRKECRQk4qgZhQxjFCAFECAECEIoBZ4qQhChghDCFAEQVMBwA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "t-j-thyne": "Jack Hodgins",
+    "jonathan-adams": "Daniel Goodman",
+    "eric-millegan": "Zack Addy",
+    "greg-ellis": "Kevin Hollings",
+    "adam-baldwin": "Jamie Kenton",
+    "ron-marasco": "Lewis Slater",
+    "coby-ryan-mclaughlin": "David Simmons",
+    "adam-lieberman": "FBI Agent Sanders"
+  },
+  "trivia": [
+    {
+      "from": "00:25:23.060",
+      "to": "00:25:28.880",
+      "text": "Boreanaz and Deschanel wore earpieces for the sing-along to Foreigner's \"Hot Blooded\", and one fell out of Boreanaz's ear during filming. He also admitted on the DVD commentary, which he recorded with Deschanel, that he kept the script on the dashboard during the car scenes.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Two_Bodies_in_the_Lab#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_1#DVD_release"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

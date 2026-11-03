@@ -21,5 +21,23 @@
       "to": "00:34:07.478",
       "fingerprint": "AQAAjFGSJIsSSYmiwInNDPWLrwj5g7qSopbxC2UZUfDxPcMHPzxK8Tj6UApyI-Hhw9OOVsclGj_c5sKV5PiOLj9icQph8ij5Qfeh50JFZYEWPbgQT5GOl9NS1Hvg4yyuGx_C79B-IktWhcVxYaoeDo6zowsbvD2eK8N1PDtq7bB5XFIGP3sxHSdj_LiSI7cVlFkDLQ9-HO6G6zh3SMmyJNmSAQAAADgePMPxAzh-_NADnQcTM9mEkxe01ca4I_zRw9WPPNOD70GyPMGNMx0qJpiSzDyYnEH8PEj2HMfEHE0kHfsT1ExSZLqE5Dn8EZV6Y1q0I4dm-cjRL5hyIanC5EhH49j14UkWcfBpPDwu58LbHs8k6Dmuo_FDYbIjB-cP4IQTVBBgBGCAIosEUcQCQohRAiBDgDGCCGKUQ4ICqYQGCQEhCaFMAIIAUcQZIgx1hCkBAFRBIacSUVYQA4AQgghhACOAEgOAMEBARhBA0BmCDCMEWWEQIIAgIABjBCkmAA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "t-j-thyne": "Jack Hodgins",
+    "jonathan-adams": "Daniel Goodman",
+    "eric-millegan": "Zack Addy",
+    "lawrence-pressman": "Trent Seward",
+    "zeljko-ivanek": "Carl Decker",
+    "jake-cherry": "Donovan Decker",
+    "john-m-jackson": "Sam Cullen",
+    "suzanne-cryer": "Agent Pickering",
+    "jaime-ray-newman": "Stacy Goodyear",
+    "sarah-ann-schultz": "Maria Semov",
+    "alexa-fischer": "Sharon Pomeroy",
+    "anna-easteden": "Polina Decker",
+    "marc-jablon": "Weeks"
+  }
 }

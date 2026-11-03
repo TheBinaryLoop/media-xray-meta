@@ -21,5 +21,21 @@
       "to": "00:33:29.821",
       "fingerprint": "AQAAjEoiJVq2ZBm62YfOY9JyzIVjOkK_SXiS5ohlQkfEy_ipGfUTIlmi6EeO41KOV06Ghhf6H594dHMcODd--Ed4QkeeK3hW3BYur-jR1HgzXMEfotOyozqXIO8xHk2Voz-uBNMPLcd5wzeeC8-hJkdPNM-Oi8Fz4coVBqoV3DkuqUd4uEduJHtV42kSEz8uR_kwL5mIMzpOJTn6E2ky50gmHSUPP0d9CneCr3giPUi-Iw_6wvnQPUEsQ4-DT8HNo_mD8niFKl2CnyIEnbjEI3h-Ip-h_shPfCFO9PhV_MizHNqF9MgLcWFEoT-y44lRgsl9XHuQ69BNYXcMTRutIFW04UwGHH2Vof9ypOEgZz-czfjhnUSVHZokH6Y-9IX2I33QCl989EsRJvkWACAAMsIpI4gyQFCmCCIIAGAgQ4IwAhViViFgGBLIMaUQgsQBRBxDDgSFlEJEEECAcAIASoQRhAFmhAAKUQiJAApKCBQDwlADBDLAAOGIAwQQRwEhwmEqBMIEAWIIIhBAJgQwQDHikJFCKUSEAQ"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "patricia-belcher": "Caroline Julian",
+    "henry-simmons": "Tom Molnor",
+    "trae-ireland": "Agent 1",
+    "aidan-bristow": "Clerk",
+    "ali-louise-hartman": "Christine Booth",
+    "susanne-allan-hartman": "Christine Angela Booth",
+    "andrew-leeds": "Christopher Pelant",
+    "reed-diamond": "Hayes Flynn"
+  }
 }

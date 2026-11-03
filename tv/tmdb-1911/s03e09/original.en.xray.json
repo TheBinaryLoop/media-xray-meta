@@ -21,5 +21,51 @@
       "to": "00:33:50.320",
       "fingerprint": "AQAAjOOSRJKSRFHQC75X7HzR6CnC65hyGrpzBPxxpmiOLlmW4gZ1_IuL2kYSBXnwNg0aJ7OCvmg0FWWY431wHHfQL3mCRkmk40R-aGQQZlGuoo8Ed-iV48vxjCiZHU2Y7PhCRsMpJEXe45-CbcmOJx_xPRpyJHmUBl_V4FqJDw9HBT6b4DyRHGkX5Xj6Y8cPSi3yLFcKVYoe5KIPHtuL-3hSXNLRJLqCfviPK3h-pD90D3l8TOK-gnqOrnxwPDwOHn13ND7-B-eMKzh6Z_C4JBTyBxrxzSifFD56fNDFIVxTCteDk4fHZ-iPZNuIaGqCH1_0CA93PLAqHfiC-2iPi8iPZGE2x-iT4Ax--EfyiEjD4w9-PEnR6Eet4_mR90iy8cEjpsezwxED_jPOzwCAECDAAIIQYoZQABTQghAKhQCGKGqsAYwRRxBmhhCCCATKCGCQII4jBAAHUhBjAApIKWCQM0Jwo4QAwBEAEGMFESAME0QIJBWBSHDHAIEGGGGINUAwahAREghnCOHAcECcI5AAQ4QQ1BjAIBEIAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "eric-millegan": "Zack Addy",
+    "john-francis-daley": "Lance Sweets",
+    "ryan-o-neal": "Max Keenan",
+    "patricia-belcher": "Caroline Julian",
+    "alessandra-torresani": "Teenaged Girl Elf",
+    "reginald-veljohnson": "Dale Owens",
+    "david-deluise": "Santa Jeff Mantell",
+    "ernie-grunwald": "Santa Fred Spivak",
+    "bess-wohl": "Amy Hollister",
+    "skye-arens": "Hayley Hollister",
+    "david-ackert": "Marty Moussa",
+    "donovan-scott": "Santa Larry",
+    "david-doty": "Ralph Harley",
+    "kacie-borrowman": "Little Person Elf",
+    "martin-chow": "Santa Chung",
+    "robert-dahey": "Chinese Waiter",
+    "loren-dean": "Russ Brennan",
+    "ty-panitz": "Parker Booth",
+    "james-mcmann": "Santa #5 (uncredited)"
+  },
+  "trivia": [
+    {
+      "text": "John Francis Daley joins the opening credits as a series regular from this episode.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3#Main_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "This was the last new episode before the writers' strike hiatus; the show did not return until April 14, 2008, more than four months later.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

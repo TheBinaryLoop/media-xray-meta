@@ -21,5 +21,33 @@
       "to": "00:33:25.428",
       "fingerprint": "AQAAjNKTUFTwI-EnRL_A6TmmSAyF-DnEzviUHmOiF1rw8EGeD892nMnR7EeZJiGyHzee_Pilg0ouxTh7_EItQ8tF4WOCSwnCD05uVD-e7MF75JWRfCnBw93wdMd_XGgq6kjGpUfY6Wi640txJRfaH83mGJdyBCZpKDy6HIpS5_jRSznCPMXRRF169MN3onEY45KCH6-RcKcQ_ngUebCPassToUnK4ESbHOeOxxp2XDmaR8czCVe-45mOMD80fSdyFu-DR8mKNmFyXPBT9BP-4t3xFl11NJF0zPuw77jSTPiOXAz0zvh2ImV04RmHO0djtGGQ27i2E87ULkKu4Ye148mD_5gfPDzSG4lmupinKCIu_Ojht0L94OORwHEoPDu-Y3rRrMiTHT985niOr8R9Ds0l9DEAwox1QBAHgBJMKAAIIMIZgJQRAACiCCHIEEwsUIIAAggQABpumGEOEQSI8QIADASCghkEqGLCUIMEpQQ6Aw0ghBAAlCCAMGKMYQACZYQEigBLnFOEAMOQEUQIJwAywAJJABAAYOCIVEAwARCFADDFhAEK"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "carla-gallo": "Daisy Wick",
+    "patricia-belcher": "Caroline Julian",
+    "john-hartmann": "Mr. Gough",
+    "lucy-walters": "Lily Thorn",
+    "kathleen-york": "Marianne Thorn",
+    "rich-ceraulo-ko": "Ted Norman",
+    "alastair-duncan": "Heinrich Gloeckner",
+    "freddie-prinze-jr": "Danny Beck",
+    "mather-zickel": "Aldo Clemens"
+  },
+  "trivia": [
+    {
+      "text": "Introduces two recurring figures from Booth's past: Freddie Prinze Jr. as CIA operative Danny Beck, and Aldo Clemens (Mather Zickel), who counselled Booth during his sniper days.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

@@ -21,5 +21,39 @@
       "to": "00:33:46.691",
       "fingerprint": "AQAAjFHWJEmiTEpwSVqHMuuR5-iNonl5nHiI8DqkastThB0rnPFQ68eT4ZEcuHuEq_OIRloWB8l9FbkkoWlQJtKDH-9x5cQz4kqOJzuSH-mFZ8d7PCURpglzVPQhB1eGPtAyZniSPJCOX9D-QqxylMqPv9B1ZG8yoWESE32iB03ySDmq8dh9PPiF5smJfsPhZN0W43mB5llE9KXwo0cYu0jOJhSaPInQVcfNB_uyFHbxBT_RELnAuDl05UdeafhD9NHgZxKKljGaNIuRN9EH8Y-KjExwnTh2p_gHT8qH_EfSKPrwJyOa-Ql6of6LvscpI1yYL9CSx8gTe4h0NL4lnEbzKEfP42Za3IKmn_Dyw1vCiBTCNxiPjkmmwvHRH_dxNHuO8HCopIb845JQ_WgYQY_mBDN_-MGFi8czZSX6T_AeVNvx4z4AABBiwDglDCACSCUAEAw4IwwAFEkEGVDEEMMEA4oY4IhgAhGDGAACEAIERAYAwYACADAsEREAAIecQgwAxpACAAgBFBbUAISEAkZIAAADxAgDmEACACEMIEwyBKyAQggBIBLEEESRQIgwgBgxAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "joel-david-moore": "Colin Fisher",
+    "ryan-o-neal": "Max Keenan",
+    "chad-willett": "Charlie Dunwood",
+    "scottie-thompson": "Kim Mortenson",
+    "jeff-yagher": "Sean Mortenson",
+    "kelly-noonan": "Rachel Granger",
+    "david-greenman": "Marcus Geier",
+    "latarsha-rose": "Jenny Holt",
+    "deborah-lacey": "Nurse",
+    "scott-alan-smith": "Bruce Hanover",
+    "seth-macfarlane": "Stewie Griffin (voice)",
+    "steven-meek": "Dr. Les Granger"
+  },
+  "trivia": [
+    {
+      "from": "00:36:02.150",
+      "to": "00:36:05.150",
+      "text": "Seth MacFarlane voices Stewie Griffin from \"Family Guy\", who appears to Booth as a hallucination; MacFarlane wrote Stewie's dialogue for the episode himself.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes",
+        "https://en.wikipedia.org/wiki/Seth_MacFarlane#Guest_appearances"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

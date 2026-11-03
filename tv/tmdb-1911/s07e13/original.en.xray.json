@@ -21,5 +21,38 @@
       "to": "00:33:38.678",
       "fingerprint": "AQAAjJGiLFGaZAn0IN8M-D0-OFlSHH_A80huRF9yA6UuPM9QZWii4yT-oukexK24QUubjFiP2GJBdcG5Yhf8GG8SfGKMH92zHeaSo6xy_JuM6BkkDE9ylNKD9Ely9JJV_MJ54Y-MJyJx_firCP-BHdR-zKkQm2mC5FeCbxEaa7ioYF8WotqTZHgeXEmOWfcR6XMI7Tr4FVNCHeGiHM-SIz78C2eOkRG-HYqSF9Oj5Di-vAHJCzmcpsiXBz9-BkxuKPJj5MmPssNT9C2-DmkTGz_0B2GyF12a1IhJ_IdGQnTICc9LHKH0GNOaD82Jf8H0CDFFPFlyaOmH7zlyHnH-4E9SQU905MrxC-aJPVsDsseF6M4ILW-O-njwpCS0MOKP2K0GrxyDm0ctXImGMoSPSHccqGaGXOCPKeGeEH0epQBMgUDAEUIwMEYZaQglkAALhJEEGACEIQgBIoAmQiCiDECACqAARAYRowQBCgAhjFOUEGMYA8I4ASgAhBkBAhNYGUMo0Qgq4RQAhjBCIBAGEGMIEIIIIIgzgDBggBhIGKOAEIhQ5YgggAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "ryan-o-neal": "Max Keenan",
+    "patricia-belcher": "Caroline Julian",
+    "michael-grant-terry": "Wendell Bray",
+    "nadine-ellis": "Dr. Alyson Noble",
+    "annie-tedesco": "Meg Vinnicombe",
+    "nancy-linari": "Harriet Grover",
+    "kevin-brief": "Father Keyes",
+    "darin-toonder": "Dr. Ethan Sawyer",
+    "kevin-scott-allen": "Man",
+    "ali-louise-hartman": "Christine Booth",
+    "susanne-allan-hartman": "Christine Angela Booth",
+    "andrew-leeds": "Christopher Pelant",
+    "reed-diamond": "Hayes Flynn"
+  },
+  "trivia": [
+    {
+      "text": "Directed by David Boreanaz, this is the last episode of the shortened 13-episode season.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_7#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_7"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

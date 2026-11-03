@@ -21,5 +21,55 @@
       "to": "00:33:22.346",
       "fingerprint": "AQAAjEmiSI4SbQnCuEcb4cyEn4HPGx_6JyGaJcsHLeOEypTwLQez6gma6gpRKeRxHtWJ80gvS9CVxXiU4xLC_EN_4Tp4Cs20_KjEOuCT4xOPRg-qH_Ph5S9-oblR8bh5oSKDZsYfKMeD08f3wU-G77iMK0LiRSFFIdQbCWEOPYisP3jwPTia-qi0SEEVpdsQZo2h_TvCfHGE2wo8MsiXCR8a70G_KpGg7_ihpqh6wWcQPqGPqUdjZpJwofrQJFKD6zo-_AijC2IVCWdyIX0y9EoefNWNOMEROvESeMyMlsvBI9eDJ_Hw6YNuIcyPUD90xC-YFhcOH8V_HOHjQAuC55hy5XjxFw2OozwO_ziOH5aOHEK_WAh-HOlTfPjxY8KNHEUAAgABBBAThhHqnCCEEAAIMY4wQYQSAjpjBHAGE4GMEQoZJoCBACEMkFDImCIAEIhYIJhwiAABBANICBKEAUISAARyXCCFABAQMYUkpIYBoBwUwBJp3jMLGDGMYAQEh5wAwCMC"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "michael-grant-terry": "Wendell Bray"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Booth und Brennan schlüpfen wieder in ihre Tarnidentitäten „Buck und Wanda Moosejaw“, die sie erstmals in „Hereinspaziert zu Dressuren und Blessuren“ (Staffel 4) benutzt haben.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

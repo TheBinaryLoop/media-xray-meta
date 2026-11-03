@@ -21,5 +21,37 @@
       "to": "00:33:11.444",
       "fingerprint": "AQAAjJMSScmUB-2WYBd-9EczFjkSN62G-zp6KcKUybiFx_h-gRd64RHc7Qnc5Bmqk5iUR_BRHnmeQ7-Qn_Cj4tSS4D-uHP_R50irnFAZRRyeoz9U83iuIvKFZw6mnML0BHm2HbqL7DSchFmm4DsaJkat48lDnEfzPKgTIfp2qGJPTNERNjy-D2E0LQ96BVe9FY94PDmOJia6ZAmy6DGM9CJX7BFcnTEmXtCUE82Z4tah5_CU41FRPSCdo_p06GSQH-WrRPBrXAoD5kZYJeWRcPLhZxZqUcaPfcd_4WWOJg5CRoZuRB98C5eWFoyqC96RLImC_cJfBc2jFHp1hNoYPEwWnGlxvsPR5B76JMezHR_yHBp_6B-qC_mPk1TQND1KEj_OHbvQGzyPfEHzD_pTxGJeMPlRRcfBHpHl40m0CiEMRMIAAwQzxAigPAACACEYIAoRAQQQQBEhlAAQECYIcQwYQwgBXDFDBBACAEIIIgYYQAEiQABDADACMiYFUEAKAogSQoBADDBEACAQIsIIIgQwAiAhjnEAEaKNUEAAAxAA2gBhBDEIAQGAFCASAw"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "michael-grant-terry": "Wendell Bray",
+    "boti-bliss": "Judith Lanfranco",
+    "jeanette-brox": "Veronica Bardach",
+    "ian-kahn": "Ted Robertson",
+    "loren-lester": "William Wiseman",
+    "alexis-carra": "Allison Stallings",
+    "malcolm-goodwin": "CC Creach",
+    "grace-bannon": "Stacy",
+    "b-j-mitchell": "Ben",
+    "nora-dunn": "Tess Brown",
+    "wendy-worthington": "Waitress"
+  },
+  "trivia": [
+    {
+      "text": "Written by Kathy Reichs together with her daughter Kerry Reichs. Its production code (8AKY21) marks it as one of the two episodes made during season 8 but aired in season 9.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_9#Production",
+        "https://en.wikipedia.org/wiki/Kathy_Reichs#Television"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

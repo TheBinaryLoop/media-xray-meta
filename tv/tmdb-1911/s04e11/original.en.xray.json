@@ -21,5 +21,25 @@
       "to": "00:33:42.416",
       "fingerprint": "AQAAjI-4qEmEi0d66B_CTHvwS8J_NDmeEo8vzNsHOuKR_MhJoX0MJj-eiIsa7EumHb_g4fyRP4MmPYh21NlG8Iq8TLgeXEKVK3CM6DpELy_yvEng8aic4znyHMoRqz4eXrgmHV-O9Ct-6Md_6A_Cx2iSNLiCyx_-IDy0_Mil8LiMS0azI5V-JDUNN4qCNsyDd8HZ4fFD_BGayTlCJumhF-HBXJmE80kwtniOSzmQI3mY5PginUAlKQ8aHX-OJkTvQ5eC7bqOywq4HXZOPL-G8ejh5wh56EcfrUgZ-OFQHifR-EKtIqfQ7EHlY7-CEumN6cKpD9VyWNRR8QhJHlcz-Ic2McE5TziR-rhoIfqDHz6LH4-TClrSJBoHHMcJFbnwHNezJHC0F08_wJUOQYxGhBhAFEAACkAUUgwJQAAShggABQJMYGMoEEIJQCTByAggkBCECISUAA4YIJASQQhlgCPKEAYIYICJJRAAjgAxBBEEGoAAQgIAhokgQAyEBBQAAECUM0AQQoQxTgBEACMIMMYUogBpDIwUgChAAA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "ryan-o-neal": "Max Keenan",
+    "michael-grant-terry": "Wendell Bray",
+    "gina-torres": "Dr. Toni Ezralow",
+    "molly-hagan": "Elsbeth King",
+    "robin-thomas": "Richard King",
+    "john-lafayette": "Headmaster Donnegan",
+    "aisha-hinds": "Officer Norma Randall",
+    "hannah-leigh": "Alexa King",
+    "sterling-beaumon": "Royce King",
+    "john-griffin": "Poacher #1",
+    "ryan-bollman": "Poacher #2",
+    "ty-panitz": "Parker Booth"
+  }
 }

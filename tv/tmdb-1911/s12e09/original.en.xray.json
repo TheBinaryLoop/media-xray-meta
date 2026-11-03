@@ -21,5 +21,34 @@
       "to": "00:33:57.940",
       "fingerprint": "AQAAjElUWkqiJAizPMR57Pkw3XDVox_OH1mTQypzFXlChLkSJBfBNBH-40fu4GYKSQ_yKMcelNswZcmP_JD2iIhzME6OphL-C-10Ec1eNI12MFZxPLeIP6Ci5cOXpfgdvEeaTAl0fkVYPhI8XeARxinUIHuKd0-KPscfNFyGL3jmYLSJ1PGRNM1wMQ8-HVdmHA8PM9KJHMobZMn5YyLz4Ch1NFR4DtdxB81z9MfVi_h49Ed6HeqRk8YNc8RreNqB_8fzGvEOTT7yHKczDc-DPkX6FbWO89ASZ2lSaMob5NLx8nieBPnhLccX59B0hFEkKXikD7mMJA-6MsTLoiee7BM-HX2QSPkQ_scV46TxPBWaLOLBnC-Sp6ORjxSeDXcZ_Fhn4ehG2XA8B6WV4_HhiMcVdrj04ArC1IGih0euXABIjDHKEUGEMhIA4AzREmBjGGCMGEgJAAQ5CgByxBABJCBEUQKMIUQQhggxBomGhApAAKQWIAoBAhQgAiEAlCGIIQAMEAQoIAAzSijCiBCOKEORMkYz4IyQxBCiACCEASGMIEYaYJEigCpkCALMEA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "john-boyd": "James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "ignacio-serricchio": "Rodolfo Fuentes",
+    "stephen-fry": "Gordon Wyatt",
+    "erin-way": "Charlene Fisher",
+    "ronnie-gene-blevins": "Ray Kimball",
+    "jaime-bergman": "Dawn Skaggs",
+    "joe-ochman": "Barry McGee",
+    "christina-carlisi": "Agnes Doyle",
+    "john-philbin": "Ned Dixon",
+    "bulat-nasibullin": "Dustin Doyle"
+  },
+  "trivia": [
+    {
+      "text": "Stephen Fry returns as Gordon Wyatt, the character he first played in season 2.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

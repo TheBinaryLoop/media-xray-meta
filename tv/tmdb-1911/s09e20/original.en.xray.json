@@ -21,5 +21,22 @@
       "to": "00:33:43.363",
       "fingerprint": "AQAAjEqUNJkSJonA9sHTJ3h4NMckM3hyIfQFLbxwKfgxycvR6JCe5MenID86PSYiZSTuXKgzaOlUEjmei2i-RyiPxxxx5NEoJGwiBY9n_PAYafgPh3yQZ-KhBzmZo_mO6dk2PA3eHDFFPNoEVZyG7oSO33hyuCd0HpHDB3_QJF6H62i2UWjT45SOnA90CnOPL-TRPEF_cD6qOAp8HeGNE9eOhs-IVy-yHOpT5MfK4z--w0-U42SOE_3WIHyFsheuB35yHYqOmyL6hYHx-Wh-XNLRw1HzoT-azegHPc2HPsePX8Yv_DJ25MfxrcYWF89a_GjHDHlxedCeRQ0cy8sxBbmFZjfC5viSqqgPMU6Erjz-Gld1PJ0LrcuHSw9imRz8Y9pxXMmQk0YbZSe0OMxD5FJ2vBT64QdkgDCICYaYUwIAIoQwABDLCAAAAGWgYQgAYIQAQgkqBAESGEUNQAIYJAFhhkBBkBEGEsBIUYAIS4xBgAgGACDCAKQIAAJgQIQQSiDFFCJCKAGoAAgAYQRkTjCAiACKOOIAMAQgwYACBEABgBBMOQY"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "michael-grant-terry": "Wendell Bray",
+    "p-j-boudousque": "Adam Caputo",
+    "larry-sullivan": "Dr. Richard Burke",
+    "roshawn-franklin": "Carl Collins",
+    "elizabeth-ann-bennett": "Mallory Briggs",
+    "katy-stoll": "Abby Briggs",
+    "darryl-reeves": "Convict",
+    "christopher-clausi": "Lab Tech",
+    "celeste-cook": "Jeffersonian Tech Agent"
+  }
 }

@@ -21,5 +21,61 @@
       "to": "00:33:36.400",
       "fingerprint": "AQAAjFWSLZGaoaJxNWgqPkh-IpeyIzVOQryio8qO_MnwPcV3wsKlxbg3hBmloCUe6CdqPghzlFzRkFHxH2eOJpnzoDf-C_l2aHw09MOjII-OJ4mQL3HQE75QftCDEg8vfDlknjj3wCQika3RCw59MFsSHNGPd9CVY9Q_5GJMMD58fDZuvPhL7NjFoi5iZkLiZMTFLDv8gxeOSz3OIKl4ZEnyKviHtrjQHz6qRFvwXUTIDwlvHDxP9NuxXxOeJYqT4H8w_DLyLCe-4x-egz6q_IGjL5geCLmY46lz_FTgSxx-PD--JFIaNJpVVAKOyEncOEi-ow-a8wX_qMgpIrmUBOOKRtKDfsHTJ8ePfUc7ZkWoQznC6CnqZQ1Rp2guAvsNc_hzXMeTpRu-F84BIwQUCABHEQIAMQQUMIIEpggCShlggCCUGKSEgooJwBiQDALnGAMAAIIIEgAYBQBAQBFgmCCSAIAAcRgTQZQwAAhIhCKGIYSAAcIIQ5AgRhjDAAKEMAWEIRYIBwxACBnxCUCECIWUEsQB"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "eugene-byrd": "Dr. Clark Edison",
+    "patricia-belcher": "Caroline Julian"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "eugene-byrd": {
+      "name": "Rainer Fritzsche",
+      "wikidata": "Q1362641"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Den Dokumentarfilmer Andrew Jursic spielt Dave Thomas, bekannt als Doug McKenzie aus „SCTV“, der zugleich zu den Drehbuchautoren der Serie gehörte.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes",
+        "https://en.wikipedia.org/wiki/Dave_Thomas_(actor)#Career"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

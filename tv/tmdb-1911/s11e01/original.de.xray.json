@@ -21,5 +21,70 @@
       "to": "00:33:59.168",
       "fingerprint": "AQAAjEmYKEpiTehTuDty-D2cLUNtfAmRjTp6NOpx7dDPodI0-Lh7PH3wrThyNNSF_7hoNHGO6Txu1Mrw5Ai0E_GPWoVNGd2OYgqt4xTBcMmO5oiOz8ajQ_0OLc-Ffnh2RM_whsXVoh3RqHmOOyQeHmGqoH0InbiCJyuuI_wFjzfCvgquNLjyoPISNDpO6NKHK5GMXB-aMUc7Gt-D3wjj9NCkKgh_DeYI-yhZ42LRRJqOdke-Q9uPizny4Ufj4z--ozmqS8al4zrSLcEPesen4hU0aRIVNImP68XxvfgtNKOUo1eNHy-H0oJ-4S6RUwdzEUd_eMuwo0p-nD1-XDuO5ggP_QiPP7hwYtRxmMcupMrRa7iGFuUBoBQABCFFlAAACGGMEksYgIgyFgkBkAEAQEiMAsQIZgwRyACkBEAIIKQEAwQJ6oAxQgHBiABCGGSEcAQgYIhQCADjACCCIQugM4AJSoABAjCHiADAGEeoEIAASgiSQAkhCHQMQqmFIAI"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "john-boyd": "Special Agent James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "patricia-belcher": "Caroline Julian",
+    "pej-vahdat": "Arastoo Vaziri"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "john-boyd": {
+      "name": "Tim Knauer",
+      "wikidata": "Q2434097"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    },
+    "pej-vahdat": {
+      "name": "Marius Clarén",
+      "wikidata": "Q1899418"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Die Dreharbeiten zur elften Staffel begannen am 3. August 2015. Regie bei der Premiere führte Randy Zisk, der gerade leitender Regieproduzent der Serie geworden war.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_11#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Kim Raver spielt in den ersten beiden Folgen der Staffel die FBI-Agentin Grace Miller.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }
