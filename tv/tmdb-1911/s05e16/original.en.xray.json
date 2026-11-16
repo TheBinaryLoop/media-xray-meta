@@ -21,5 +21,32 @@
       "to": "00:33:53.450",
       "fingerprint": "AQAAjEoSZeGSUMMnHJewZeKL-8crxPwhuuGRH9_xH7vhTw3iJwcTRYM65cFdYSKZHu82-EIdO8FFiTjv4EH1olF13NHx1Aw0i_DWDLoQnugP81PQJD5O6fiDn3B0MUiadCGCvfhzXEfzDJV4hDsNLcwVZNJyfHtwSoOP64hbaH4QRmHGBrXYoZGUfIipQOcShKISHUzEC-dxfpi6lEmGMDfKC2KoDGKSHf0RNjm8O2iOmdmRvUQS5RvaRD_qHc6jhMS7IszJQN2NXFGU4qJTNDvaIWc-JFeCpj-m40efD5HyQaF2xEmiHH3gL0Gy0xpy6TquZDl6Gc3x9sIrBxlqFVo25cjLFydq8Wg28fjqBFMmI3wGfYgzcTROHjfOPOiRVkfybfC0KJ_QUPHxROOF8XjKwL9wnnh0_GgidMnyDO_xos8R5iegb-kBZxBBAAggiFJEMSMEEYIgQhwiiCEHCAEOA4OAUwIpAYgTTAgBlACCCQIYAIAATQgiRhhFqCAIAAMEggKBwbAinEIlpCZWCEGAEYYCghgAwAEjJJBICY0UAAA4BgwCkCkhBLLCAgII"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "eric-millegan": "Zack Addy",
+    "patricia-belcher": "Caroline Julian",
+    "theodore-borders": "Tucker Henry",
+    "seth-isler": "Judge Myles Hasty",
+    "chase-kim": "FBI Forensics Tech",
+    "paul-ganus": "Lawyer",
+    "angela-elayne-gibbs": "Jocelyn Arrington",
+    "laura-izibor": "Gemma Arrington (uncredited)"
+  },
+  "trivia": [
+    {
+      "text": "David Boreanaz directed the show's 100th episode, which revisits the very first case Booth and Brennan worked together and features Eric Millegan's return as Zack.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_5#Storyline"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

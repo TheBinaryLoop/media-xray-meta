@@ -21,5 +21,52 @@
       "to": "00:33:53.972",
       "fingerprint": "AQAAjJKerFES_EUxJX-ROBeaTMkobchx_HhwhM-xFzeDKyaaSReCZ0cu6IbPI_7x5niCa8HOIxfclUOlH7KOSoePPhr6HtR6fFQlPNSgk8cV-Bc0_mh-aI3y4Ql0ws-Ca-FBdIrywSp83IWuPLAfhF2GHz2auEY-RUcF_Qz8LHB96EoWpCcX7PDWHE-JUVJqNEd-aC_M_Nhzwg6PY3Ny1MrQjnGQHt_xL7giPjjS41wE5ehvVEFa8cGDB0Y_lNoCJx9O-Bq29TjMW0i-JQ_CfLjC4JkYMCRTNENcQj9iaReaV-geXFGIi8Z1lHI6OOYRPiYuSD6eI0y3HN8vHPgW_B_sXFjrI1KjLBUOVcezCM_xPyilLAfF7fgHVTLsZCkAAQkASIBASlJMAYeMkgYYQxQACBEvhANQAaEAAAABQwQwRgEACEKAGMYgAAgJIARgAiAKHBCGCEYMMwAIoJAhAQhGEYHAMCCAMEwYwggCBglBmDIAAEASMMAARBRDwBAghAI"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "geoff-stults": "Walter Sherman",
+    "saffron-burrows": "Ike Latulippe",
+    "danny-trejo": "Bishop Edward Galano",
+    "michael-clarke-duncan": "Leo Knox",
+    "mini-anden": "Brittany Stephenson",
+    "suzie-plakson": "Rosalind Bassa",
+    "mark-lainer": "Sheriff Bobby Erdy",
+    "carlo-rota": "Lambert Chaisson",
+    "elsie-gattas": "Waitress",
+    "michael-bower": "Sam Nozik",
+    "raheem-babalola": "Dancer (uncredited)",
+    "heather-ashley-chase": "Bartender (uncredited)",
+    "terra-dawn": "Pawn Shop Patron (uncredited)",
+    "mila-fresh": "Tattoo Parlor Girl (uncredited)",
+    "rey-hernandez": "Bar Biker (uncredited)",
+    "gisselle-legere": "Bar Patron (uncredited)"
+  },
+  "trivia": [
+    {
+      "text": "A backdoor pilot for the spin-off \"The Finder\", created by Hart Hanson from Richard Greener's \"The Locator\" books. The episode takes Booth and Brennan to Key West, Florida, home base of the planned spin-off, and meet Walter Sherman (Geoff Stults), Leo Knox (Michael Clarke Duncan) and Ike Latulippe (Saffron Burrows).",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#The_Finder",
+        "https://en.wikipedia.org/wiki/Bones_season_6#Spin-off_series",
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Ableger_The_Finder"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Filming was planned for December 2010 but slipped to February 2011 over creative differences; Hanson joked on Twitter that the studio's notes asked for it to be \"better\". Fox picked up \"The Finder\" as a series in May 2011, but it was cancelled after 13 episodes.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#The_Finder",
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Ableger_The_Finder"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

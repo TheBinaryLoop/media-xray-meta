@@ -21,5 +21,95 @@
       "to": "00:33:47.828",
       "fingerprint": "AQAAjNGqJlGSJEnQVB-qd3i0I9cSX7ik5LiDk0OTJnmChHqOUGIIyhceeQqO64Y1MTiTHzmSPcnRXFfBCyOPh6FQq0TK45SEkvlwIc-Fp0f5FU2iB_km4spx2hAf_MiP6rHRnE-wS-AxfviUBD-ep7j-oElz9E_x6UOyxDyR52jOBx-e42gU6qiUI8kZ5AI_MrjqoJmyMehJPBceVHqFg7GOX8F_FM2jFOeRB2r4oina7ZB4VE9U1JtBK0efQXwqI-xoPJFRSR-sy4MjMsd53PBD1JcuXJKQo1kf4TfuFnweQ4d84HdwI-9nuE5xH__gfGD2JEd8Qdce5GNinDzu3AidUBSaP3jYQekTEudL5EfYBMaXFL4eaD_y5HiO3mjGHw-OWjnSSFlyfBLx4z0AAGOEIwAARAkAxKggAAFCAECwBoYZxAwDQghkGBJQCQOAJUMwRwAQwBEljFAAMIQIcMBogwQDQHClEBJCEEgAgYZgpAxwxhEDADPFAECICAcAQRCAAgAiASEEIYEAA4QYw4ggyAiDmBCMISKcARQ"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "john-boyd": "Special Agent James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "eric-millegan": "Dr. Zack Addy",
+    "carla-gallo": "Daisy Wick",
+    "eugene-byrd": "Dr. Clark Edison",
+    "patricia-belcher": "Caroline Julian",
+    "laura-spencer": "Jessica Warren",
+    "michael-grant-terry": "Wendell Bray",
+    "cyndi-lauper": "Stephanie Susan „Avalon Harmonia“ James",
+    "tiffany-hines": "Michelle Welton",
+    "pej-vahdat": "Arastoo Vaziri"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "john-boyd": {
+      "name": "Tim Knauer",
+      "wikidata": "Q2434097"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "eric-millegan": {
+      "name": "David Turba",
+      "wikidata": "Q111609"
+    },
+    "carla-gallo": {
+      "name": "Sonja Spuhl",
+      "wikidata": "Q1493351"
+    },
+    "eugene-byrd": {
+      "name": "Rainer Fritzsche",
+      "wikidata": "Q1362641"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    },
+    "laura-spencer": {
+      "name": "Anita Hopt",
+      "wikidata": "Q15729831"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    },
+    "cyndi-lauper": {
+      "name": "Schaukje Könning",
+      "wikidata": "Q2231998"
+    },
+    "tiffany-hines": {
+      "name": "Anne Helm",
+      "wikidata": "Q99906"
+    },
+    "pej-vahdat": {
+      "name": "Marius Clarén",
+      "wikidata": "Q1899418"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Die vorletzte Folge ist aus wechselnden Perspektiven erzählt: Jeder Akt begleitet eine der sechs Hauptfiguren durch Cams und Arastoos Hochzeitsfeier und den Tag danach.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

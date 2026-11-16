@@ -21,5 +21,30 @@
       "to": "00:33:52.989",
       "fingerprint": "AQAAjFSWZVKkJMKZ7MKfI-eR_ENJNIyYSHiCUn_gC18M_6isYBf-43yOo1mRQyceoxePXPjRE01FHG-K5qh4_MgF9XiPPCHx7MPB7viHzlHQOMSPHI0-6FqOQ1TxI-WIbkoUfAeTUAyJfjW-vejx4cmLH7cmIT_ESFpYPDmyP4OPo1aIJ9-RT0KTH-Ux_RC_o9HEEPo-PFGwCyUzNGqz4Dt-9Id4XESOezrOC0ejhse54EeYG30iaBeYXCZ-FI1o6EefI0_J4Ef-Q3-Pa6EKn0KuLGjG4yc-CmEqok-S44sDJkkzFceBB8cHqDeOKk-AR5GOsko63Ax-gTt-uLrw4zyenLiJPkpEvNFx5kE_gt4BQYABhiCkgIJOEC0AYgAAOJBAgllCgWBEeCCYMoYJZrgQkAhnAGEKAUYIcAgAaAQBhCIgCFCOOECUEJwgp5iyjBHEABUEGCWMAgAAQgGQBBAgiAJGGeQAQMAUuDEixAFBhIIIEWIUA0QAoAwD"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "noel-fisher": "Teddy Parker",
+    "brendan-fehr": "Jared Booth",
+    "richard-v-licata": "Judge Williams",
+    "marisa-coughlan": "Special Agent Payton Perotta",
+    "marco-sanchez": "Thomas Vega",
+    "deirdre-lovejoy": "Heather Taffet"
+  },
+  "trivia": [
+    {
+      "text": "The episode earned the show an Emmy nomination for Outstanding Art Direction for a Single-Camera Series at the 61st Primetime Emmy Awards.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

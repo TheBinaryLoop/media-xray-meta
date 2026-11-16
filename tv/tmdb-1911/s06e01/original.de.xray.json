@@ -21,5 +21,59 @@
       "to": "00:33:50.900",
       "fingerprint": "AQAAjNGi5E0mNAqzHCekpziot_CJ8DMeCddxMuiF9MMk9dB_fNqDJuRRHm22HHqy4xd0WEd_1McWdbhhaMd4_OiPZ8d_lB3yHH9QH_CJ2sd5_PjRkMR9NMeFH_nKDnpeIfQL_8bRkyGu7niU4viPnME6JYKUbK6gJ0g_4X9RJwn-4z-qDQ2T5LiIE81PYVISDrEPXTzCNOLRY3p0UL-EJupTPEpwEd-SGZWTY8weDf3REr_hKWF49EmKH80wKcqPSGISLmiu40uJ8A-aXsUjPEVzvUIVffgVIdmTMUUpQ1_y4It0wUmOI8dpoekuJGuSBXmOPXhwyfJw9AnR8PgrPMfqI8wNzch_PHiioHlQHZdyNFSO-sZ3RFtnBXqQDZZ5jJIEABiAQBBhFAEECSEIEAIQICQyRDkFAAIIOCCMEIwCJRShhjFJhGHICSAQQLAgIQwRRgGAABFGEAEQcoIoQhQjxAACkKEIOCqAgAIoKAxBQBkgEGAKCECAhY8oyUAiwQPEjEFCQMKMIAQDoyAB"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "carla-gallo": "Daisy Wick",
+    "patricia-belcher": "Caroline Julian",
+    "michael-grant-terry": "Wendell Bray",
+    "ty-panitz": "Parker Booth"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "carla-gallo": {
+      "name": "Sonja Spuhl",
+      "wikidata": "Q1493351"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    },
+    "ty-panitz": {
+      "name": "David Kunze",
+      "wikidata": "Q47765524"
+    }
+  }
 }

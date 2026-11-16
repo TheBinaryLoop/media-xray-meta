@@ -21,5 +21,32 @@
       "to": "00:33:57.898",
       "fingerprint": "AQAAjIkyJWqnBA1e1D_C7HmRH30OkZNSfNGRhjq6Bd8tvAuOo86-IiZziOuFSNOLF2S0BS-aHr2On8eDPFHwhNh4XFMk_MZ2HleCXgeTKFHwDKcOj1-gH0-NR1JQFk0o5fidDJr1Bc0H_diP0tOCX9DGRMGrozlThAuTB-NyNNsU1IqCk0KzG_3B0Dua5MKd43rB5BpCJwlUJcLzGKPJBuKzEnkWnJnwTFGSCdspIW8UXZCMkEefPHiSMhiZT2iS6EGZIVfyQP9CRBdOJS2aJOERidqh58ivwH_wC_VhJ32IprqE__jR5EGXjMGZ48cb4xmSS0f-4qi-BM3L6LiM4_nhSVnwTTL8HSiJTUf2NA-0VMGPB7rwIHKiHI-S40eyPRXCxBKi65CO_MWzDH8kMMeHkcmJNNmGZNdxzAAFgBAeGOEQBYBwGZQxFDBjkAFkAQiQAMIZKIATwiADBCECMOCRQQwIwwhBggDAgBECKACQAE4IZoARBjAgmDEGKUOUA4IIBoojBFnFiCBCOAAcQ8QAASgAUElEkYDOEESQYoQQDJaAEg"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "patricia-belcher": "Caroline Julian",
+    "lenny-schmidt": "Dr. Charles Leacock",
+    "michael-bryan-french": "Tom Fargood / Alexander Gallo",
+    "amy-dudgeon": "FBI Agent",
+    "alan-mueting": "Clinic Visitor (uncredited)",
+    "cyndi-lauper": "Avalon Harmonia"
+  },
+  "trivia": [
+    {
+      "text": "Cyndi Lauper guest-stars as the psychic Avalon Harmonia, a role she returns to in later seasons.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_5#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

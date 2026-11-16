@@ -21,5 +21,22 @@
       "to": "00:33:14.486",
       "fingerprint": "AQAAjEnOR8ZlMHwc-NFxdTXsGrWDMzGuB9GPV8vx8fgvhHJymHtQHvJ3VM_hSsenw9Xx8YHH0IeGZ9ER00Ff-AlRkjme5cEefCk-UcejI9kR5jluHPvoZPiOMfOhJzOaJ0F9XMoo_ClK5iGcrzGK5A9Z5NLxKFXQPEtxwql2dJHwHz_CM4QP3UF75EmeI5IP8Qp6En9a5OmLZ0dzIz_KStBpPB_y1cEfTDwa6iNySRb-oJSghSQ-HdRXJQm-Ho8iZYSWaQ_6CzzuPXgWbcEpPSkeWjXEKsd5hEz04DSFPgzu4FHbI4364qaIN5B-hPlRMrgFJ3_QRpfQHDmaZym-E0w2nA2P5gtJlOCWB18kuMoS6PjRdB8qjQ-0aErQ7kCdhkNTi0Mf_Ef14xby8GgT4fA6g_mPZxdiGgC4EIIQRAAAQCBACEACCCIIkcoIAIghgCDtBENSEEjAIAwhwYgBBgBhjAJEAYcMEIQABACjkggDgALOMaMEMMoICQgBjhAiBCeAAAAUUYYBAgBgFlAogAACSGAQAIIRDg0RhghBBKFKkEOEAgA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "carla-gallo": "Daisy Wick",
+    "rick-gonzalez": "Rick Cortez",
+    "john-ross-bowie": "Lawrence Deighton",
+    "ryan-bittle": "Brock Vorback",
+    "tom-beyer": "Matt Garelik",
+    "camille-chen": "Karen Garelik",
+    "morgan-fairchild": "Bianca Chiverton",
+    "quinn-friedman": "Tester Kid",
+    "kamryn-tate": "Child"
+  }
 }

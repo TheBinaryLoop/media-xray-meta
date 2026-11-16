@@ -21,5 +21,39 @@
       "to": "00:33:47.828",
       "fingerprint": "AQAAjIpCkUqSKdizoJSPJzmSHM0TmwiVC7-Hxj0qZ8FXDTxa5Zjy8Ea-Q_tyeMd0In5CVDkHJluNM8d0tD8-NcgbaPnRf4hvwap2PJyMPlGFMKOOS4HWhwizN8ePZ0QTlSOmZx947BQqR8nxCr1x5RlR_mji40KolEeyVGFFNN_RD8_x40IjYZKsQw9OgVeyLUFvRmhK4cF9_KpQ0Rl49M2F68O1HH2C5i6OeDlkFq4K5oOYnBJCMOmUMEMfPghtClqY70MexXg-VPxgXR62mDnODzfchscnTURPYiJ_pHGO3yAbNnhoHDoOehSHPjgPbUO0zcbJw7nh5MmH0k_xnTjyo7GhUcKP88WYMoxwSxlcRcd3XDn6JMG7Q2P24IeuoG_RfBl-7EwuVLkOh8d76AeOBwcjjDJAIuMYIkAQQ4AwhDAFGGECGKCMIIAQIIAQRRAuiFAAQMEUUYYgiwxQkALAgBGAAcAEMQoxZggAAChFDHAGEQGFAcYARYnAhgJlBDDGEMMcMgAAohAhRCikMBBEAwCIYEgZhCw"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "john-boyd": "James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "eric-millegan": "Zack Addy",
+    "carla-gallo": "Daisy Wick",
+    "eugene-byrd": "Clark Edison",
+    "patricia-belcher": "Caroline Julian",
+    "laura-spencer": "Jessica Warren",
+    "michael-grant-terry": "Wendell Bray",
+    "cyndi-lauper": "Avalon Harmonia",
+    "raney-branch": "Felicia Saroyan",
+    "meagen-fay": "Celia Stockwell",
+    "tiffany-hines": "Michelle Welton",
+    "adrian-bustamante": "Representative",
+    "sara-rue": "Karen Delfs",
+    "sunnie-pelant": "Christine Booth",
+    "pej-vahdat": "Arastoo Vaziri",
+    "brit-shaw": "Jeannine Kovac"
+  },
+  "trivia": [
+    {
+      "text": "The penultimate episode is structured around point of view: every act is seen through the eyes of a different main character, six in all, covering Cam and Arastoo's wedding party and the day after.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

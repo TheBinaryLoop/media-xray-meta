@@ -21,5 +21,19 @@
       "to": "00:33:15.971",
       "fingerprint": "AQAAjFGSjGmyZIK244qCWIyKHunTIDxx5ceVC1cWHc2FMuPxLsV1gU8uJDuDMFtyXImY4wnItg_uoMyFhFN6pD385WCOZmgT7bjq4EcyfaSG9Dz-gk_kHV5CmbDC4_8xkVJq3EhGZUe-oyRTPNyD-8dzC30SYsp1sEqOywjz4zOxcd6gSboTQ3nyI0-O6_Dx5E2QR8nBw8eJnxy-GWEXCY16nBeu41mIneLgHPmUPdCbwpF2IseHC73QZJE-PI4e4j-aI5KFJz_-Bs4i4ZGi48fDFE90PBv6Q8toG88UIsyodagCRmKOhtx6_PjRhxFu-EMfWcGviLik4EthJVyGg4-D_7iFPBFzgc-ToPnRF9cCPUoS9G2CLDyqo0ma4cnxPbh09LnwoKGEHfkVC6qZEGE0HxWT5PhR8kfzHNeEJznR7Dn65AALLBKICKIAAIYgJIiwAIEAEHACGUMcEkA4AoQBwAgjjCECCAOIAdAiBBwQAjDHJCUAMA44AkQZACATEiBjvEUACACgUIoIQgQBWDEijjAKMIwsQJAAggRAkAAqBDDCCEIEQQYhwpBh1DDAhBSGKECMcUIg"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "maurice-compte": "Alex Garcia",
+    "kevin-bigley": "Sidney Jouron",
+    "ken-weiler": "Chip",
+    "amanda-jane-cooper": "Courtney Johnson",
+    "tony-pasqualini": "Professor Hunter",
+    "brian-klugman": "Oliver Wells"
+  }
 }

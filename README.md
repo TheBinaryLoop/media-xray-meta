@@ -10,15 +10,19 @@ viewers is kept per language, so the data works the same for a German viewer as 
 
 ## What is in it
 
-| Title | Items | Segments | Anchors |
-|---|---|---|---|
-| *Bones* (2005), all 12 seasons | 246 episodes | 234 intros, 244 credits | English (245 episodes) and German (all 246) |
-| *Deadpool* (2016) | theatrical cut | credits, ending before the post-credits scene | English and German |
+| | *Bones* (2005), all 12 seasons, 246 episodes | *Deadpool* (2016), theatrical cut |
+|---|---|---|
+| Segments | 234 intros, 244 credits | credits, ending before the post-credits scene |
+| Anchors | English (245 episodes) and German (all 246) | English and German |
+| Cast | 4,125 credits with TMDB, IMDb and Wikidata ids; German character names and German voice actors for the main and recurring cast | 52 credits; German names and voices for 11 |
+| On screen | who is in each shot, every episode | who is in each shot |
+| Music | the theme in 146 intros, 80 songs in 58 episodes | its six songs and the score cues that match the album |
+| Trivia | 108 sourced items in English and German | 18 sourced items in English and German |
 
 All of it is machine-generated and verified as described in
-[tools/generate/README.md](tools/generate/README.md), so every segment says
-`"reviewed": false` until a person has checked it. Who is on screen, scene names, music and trivia are
-not filled in yet; the format has room for them.
+[tools/generate/README.md](tools/generate/README.md), so every entry says `"reviewed": false` until a
+person has checked it. Music is only listed where a recording's fingerprint was found, so songs nobody
+documented and songs not in AcoustID are missing. Scene names are not filled in yet.
 
 ## Layout
 

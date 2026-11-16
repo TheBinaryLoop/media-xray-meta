@@ -23,6 +23,3008 @@
     "frameRate": "25",
     "release": "25 fps European release with English and German audio"
   },
+  "people": {
+    "emily-deschanel": {
+      "name": "Emily Deschanel",
+      "tmdb": 25933,
+      "imdb": "nm0221043",
+      "wikidata": "Q204672",
+      "credit": "main",
+      "billing": 0
+    },
+    "david-boreanaz": {
+      "name": "David Boreanaz",
+      "tmdb": 25934,
+      "imdb": "nm0004770",
+      "wikidata": "Q206364",
+      "credit": "main",
+      "billing": 1
+    },
+    "michaela-conlin": {
+      "name": "Michaela Conlin",
+      "tmdb": 122237,
+      "imdb": "nm0174819",
+      "wikidata": "Q116735",
+      "credit": "main",
+      "billing": 2
+    },
+    "tamara-taylor": {
+      "name": "Tamara Taylor",
+      "tmdb": 39464,
+      "imdb": "nm0853231",
+      "wikidata": "Q236948",
+      "credit": "main",
+      "billing": 3
+    },
+    "t-j-thyne": {
+      "name": "T.J. Thyne",
+      "tmdb": 151263,
+      "imdb": "nm0862328",
+      "wikidata": "Q361158",
+      "credit": "main",
+      "billing": 4
+    },
+    "john-francis-daley": {
+      "name": "John Francis Daley",
+      "tmdb": 52935,
+      "imdb": "nm0197855",
+      "wikidata": "Q342636",
+      "credit": "main",
+      "billing": 5
+    },
+    "joel-david-moore": {
+      "name": "Joel David Moore",
+      "tmdb": 59231,
+      "imdb": "nm0601376",
+      "wikidata": "Q371786",
+      "credit": "guest",
+      "billing": 6
+    },
+    "steven-christopher-parker": {
+      "name": "Steven Christopher Parker",
+      "tmdb": 230868,
+      "imdb": "nm1588622",
+      "wikidata": "Q2347491",
+      "credit": "guest",
+      "billing": 7
+    },
+    "kaylee-defer": {
+      "name": "Kaylee DeFer",
+      "tmdb": 1216163,
+      "imdb": "nm1560236",
+      "wikidata": "Q239223",
+      "credit": "guest",
+      "billing": 8
+    },
+    "mickey-jones": {
+      "name": "Mickey Jones",
+      "tmdb": 100230,
+      "imdb": "nm0428856",
+      "wikidata": "Q346965",
+      "credit": "guest",
+      "billing": 9
+    },
+    "nick-nordella": {
+      "name": "Nick Nordella",
+      "tmdb": 1226486,
+      "imdb": "nm0634984",
+      "credit": "guest",
+      "billing": 10
+    },
+    "oren-skoog": {
+      "name": "Oren Skoog",
+      "tmdb": 63476,
+      "imdb": "nm1372074",
+      "wikidata": "Q7101559",
+      "credit": "guest",
+      "billing": 11
+    },
+    "sam-golzari": {
+      "name": "Sam Golzari",
+      "tmdb": 54416,
+      "imdb": "nm1758979",
+      "wikidata": "Q7407530",
+      "credit": "guest",
+      "billing": 12
+    },
+    "jessalyn-wanlim": {
+      "name": "Jessalyn Wanlim",
+      "tmdb": 460636,
+      "imdb": "nm1801838",
+      "wikidata": "Q16222125",
+      "credit": "guest",
+      "billing": 13
+    },
+    "evan-arnold": {
+      "name": "Evan Arnold",
+      "tmdb": 169349,
+      "imdb": "nm0036439",
+      "wikidata": "Q20675897",
+      "credit": "guest",
+      "billing": 14
+    },
+    "laura-heisler": {
+      "name": "Laura Heisler",
+      "tmdb": 138774,
+      "imdb": "nm0374700",
+      "wikidata": "Q115368019",
+      "credit": "guest",
+      "billing": 15
+    },
+    "jordan-orr": {
+      "name": "Jordan Orr",
+      "tmdb": 95470,
+      "imdb": "nm1465268",
+      "wikidata": "Q1703644",
+      "credit": "guest",
+      "billing": 16
+    },
+    "giovanni-v-giusti": {
+      "name": "Giovanni V. Giusti",
+      "tmdb": 1046146,
+      "imdb": "nm3725724",
+      "credit": "guest",
+      "billing": 17
+    }
+  },
+  "appearances": [
+    {
+      "who": "nick-nordella",
+      "from": "00:00:38.000",
+      "to": "00:00:40.000",
+      "source": "face",
+      "confidence": 0.54,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:01:18.000",
+      "to": "00:01:31.000",
+      "source": "face",
+      "confidence": 0.55,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:01:19.000",
+      "to": "00:01:33.000",
+      "source": "face",
+      "confidence": 0.48,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:01:23.000",
+      "to": "00:01:30.000",
+      "source": "face",
+      "confidence": 0.48,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:01:36.000",
+      "to": "00:01:42.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:01:37.000",
+      "to": "00:01:41.000",
+      "source": "face",
+      "confidence": 0.52,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:01:37.000",
+      "to": "00:01:43.000",
+      "source": "face",
+      "confidence": 0.58,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:01:50.000",
+      "to": "00:01:57.000",
+      "source": "face",
+      "confidence": 0.52,
+      "reviewed": false
+    },
+    {
+      "who": "mickey-jones",
+      "from": "00:01:51.000",
+      "to": "00:01:53.000",
+      "source": "face",
+      "confidence": 0.53,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:01:55.000",
+      "to": "00:02:01.000",
+      "source": "face",
+      "confidence": 0.63,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:01:57.000",
+      "to": "00:02:12.000",
+      "source": "face",
+      "confidence": 0.55,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:02:07.000",
+      "to": "00:02:11.000",
+      "source": "face",
+      "confidence": 0.58,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:02:12.000",
+      "to": "00:02:19.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:02:16.000",
+      "to": "00:02:24.000",
+      "source": "face",
+      "confidence": 0.5,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:02:20.000",
+      "to": "00:02:22.000",
+      "source": "face",
+      "confidence": 0.56,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:02:25.000",
+      "to": "00:02:29.000",
+      "source": "face",
+      "confidence": 0.55,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:02:38.000",
+      "to": "00:02:42.000",
+      "source": "face",
+      "confidence": 0.61,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:02:48.000",
+      "to": "00:02:50.000",
+      "source": "face",
+      "confidence": 0.57,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:02:50.000",
+      "to": "00:02:57.000",
+      "source": "face",
+      "confidence": 0.53,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:02:51.000",
+      "to": "00:02:57.000",
+      "source": "face",
+      "confidence": 0.51,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:03:08.000",
+      "to": "00:03:22.000",
+      "source": "face",
+      "confidence": 0.5,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:03:11.000",
+      "to": "00:03:27.000",
+      "source": "face",
+      "confidence": 0.58,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:03:11.000",
+      "to": "00:03:32.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:03:32.000",
+      "to": "00:03:36.000",
+      "source": "face",
+      "confidence": 0.56,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:03:36.000",
+      "to": "00:03:38.000",
+      "source": "face",
+      "confidence": 0.7,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:03:41.000",
+      "to": "00:03:49.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:03:44.000",
+      "to": "00:03:49.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:03:51.000",
+      "to": "00:03:53.000",
+      "source": "face",
+      "confidence": 0.45,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:03:55.000",
+      "to": "00:03:57.000",
+      "source": "face",
+      "confidence": 0.54,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:04:02.000",
+      "to": "00:04:08.000",
+      "source": "face",
+      "confidence": 0.53,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:04:04.000",
+      "to": "00:04:06.000",
+      "source": "face",
+      "confidence": 0.54,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:04:10.000",
+      "to": "00:04:18.000",
+      "source": "face",
+      "confidence": 0.61,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:04:19.000",
+      "to": "00:04:29.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:04:22.000",
+      "to": "00:04:33.000",
+      "source": "face",
+      "confidence": 0.49,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:04:29.000",
+      "to": "00:04:33.000",
+      "source": "face",
+      "confidence": 0.51,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:04:45.000",
+      "to": "00:04:47.000",
+      "source": "face",
+      "confidence": 0.55,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:04:47.000",
+      "to": "00:04:50.000",
+      "source": "face",
+      "confidence": 0.57,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:04:52.000",
+      "to": "00:04:57.000",
+      "source": "face",
+      "confidence": 0.54,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:04:57.000",
+      "to": "00:04:59.000",
+      "source": "face",
+      "confidence": 0.53,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:04:59.000",
+      "to": "00:05:06.000",
+      "source": "face",
+      "confidence": 0.72,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:05:01.000",
+      "to": "00:05:03.000",
+      "source": "face",
+      "confidence": 0.51,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:05:18.000",
+      "to": "00:05:20.000",
+      "source": "face",
+      "confidence": 0.64,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:05:26.000",
+      "to": "00:05:28.000",
+      "source": "face",
+      "confidence": 0.56,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:05:31.000",
+      "to": "00:05:35.000",
+      "source": "face",
+      "confidence": 0.67,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:05:42.000",
+      "to": "00:05:55.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:05:43.000",
+      "to": "00:05:55.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:06:08.000",
+      "to": "00:06:10.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:06:14.000",
+      "to": "00:06:16.000",
+      "source": "face",
+      "confidence": 0.73,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:06:16.000",
+      "to": "00:06:35.000",
+      "source": "face",
+      "confidence": 0.63,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:06:22.000",
+      "to": "00:06:42.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "laura-heisler",
+      "from": "00:06:46.000",
+      "to": "00:06:54.000",
+      "source": "face",
+      "confidence": 0.54,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:06:49.000",
+      "to": "00:07:05.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:06:49.000",
+      "to": "00:07:10.000",
+      "source": "face",
+      "confidence": 0.69,
+      "reviewed": false
+    },
+    {
+      "who": "laura-heisler",
+      "from": "00:06:58.000",
+      "to": "00:07:03.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "laura-heisler",
+      "from": "00:07:07.000",
+      "to": "00:07:13.000",
+      "source": "face",
+      "confidence": 0.53,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:07:14.000",
+      "to": "00:07:17.000",
+      "source": "face",
+      "confidence": 0.74,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:07:17.000",
+      "to": "00:07:23.000",
+      "source": "face",
+      "confidence": 0.71,
+      "reviewed": false
+    },
+    {
+      "who": "laura-heisler",
+      "from": "00:07:20.000",
+      "to": "00:07:34.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:07:22.000",
+      "to": "00:07:27.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:07:27.000",
+      "to": "00:07:29.000",
+      "source": "face",
+      "confidence": 0.72,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:07:34.000",
+      "to": "00:07:36.000",
+      "source": "face",
+      "confidence": 0.79,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:07:39.000",
+      "to": "00:07:43.000",
+      "source": "face",
+      "confidence": 0.52,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:07:43.000",
+      "to": "00:07:47.000",
+      "source": "face",
+      "confidence": 0.54,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:07:47.000",
+      "to": "00:07:51.000",
+      "source": "face",
+      "confidence": 0.56,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:07:48.000",
+      "to": "00:07:51.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:07:57.000",
+      "to": "00:08:04.000",
+      "source": "face",
+      "confidence": 0.56,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:08:04.000",
+      "to": "00:08:07.000",
+      "source": "face",
+      "confidence": 0.57,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:08:21.000",
+      "to": "00:08:23.000",
+      "source": "face",
+      "confidence": 0.47,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:08:21.000",
+      "to": "00:08:24.000",
+      "source": "face",
+      "confidence": 0.47,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:08:24.000",
+      "to": "00:08:30.000",
+      "source": "face",
+      "confidence": 0.54,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:08:30.000",
+      "to": "00:08:37.000",
+      "source": "face",
+      "confidence": 0.71,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:08:34.000",
+      "to": "00:08:36.000",
+      "source": "face",
+      "confidence": 0.57,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:08:34.000",
+      "to": "00:08:36.000",
+      "source": "face",
+      "confidence": 0.71,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:08:34.000",
+      "to": "00:08:39.000",
+      "source": "face",
+      "confidence": 0.63,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:08:42.000",
+      "to": "00:08:44.000",
+      "source": "face",
+      "confidence": 0.72,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:08:44.000",
+      "to": "00:08:46.000",
+      "source": "face",
+      "confidence": 0.56,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:08:46.000",
+      "to": "00:08:52.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:08:48.000",
+      "to": "00:08:53.000",
+      "source": "face",
+      "confidence": 0.46,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:08:50.000",
+      "to": "00:08:56.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:08:51.000",
+      "to": "00:08:54.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:08:57.000",
+      "to": "00:09:05.000",
+      "source": "face",
+      "confidence": 0.59,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:09:02.000",
+      "to": "00:09:05.000",
+      "source": "face",
+      "confidence": 0.43,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:09:09.000",
+      "to": "00:09:17.000",
+      "source": "face",
+      "confidence": 0.64,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:09:13.000",
+      "to": "00:09:19.000",
+      "source": "face",
+      "confidence": 0.55,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:09:29.000",
+      "to": "00:09:40.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "evan-arnold",
+      "from": "00:09:32.000",
+      "to": "00:09:42.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:09:42.000",
+      "to": "00:09:44.000",
+      "source": "face",
+      "confidence": 0.56,
+      "reviewed": false
+    },
+    {
+      "who": "evan-arnold",
+      "from": "00:09:46.000",
+      "to": "00:10:00.000",
+      "source": "face",
+      "confidence": 0.73,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:09:49.000",
+      "to": "00:09:54.000",
+      "source": "face",
+      "confidence": 0.69,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:10:00.000",
+      "to": "00:10:03.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:10:00.000",
+      "to": "00:10:05.000",
+      "source": "face",
+      "confidence": 0.7,
+      "reviewed": false
+    },
+    {
+      "who": "evan-arnold",
+      "from": "00:10:05.000",
+      "to": "00:10:16.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:10:13.000",
+      "to": "00:10:15.000",
+      "source": "face",
+      "confidence": 0.7,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:10:19.000",
+      "to": "00:10:21.000",
+      "source": "face",
+      "confidence": 0.74,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:10:26.000",
+      "to": "00:10:28.000",
+      "source": "face",
+      "confidence": 0.73,
+      "reviewed": false
+    },
+    {
+      "who": "evan-arnold",
+      "from": "00:10:28.000",
+      "to": "00:10:30.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:10:36.000",
+      "to": "00:10:42.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:10:36.000",
+      "to": "00:10:44.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:10:46.000",
+      "to": "00:10:54.000",
+      "source": "face",
+      "confidence": 0.56,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:10:48.000",
+      "to": "00:10:50.000",
+      "source": "face",
+      "confidence": 0.72,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:10:54.000",
+      "to": "00:10:59.000",
+      "source": "face",
+      "confidence": 0.77,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:10:59.000",
+      "to": "00:11:04.000",
+      "source": "face",
+      "confidence": 0.67,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:11:04.000",
+      "to": "00:11:10.000",
+      "source": "face",
+      "confidence": 0.78,
+      "reviewed": false
+    },
+    {
+      "who": "oren-skoog",
+      "from": "00:11:11.000",
+      "to": "00:11:20.000",
+      "source": "face",
+      "confidence": 0.46,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:11:15.000",
+      "to": "00:11:23.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:11:20.000",
+      "to": "00:11:25.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "oren-skoog",
+      "from": "00:11:25.000",
+      "to": "00:11:28.000",
+      "source": "face",
+      "confidence": 0.45,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:11:30.000",
+      "to": "00:11:37.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:11:32.000",
+      "to": "00:11:35.000",
+      "source": "face",
+      "confidence": 0.75,
+      "reviewed": false
+    },
+    {
+      "who": "oren-skoog",
+      "from": "00:11:44.000",
+      "to": "00:11:51.000",
+      "source": "face",
+      "confidence": 0.47,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:11:58.000",
+      "to": "00:12:03.000",
+      "source": "face",
+      "confidence": 0.55,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:12:04.000",
+      "to": "00:12:09.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:12:09.000",
+      "to": "00:12:50.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:12:15.000",
+      "to": "00:12:17.000",
+      "source": "face",
+      "confidence": 0.64,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:12:34.000",
+      "to": "00:12:41.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:12:39.000",
+      "to": "00:12:41.000",
+      "source": "face",
+      "confidence": 0.63,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:12:59.000",
+      "to": "00:13:14.000",
+      "source": "face",
+      "confidence": 0.61,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:13:02.000",
+      "to": "00:13:08.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:13:20.000",
+      "to": "00:13:22.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:13:22.000",
+      "to": "00:13:26.000",
+      "source": "face",
+      "confidence": 0.58,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:13:28.000",
+      "to": "00:13:49.000",
+      "source": "face",
+      "confidence": 0.64,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:13:33.000",
+      "to": "00:13:45.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:13:53.000",
+      "to": "00:13:59.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:13:55.000",
+      "to": "00:14:04.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:14:04.000",
+      "to": "00:14:13.000",
+      "source": "face",
+      "confidence": 0.73,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:14:09.000",
+      "to": "00:14:17.000",
+      "source": "face",
+      "confidence": 0.7,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:14:20.000",
+      "to": "00:14:22.000",
+      "source": "face",
+      "confidence": 0.57,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:14:22.000",
+      "to": "00:14:35.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:14:29.000",
+      "to": "00:14:34.000",
+      "source": "face",
+      "confidence": 0.67,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:14:46.000",
+      "to": "00:14:48.000",
+      "source": "face",
+      "confidence": 0.53,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:14:46.000",
+      "to": "00:14:49.000",
+      "source": "face",
+      "confidence": 0.5,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:15:02.000",
+      "to": "00:15:05.000",
+      "source": "face",
+      "confidence": 0.58,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:15:02.000",
+      "to": "00:15:06.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "oren-skoog",
+      "from": "00:15:06.000",
+      "to": "00:15:13.000",
+      "source": "face",
+      "confidence": 0.54,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:15:09.000",
+      "to": "00:15:12.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:15:14.000",
+      "to": "00:15:22.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "oren-skoog",
+      "from": "00:15:18.000",
+      "to": "00:15:21.000",
+      "source": "face",
+      "confidence": 0.54,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:15:23.000",
+      "to": "00:15:28.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "oren-skoog",
+      "from": "00:15:25.000",
+      "to": "00:15:35.000",
+      "source": "face",
+      "confidence": 0.59,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:15:41.000",
+      "to": "00:15:48.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "oren-skoog",
+      "from": "00:15:42.000",
+      "to": "00:15:44.000",
+      "source": "face",
+      "confidence": 0.52,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:15:46.000",
+      "to": "00:15:48.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "oren-skoog",
+      "from": "00:15:48.000",
+      "to": "00:15:56.000",
+      "source": "face",
+      "confidence": 0.54,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:16:03.000",
+      "to": "00:16:06.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:16:06.000",
+      "to": "00:16:08.000",
+      "source": "face",
+      "confidence": 0.51,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:16:19.000",
+      "to": "00:16:28.000",
+      "source": "face",
+      "confidence": 0.53,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:16:36.000",
+      "to": "00:16:43.000",
+      "source": "face",
+      "confidence": 0.59,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:16:37.000",
+      "to": "00:16:55.000",
+      "source": "face",
+      "confidence": 0.53,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:16:49.000",
+      "to": "00:16:51.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:16:55.000",
+      "to": "00:17:06.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:16:59.000",
+      "to": "00:17:14.000",
+      "source": "face",
+      "confidence": 0.52,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:17:14.000",
+      "to": "00:17:19.000",
+      "source": "face",
+      "confidence": 0.7,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:17:19.000",
+      "to": "00:17:24.000",
+      "source": "face",
+      "confidence": 0.52,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:17:24.000",
+      "to": "00:17:33.000",
+      "source": "face",
+      "confidence": 0.56,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:17:33.000",
+      "to": "00:17:43.000",
+      "source": "face",
+      "confidence": 0.53,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:17:41.000",
+      "to": "00:17:48.000",
+      "source": "face",
+      "confidence": 0.64,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:17:48.000",
+      "to": "00:17:55.000",
+      "source": "face",
+      "confidence": 0.54,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:17:53.000",
+      "to": "00:17:57.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:17:59.000",
+      "to": "00:18:01.000",
+      "source": "face",
+      "confidence": 0.48,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:18:05.000",
+      "to": "00:18:32.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:18:06.000",
+      "to": "00:18:28.000",
+      "source": "face",
+      "confidence": 0.57,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:18:12.000",
+      "to": "00:18:18.000",
+      "source": "face",
+      "confidence": 0.54,
+      "reviewed": false
+    },
+    {
+      "who": "sam-golzari",
+      "from": "00:18:21.000",
+      "to": "00:18:43.000",
+      "source": "face",
+      "confidence": 0.63,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:18:26.000",
+      "to": "00:18:28.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:18:32.000",
+      "to": "00:18:37.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:18:45.000",
+      "to": "00:18:50.000",
+      "source": "face",
+      "confidence": 0.61,
+      "reviewed": false
+    },
+    {
+      "who": "sam-golzari",
+      "from": "00:18:51.000",
+      "to": "00:18:57.000",
+      "source": "face",
+      "confidence": 0.58,
+      "reviewed": false
+    },
+    {
+      "who": "jessalyn-wanlim",
+      "from": "00:18:53.000",
+      "to": "00:18:57.000",
+      "source": "face",
+      "confidence": 0.54,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:18:57.000",
+      "to": "00:19:02.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:18:57.000",
+      "to": "00:19:05.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "jessalyn-wanlim",
+      "from": "00:19:05.000",
+      "to": "00:19:11.000",
+      "source": "face",
+      "confidence": 0.58,
+      "reviewed": false
+    },
+    {
+      "who": "sam-golzari",
+      "from": "00:19:06.000",
+      "to": "00:19:09.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:19:11.000",
+      "to": "00:19:13.000",
+      "source": "face",
+      "confidence": 0.56,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:19:13.000",
+      "to": "00:19:17.000",
+      "source": "face",
+      "confidence": 0.55,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:19:14.000",
+      "to": "00:19:17.000",
+      "source": "face",
+      "confidence": 0.58,
+      "reviewed": false
+    },
+    {
+      "who": "sam-golzari",
+      "from": "00:19:26.000",
+      "to": "00:19:28.000",
+      "source": "face",
+      "confidence": 0.64,
+      "reviewed": false
+    },
+    {
+      "who": "jessalyn-wanlim",
+      "from": "00:19:26.000",
+      "to": "00:19:33.000",
+      "source": "face",
+      "confidence": 0.55,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:19:29.000",
+      "to": "00:19:31.000",
+      "source": "face",
+      "confidence": 0.56,
+      "reviewed": false
+    },
+    {
+      "who": "sam-golzari",
+      "from": "00:19:32.000",
+      "to": "00:19:34.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "sam-golzari",
+      "from": "00:19:50.000",
+      "to": "00:19:57.000",
+      "source": "face",
+      "confidence": 0.71,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:19:57.000",
+      "to": "00:20:09.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "sam-golzari",
+      "from": "00:20:01.000",
+      "to": "00:20:04.000",
+      "source": "face",
+      "confidence": 0.71,
+      "reviewed": false
+    },
+    {
+      "who": "sam-golzari",
+      "from": "00:20:09.000",
+      "to": "00:20:36.000",
+      "source": "face",
+      "confidence": 0.69,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:20:19.000",
+      "to": "00:20:22.000",
+      "source": "face",
+      "confidence": 0.71,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:20:30.000",
+      "to": "00:20:48.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "sam-golzari",
+      "from": "00:20:40.000",
+      "to": "00:20:50.000",
+      "source": "face",
+      "confidence": 0.67,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:20:51.000",
+      "to": "00:21:08.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "kaylee-defer",
+      "from": "00:20:56.000",
+      "to": "00:21:38.000",
+      "source": "face",
+      "confidence": 0.58,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:21:12.000",
+      "to": "00:21:27.000",
+      "source": "face",
+      "confidence": 0.75,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:21:32.000",
+      "to": "00:21:43.000",
+      "source": "face",
+      "confidence": 0.76,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:21:47.000",
+      "to": "00:21:57.000",
+      "source": "face",
+      "confidence": 0.72,
+      "reviewed": false
+    },
+    {
+      "who": "kaylee-defer",
+      "from": "00:21:53.000",
+      "to": "00:21:55.000",
+      "source": "face",
+      "confidence": 0.56,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:22:08.000",
+      "to": "00:22:15.000",
+      "source": "face",
+      "confidence": 0.61,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:22:15.000",
+      "to": "00:22:25.000",
+      "source": "face",
+      "confidence": 0.52,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:22:19.000",
+      "to": "00:22:21.000",
+      "source": "face",
+      "confidence": 0.52,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:22:25.000",
+      "to": "00:22:27.000",
+      "source": "face",
+      "confidence": 0.5,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:22:31.000",
+      "to": "00:22:37.000",
+      "source": "face",
+      "confidence": 0.47,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:22:37.000",
+      "to": "00:22:40.000",
+      "source": "face",
+      "confidence": 0.48,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:22:41.000",
+      "to": "00:22:43.000",
+      "source": "face",
+      "confidence": 0.41,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:22:45.000",
+      "to": "00:22:48.000",
+      "source": "face",
+      "confidence": 0.51,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:22:48.000",
+      "to": "00:22:56.000",
+      "source": "face",
+      "confidence": 0.59,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:22:53.000",
+      "to": "00:23:00.000",
+      "source": "face",
+      "confidence": 0.49,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:23:05.000",
+      "to": "00:23:07.000",
+      "source": "face",
+      "confidence": 0.51,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:23:14.000",
+      "to": "00:23:16.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:23:21.000",
+      "to": "00:23:32.000",
+      "source": "face",
+      "confidence": 0.72,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:23:25.000",
+      "to": "00:23:33.000",
+      "source": "face",
+      "confidence": 0.69,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:23:39.000",
+      "to": "00:23:42.000",
+      "source": "face",
+      "confidence": 0.58,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:23:39.000",
+      "to": "00:23:42.000",
+      "source": "face",
+      "confidence": 0.59,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:23:46.000",
+      "to": "00:23:54.000",
+      "source": "face",
+      "confidence": 0.57,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:23:51.000",
+      "to": "00:23:53.000",
+      "source": "face",
+      "confidence": 0.78,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:24:00.000",
+      "to": "00:24:10.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:24:14.000",
+      "to": "00:24:28.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:24:15.000",
+      "to": "00:24:18.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "kaylee-defer",
+      "from": "00:24:20.000",
+      "to": "00:24:26.000",
+      "source": "face",
+      "confidence": 0.59,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:24:22.000",
+      "to": "00:24:24.000",
+      "source": "face",
+      "confidence": 0.72,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:24:28.000",
+      "to": "00:24:33.000",
+      "source": "face",
+      "confidence": 0.69,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:24:34.000",
+      "to": "00:24:48.000",
+      "source": "face",
+      "confidence": 0.71,
+      "reviewed": false
+    },
+    {
+      "who": "steven-christopher-parker",
+      "from": "00:24:37.000",
+      "to": "00:24:40.000",
+      "source": "face",
+      "confidence": 0.57,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:24:37.000",
+      "to": "00:24:44.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "kaylee-defer",
+      "from": "00:24:40.000",
+      "to": "00:24:42.000",
+      "source": "face",
+      "confidence": 0.44,
+      "reviewed": false
+    },
+    {
+      "who": "kaylee-defer",
+      "from": "00:24:51.000",
+      "to": "00:24:55.000",
+      "source": "face",
+      "confidence": 0.52,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:24:58.000",
+      "to": "00:25:12.000",
+      "source": "face",
+      "confidence": 0.51,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:25:00.000",
+      "to": "00:25:03.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:25:05.000",
+      "to": "00:25:11.000",
+      "source": "face",
+      "confidence": 0.48,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:25:08.000",
+      "to": "00:25:12.000",
+      "source": "face",
+      "confidence": 0.55,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:25:15.000",
+      "to": "00:25:22.000",
+      "source": "face",
+      "confidence": 0.48,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:25:17.000",
+      "to": "00:25:27.000",
+      "source": "face",
+      "confidence": 0.61,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:25:27.000",
+      "to": "00:25:29.000",
+      "source": "face",
+      "confidence": 0.53,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:25:32.000",
+      "to": "00:25:45.000",
+      "source": "face",
+      "confidence": 0.43,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:25:35.000",
+      "to": "00:25:43.000",
+      "source": "face",
+      "confidence": 0.47,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:25:48.000",
+      "to": "00:26:03.000",
+      "source": "face",
+      "confidence": 0.63,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:25:50.000",
+      "to": "00:25:52.000",
+      "source": "face",
+      "confidence": 0.57,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:25:59.000",
+      "to": "00:26:01.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "oren-skoog",
+      "from": "00:26:08.000",
+      "to": "00:26:10.000",
+      "source": "face",
+      "confidence": 0.52,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:26:10.000",
+      "to": "00:26:17.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "oren-skoog",
+      "from": "00:26:18.000",
+      "to": "00:26:27.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "jessalyn-wanlim",
+      "from": "00:26:20.000",
+      "to": "00:26:23.000",
+      "source": "face",
+      "confidence": 0.48,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:26:23.000",
+      "to": "00:26:25.000",
+      "source": "face",
+      "confidence": 0.67,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:26:29.000",
+      "to": "00:26:31.000",
+      "source": "face",
+      "confidence": 0.55,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:26:34.000",
+      "to": "00:26:38.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "jessalyn-wanlim",
+      "from": "00:26:35.000",
+      "to": "00:26:37.000",
+      "source": "face",
+      "confidence": 0.64,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:26:39.000",
+      "to": "00:26:44.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "oren-skoog",
+      "from": "00:26:46.000",
+      "to": "00:26:49.000",
+      "source": "face",
+      "confidence": 0.55,
+      "reviewed": false
+    },
+    {
+      "who": "kaylee-defer",
+      "from": "00:26:53.000",
+      "to": "00:27:02.000",
+      "source": "face",
+      "confidence": 0.59,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:26:57.000",
+      "to": "00:27:03.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:27:07.000",
+      "to": "00:27:16.000",
+      "source": "face",
+      "confidence": 0.67,
+      "reviewed": false
+    },
+    {
+      "who": "kaylee-defer",
+      "from": "00:27:16.000",
+      "to": "00:27:18.000",
+      "source": "face",
+      "confidence": 0.64,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:27:26.000",
+      "to": "00:27:31.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "kaylee-defer",
+      "from": "00:27:31.000",
+      "to": "00:27:38.000",
+      "source": "face",
+      "confidence": 0.61,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:27:40.000",
+      "to": "00:27:42.000",
+      "source": "face",
+      "confidence": 0.51,
+      "reviewed": false
+    },
+    {
+      "who": "kaylee-defer",
+      "from": "00:27:42.000",
+      "to": "00:27:49.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:27:52.000",
+      "to": "00:27:55.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:27:55.000",
+      "to": "00:28:01.000",
+      "source": "face",
+      "confidence": 0.73,
+      "reviewed": false
+    },
+    {
+      "who": "kaylee-defer",
+      "from": "00:27:56.000",
+      "to": "00:28:00.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:28:01.000",
+      "to": "00:28:06.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:28:07.000",
+      "to": "00:28:09.000",
+      "source": "face",
+      "confidence": 0.52,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:28:18.000",
+      "to": "00:28:39.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:28:25.000",
+      "to": "00:28:32.000",
+      "source": "face",
+      "confidence": 0.58,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:28:40.000",
+      "to": "00:28:43.000",
+      "source": "face",
+      "confidence": 0.52,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:28:49.000",
+      "to": "00:28:51.000",
+      "source": "face",
+      "confidence": 0.48,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:28:51.000",
+      "to": "00:28:56.000",
+      "source": "face",
+      "confidence": 0.53,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:29:00.000",
+      "to": "00:29:03.000",
+      "source": "face",
+      "confidence": 0.57,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:29:04.000",
+      "to": "00:29:09.000",
+      "source": "face",
+      "confidence": 0.51,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:29:09.000",
+      "to": "00:29:13.000",
+      "source": "face",
+      "confidence": 0.53,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:29:11.000",
+      "to": "00:29:21.000",
+      "source": "face",
+      "confidence": 0.71,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:29:22.000",
+      "to": "00:29:26.000",
+      "source": "face",
+      "confidence": 0.45,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:29:26.000",
+      "to": "00:29:44.000",
+      "source": "face",
+      "confidence": 0.64,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:29:33.000",
+      "to": "00:29:35.000",
+      "source": "face",
+      "confidence": 0.63,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:29:43.000",
+      "to": "00:29:48.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:29:48.000",
+      "to": "00:30:02.000",
+      "source": "face",
+      "confidence": 0.72,
+      "reviewed": false
+    },
+    {
+      "who": "kaylee-defer",
+      "from": "00:30:08.000",
+      "to": "00:30:10.000",
+      "source": "face",
+      "confidence": 0.52,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:30:16.000",
+      "to": "00:30:18.000",
+      "source": "face",
+      "confidence": 0.58,
+      "reviewed": false
+    },
+    {
+      "who": "kaylee-defer",
+      "from": "00:30:19.000",
+      "to": "00:30:35.000",
+      "source": "face",
+      "confidence": 0.59,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:30:24.000",
+      "to": "00:30:26.000",
+      "source": "face",
+      "confidence": 0.54,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:30:36.000",
+      "to": "00:30:47.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "kaylee-defer",
+      "from": "00:30:43.000",
+      "to": "00:30:45.000",
+      "source": "face",
+      "confidence": 0.56,
+      "reviewed": false
+    },
+    {
+      "who": "joel-david-moore",
+      "from": "00:30:47.000",
+      "to": "00:30:51.000",
+      "source": "face",
+      "confidence": 0.59,
+      "reviewed": false
+    },
+    {
+      "who": "kaylee-defer",
+      "from": "00:30:51.000",
+      "to": "00:30:53.000",
+      "source": "face",
+      "confidence": 0.56,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:30:53.000",
+      "to": "00:31:01.000",
+      "source": "face",
+      "confidence": 0.7,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:31:04.000",
+      "to": "00:31:06.000",
+      "source": "face",
+      "confidence": 0.49,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:31:10.000",
+      "to": "00:31:14.000",
+      "source": "face",
+      "confidence": 0.64,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:31:14.000",
+      "to": "00:31:16.000",
+      "source": "face",
+      "confidence": 0.72,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:31:21.000",
+      "to": "00:31:26.000",
+      "source": "face",
+      "confidence": 0.71,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:31:28.000",
+      "to": "00:31:52.000",
+      "source": "face",
+      "confidence": 0.7,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:31:33.000",
+      "to": "00:31:35.000",
+      "source": "face",
+      "confidence": 0.73,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:31:39.000",
+      "to": "00:31:41.000",
+      "source": "face",
+      "confidence": 0.43,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:31:49.000",
+      "to": "00:31:52.000",
+      "source": "face",
+      "confidence": 0.71,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:31:59.000",
+      "to": "00:32:13.000",
+      "source": "face",
+      "confidence": 0.7,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:32:02.000",
+      "to": "00:32:05.000",
+      "source": "face",
+      "confidence": 0.69,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:32:10.000",
+      "to": "00:32:13.000",
+      "source": "face",
+      "confidence": 0.75,
+      "reviewed": false
+    },
+    {
+      "who": "michaela-conlin",
+      "from": "00:32:17.000",
+      "to": "00:32:30.000",
+      "source": "face",
+      "confidence": 0.77,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:32:20.000",
+      "to": "00:32:32.000",
+      "source": "face",
+      "confidence": 0.76,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:32:39.000",
+      "to": "00:32:48.000",
+      "source": "face",
+      "confidence": 0.58,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:32:48.000",
+      "to": "00:32:50.000",
+      "source": "face",
+      "confidence": 0.58,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:32:51.000",
+      "to": "00:32:55.000",
+      "source": "face",
+      "confidence": 0.64,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:33:03.000",
+      "to": "00:33:09.000",
+      "source": "face",
+      "confidence": 0.77,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:33:09.000",
+      "to": "00:33:11.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:33:14.000",
+      "to": "00:33:17.000",
+      "source": "face",
+      "confidence": 0.7,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:33:17.000",
+      "to": "00:33:26.000",
+      "source": "face",
+      "confidence": 0.75,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:33:18.000",
+      "to": "00:33:24.000",
+      "source": "face",
+      "confidence": 0.67,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:33:30.000",
+      "to": "00:33:36.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:33:32.000",
+      "to": "00:33:34.000",
+      "source": "face",
+      "confidence": 0.76,
+      "reviewed": false
+    },
+    {
+      "who": "tamara-taylor",
+      "from": "00:33:36.000",
+      "to": "00:33:48.000",
+      "source": "face",
+      "confidence": 0.64,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:33:40.000",
+      "to": "00:33:43.000",
+      "source": "face",
+      "confidence": 0.52,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:34:00.000",
+      "to": "00:34:15.000",
+      "source": "face",
+      "confidence": 0.49,
+      "reviewed": false
+    },
+    {
+      "who": "steven-christopher-parker",
+      "from": "00:34:07.000",
+      "to": "00:34:09.000",
+      "source": "face",
+      "confidence": 0.57,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:34:07.000",
+      "to": "00:34:09.000",
+      "source": "face",
+      "confidence": 0.56,
+      "reviewed": false
+    },
+    {
+      "who": "steven-christopher-parker",
+      "from": "00:34:15.000",
+      "to": "00:34:24.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:34:15.000",
+      "to": "00:34:24.000",
+      "source": "face",
+      "confidence": 0.64,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:34:24.000",
+      "to": "00:34:29.000",
+      "source": "face",
+      "confidence": 0.51,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:34:28.000",
+      "to": "00:34:48.000",
+      "source": "face",
+      "confidence": 0.64,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:34:33.000",
+      "to": "00:34:38.000",
+      "source": "face",
+      "confidence": 0.52,
+      "reviewed": false
+    },
+    {
+      "who": "steven-christopher-parker",
+      "from": "00:34:35.000",
+      "to": "00:34:48.000",
+      "source": "face",
+      "confidence": 0.5,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:34:44.000",
+      "to": "00:34:56.000",
+      "source": "face",
+      "confidence": 0.53,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:34:53.000",
+      "to": "00:35:16.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:35:00.000",
+      "to": "00:35:02.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:35:06.000",
+      "to": "00:35:08.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:35:12.000",
+      "to": "00:35:16.000",
+      "source": "face",
+      "confidence": 0.56,
+      "reviewed": false
+    },
+    {
+      "who": "john-francis-daley",
+      "from": "00:35:26.000",
+      "to": "00:35:29.000",
+      "source": "face",
+      "confidence": 0.57,
+      "reviewed": false
+    },
+    {
+      "who": "t-j-thyne",
+      "from": "00:35:26.000",
+      "to": "00:35:29.000",
+      "source": "face",
+      "confidence": 0.53,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:35:39.000",
+      "to": "00:35:49.000",
+      "source": "face",
+      "confidence": 0.59,
+      "reviewed": false
+    },
+    {
+      "who": "evan-arnold",
+      "from": "00:35:40.000",
+      "to": "00:35:54.000",
+      "source": "face",
+      "confidence": 0.55,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:35:41.000",
+      "to": "00:35:47.000",
+      "source": "face",
+      "confidence": 0.58,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:35:57.000",
+      "to": "00:35:59.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:35:59.000",
+      "to": "00:36:04.000",
+      "source": "face",
+      "confidence": 0.55,
+      "reviewed": false
+    },
+    {
+      "who": "evan-arnold",
+      "from": "00:35:59.000",
+      "to": "00:36:18.000",
+      "source": "face",
+      "confidence": 0.61,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:36:08.000",
+      "to": "00:36:13.000",
+      "source": "face",
+      "confidence": 0.48,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:36:13.000",
+      "to": "00:36:16.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:36:20.000",
+      "to": "00:36:22.000",
+      "source": "face",
+      "confidence": 0.69,
+      "reviewed": false
+    },
+    {
+      "who": "evan-arnold",
+      "from": "00:36:22.000",
+      "to": "00:36:25.000",
+      "source": "face",
+      "confidence": 0.69,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:36:25.000",
+      "to": "00:36:28.000",
+      "source": "face",
+      "confidence": 0.78,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:36:28.000",
+      "to": "00:36:32.000",
+      "source": "face",
+      "confidence": 0.74,
+      "reviewed": false
+    },
+    {
+      "who": "evan-arnold",
+      "from": "00:36:32.000",
+      "to": "00:36:34.000",
+      "source": "face",
+      "confidence": 0.71,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:36:41.000",
+      "to": "00:36:44.000",
+      "source": "face",
+      "confidence": 0.66,
+      "reviewed": false
+    },
+    {
+      "who": "evan-arnold",
+      "from": "00:36:53.000",
+      "to": "00:36:59.000",
+      "source": "face",
+      "confidence": 0.57,
+      "reviewed": false
+    },
+    {
+      "who": "evan-arnold",
+      "from": "00:37:07.000",
+      "to": "00:37:14.000",
+      "source": "face",
+      "confidence": 0.67,
+      "reviewed": false
+    },
+    {
+      "who": "evan-arnold",
+      "from": "00:37:24.000",
+      "to": "00:37:35.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:37:37.000",
+      "to": "00:37:41.000",
+      "source": "face",
+      "confidence": 0.6,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:37:39.000",
+      "to": "00:37:41.000",
+      "source": "face",
+      "confidence": 0.63,
+      "reviewed": false
+    },
+    {
+      "who": "evan-arnold",
+      "from": "00:37:48.000",
+      "to": "00:38:03.000",
+      "source": "face",
+      "confidence": 0.57,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:37:51.000",
+      "to": "00:37:54.000",
+      "source": "face",
+      "confidence": 0.7,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:38:03.000",
+      "to": "00:38:08.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "evan-arnold",
+      "from": "00:38:08.000",
+      "to": "00:38:15.000",
+      "source": "face",
+      "confidence": 0.59,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:38:15.000",
+      "to": "00:38:17.000",
+      "source": "face",
+      "confidence": 0.69,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:38:17.000",
+      "to": "00:38:26.000",
+      "source": "face",
+      "confidence": 0.74,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:38:54.000",
+      "to": "00:39:07.000",
+      "source": "face",
+      "confidence": 0.62,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:38:55.000",
+      "to": "00:39:03.000",
+      "source": "face",
+      "confidence": 0.69,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:39:11.000",
+      "to": "00:39:13.000",
+      "source": "face",
+      "confidence": 0.69,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:39:13.000",
+      "to": "00:39:18.000",
+      "source": "face",
+      "confidence": 0.71,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:39:18.000",
+      "to": "00:39:32.000",
+      "source": "face",
+      "confidence": 0.69,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:39:25.000",
+      "to": "00:39:28.000",
+      "source": "face",
+      "confidence": 0.71,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:39:42.000",
+      "to": "00:40:09.000",
+      "source": "face",
+      "confidence": 0.72,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:39:50.000",
+      "to": "00:39:55.000",
+      "source": "face",
+      "confidence": 0.68,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:40:09.000",
+      "to": "00:40:12.000",
+      "source": "face",
+      "confidence": 0.75,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:40:21.000",
+      "to": "00:40:25.000",
+      "source": "face",
+      "confidence": 0.65,
+      "reviewed": false
+    },
+    {
+      "who": "david-boreanaz",
+      "from": "00:40:25.000",
+      "to": "00:40:29.000",
+      "source": "face",
+      "confidence": 0.69,
+      "reviewed": false
+    },
+    {
+      "who": "emily-deschanel",
+      "from": "00:40:29.000",
+      "to": "00:40:31.000",
+      "source": "face",
+      "confidence": 0.69,
+      "reviewed": false
+    }
+  ],
   "segments": [
     {
       "from": "00:05:09.380",
@@ -38,6 +3040,56 @@
       "type": "outro",
       "source": "video-analysis",
       "confidence": 1.0,
+      "reviewed": false
+    }
+  ],
+  "music": [
+    {
+      "from": "00:05:08.840",
+      "to": "00:05:37.340",
+      "recording": {
+        "title": "Bones Theme",
+        "artist": "The Crystal Method",
+        "musicbrainz": "dedde453-8fb9-46bc-941c-5dde411b7e64"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.81,
+      "reviewed": false
+    },
+    {
+      "from": "00:37:40.540",
+      "to": "00:37:48.140",
+      "recording": {
+        "title": "The World Is...",
+        "artist": "Matthew Ryan",
+        "musicbrainz": "a11c14ae-a6d1-4e9c-8dd8-67b5e72e94a5"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.59,
+      "reviewed": false
+    },
+    {
+      "from": "00:38:22.100",
+      "to": "00:38:39.200",
+      "recording": {
+        "title": "The World Is...",
+        "artist": "Matthew Ryan",
+        "musicbrainz": "a11c14ae-a6d1-4e9c-8dd8-67b5e72e94a5"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.64,
+      "reviewed": false
+    },
+    {
+      "from": "00:40:20.840",
+      "to": "00:40:28.440",
+      "recording": {
+        "title": "Rain or Shine",
+        "artist": "Matthew Perryman Jones",
+        "musicbrainz": "47a4b9c9-c054-4152-98a1-1f0cf1f16741"
+      },
+      "source": "audio-fingerprint",
+      "confidence": 0.62,
       "reviewed": false
     }
   ]

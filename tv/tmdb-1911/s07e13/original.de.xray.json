@@ -21,5 +21,71 @@
       "to": "00:33:38.678",
       "fingerprint": "AQAAjJGyJUmaZAmeRciN9MVfKNyIIz7O4Pjh44H3IvyApiNeqIWT-UiP6cxw6XhYvDme_XiJ5iNC5ocqpUUupiMaNY4S1Baup_j0YM8wnYEf8IefFyETHfrxyEYfNL2wB09eyD9-ITy88ENIK4XuHAcq7ixSFZWTHb2NZv-Ql8IzMXiTqIJm5UWk0MCj4Nlk8Bme_qh-hGGkYR6R49LxLS8aMQ_RCw3lYfpxJDxzXJeHPwpiij24hElDhHkW9HSQH9NxByaV45ieoOaGD8nsTXiEH7qP40mPV0cYjkefRbgu7LOG93jw42mCJ0FyHrnyBU-UB6_CDD2aB8_24fgyVJKeCw2XE5_2Ym8qnCS6LTmoH_2FRq-KUM5SJBee4HzRLw2aSkmHfE-gI5SOMEnypADqgEMCGUogIRMTRAUCiBhiBHbIGAGEMQIgQYQxVCjnFQEKKCEgcMEJAAgAwCAKhAHMMIEEoIQgAJBQiADBiEAAA0wZAwYCCBATSAKCQNAAQiAAMcwqwBQSAABEmCBAKEIMMQQZtwA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "ryan-o-neal": "Matthew Brennan/Max Keenan",
+    "patricia-belcher": "Caroline Julian",
+    "michael-grant-terry": "Wendell Bray",
+    "reed-diamond": "Hayes Flynn"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "ryan-o-neal": {
+      "name": "Hans-Jürgen Dittberner",
+      "wikidata": "Q1577655"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    },
+    "reed-diamond": {
+      "name": "Viktor Neumann",
+      "wikidata": "Q2524349"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Regie führte David Boreanaz; mit dieser Folge endet die auf 13 Episoden verkürzte Staffel.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_7#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_7"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

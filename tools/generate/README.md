@@ -7,7 +7,8 @@ paths, the media host and per-title constants are passed or edited by hand.
 Everything they produce is marked `source` + `confidence` + `reviewed: false`.
 
 They need ffmpeg (on the media host and locally), `fpcalc` with libchromaprint, Python 3.12+ with
-numpy, and for `langcheck.py` faster-whisper.
+numpy, faster-whisper for `langcheck.py` and `transcribe.py`, and OpenCV for the face scripts. API
+access: a TMDB key and an AcoustID application key, kept outside the repository.
 
 ## Principle
 
@@ -43,3 +44,39 @@ thread per job; only small extracts leave it.
 7. **Files** (`gen.py`): one timeline file and one file per language per item.
 
 `summary.py` prints per-season distributions and outliers, which is where every manual check started.
+
+## Cast, music, trivia and faces
+
+8. **Cast** (`tmdb_credits.py`, `dub_tables.py`, `people.py`): credits per episode and film from the
+   TMDB API, with each person's IMDb and Wikidata ids. English character names come from TMDB. German
+   character names and voice actors come from the dub tables on German Wikipedia (which cite
+   Synchronkartei), matched to the cast by Wikidata id, with the voice chosen by season where it
+   changed. TMDB's own German character names are not used: they are usually the English strings.
+9. **Music** (`acoustid_ref.py`, `music_match.py`, `mb_candidates.py`, `fox_lists.py`,
+   `music_bones.py`): a recording is only placed where its fingerprint is found. Reference fingerprints
+   for MusicBrainz recordings come from AcoustID (used locally, not published); 4 s chunks of them are
+   matched against the item's whole soundtrack (slowed back to the original speed for a PAL release),
+   and consistent matches are chained into cues. Candidates are the soundtrack albums on MusicBrainz
+   and, for *Bones* seasons 1 to 5, the songs FOX listed for each episode on its own website (archived
+   on the Wayback Machine). AcoustID's lookup service was tried for unknown songs and does not work on
+   music under dialogue or not aligned with the start of a recording, so songs nobody listed are not
+   found. AcoustID fingerprints cover only about the first two minutes of a recording, so a cue ends
+   where its matches end, and a song used from a later point is missed.
+   The speed is checked per season, not assumed: most *Bones* seasons of this release are PAL-sped,
+   season 4 is not, and candidates for seasons 6 to 12 are matched at both speeds (a recording at the
+   wrong speed does not match). For seasons 6 to 12, which FOX never listed, candidates come from
+   lyrics: `lyrics.py` transcribes the music-heavy stretches, songs are identified from the sung lines
+   by searching their lyrics (never from lists of the show's music), and only the ones whose
+   fingerprint is then found are kept, about half of them.
+10. **Trivia** (`deadpool_trivia.py`, `bones_trivia.py`): facts from pages fetched and read for the
+    purpose (English and German Wikipedia), written anew in English and German, each with its source.
+    A fact is tied to a moment only where a transcript line or a matched music cue places it;
+    otherwise it is about the whole item. Transcripts (`transcribe.py`) are internal and never published.
+11. **Faces** (`frames_gpu.sh`, `ref_faces.py`, `faces.py`): one frame per second, decoded on the media
+    host's GPU and paused while it transcodes for a viewer. Faces are detected with YuNet and compared
+    with SFace (OpenCV model zoo; MIT and Apache 2.0) against TMDB profile photos of the item's own
+    credited cast only. A face is labelled at cosine similarity 0.45 or more with a margin of 0.08 over
+    the runner-up; clusters of faces within the item lend a confident label to their other members.
+    Appearances are runs of labelled seconds. Photos and face embeddings stay local and are never
+    published; only the time spans are.
+12. **Merging** (`enrich.py`): writes cast, music and trivia into the item's files.

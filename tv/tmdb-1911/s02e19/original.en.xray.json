@@ -21,5 +21,26 @@
       "to": "00:33:08.372",
       "fingerprint": "AQAAjMmkVFqSSNhv6OCPOhp-_GgutCd6NFseRD8aPToiPYeqRsaP34jEnsOTR8Nl40evIuchXsKZPZiF_KCCPJUG5Qx39DIe9AgbwbuDXhjzR6j-xHBV8HiOM0d94Q2aZDt6CslPpD-OaRGPJpMeDpcS9EeThyPyHGrGo3FyCbrEIx4XHyWlEtOsBA5loc7moI8H30X4a9CVTUPoRIrRvAKvo3KWoUvG45JyPBkloekWEf0P1sij5dA35aj1Ck3SPLhd1GmiopQSXeCPzxnCjSuaJs0O7viPPheYlDNCJ1GMKSNzaJeC5pmQPCj1Dc08CnuSG_lzaNkROiEl4nKc4NNRVi9u_Wg0XcEjF3c45JegkRGmkMGVZ7iPL4erQzma-UTrI0zCSCEqyT--KBJ87vhyfBfaVOnRXI_xIsyPnjhzqLl-hEmZWEKfCwf7oHmO63gqrQADQABSUKCAQIgIoIAlhhgEEFREQQgEMMoAwxgABAhiiCXGACSYMRAIQoQwEAoBjBBCCGKIE0ApYQQRQAkBEBFAGMKIIEwAQgwgxmBiBABEGAScIgwBRwQBAAAHBJKEAAAIMIwYIAARTACADAI"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "eric-millegan": "Zack Addy",
+    "andrea-thompson": "Nina Sanborn",
+    "glenn-morshower": "Bob Reid",
+    "ian-anthony-dale": "James Adams",
+    "e-j-callahan": "Farmer",
+    "michael-rodrick": "Adam Bahr",
+    "judith-moreland": "Loni Gowan",
+    "sarah-bloom": "Colleen Adams",
+    "lisa-waltz": "Jean Marie Howard",
+    "rob-brownstein": "Dr. Henry Pascal",
+    "aalok-mehta": "Space Agency Employee",
+    "christos-sourmelis": "Waiter",
+    "burnadean-jones": "FBI Forensic Tech",
+    "david-greenman": "Marcus Geier"
+  }
 }

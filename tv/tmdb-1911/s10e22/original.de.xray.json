@@ -21,5 +21,76 @@
       "to": "00:33:24.803",
       "fingerprint": "AQAAjEmUiFUSSRE-McePE9ZGSLmOHxczBYe2yIcXJ3gPh1tQh2mEC00-lGQOCW1pNFUG7TnhkTk658iPJtWMWsUf5DsqNQ-Y6IqPbzye4Dra41KuwM6DHufRHi8L_oCzaBL6HPcH3WjGEGx2C_CJM5HwSNFx5cngHz3yGNdlvEe80Qoa_RIq8D6-JTt-6DKDfki54pZwD76cgT4e-AyuIYeo3OCeJ0jHE6ZCGSG74LrwXEGzQ5G2zMfRvA5aDvOOF-EbhBkX4UL7QnxxjfCXo8cnotEr9MelC8_QuEePc8dXlCfkwucRkhcQHj90HT8V5MK1WbgOnyLCazkuHc1zaOtSvPgp_EeZXfiJj4Wh9qh_nAXOFo9y4kpooToe7cLDsQABiGDGIaYcwwAEARwgTBFAFAACIUWcIAYoQoBwQkgCJFJAEAAJUQYRYoEAwBimEAHCSLEMFUAQJBjgAAEngANACKCcocIY5pgBYAgmhDOGMKIIQgA4ZICCTBACDAOIAMQQI0QAwgA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "john-boyd": "Special Agent James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "ryan-o-neal": "Matthew Brennan/Max Keenan",
+    "carla-gallo": "Daisy Wick",
+    "eugene-byrd": "Dr. Clark Edison",
+    "patricia-belcher": "Caroline Julian",
+    "michael-grant-terry": "Wendell Bray",
+    "pej-vahdat": "Arastoo Vaziri"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "john-boyd": {
+      "name": "Tim Knauer",
+      "wikidata": "Q2434097"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "carla-gallo": {
+      "name": "Sonja Spuhl",
+      "wikidata": "Q1493351"
+    },
+    "eugene-byrd": {
+      "name": "Rainer Fritzsche",
+      "wikidata": "Q1362641"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    },
+    "pej-vahdat": {
+      "name": "Marius Clarén",
+      "wikidata": "Q1899418"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Das Staffelfinale wurde so geschrieben, dass es auch als Serienfinale getaugt hätte, denn die Autoren wussten noch nicht, ob Bones verlängert würde.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

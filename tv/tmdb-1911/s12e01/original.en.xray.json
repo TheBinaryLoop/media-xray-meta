@@ -21,5 +21,30 @@
       "to": "00:33:53.588",
       "fingerprint": "AQAAjFGSZaIyJij0HJEOc62FZ8czcYJT1MeDHmG6KMd5nD8U7WhyJcePSBd8RiN8IryEp9ClJTuuLI-QH8533PmEZ8WfomxUojm-jwhF54ZyIldQfgl-Cj96Cc2VPKiS5miyBbnsY7rxQPsa5LLQTMrRH-9EPIoiB5_EIvkRvj9qMWiPZjeuS9isHqdyZHqgJhTx7ZjlbEP_wXueoXIcClcwZg6DHlkS_2ikZXkxSqKOpkk44sfhP8i1QC2T8Ljio3KOKbdxMiiaK8iZoD8aLouF-cRv9OLQ9MgL7SvS_HheODf64MRRf8eJL0Py6EaO4-HhHv6OW0rhREdLHDlOfGlRPwnCWD8uPEc7xodDJXIRjkFSCsf34k-OG1eOWkdz_LvwsMO46LjyEf9QHY1eHPEBhJRDQIglFAAIEGGIw0AJBAwgABqAiAIGCAWMMY54IgQwgjBFDBIMAEMUEIARJBQCBhggBDCKCACcAUsJIIQURAgBBGMKKCKFMFIgMgBzRkiyiBMAUOmaUwggRoQzzjBAiRMSACUEQYw4gz4"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "john-boyd": "James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "eric-millegan": "Zack Addy",
+    "michael-grant-terry": "Wendell Bray",
+    "ravi-kapoor": "Dr. Mihir Roshan",
+    "tim-guinee": "Dr. Brandon Faulk",
+    "sara-rue": "Karen Delfs"
+  },
+  "trivia": [
+    {
+      "text": "Emily Deschanel's directing debut. She had first been slated to direct in season 6, but scheduling got in the way until this final-season premiere.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

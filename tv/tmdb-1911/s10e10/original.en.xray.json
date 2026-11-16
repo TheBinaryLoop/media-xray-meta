@@ -1,0 +1,44 @@
+{
+  "$schema": "https://raw.githubusercontent.com/TheBinaryLoop/media-xray-meta/master/schema/v1/language.schema.json",
+  "schemaVersion": 1,
+  "language": "en",
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "john-boyd": "James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "ryan-o-neal": "Max Keenan",
+    "carla-gallo": "Daisy Wick",
+    "eugene-byrd": "Clark Edison",
+    "patricia-belcher": "Caroline Julian",
+    "laura-spencer": "Jessica Warren",
+    "michael-grant-terry": "Wendell Bray",
+    "michael-badalucco": "Scott Starret / Pilot",
+    "billy-gibbons": "Sarge",
+    "mather-zickel": "Aldo Clemens",
+    "christopher-clausi": "Premiere Guest (uncredited)",
+    "kelli-erdmann": "Dancer (uncredited)",
+    "lyndell-higgins": "Premiere Attendee (uncredited)",
+    "cary-huff": "1950's Police Deputy (uncredited)",
+    "haylee-roderick": "Dancer (uncredited)",
+    "colton-wheeler": "1950s Deputy (uncredited)",
+    "andrew-leeds": "Christopher Pelant",
+    "ignacio-serricchio": "Rodolfo Fuentes",
+    "sunnie-pelant": "Christine Booth",
+    "pej-vahdat": "Arastoo Vaziri"
+  },
+  "trivia": [
+    {
+      "text": "Stephen Nathan wrote and David Boreanaz directed the 200th episode, a tribute to Alfred Hitchcock that recasts the team in 1950s Hollywood, with Brennan as an LAPD detective and Booth as a jewel thief.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_10#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_10#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
+  ]
+}

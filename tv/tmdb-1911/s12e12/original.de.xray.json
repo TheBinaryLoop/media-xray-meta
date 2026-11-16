@@ -21,5 +21,86 @@
       "to": "00:33:52.276",
       "fingerprint": "AQAAjFGiZMySKgm0JOkehM6PpjQeRdg1Fc0ulImCJ6mEh8lQxVvgPEOuQ2sSEeeRB85xJ3goJWIQL7mhZRL6bEOcp0d1lAxVPEmf4RZxHc11VBYenVHwrMObHc_R7kEzZolxkYxwJsmNNwmSmouOdHK2BI8u4h9ObFWi4FkqPMU9NM-N6jzyMiHUJj-e44aaLjyiUznOJDX8JLiY40mmw0-EPBqS_2iOvgzOJNiWH9deVPnROLSEnEN2Bv-FUUIjLUuDSSdy6I-QX3gv7Dsq80ilKITeo5J2fIJOI8--4XQTPPvxXmi6KEQf7Hg-6EwZPPlwZTiPikrRaGkq49eYgDMeIdm0hBozREpunEmIjw-qC80jnEtW_EcyikSY5uizo0nyHP_hhcfO7ODt4-k5PBRyJseeH1OoLIYmicixWyFSeTn0HFce3K-wK_BFPEkOPSPy7Any_LjRxwDEADMCUSscoUpSQQQRxgDEiAAAMWUYMQgAIQhDhCFRETAGEEEUMQIBCghwxhBiKEHAAESAlQoYYxmAwgggjFHSIaEIYAIQpAgDCCJKgGASCCEBMYApQYQDQCFDAEDACgQA0A4AThAwgjigCTEEAQI"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "john-boyd": "Special Agent James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "carla-gallo": "Daisy Wick",
+    "eugene-byrd": "Dr. Clark Edison",
+    "patricia-belcher": "Caroline Julian",
+    "laura-spencer": "Jessica Warren",
+    "michael-grant-terry": "Wendell Bray",
+    "tiffany-hines": "Michelle Welton",
+    "pej-vahdat": "Arastoo Vaziri"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "john-boyd": {
+      "name": "Tim Knauer",
+      "wikidata": "Q2434097"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "carla-gallo": {
+      "name": "Sonja Spuhl",
+      "wikidata": "Q1493351"
+    },
+    "eugene-byrd": {
+      "name": "Rainer Fritzsche",
+      "wikidata": "Q1362641"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    },
+    "laura-spencer": {
+      "name": "Anita Hopt",
+      "wikidata": "Q15729831"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    },
+    "tiffany-hines": {
+      "name": "Anne Helm",
+      "wikidata": "Q99906"
+    },
+    "pej-vahdat": {
+      "name": "Marius Clarén",
+      "wikidata": "Q1899418"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Das Serienfinale inszenierte David Boreanaz. Am 15. Dezember 2016 fiel die letzte Klappe für Bones.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_12#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

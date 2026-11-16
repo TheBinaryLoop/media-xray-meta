@@ -21,5 +21,24 @@
       "to": "00:34:03.306",
       "fingerprint": "AQAAjFrMJUkSSXAcNkH4Q892XAjz6Oi5Hc8QkpkPUQ2NVxaO8od-3Bf-o2-h5Xh8PPhxXEcfnIf4CIceHbngGO0yPKlRSvBZHdOD48GZGNcWJPKyI52PXeGG-kGj7HiO_3ieC0f8Q0v1oWqOqMOJPrzxIrSITzk-VK-QP3BH7Iftoc9wIj-q_FCP6PiGL8Xx48d_PIdXHnRE49eOw2ON5yF8KoTzCM-Qqv4gLgxCqcdz4UrRH96CLzf-IU3-EPplpKyOSxl6lygPM7gu9EXcCIk9nDvRXjgu5fAzMD7-o2eOn-iPP8qPqjk8KRdSvugD-TGqw4yyqHiPNIvy4VLgSRJu_Ohm_LiPMFVQLhXx_HiHSX_RlMjp4j4AoRCCwBhAhJBCCEkEBUAIYQglDATFAECGCCSAZhQQZQwDxgkChEAmUGGYAIwIYQQ0RjDhjEDGEIcYlAAQYAAxghIlgAKEGagEUAQQAAggwBHGCHCIAcCIAAIpoBAAADBCECGLGCaUkwIAAwQhAjAA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "t-j-thyne": "Jack Hodgins",
+    "jonathan-adams": "Daniel Goodman",
+    "eric-millegan": "Zack Addy",
+    "harry-groener": "Henry Atlas",
+    "marika-dominczyk": "Leslie Snow",
+    "penny-marshall": "Penny Marshall",
+    "michael-b-silver": "Anton Kostov",
+    "jann-carl": "Show Host",
+    "claire-coffee": "Tricia Finn",
+    "natalija-nogulich": "Ivana Bardu",
+    "mcnally-sagal": "Martina Sikes",
+    "d-j-lockhart-johnson": "Hotel Security Guard",
+    "melissa-lee": "Receptionist",
+    "adam-grimes": "Nick Hudson"
+  }
 }

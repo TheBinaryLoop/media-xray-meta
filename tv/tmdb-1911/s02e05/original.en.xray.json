@@ -21,5 +21,18 @@
       "to": "00:33:14.256",
       "fingerprint": "AQAAjEoSZcuUZGh-5EmhD9FHfKkwTUdzXNewB_nRPA80LtLhJYpGI090NE-ooWTqYFSSS_juIfZxg2gOzWWRK9PxkMdJBbytwyk-5fhHTL_Q4MInxNxxNPWDfAlx4UcOJ4d2HfGiCN-HHkZP4ydePcR3Czv6g_oxsSxeHbWYo_mO4zFu-eizo6mCh7KI6K8CJXeQb4Pz42WOO_AZXCee5DM8dpLxB_6EWM2RWOdwKh_6wxx99AmHCz_-4NSHTxcHKzySOinSh8Q5F48V_OjtofmS4P_wKNKDv-jDEc9EEmGL5HhxJnnxH00eDZUp_MGXHOeB5miPkehCKUhTBs38Q8-JH1rcWHhyhDqqdId_-ESfHqG8QIs8I_6c43yN3hw8huCOp3PA9ESuQ3-P8ETZAwIMkcYJApQzCCAFEBDAcCIcEQwAAQAQkgDCgUAMCWOIIk4AIBAACgsElBHCaQCMUQoIZpATCDCikIACSAQIUAIAAQAhCAAMCFNKAQAEAJQIhhAgAhDjkFDAKi8IAsYyYwgDUBEBiAACAOeEAMIA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "eric-millegan": "Zack Addy",
+    "keri-lynn-pratt": "Chloe Daniels",
+    "lamont-thompson": "Cop",
+    "melinda-mcgraw": "Gayle Seaver",
+    "jessica-capshaw": "Rebecca Stinson",
+    "susan-santiago": "Lila Turner"
+  }
 }

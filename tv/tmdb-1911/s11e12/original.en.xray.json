@@ -21,5 +21,26 @@
       "to": "00:33:51.472",
       "fingerprint": "AQAAjNIiSVKSKUnwJEeeqDWS8Wie4_Sxnqh_MMuUHY8f5EEyORfsEL6HUjaOrD_E58jxNMdEGc515EtKaEmmdAryKQ--o4d_6HrR47Rx54EjJZPCCXkC9UeY5A7RE09X3CRueHyRJ8mgo_qDp0txJcfmo1by4T3O4FSOK1lyiJxE4bxQNPVxRssHSZ9w4r-FPAqFfCluHTqRK0ZTzSiH00JlEk5Swi-P51LwPUCefUheBn0GfnuMJ-MUWN-RX4ceHnmMK8uMPJFe6EF4NHHyDA-PeIG-I1eWHM07oZQr_Pi0wAqTIamRO4Tr4xf45GjyFN1wNQJt5D40K48Q5niY4we1RBceHYePNzki_lAuGU84RE_aAz_R3CR6B9e-YU4S_DnxI1niHOFzPJfBJKJcTCJz1EnR4zyeJ0HzFqEVHlcCZIRCxAEiCCCEAWWUAEIhJZxCAAEGEBAACCOEIAQRw4w5QABEDAMYEGIIcQBATgQgAgnkEDCIICMQIAAgYIQBgHhkiHpCGMAMAIYBg5gQxgDBCFACGCMsg0IQYSgBSAFGCEBAUKsIAYQQQ5hjBA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "john-boyd": "James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "david-shatraw": "Paul Walters",
+    "lilli-birdsell": "Karen Walters",
+    "jack-armstrong": "Emil Bradford",
+    "mia-barron": "Gail Bradford",
+    "michael-rupnow": "Rob Kim",
+    "saidah-arrika-ekulona": "Lean Marino",
+    "ashley-dulaney": "Allie Halloran",
+    "cyd-strittmatter": "Dr. Pamela Gould",
+    "rueben-grundy": "Lawyer #1",
+    "john-colella": "Lawyer #2",
+    "sarah-gaboury": "Crowd Member #1",
+    "toni-torres": "Crowd Member #2",
+    "ignacio-serricchio": "Rodolfo Fuentes"
+  }
 }

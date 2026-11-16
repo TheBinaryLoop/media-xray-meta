@@ -21,5 +21,66 @@
       "to": "00:33:39.779",
       "fingerprint": "AQAAjEuyjFEUJUkg-UTPFM_wLOVQRfEaBc1IHT8eEjHTDFeeWJB0pTiON4UqzQdZHmGoJkIfsLoodE8cvCGOUJIPXTmFi0eYs-iPPHmgHLnyY1So-Hi4hziaMw-Y49GOkMyHLXxxH8-R_sTV4sTjwzd-PCNVPGGDpHmR5nWM3sSzGNeD8gjzIqkzrAenH_vxXEhuhPmSo3iWkPjj4qmIK8cx5WAQHVCpIE8UGt6DUx8e5IJ2HYeLOgl0Jnj-IGJyBRV_MPF0vCne40X5wtlzwYqUNWrwBP-HMOuh7jlyGXyMNI6OX4GWoFyILHWPdHeg10L4PMKPR7pAhZoaPNXRHOn6Qwpz5JuDJ8mRfskDPUb-4mti1A7qJMeHM1GOROIinLIUzEoXQo9qoz-asciNSvIRRkpy6CVC_WiucHh04XqNJykAQRgykAgkACQMGamAYEUIQoUgCqADEBAAAKCJAAAYZghBygFAEFEEGIUMARA4wRCDQBAiEEJMQSCAcUwokAgAzgCFoHISCCQAQUAIgQQUwihANAEACGCYQQYApYyTlDgiiJNGAuOAAwQY"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "michael-grant-terry": "Wendell Bray"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Nach einem Armbruch beim Eishockey diagnostiziert Brennan bei Praktikant Wendell Bray das Ewing-Sarkom, eine seltene Form von Knochenkrebs.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Recurring_cast"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Regie führte David Boreanaz.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

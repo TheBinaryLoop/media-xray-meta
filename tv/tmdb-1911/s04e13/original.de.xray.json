@@ -21,5 +21,61 @@
       "to": "00:33:53.731",
       "fingerprint": "AQAAjJlISVKSJAnyoEwUVjiP-viFJz167EevBVeuIMxDXGKh9miUB9w46GN-XOmQD8dNPMvQhGKQRfmN5OEjlD8au7hCXC2mcHwwqY-Cb9OFP8gVQ4-W7SiZbNJQSk_xBO91MNvR5NADXU_QWFmFUgzwfETzFFq5pMF87EOa4McVvDu-5sEx5TxqZcFoVGHo46_QHzm_I7mEloyKMzsYi8e1oCSa7MGZI_QWIVm-YV9ERfDEhsHDHB-O5kJIHlqYfMLkJUHvQ0zCg3mGHzl2wRYdnEfzHCUvzMmRHz_8MEbOHL-GP2iiKOBFoXiPRDfSM_iSTUEfpYHDhsRH4uWN_TgfJJ5oI5TIHA_qB9dSNBMj_Dn-PPh4_Ohb5Lmg5cw2Ap-OMPxjTNfRHGGjLMdx-dDSREOeKizxTTqaMwyug49mAEOQskQxSRhEACAkgADQiMoIAUIAhIARBhgDhCIAAIQAYIZgYYFgRBCAABAIKCKEQAQIBYSDAGDElQGGKAGwGAgRoABCFAAlgBUAUWMAIYIIwgxhTCkAjCAAAKSAEgBQAQBCihEBgAMEAg"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "patricia-belcher": "Caroline Julian",
+    "michael-grant-terry": "Wendell Bray"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "patricia-belcher": {
+      "name": "Evelyn Meyka",
+      "wikidata": "Q1381776"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    }
+  },
+  "trivia": [
+    {
+      "text": "NHL-Legende Luc Robitaille hat einen Gastauftritt. Weil Booth ausfällt, springt Marisa Coughlan als Agentin Payton Perotta vorübergehend für ihn ein.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Casting"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

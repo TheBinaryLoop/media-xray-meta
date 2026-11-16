@@ -21,5 +21,26 @@
       "to": "00:33:47.094",
       "fingerprint": "AQAAjJL2RlmEjzi1oGfx_XjkpEfSS8iP51NwGmXGEJeIpx_O6ejhBzmPcvnxKDK0okmeDneWY5dO6A9aLoeYH91dHGGqLKJwhR1yG2bXQzueZvgiHqzSKEQP8R_C89iPnPji52i0GJWOo3l2hI6iGNdYNLfwEM0yusR8UTiP8DWas7gkEf_xZHlwpiCfIkYk_tDCbkuQ63iC__grlDqaMD_KHo0eNfiPPA60PCViq_gwhURyHqHqCUz-ET9u2A2O_ITeHKHIBs-PR2DxbMc3PD5xOCa64w-u41kuPAqaHcWTW3icRkHT6EjG48chcbsMrg_0GT2HMA-Ya2h48MNDNCcqisdPJD6R_2CuCtaMOsbpwc8y4j927nCI-NDbI_ePRkX449Ihkzk86si3own3A4CdBMAIIY1igAHAFLBAASGYAEAQ4YwRCBhDEABABEaEQgIAQCgAiDDCBBCMAEMIII4gJCEgBjBgCAFAEaIBEkI56powABgjCUEIQAo4gQg4AYRBhHADlDJGOqwEMYQAIwwDRDgkgBFGAKKQEsBABAA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "eric-millegan": "Zack Addy",
+    "eugene-byrd": "Clark Edison",
+    "patricia-belcher": "Caroline Julian",
+    "andrew-james-allen": "Jason Harkness",
+    "adam-weisman": "Sk8r Boy",
+    "raphael-sbarge": "Doug Doyley",
+    "suzanne-ford": "Rona Sumner",
+    "robin-hines": "Sk8r Girl",
+    "darcas-macopson": "D.C. Beat Cop",
+    "cynthia-preston": "Amelia Trattner",
+    "michael-canavan": "Leo Sumner",
+    "j-skylar-testa": "Sk8r Driver",
+    "zev-mcallister": "Gavin Nichols",
+    "nathan-dean": "FBI Agent Charlie Burns"
+  }
 }

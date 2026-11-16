@@ -21,5 +21,39 @@
       "to": "00:34:07.478",
       "fingerprint": "AQAAjJGiLJSSJFlgkuh1fPgVVPGDPCdK5njCSrgIv3iFRwmLS2JF5L_QZxLEI0el5Dq-PMgL_9CZ4HuEUrbwRHCu4jmhkaTwEyWv4w0LRo0ObfvgPEcWJspxPriM6jrSpDy0B7nBtpLQOHxQMlF6HD-cnCk-scgPvS9-9EdT8cK1JCLOVhB_vOlxH3n2o1YWvBau8PAR9seDX9DSOOhxPpCSZUniZAAAAADw48eJEweg4z8eCM_RlAo38Du-YVI-FlcUiE3kIfxR8vAZ1GKFJzmOHskSeUN-NniS3Lh0CtP0Bc2kZziTcKpwCv0Dn0U7I9GP7GLgdDou5cH7RbjEnMKVDLP0Q8txMRF6Hf9xkxi55QizjUgeLSmoWUefmMM_rNOFt9RRACNEAIYgoxBCBAABhJYKEGMUAMYgAIxxBiCDjEDEQOKQcECQxwQxTCBgGAIAISAYEAoAhQQGCjRBAYEMWQFIUcIYRBQABjEiBSKMAmEQEkYALZCgAAgEhCHACIIQgIwQJIRQACAgAA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "jonathan-adams": "Dr. Daniel Goodman",
+    "eric-millegan": "Dr. Zack Addy"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "jonathan-adams": {
+      "name": "Engelbert von Nordhausen",
+      "wikidata": "Q1342000"
+    },
+    "eric-millegan": {
+      "name": "David Turba",
+      "wikidata": "Q111609"
+    }
+  }
 }

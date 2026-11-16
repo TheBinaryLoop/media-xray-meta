@@ -21,5 +21,56 @@
       "to": "00:33:42.621",
       "fingerprint": "AQAAjMquJJkS-OCo6_iJZ1q64seTD7UkpM8SYeUPXUHOiqjUSQN2NN-JygM15IpTKH6VID73od_hSTz6I_oO_cKnB0x4VPERS6KKNxJCK4eWcYh-vA9cNwqaJzr6GOcxMcyPRiGP5-gXzJh6vAgTvmB-fCyqJylEDU6nF6EdJziPj3jRPGijIj9OJYPEPLg6Y1-yBY8u9EmPZnKgZ17RjGpWoVIqC02TLBI0a0f8ozmmLxyeG6ye4n8QRj80UVlw0dDDC95sBU-UPYB4XDn0XriUxcF3R8jyo4mOZ49xe8H0HD4tPOh99AzCPA-EF2FutGzx5egTYQul44enkeg0ompSSRsydTmuHHgwPd7wHDhzQdOjDNOVFM-OXoenI-zAnniUok4W4zxK5kF_OMsJOzweZkH2D87RNIdONHFyo0ue44wqAcUFcEAgAAEghChNCABAGKIIAYgJBhBRBDBiDAAACQIooEAAYBEQhhkLRAAAGGOAQUwoRghQAChiEFIEAIQMIYYYAQAiSgCmhACGEaIQcQQ54RQzhAABDCCMOmSMEEgIBDADBDAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "eric-millegan": "Dr. Zack Addy",
+    "heath-freeman": "Howard Epps"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "eric-millegan": {
+      "name": "David Turba",
+      "wikidata": "Q111609"
+    },
+    "heath-freeman": {
+      "name": "Gerrit Schmidt-Foß",
+      "wikidata": "Q1514801"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Howard Epps, der Todeszellen-Mörder aus „Der Mann in der Todeszelle“ in der ersten Staffel, kehrt zurück.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_2#Episodes",
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Besetzung_und_Synchronisation"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

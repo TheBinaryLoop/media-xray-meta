@@ -21,5 +21,80 @@
       "to": "00:33:50.301",
       "fingerprint": "AQAAjImSOVGSKIlQ-UYP4we-wfPwXSP0H96qIuTxHx9qf_h4PHnQK3iORgn64nyQPMiPUgwPsxcuHj07vKdw6ahyvDmOo7mIPCH0mMg_tA-8Dn_wGu5yPEFz4c4ePHj2hOibId-OxCesvEH70fiD78iN5HiSZPjRKxvKHJey4-h7pPErosdzXEfIHH-GeqzwfMOPh0sF58Mb5IGuIJSYHA13vMfxfGjWo90VBZUOJyV6-USP5kmPQz_6B82eBhcb3KEy3IeXG2-1FHeO4zmS5UT44x-eJcL7CE2y7MdVDn7R_niGr_he3OiJ5gmSr4iTPLiYB81p1GLwn3hS9IQf-PgFX1tRyjX-IpnSTEZ8PEefUFtR88F3oiVRZ2gq1gBBCALDCCCIAYoASCCwAnsADCMKIEGUAIYwxCqBSjiHgHIQA6EOAIAgIqgwREAHCmMEWiCEZhAorRCABBIjDBJIKUuoNRIAAIBkghCEABVAAIYp0EISR5AQAiAkDEEIUiEBIAAIBDQiDwHCkHGAMAA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "joel-david-moore": "Colin Fisher",
+    "ryan-o-neal": "Matthew Brennan/Max Keenan",
+    "carla-gallo": "Daisy Wick",
+    "eugene-byrd": "Dr. Clark Edison",
+    "patricia-belcher": "Caroline Julian",
+    "michael-grant-terry": "Wendell Bray",
+    "ty-panitz": "Parker Booth",
+    "cyndi-lauper": "Stephanie Susan „Avalon Harmonia“ James",
+    "pej-vahdat": "Arastoo Vaziri"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "joel-david-moore": {
+      "name": "Robin Kahnmeyer",
+      "wikidata": "Q2159820"
+    },
+    "carla-gallo": {
+      "name": "Sonja Spuhl",
+      "wikidata": "Q1493351"
+    },
+    "eugene-byrd": {
+      "name": "Rainer Fritzsche",
+      "wikidata": "Q1362641"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    },
+    "ty-panitz": {
+      "name": "David Kunze",
+      "wikidata": "Q47765524"
+    },
+    "cyndi-lauper": {
+      "name": "Schaukje Könning",
+      "wikidata": "Q2231998"
+    },
+    "pej-vahdat": {
+      "name": "Marius Clarén",
+      "wikidata": "Q1899418"
+    }
+  }
 }

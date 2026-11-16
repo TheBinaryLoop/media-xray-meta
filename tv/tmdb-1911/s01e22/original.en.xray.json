@@ -21,5 +21,39 @@
       "to": "00:33:40.675",
       "fingerprint": "AQAAjNEWMUqSSFGQ5FF-eEsbXDzuHH_Q5OiPPMmhOMk2XC56ITxxXNmR-sezbfgTIwspS-g1GU8zPNXRRkfzIw-SU0TFfEEj5biO_xFxGUyjoJnSFPkRXsrQXOlxScS34U9HTHludCFzxNCDUyy0LtKIZtQH7SkFx4aV40xNpFWIkyh28HlgBsmTRYgl_WiSHgyXKOnwBz-aKunQ469wvUgi70Ie-AuqLVGFsZ_QvRyYPAv6HE2PB9UueFIWDnVq5EiULEfJMrjy4EOfPGh-44tQLw_RPAyubDqeC8kTHVfLCHF6DT74GNeOh12GPnOO5hn-I2ImITkZ4lIW4iMVlE-F5sc1Gw8zPHwibElPo8kW8PzRjFmwH98R5lENjVw8hFbiBe3xHJeDntjyIU4jHSwlTlD0Io9wHc0RPmlwD2qaaEXFCs2iKZFw7cYP7cdTVG8AABBiAAlqBFCMSAiSIggAiCgCRCCJhACSAMKkE4IAhQAADBEhIGAaIASQokBhAZBACAlBADDAOeURUcMoYARCQilAgYCAWCIAAkAZYgSwRBkgCACCKYEYMsQJoA3RQFFiQFGCIQ"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "t-j-thyne": "Jack Hodgins",
+    "jonathan-adams": "Daniel Goodman",
+    "eric-millegan": "Zack Addy",
+    "dee-wallace": "Special Agent Callie Warner",
+    "ewan-chung": "CSI Tech",
+    "pat-skipper": "Vince McVicar",
+    "coby-ryan-mclaughlin": "David Simmons",
+    "bob-rusch": "Carnival Owner",
+    "loren-dean": "Russ Brennan"
+  },
+  "trivia": [
+    {
+      "text": "The episode won a Genesis Award for drawing attention to the issue of pig slaughter.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "The season finale introduces Brennan's brother Russ, played by Loren Dean.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Recurring_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

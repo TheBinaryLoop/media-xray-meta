@@ -21,5 +21,43 @@
       "to": "00:33:59.168",
       "fingerprint": "AQAAjEmYKEpiTehTuDsOv4ezKEN45EsIjjr6oZGP6_jOoZwGHxd73Dp05cSR_2gunK5wEY5z7Dxu1Mrw5Ai0E_GPWoVNbeiGYgqt4yIYacmO5oiOz8aj49_RfDn6Hs8-RM_w5riOdjwaNT_ukHh4hKmC9iF04gqerMh19Bc83gj7KrjS4MqDJl6C7jgLXTquRDJyfWjGHO1ofA9-I4zTQ5OqIPw1mCPsCyWLi0UTaTrC7nh2aD8u5viQ7uiP78e1o_lROdImXOilI8yWDD_o8XiLa4KmpJIUNDmH6_jxvfgtNKOUo1eNHy-H0oJ-4S6RUwdzEUfZw86wo0p-vMe74-pR-AgPrUeOP7hwYtRxmMV-wcqK8BquoUV5AKAYAEoggQgEAAAhhBCUAGEFIs5YJARAAAEIiVEAECAEMYAIgowwAikBEAIGKcEAQYI6wIxQQDAigBAGGSGcAgggAZQAQDjAiCAWIGcAExQRYIAAzCEiADDGUSEAA4QQApRQBDoGTUGCCA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "john-boyd": "James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "patricia-belcher": "Caroline Julian",
+    "dilshad-vadsaria": "Padme Dalaj",
+    "kim-raver": "FBI Agent Grace Miller",
+    "nicholas-mcdonald": "Victor Masbourian (uncredited)",
+    "roger-cross": "Kevin O'Donnell",
+    "brad-beyer": "Pete",
+    "matthew-holmes": "Alex",
+    "sunnie-pelant": "Christine Booth",
+    "pej-vahdat": "Arastoo Vaziri"
+  },
+  "trivia": [
+    {
+      "text": "Filming on season 11 began on August 3, 2015. The premiere was directed by Randy Zisk, who had just become the show's directing producer.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_11#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Kim Raver guest-stars as FBI Special Agent Grace Miller in the season's first two episodes.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

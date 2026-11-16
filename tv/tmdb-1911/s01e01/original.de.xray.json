@@ -21,5 +21,80 @@
       "to": "00:34:04.995",
       "fingerprint": "AQAAjImYJEySMNHwNBW-w49xhojoJcb9gHqFZnqKqUpwNigaKxrehHiYPBiVXcFz1GLwHdQ59BLm41HwHE0dBz1v5LmgI5eCKqlynId99MejT-hjOMcn7XCqHaE__NCe4W_xBPUxqTUOj8WLw8eBow-Of_jRSGPQ49TRfDnqxmDy5eg8sOlxP-gVCz-88qh2vA9-gcmhUXguXNCSB5eKD6aEF7OOv2hyIz_awI6Ejyi7HLmbYDaJ5wsaxoHGJQN_qC_eHKORM0ckb-h7vDm-Hc_xREdlJg18HpWYg3aOrgz-Gz_0iYFP9Pjio_kQouzQOEf-WDjaBU2MH9obNHGCHMwNH55y4GjyGS_OTCdeHdeQJ9uRfAkAZCwyxChEkDCEEaWMgYQBQRThCgBFCDUEUWEYM4wQwKwgmCKIIHGIKWIEEEIQQgQQgBBmFCOMICEeIUZRBBRjQFFBFCCAGACFUxJARQAAFADAmVCGACokIEwwBwQQSDBhAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "jonathan-adams": "Dr. Daniel Goodman",
+    "eric-millegan": "Dr. Zack Addy"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "jonathan-adams": {
+      "name": "Engelbert von Nordhausen",
+      "wikidata": "Q1342000"
+    },
+    "eric-millegan": {
+      "name": "David Turba",
+      "wikidata": "Q111609"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Die erste gemeinsame Szene von Angela und Brennan spielt am Flughafen Washington Dulles, wurde aber im Los Angeles Convention Center gedreht; die Eröffnungsaufnahme der landenden Maschine stammt dagegen vom Reagan National Airport.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pilot_(Bones)#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Hart Hanson legte das Mordopfer als Kongress-Praktikantin nach dem Vorbild des Falls Chandra Levy an. Der politische Hintergrund sollte zeigen, dass Brennan die Wahrheit sucht, egal wer ihr im Weg steht.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pilot_(Bones)#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Rund 10,8 Millionen Menschen sahen den Pilotfilm – so viele wie bei keinem Dienstags-Serienstart von Fox seit „24“ im November 2001.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pilot_(Bones)#Reception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "from": "00:04:19.700",
+      "to": "00:04:21.700",
+      "text": "Booth vergleicht die neue Partnerschaft mit „Akte X“. Auch mehrere Kritiker zogen den Vergleich zu Mulder und Scully.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pilot_(Bones)#Cultural_references",
+        "https://en.wikipedia.org/wiki/Pilot_(Bones)#Reception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

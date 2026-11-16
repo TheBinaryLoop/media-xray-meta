@@ -21,5 +21,37 @@
       "to": "00:33:23.216",
       "fingerprint": "AQAAjBmTZEuUJMNzfDY0KD9hElXC0IgfDtfx4CKD32iXC36LVprxBzkPaUMYvSEmH5fCBF8y4Tx88dhzXHDy41Kn4aleVO3R_Igpo3kPbc2I6ggzOcUTIudxEtS5HWreIJcs7EJ9XJKOXssRZn9RS3iOPiTRZGOg5zuao6KjbEIeokp6IUx1D3uQ_BYoFuyTwsmV47fwRMZuJ0az5dCa4T1-Eb-CR5dDTJnS4If_HH1E8D_6onEOnz_uJ1h9o4mZGUnI5QidJcbxeDGep7iMJ_hAtUdsHWuyJ_jhPDj0vMiZpPAj_PiPkDkS_nB6FNeW40X6REcSyzmeNAPnrNEx_UEjhcrwlEYeHZ-OhGOGfEvx5ND2QTwN8w8cRjlqUYfyFFc0ZPpX4ceY60RT58GPdAkblE-IvjyaE8-YIVd-xNSVFEm0R3C-A4WQEwQpBAmBgBlGlBIEKCKccEQRAoQiAEkkEBOACKAIAAAYw4AwQiBCMCAAGACoMMwZBhwASAkCDBLCGQEAUEJSQABRiiBDhHGEGQEwIYALpJiQAAIDhEFKGmOQk0AAQxgUAEgggJKMAEQEEoIKAw"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "joel-david-moore": "Colin Fisher",
+    "steven-christopher-parker": "Barry",
+    "kaylee-defer": "Tory Payne",
+    "mickey-jones": "Willie",
+    "nick-nordella": "Junior",
+    "oren-skoog": "Billy Gabel",
+    "sam-golzari": "Chris Ballinger",
+    "jessalyn-wanlim": "Dierdre Ryan",
+    "evan-arnold": "Keith Seeger",
+    "laura-heisler": "Jill Rifton",
+    "jordan-orr": "Doug Seeger",
+    "giovanni-v-giusti": "Skateboarder Avatar Fan (uncredited)"
+  },
+  "trivia": [
+    {
+      "text": "The episode promotes the film \"Avatar\": intern Fisher queues for the film's premiere. The tie-in was proposed by Avatar producer Jon Landau, and Fisher's actor Joel David Moore appears in \"Avatar\" himself.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_5#Storyline",
+        "https://en.wikipedia.org/wiki/Bones_season_5#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

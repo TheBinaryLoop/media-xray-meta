@@ -21,5 +21,50 @@
       "to": "00:34:03.459",
       "fingerprint": "AQAAjHqSRkmUBPGRXLglNMeFy8cPH-mP5Kh-PLbxPjJ-pDaSH8_RMCJKijze4KhU3Ee38AryQxVpRGYLmouMidrh5vixydlwZUcz7B_yxsITUYIiZhXCjBOug6OOLz7KI88yD-eO5II_7OiP7sH14c_RHa_QHGUZKugeuCLuwzr65KjcI51mJlDERMdxQUtHaNJx-UGl7tBy4wqy_PCWCT0-5Wj0Dwx5vM9wIgzHoIbQjlFBqVFY-MepIsd_8MdzNN0e4EPPoOGNvLgWnAnxBv3x_eBx45oeiPURnsRH9MYr1JvBLh2qY8yRr4H2H_nxcLia9AifCrcSaEVMoVHIB_1V4T98_ERj6UT3odlXodXxL8eNEPYkaK6QN8IN4JAQIhikhKAAICMMwIYxKSxLAjBjFCAAOYEYFEYIKBBQQhohiTIAEIGJIAYQgJiCggiFGCMAEcGIoUgAZoAzhgLhBFCEAYKEAIACJYxjxnAnjECEEIAIAEIYB6ERQDgAABUA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "t-j-thyne": "Jack Hodgins",
+    "jonathan-adams": "Daniel Goodman",
+    "eric-millegan": "Zack Addy",
+    "anne-dudek": "Tessa Jankow",
+    "jose-zuniga": "Mickey Santana",
+    "bahar-soomekh": "Sahar Masruk",
+    "federico-dordei": "Ali Ladjavardi",
+    "david-roberson": "Bennett Gibson",
+    "nicholas-massouh": "Farid Masruk",
+    "tracy-howe": "Officer",
+    "said-faraj": "Hamid Masruk"
+  },
+  "trivia": [
+    {
+      "text": "According to writer Stephen Nathan, the episode is built on misdirection: the opening car bombing is staged to make viewers assume the Middle Eastern driver is a terrorist.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Man_in_the_S.U.V.#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "It aired as the second episode, but \"A Boy in a Tree\" (broadcast third) was actually written and filmed before it.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Man_in_the_S.U.V.#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "The climactic scene was shot in University Hall on the Loyola Marymount University campus in Los Angeles.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Man_in_the_S.U.V.#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

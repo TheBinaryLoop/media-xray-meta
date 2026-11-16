@@ -21,5 +21,24 @@
       "to": "00:33:33.277",
       "fingerprint": "AQAAjGyyJHkWfA1uHsmVJQip4wu-9PAj-CTOLYugncCdoZcK14kY9NeGL7rxHzqLimgaXGh2RRPK4EkOyxl-zMyFSHnm4y_0fLgQHceDps6Ea_dgTkeuFqcYaOckPAePZ_qCvDPefHACT8ee5_CP80PD59jFJ6gjo0kqxN_xHtozhKmYZ7jyHRyeB8d5XDqya_mg50QePvhD4seea-jh-OiYHKcezMyM50F_PBdCa4euBnnUg-E5CVtxobyMH6eJPM-EhGEafGgiP8Z3mHqHZJR65FtxHY0roh5xHeEzaAm1Il_2oNJzNLw3nBh5ot8CJkmjq3iESy16mBfaI2nyIKYkKmgaPUa_H3dBdYyIJznUpBem5N2GkolyPMKsPDGuBFyaP2iiTOsRZg9-PClbvJIy5FIcVHlyTMmPJ9eQHwqy8ABCEGLcEIMRsJQAAYwzQoEFETAKAAOJJGSOYJABgkmmiAAEIEAUMQYAAQgyRABiAIAwAUUIQEAQQpQ0SDAIDBVCOAcEMwYSA4giAiAAHEMGAgGIEIQYIBThkAohCICEGYMMAkMIhwRyCigKCEDCAg"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "josie-davis": "Paula Lindbergh",
+    "paula-newsome": "Kelly Bissette",
+    "leonardo-nam": "Nate Grunenfelder",
+    "reggie-austin": "James Perry",
+    "billy-gardell": "Bob Sayles",
+    "cheryl-white": "Mary Kay Sayles",
+    "conor-dubin": "Elliot Lindberg",
+    "amy-gumenick": "Paige Sayles",
+    "rob-mayes": "Trey Johnson",
+    "ty-panitz": "Parker Booth",
+    "pej-vahdat": "Arastoo Vaziri"
+  }
 }

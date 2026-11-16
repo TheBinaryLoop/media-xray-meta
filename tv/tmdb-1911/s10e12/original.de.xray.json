@@ -21,5 +21,49 @@
       "to": "00:33:41.443",
       "fingerprint": "AQAAjHyikFOQjJLoQswjpCdR8SkeHVeOF38eofmOCslJ5ImGS8WzHc2fBL1EJNeHPEmEP-gfNO-E4y3y3Dh17DlufODxL0FY18hx6AhwPEeO_9DxgypnQR_cDw-iH8_hMDfeHEf542gTbyiLC9fJwYxxJSEehE-g5dGJR9HxxA--HMmO5sal5cZ1XEbzHbWNNw5C0cZ7CmKOHyHlY5zCnAijMDo09cgeFs11lMvxpceoE39DJExrIdfxFG8Mn8iPstDC5Mj1JOiTDY535B8aJREfI9aaEF-MnNXg59BJfPGRNzOa8Gh_XAgzaYmGckmQsF-Ko8oXoomZKniUGfaD4x7spCyqaOqCJv2R3EfYo4mJp2nxI0ny5kGYJZbR4w4Dp4q4GN-SK7hCpCOPRPGI50bzKwBgmEIUCAaAAIAAIgkQAkAAGBVANEUAEshBQwgUywjoAVHAMKCsEsAApJgQSAJBpBJCKAKcEQsIw4gSShhqAQECEUCMEUIYY5llFCBhhHRGIAUAAAI5ZagwzCBCACBGAEQAkEgAoBADCA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "john-boyd": "Special Agent James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "patricia-belcher": "Caroline Julian",
+    "laura-spencer": "Jessica Warren"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "john-boyd": {
+      "name": "Tim Knauer",
+      "wikidata": "Q2434097"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    },
+    "laura-spencer": {
+      "name": "Annina Braunmiller",
+      "wikidata": "Q567180"
+    }
+  }
 }

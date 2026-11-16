@@ -21,5 +21,23 @@
       "to": "00:33:52.656",
       "fingerprint": "AQAAjNmSiFKSJVFwv_iOxuExmctxfejx62CU44uwX1A2Jgq-I6eJLG864tKCXA_2DHf2oovi4EqCJhaToF1XvA-O5CKRPviOOw8cRcmHB9ZxLTkip4L2I9PjHQ925XjWESWP60rRvOhxPFLwSqiYTDIaVsSPF8mRS8dPXMGTL8GdHPWUIj0D_QpcEnmSxIfHRcPhOCu60Uco8YJI7UZ-Y0-Cs6j2q5gsH1Z7XF-QHsm84GFy5NKyQ0d-SXh4VJklOB9RKyuuI2c6JI8SvJeE86jiU2jOH5dwhceH5kTD4-LxJSnxo7k69FMWJI6U6MgTlDz6HH9w5eiWyUNzHbkEPUOYvniIUnzwB-9ynIihxWEQHs_xo5pzWEyCMA5x6EdfB-Z6VFR2qPvwI7yRNroSeHqhlcH8BPmOugmYuFEAYJAQxAEGhBAPKAYMoIY4YBAhoCAliCAUAmQBAUooYpAABAiDOLHCKmCAAgYwIIAFyAhhCBAAAAQQUQIMRghiwgACAAQCAEQIpAIggQwRgGABGELIAIWAIg4JiDRTUAigCAAEE8cIEIwB"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "eugene-byrd": "Clark Edison",
+    "angela-alvarado": "Dr. Leticia Perez",
+    "joaquim-de-almeida": "Raphael Valenza",
+    "lucila-sola": "Bianca Silva",
+    "geoffrey-rivas": "Ramon Alvarez",
+    "michael-fairman": "David Hal-El",
+    "julia-vera": "Silvas' Maid",
+    "kevin-changaris": "Young Miguel Silva",
+    "david-a-garcia": "Argentinian Street Vendor",
+    "logan-moreau": "Michael Vincent Hodgins"
+  }
 }

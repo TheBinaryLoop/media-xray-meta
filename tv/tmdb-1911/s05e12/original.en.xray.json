@@ -21,5 +21,17 @@
       "to": "00:33:43.798",
       "fingerprint": "AQAAjGumNHFwD9WFRw9-nId7vLtwXfiWPXiZRcFVxDbUHDkb9LhuPA-u4zmu49HToCRc5RFOXKhQU4Oo92jSSMcTPWD5JDh9dAwj4WguxD-Sql_QGmGSSScuaJnUGX0b_PiOh0yhOg_ywMeV442CT8nxLyVy6TjUU_iSXzh1NEuVomR26BH4I62Of2g0Kgj14OkFKWSqDc2x42li-DyOZs0RuiO-6Lhy4x-cxccXWhidcTLs5viHr0MWOUGyLFuKh1rBD7twjxoqbMvxjiyqbEuJmAmS48bz4Jo0Bk-yCw8OJ58wSvtw3bgO92ES5IeeIL2SlDiH5xj14kflS6B-_BOF8EoIPcuRU8IbF82PKlfMgBOvo43yoZmSLDgv5HkeKGJmDemOivzxKKnwF2ke_IQW8uivHE1q4oeWBymA8IIAQwwSgAhAmEKCIQYgARYAwakwghADHGLCEGIIcQAIghWCQEAAlDBLCAAs0EYpwAkRQCBEvCASGYIMAchoobUgRIInCBHgGWAQcQAhBChhREijBAMQAIEQAIIIJpQAhAAknGWCCAGYAwA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "richard-t-jones": "Mr. White",
+    "scott-connors": "Mr. Jones",
+    "dylan-kenin": "Mr. Smith",
+    "diedrich-bader": "Andrew Hacker"
+  }
 }

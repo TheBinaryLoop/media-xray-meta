@@ -21,5 +21,22 @@
       "to": "00:34:11.088",
       "fingerprint": "AQAAjEnGTM8SBfbxC_10-K7gB__xOKCHaxB3DVdyWJ2g82gi6_iDPHvQKiF8De-Rx8cP7Ud-oxYPBz_uB192uD94NLEq_FOGfDkSVcGF47vQv0XT79gvPB-aD5US_xgTRUT45IeiPC9y4_rw4AmJUUS3r2hy4VnxCz-L_PgPaQmzI9QfnHjxZTGeWDq-oNmPxJeK_Rh__NCj5ELOHD-qLwoaHT-e6UjOCH6CJx1OyEx4xBx6eMRDNYOtIwulF6p-hHmWCswm6fiFR_qQC708iEf549FRe3ANzT8uXmCO3PjQHyfRTzDjC6XiI7kQPmieSXic5rhwHac4nB-aB_2Hy8e14xPyJVsD8VmjIn5Q4gxj1NTxo1fAh0dIloTOkcil7Ohx_fCDSskDoIhjAABgHFUESQUIQgpQIIAAxDjEDENCCAOEIoQQpBIBABhjGJFACEGMEMiApahDBhkBjQDEAEINEkABoQCQSAEjCIKAAEcQkAwIZQwAADjjlEAECSAAMMIQhAw0ygiPBRGMOAGUFYAoBhgBYDBBBAFCAIaMcAg"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "t-j-thyne": "Jack Hodgins",
+    "jonathan-adams": "Daniel Goodman",
+    "eric-millegan": "Zack Addy",
+    "josh-hopkins": "Michael Stires",
+    "alicia-coppola": "Joy Deaver",
+    "leonard-roberts": "Andrew Levitt",
+    "rachel-miner": "Mary Costello",
+    "ross-mccall": "Scott Costello",
+    "kate-mcneil": "Audrey Schilling",
+    "matt-ross": "Neil Meredith",
+    "lou-richards": "Dr. Barragan",
+    "keith-sellon-wright": "Brian Schilling"
+  }
 }

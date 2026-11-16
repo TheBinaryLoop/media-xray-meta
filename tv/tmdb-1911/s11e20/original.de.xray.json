@@ -21,5 +21,61 @@
       "to": "00:33:45.136",
       "fingerprint": "AQAAjMqmUaGU4LvwPCHBo_oRxgqS13h6VOKVwIqUmoJTH09-_MieQOyD0ckFi3lQ3kej5IH244IY_XgeFWeOJmbQTcswL5GJH78ieOvxLcOfw3lxGiVPNEsUQneCPLNwgUv2dYKjxMFpIcw-tOuhWEQkJ4sqNHGiHA8xKsuxDz-eB0ySHaGeydC158isbcZ1KnjMYHqLJjSNfNkIPY4Q68LFSfCzDE-O_TXKi2iWZaKQ6EoyxOSx0q_Q7Oh2KbhDVvhxi8EjpBWPM8eoTJDT5MjmHL_wG3VyeFkcYeJx3EKO5EuKkTpyClpUoVo2b8gXcvjhf8KTohSPMNaRrHH2oYlevBeeD_WP5iXy6LgPPTsyPfg1a7iFE032Bs_xHmkc9Ic-NkKYZ3HRJ8OJ5jxOeEWf48dxEc9w5shzqNSO_vCRHyd8AMAEM0gR4ggjRDhinTCAAIUUAUYRYpgDBAkhkINSMcCUAMIgKhADAghCBBMAOAiQEoIQBJwARDokmCGKCQSYtNwAqgVSiEhCgBCCAQWAMIQhggAgDoAhlCICAIIQAwgpkhwTigKBkENOAw"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "john-boyd": "Special Agent James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "eugene-byrd": "Dr. Clark Edison",
+    "michael-grant-terry": "Wendell Bray"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "john-boyd": {
+      "name": "Tim Knauer",
+      "wikidata": "Q2434097"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "eugene-byrd": {
+      "name": "Rainer Fritzsche",
+      "wikidata": "Q1362641"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Das Drehbuch schrieb Kathy Reichs gemeinsam mit ihrer Tochter Kerry.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Episodes",
+        "https://en.wikipedia.org/wiki/Kathy_Reichs#Television"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

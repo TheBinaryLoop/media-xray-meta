@@ -21,5 +21,64 @@
       "to": "00:33:20.368",
       "fingerprint": "AQAAjFISRkqUdHARPngPuMRz5NNSfNbQc8I5UjjzIN1iPPDIQzveZOjxHcbhazj1QHmORaLRcriOUvCZo_Mc5IeD4yJxhsMv1FJy_IQl4jiO48Fz9NnRI-0LlUmOHylXo59xccB-sAqmTczxEa60ojd-vE-EXvCZ45vx43AVHjcOnxbyZdD3oEfuOHjRVDx-fA_-ok_xRse0g8mNUUwWHA1HFKePkok5OHSLdzhJfDi-Aj9-_PgNfLuRH7of5IUPwBHRKU6IGx-OPyHeDz0e5EelJwU0PkF69HiQ7-hxuEFo6cKPyjua_MQxNTuYaAldXAz2CM1RHyEcA8IIIxBFCDDEDADIIKMAUpQlBhQhhiPmmTFCKMCYIUAJA5RiSEhAEEMkABGYYNYoJChChAAkFGJEMGVMMkhgKBgBQhlAlAAIGkaIoow4gQhlSghBCRGCQeqYBA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "eric-millegan": "Dr. Zack Addy",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "ryan-o-neal": "Matthew Brennan/Max Keenan",
+    "eugene-byrd": "Dr. Clark Edison",
+    "patricia-belcher": "Caroline Julian",
+    "loren-dean": "Russ Brennan/Kyle Keenan"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "eric-millegan": {
+      "name": "David Turba",
+      "wikidata": "Q111609"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "ryan-o-neal": {
+      "name": "Hans-Jürgen Dittberner",
+      "wikidata": "Q1577655"
+    },
+    "eugene-byrd": {
+      "name": "Rainer Fritzsche",
+      "wikidata": "Q1362641"
+    },
+    "patricia-belcher": {
+      "name": "Evelyn Meyka",
+      "wikidata": "Q1381776"
+    },
+    "loren-dean": {
+      "name": "Dennis Schmidt-Foß",
+      "wikidata": "Q102945"
+    }
+  }
 }

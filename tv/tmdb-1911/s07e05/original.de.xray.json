@@ -21,5 +21,55 @@
       "to": "00:33:50.096",
       "fingerprint": "AQAAjBKTJFEipUmCX3hxKUF_NDXeFZfiCLn0CGKON0NMMQizHWXyDM-gO-j3YLtyeOjzGFedgCPyo1GzI9J73IeO64idC_M9hJ8D6sV04uwR_rCm4w7R7yilDP7R64nRJw9-Ibl35NFRHn-OeySuB9ePTxdK7UGyWDtyFT9-RsGPB9EViPhxMIkY_ZArgsmNM2Fs5IqHPIciWohZWEskojyuI0zEHJqPfDmeUTiPHk2VHLGShIcW5Qm058GDXOEwZbqCKtLBckdIZkFCfsF3jH3Q9cclhfEQZjGSXfjxlDp6esKFMOeRHHOSF5cU9AelP6gcCReeX-DhU9i1ADmlB_qi5PiF_HCW6CzyQ12RJxeaMbtwmcKUJsejI28ILT_C83icxLh4nMmPJrmPkviRy8Fz6Epqoj8mlB8A4hgyyCiDrECKEWAAUcAIpwRDzCCJhFEEAKAMMAwYQYCRAAiiLDBEMAMAMEBAQwRwyCkBACQAASOkE8ooIQ1RlgAgBKNKAUAYMgIIJJAgIBAwgDBAMIQAEFIAIaAwhgAJAUCGCSWQIIQIgAABhgulCCIW"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "joel-david-moore": "Colin Fisher"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "joel-david-moore": {
+      "name": "Robin Kahnmeyer",
+      "wikidata": "Q2159820"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Die Folge war bei den 64. Primetime Emmy Awards für die besten visuellen Effekte in unterstützender Funktion nominiert.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

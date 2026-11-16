@@ -25,7 +25,7 @@
       "$ref": "#/$defs/reference"
     },
     "people": {
-      "description": "Everyone referenced by an appearance, keyed by a short slug that is local to this file.",
+      "description": "The item's cast, keyed by a short slug that is local to the item. Appearances refer to these keys; a person need not have any.",
       "type": "object",
       "propertyNames": {
         "$ref": "#/$defs/slug"
@@ -276,6 +276,18 @@
         },
         "characterWikidata": {
           "$ref": "#/$defs/wikidata"
+        },
+        "credit": {
+          "description": "main for the item's regular cast, guest for a guest appearance.",
+          "enum": [
+            "main",
+            "guest"
+          ]
+        },
+        "billing": {
+          "description": "Position in the credited cast list, lowest first. Billing order is information: it says who leads.",
+          "type": "integer",
+          "minimum": 0
         }
       }
     },
@@ -291,7 +303,8 @@
             "audio-fingerprint",
             "shot-detection",
             "video-analysis",
-            "subtitles"
+            "subtitles",
+            "language-model"
           ]
         },
         "confidence": {

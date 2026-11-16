@@ -21,5 +21,51 @@
       "to": "00:34:08.660",
       "fingerprint": "AQAAjEqUqVGSMBGeCn0eRIoPuT8OZw-Odxf2NCPRoBd3HPoTCnEjHUevHY0uvD_cX3giXDouH6aTKogfg5xyaJ2GZsyRzUd_wc8elCeeB7cE2JZSXM2PThccKsSPFiVzuKgTFfxxIZnSRAgTPTkeH1cu3IfPGN-PdyCnCU1kmDmS8QnyKzi-ETUVNAvVI7mkI1fmwaeTAihXGmaUBd_RI9ahrUcaHlf0HX6Kwz8ROheeBRf3Yc9hNVGO2BRyPTiaS9Ce4wohR4m6In8ioseGzms8XG9wRQcf8EMtkkJzBWEeI9KPK1Z0PEkevMEbWKWMOzue5LiQcEdeXPvwJM_wKyE6HQ7Vo89x7A2P5DSLvmjG7Dh-JoYc5UPTLUN5JjgO_riSD08C54bOY0-y4PGHQ_wiRQAqFCOCKFKIAAACAJAAkhABgEIOGEMIEkYIRRgDBCAnCRNOAIMIogAgAgB2CDFEgDHACCOlIgAgSgA0AGgBEAFBAWCQJgAQYQiBgAjAwEYECVYIIgog44kAhBAiCDRECDkCIIAJYIQBTAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "jonathan-adams": "Dr. Daniel Goodman",
+    "eric-millegan": "Dr. Zack Addy",
+    "ty-panitz": "Parker Booth"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "jonathan-adams": {
+      "name": "Engelbert von Nordhausen",
+      "wikidata": "Q1342000"
+    },
+    "eric-millegan": {
+      "name": "David Turba",
+      "wikidata": "Q111609"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Die Weihnachtsfolge wurde eigens für eine Ausstrahlung im Dezember geschrieben. Dass das Team über die Feiertage im Labor festsitzt, gab den Autoren Raum für Brennans verschwundene Eltern und ihre Zeit in Pflegefamilien.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Man_in_the_Fallout_Shelter#Conception"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

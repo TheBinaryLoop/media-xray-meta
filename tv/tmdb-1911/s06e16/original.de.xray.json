@@ -21,5 +21,55 @@
       "to": "00:33:53.844",
       "fingerprint": "AQAAjFKWzErSCA2LSzuendg0xzgp4zk-5Ed-9IfzoMp2TFxuPMI7I33QM9BD_NDYD84uVOmNR8GVWtiDPhzEOznc40cp5fik4lIkgkdPQezBKH3w48cRbUk04ip-Yjp-wX0RjhlxH_omhJWp4Dqug0mozEfvo5m2HAzTo_mFazRe_fhQHds65A_EPUXeG2fgrkPf4mie_eiHSNYjaPGRHz-uRkeYxTnUTEeumIKXabgeHHuOuxcaHZd25NkT9McdQjXhpEF__OgviI2OilqCJ_sQi8ijE-4vHC9DnCJ6NI0WJ7jhHc_xJ_CLJlmSHxWVBFeghT9K5sKvBLsPJk8UZNGFRhWqY0_RH7UyS3hSscjxvB7E9cjz49TxRZGFZ8ePCs1TXLTwhaGEJkpk6uiOLwBAFADKIkchMAYTZQglRhKFlCGGISAVcYY4xRQ0gBLEgAWCEASBQEwAA4BAUgiBKAECCS5EAIIQZKAIgACDiAKLAEEBEAQgJAVkhEghjACADSgSYYghBQgEjjDiCADKCIU8AUgRAZiQSgCACDAI"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "michael-grant-terry": "Wendell Bray"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Regie führte David Boreanaz – seine zweite Regiearbeit in dieser Staffel.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_6#Production"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

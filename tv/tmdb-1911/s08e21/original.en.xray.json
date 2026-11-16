@@ -21,5 +21,27 @@
       "to": "00:33:08.980",
       "fingerprint": "AQAAjKLEKVEqVM6io6sSXI_RsA9KRY_w43iO5tiSSCqPagkjXJmE8oiU80ia5sKZHj9KHg3z4vlx2QmeHd-RbPkRpk_xZsRvlEdzLUuCL2fwI0dZDs1z6MP3w0mkRng8QUt_lA9lPNJwN4R1PCQuPdDypQivCY9iHI8T1NImBU3SbAleND5CSvlx9siLK_CPP8jzwDySn-ilRFnQ0CWe4MuDyll6_ERvB7_Qw5WEPgve4LmNNwghXj-uZUfFQaeOM3rwo8_RRFl2fPmgZ0P6HN-B49FCSXgsoa-OvFBThHmW4sfhZ8cf_HjqBuEhcrkQUiL6Et4qo3-S4Ao-zYLVI29-HD96wk_h4zi-oNCLT8ifCT2DM7rQrthRfsJfeD2i4zh-HA8BAoQRCHDGqIAUCAAAUg4oJBATQBDjFAQAGAC4AgIAJJgggiAgkRDAQAmQAQ4QBpRDyDBoBCMGCCKApYAQYAEgiAgghBcKOGI4Eo6B4gChAGg2ABBIAQEEEQxIQAAiWiBknQNGCEYAUkwIY65DnAE"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "gina-hecht": "Judge Trudy",
+    "jason-gerhardt": "Bailiff Griff",
+    "allison-scagliotti": "Jill Roberts",
+    "david-petruzzi": "Gordie Rand",
+    "yelyna-de-leon": "Pabla Sepulveda",
+    "danielle-harris": "Rebecca Pearce",
+    "kimberly-daugherty": "Grace",
+    "susan-feniger": "Susan Feniger",
+    "duncan-bravo": "Sanjay Patel",
+    "rose-colasanti": "Litigant",
+    "alfred-adderly": "Lars Nicholas",
+    "ali-louise-hartman": "Christine Booth",
+    "susanne-allan-hartman": "Christine Angela Booth",
+    "luke-kleintank": "Finn Abernathy"
+  }
 }

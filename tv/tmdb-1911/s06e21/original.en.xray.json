@@ -21,5 +21,22 @@
       "to": "00:33:27.414",
       "fingerprint": "AQAAjIl0XUL48BOeY7_w5Bua_MQdB0-D5MiP5rlQ7ROe_PhwHmlzJFeSoRkzHdW-4YmcDU0TiugTNzj-4zvCJEuSBExD5UN-CYT3pMaj4TeQnUHC58MZXCOe4A_4Yy0zBmXWEOdh7REu4hf64-Iz5Dn05AhX-fC4B-8V_HCPG3-Gw_txvbAf3NCLG05rXMVz9AqOZz9mZpkynJ5w5hd-IRcSHsyT45uOH3_xg31hbEcvfMlw8fgV_MF5_LjEFE-LM8eP_3gSNMo1onYeXDkmcUj7Eod-pLnwE8zi9IjxMMAjUjGYc4KjI9Kao3rQNDMufcgDrReEODk3NGGaHt_x4yfeOsac5dh-JbiPPEiedMd5NIuioOJi5TjuJTh5PA_OF6cDQYCgxhgAgUKIKwEIAgRwJAxSAChGlABIKCEQUhQIxiQARBFEFCJKICGVEQIY4RChRHglkGIMCAShwcQQIARwSA0CiEPAEAuIOYJIIBkygAKCGHECCMEMMEqIoCAUQhkipCBEJCGQYFASQgBAUBpDmACDKMSAMwA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "patricia-belcher": "Caroline Julian",
+    "mckenzie-applegate": "Jane Doe",
+    "michelle-l-gardner": "Grace Meacham",
+    "sean-o-bryan": "Mike Shenfield",
+    "pamela-gray": "Denise Shenfield",
+    "reggie-watkins": "Beat Cop",
+    "matt-miller": "Hugh Winslow",
+    "julie-wittner": "Celia Winslow",
+    "pej-vahdat": "Arastoo Vaziri"
+  }
 }

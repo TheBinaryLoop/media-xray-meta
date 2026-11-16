@@ -21,5 +21,24 @@
       "to": "00:33:39.700",
       "fingerprint": "AQAAjFKiJaGiaMFb_BtyQj8cpUPUcDmaXMH0HE2TBrk-lN3h5TGmH7pXpE2Y44sV9Dl8ZGGDZx-hXDdCMYnyoNG3BXmOCsnS48ePMjEq9fiDrkiWMMmPnBFuM_iHXmiaZEF-H1pH5MyJ4maOxhr6GNGTQFwVIk9u_GlS4clBVeFx4uQ2tDua_MZ3nMkS4MiPQ_8Q-3hyotIDP4qwp4c7Fke-QhxCZhdxP8HjCS_8HElIRUee6Lh0gskYUkKtFT_-p6jEoDkz_MUR5osh_UP8oEqs4MmH43nQPEePS3OQI3mVWPgCRllznAfxwl02DX9RZjLy_NCHXDm8qBglZwp-4xe67YXTFP1VnMMVGqfQfEefI2YO-alw4hesJBceRRl6HuJFov7w4Up2FFvHo2I-qAk_IvoklA8AhYCCDEhiDACAEEiQAIoAQwRAFCCgFHQCGEOckAYAQQAiDABgEAOYWWCEAigCphASUACBLDMIIIYIAAAYoAQggAoqkCBEMWYAUAgBoAgCggAAmVHAYAOMIIYIoYQllDCFkCGEAAMQAQA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "carla-gallo": "Daisy Wick",
+    "mac-brandt": "Jesse Wilson",
+    "alicia-lagano": "Kathy Lyford",
+    "alastair-james": "Randy Siminoff",
+    "stella-maeve": "Amber Flaire",
+    "r-c-ormond": "Arson Investigator",
+    "aonika-laurent": "Ms. Hanover",
+    "tanner-novlan": "Paul Linoto",
+    "tayla-parx": "Jill MacIntosh",
+    "katheryn-winnick": "Hannah Burley",
+    "ty-panitz": "Parker Booth"
+  }
 }

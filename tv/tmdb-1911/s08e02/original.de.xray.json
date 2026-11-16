@@ -21,5 +21,44 @@
       "to": "00:33:09.725",
       "fingerprint": "AQAAjMqaXCJOHa8QflIgHtxr5Hh0HD7-Ivyh9Uf64bjxNMBz-OCRAwAOAABEAAYMEQcPoz_6wwWfK5Do4D82HCmDOjhC-vBRXkduxFFy3NLh4zp05CJ64ccDHLmOHtqP44SO_PiJw8fxA0f0dCF8hM_wE3mOP2ge9Inw7nhSDyUhfkEP9DrE0_CPPsPxo6zx49dBhQ60C0dkHf0CD4c_9HgeJEUu4cKf4KLRE80lINSh_cGP42ge9DuO_9A-OFfwwTfEo-VwAESMdFBIoxyRwBghBKnUGYShmA4JJoACQIkxSBAGAaAg4AYwAxoimFCxmGFAOioKscgQIgRjBgkBhFAGCKMIMcAZAQwhjUhiARHgOESAFMoh8RARJhBChFOKAA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "luke-kleintank": "Finn Abernathy"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "luke-kleintank": {
+      "name": "Ozan Ünal",
+      "wikidata": "Q2043019"
+    }
+  }
 }

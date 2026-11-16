@@ -21,5 +21,19 @@
       "to": "00:32:33.194",
       "fingerprint": "AQAAjEmSREsiLVIyHMcvHD4-HN6BH16PCz6A48Jx4Mej4yp8HGNx5Ck-mAc8HDuuC74H--iPh-BxqcejI8wo4YeO64KM_IftIzvOgzo3aN-AnEFzB31UxBnxJw6SR8lR8mh-_ClOKahkwksO5g_CJ0qMhHmCrk_wHO-L7zOqtkiWUimiq8N9_Gh-1BdCMVOhTVN0xB_yD-EfNGR-PBquKRu-tjGs8PiDfbgoJB-iZ8bzOMGlXHjyC_5x4XhSpYjFRD102UYeNB_KLMtw8fiPUJeRPAxRJ8clXE6Mc8WVwz--B2GetUUy0TmaMMqPan5QUvjEZOh7PHko5IWYF6dz5NJIC3-wXUOPxidx6XiWrXiigQtGA8sJxEqaYhywHjtinBFSGSIKlLAiigjAlCHCAEAKAUSEIMAJJZABBiBDCDDCECSEIYwAgRCBhggiAFBGGAMQAgZIxJAhgBAkiDQOCEIMAkYAQZFADhEGjDFACQAEYIQIDAAARhhCGKEA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "luke-kleintank": "Finn Abernathy",
+    "john-sloan": "Todd Mirga",
+    "joanna-pacula": "Drina Mirga",
+    "christie-burson": "Sarah Metzler",
+    "anjali-bhimani": "Satima Najjar",
+    "tiffany-hines": "Michelle Welton"
+  }
 }

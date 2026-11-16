@@ -21,5 +21,27 @@
       "to": "00:32:34.806",
       "fingerprint": "AQAAjEoYJlnYYUd52BqOf5KGH41e4juevNh5JMuDLD3-4p9xhUW1H82DMzgP5kUzWdihikkudH9wnvDxhTl-vDt-9MVunMNzNEf-BK4tVG6hI1-E6seU6biyGp9JfDKqo0-K87iSw_UjHD_MNDmeBD-uo8cTEemLZNmPH_eH2wmOWgz8BGEvJPgoJ3iY4sJ99EQT2lWQLyPkHuFx5fiP3g0-LSh1ofmNyyG8p9j14AeTjkc_PH4KTpRD5MmIC33TIMyKncYfOHrwh0KeJDnk6BgvNGca9MSh_0ROHc2Uo1YeXDxIXRJxGqWi5ci0QwuHsmzRNDs46viN_miaHvKOs3EQJjt5hOTxoyeeZjyYPMmxXwr0_NgTBpq4NUf647qD5lONa-CyKD1-ZQDlRCEAEECQEIYAgJhAQGDClAAAIGAsIYYQBwUQhHijlEGIKeAEAsQYJCwkRCGGjDJAKKaAQQJooRBwnDkKARFEACMQFcIwDCwgEAJpgBJUIOSAgoAAYhgBhgBmjRHGKQQIAARQBQwgCgABBABCEIIIEwA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "john-boyd": "James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "ryan-o-neal": "Max Keenan",
+    "michael-grant-terry": "Wendell Bray",
+    "shalita-grant": "Andie Roberts",
+    "arden-myrin": "Lori Tucker",
+    "carlos-alazraqui": "Sammy Tucker",
+    "chris-marrs": "Jake Carter",
+    "eric-allan-kramer": "Eric Simms",
+    "alex-frnka": "Darla Simms",
+    "drew-waters": "Winston Scruggs",
+    "gary-ballard": "Hollis Pepall",
+    "hunter-mahan": "Hunter Mahan",
+    "stevens-gaston": "Jeffersonian Tech",
+    "carrie-gibson": "Female Golfer",
+    "sunnie-pelant": "Christine Booth"
+  }
 }

@@ -21,5 +21,34 @@
       "to": "00:33:50.096",
       "fingerprint": "AQAAjNKiJFEipUnwCx_OBEWYidBDJccjPRLSvviHfwgzBskY5cFP_Hgz9NIDV0k8bPsR2nlw1Qk4IufRyDsivcd9PNCPO8fsxMMdgQm7IlJJnEf_w4miGw_hsUetzAW-IHkU5Maf45VSlIWX40P_FH_xRDVCDlrqMEWOugjTzBJ-OoGak4Af4Z10PEkb6DqeZiQq_Wh4xrjEaMajUWh-QeOl40SckKlQ3UnQHMe-DG6SJcglCXmWdMFpGVO-PKjo4-R4nHvQXCgf_MOP3nDcoIoWRsjPQw9y_ngV4jtmxnjW44xjhPSRcAyYG59tlNg-7BT84wcj5jh-eNSRJ0r0QLkQ9CkajseH5_gXRJIzQ2zcYHwk-MeZPJCVL0HzJ4iO0yPyRAua35iU5_iRh8SPjV2OOnkwZVISZ2ie2AhvACAhAkABAyACRkBAlhAKASOMEgwxRSxAFiiggGGGCAEIEMgrARBxACBECCEIGGAIEsIQYyBFQjAChBCAEGGMM0oIQYwBlgmgAGFGIASQIAJ4Q4BQDillFBAOECKQBoQIRwBWDBmEFA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "joel-david-moore": "Colin Fisher",
+    "charlie-weber": "Nolan",
+    "billy-gibbons": "Angela's Dad",
+    "samantha-shelton": "Antonia 'Toni' Lawrence",
+    "samantha-quan": "Misty Clemmons",
+    "jon-curry": "Kevin Braley",
+    "kylie-sparks": "Jill",
+    "emily-wilson": "Emma",
+    "joshua-dov": "Wes Ott",
+    "theresa-june-tao": "FBI Tech"
+  },
+  "trivia": [
+    {
+      "text": "The episode received an Emmy nomination for Outstanding Special Visual Effects in a Supporting Role at the 64th Primetime Emmy Awards.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

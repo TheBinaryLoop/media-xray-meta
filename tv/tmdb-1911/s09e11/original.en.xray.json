@@ -21,5 +21,38 @@
       "to": "00:33:17.482",
       "fingerprint": "AQAAjMqUqFGkbGhDJWj2REWsaQ3U3AfvVAjDjwh_6LewL8N5ROeMH9UP6xKuGxWTOsfxEM-PNI6Scfg1aFkkOugV4sdTQueIJ0mO-6j0o7kgXdlxMkQ06cT1oOeQxoly9DGhi1KRK6TgC6eFJ6VQ_ULz4L10VL7Q_MPPIXmil4j2LHhm4w96fWCy_LiRD9IRqrnwhMkT_PBMHaGVQTsjBt4fZGYUeDwu_CPqJBd-IfDDB9fxLOCPB82PSll2lOfwDHIlxBeoSkZjDb-xH813-MyRPocii0fELMkCR5eQh1FY6AlyDD--yPhy4dcwvTmSRdMROwl28AmDieGs4Tw6Jc5xVM4R5jpqKUKYJoHj41mNH6eOXj-ay0j-C3kxUWfR_LjzgMuoKIKdTIpx7XiQaU9i6NmwS9LhxsMb3HAk8TlkLR_ayjrCxEmOyxIAAAwAggkgFBDMIMIIAaICIIgyjlBEEIJEKCAIIMwBBIgjygAkBFAMEAIIAIACIgBRzgBiBBBCCI2AYgYAZhCQGhhgGGFGYEEAAhQYweBDGihBABKKAcKIA8gSogABQgAADBFAAYMgAUgQygEgQCA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "steve-monroe": "Norman Johnson",
+    "mark-derwin": "Adam Howes",
+    "mckinley-freeman": "Coach Davis McIntyre",
+    "cherami-leigh": "Rachel Howes",
+    "mckayla-maroney": "Ellie",
+    "laura-niemi": "Melissa Howes",
+    "bonnie-root": "Haley Kent",
+    "j-michael-trautmann": "Julian Anton",
+    "nancy-stone": "Bonnie Johnson",
+    "richard-schiff": "Professor Leon Watters",
+    "morgan-obenreder": "Amanda Watters",
+    "brandee-steger": "Aubrey",
+    "kevin-stidham": "Store Clerk (uncredited)",
+    "pej-vahdat": "Arastoo Vaziri"
+  },
+  "trivia": [
+    {
+      "text": "Olympic gymnast McKayla Maroney guest-stars.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

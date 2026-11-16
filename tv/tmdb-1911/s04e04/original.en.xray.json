@@ -21,5 +21,46 @@
       "to": "00:33:16.662",
       "fingerprint": "AQAAjI_EKJKm4D_qB24iGcmeIG-I47fwZfJxHj4jYnSGOPuhOVFkNGu4gV6uCN7xBZf1QE8CP3gWDTkDKs-JH3NqeEq4D8-Gv8hP5UgqCa2OZkx2XHtwyyizp_CRVJ0QSdFxqTf4PdgPH5eSxqj3IXrUsNBuhHbCgMlf_MEjHn2O6A_MD5oSKzHu4JmhZQ-qZUJeBa-iHLeIUjSDhoqEPIeuE-lDHydWHc9RHaWa49mGS4-QPMj048mDw8e5BHMSRTgldegdNDqj4kzwE5dz5EvYBHoupPmAS90w08eTRJXAZEd0qD_uw18OOTnSHR--oEx-3MP7IK2Dz_ix5pCSPMePhzl-nHBx58iPBz_ywoevQ8fjIybO48c1Hj-i7RB_HGm-KKgSPXgS3sif4gkHcT7CvgcAjFFEkUIMIBgYRLwjCFCmABBCAIAAAUQgRwxoBAgjMGKEKIGIMEQAJRhlQjBAFSEICCAkkIIhQYBgAkwClCAGEQEQAQwYYwBCRAAHtAOAEuMYkEYwwxgyDiglrPHKCyQFckIx4gyAglDgjBACEiEA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "dean-norris": "Don Timmons",
+    "michael-badalucco": "Scott Starret",
+    "heidi-swedberg": "Alice Elliot",
+    "devon-graye": "Robbie Timmons",
+    "adam-rose": "Dr. Andrew Hopp",
+    "susan-chuang": "Karen Landrew",
+    "demetrius-grosse": "Tucker Payne",
+    "steve-spel": "Dave",
+    "cesar-millan": "Cesar Millan",
+    "david-greenman": "Marcus Geier",
+    "ty-panitz": "Parker Booth"
+  },
+  "trivia": [
+    {
+      "text": "Cesar Millan makes a guest appearance. The episode was also nominated for a Genesis Award.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Accolades"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Its production code (3AKY17) marks it as one of the six episodes made during season 3's production that were held over to season 4 after the writers' strike reshuffled the schedule.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3",
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

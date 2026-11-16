@@ -21,5 +21,63 @@
       "to": "00:33:46.691",
       "fingerprint": "AQAAjE-iSYkjnMd3NIzTo1J3xHkT6JGRNlNwLcQveIyN58G9CcniUwi9jMRzPD1G3RmuRMmOxOGLMMtLVGUoHRyXGacwRc3hHOElH8mlKDmuKfBk_MGn63h14dKRdycUkUM6LQajJTn-RUH-wP_xHBcd6GOQZ4vhMWkUnMazNMcvwk-ZANfxoGEUhKeM5CqH6-DDDdfwYjuLa7qCNbnwJELO6GiOEpdGcEeZKIqD7RKJPviOf_AycoSuWUF_NLmE_0dFRckRxpHY4DpyNEkffB1C48nxhBzRM_iDKuGJPGEqNM8caEc-7JrAHyVzbEueCM-Oe0efaMcz_PgZPDqavwgfInmO-8NPCUvCKEc5YXuP5yH6LMzRXCIeIVZ6qHlqzBk5hM_RPC8uojkzHU-HJk-PJ9xxHaGKptKhqgtH6FuO2T_8jLiyY16O5w6aiqlRKwdBKDECII2gIQwRKYgQyCgEmGOCAGSAFAYARgABBhghAAHIISYAcMwAApQBjBDQBRBIKWKMBApZhYBgRgABGHHcAMMYBFAYIJBAjiokgBGKCo0EIgQIBgAihAChjCCAIQIIAAgQZohQhFEBBEGIKAIg"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "joel-david-moore": "Colin Fisher",
+    "ryan-o-neal": "Matthew Brennan/Max Keenan"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "joel-david-moore": {
+      "name": "Robin Kahnmeyer",
+      "wikidata": "Q2159820"
+    },
+    "ryan-o-neal": {
+      "name": "Hans-Jürgen Dittberner",
+      "wikidata": "Q1577655"
+    }
+  },
+  "trivia": [
+    {
+      "from": "00:36:02.150",
+      "to": "00:36:05.150",
+      "text": "Seth MacFarlane spricht Stewie Griffin aus „Family Guy“, der Booth als Halluzination erscheint; Stewies Dialoge für die Folge schrieb MacFarlane selbst.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes",
+        "https://en.wikipedia.org/wiki/Seth_MacFarlane#Guest_appearances"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

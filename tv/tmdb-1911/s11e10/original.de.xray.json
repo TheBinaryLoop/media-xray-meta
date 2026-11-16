@@ -21,5 +21,62 @@
       "to": "00:33:47.728",
       "fingerprint": "AQAAjJmSK1kk5EvywKFaRfiPZznyQ0sTRUfNC7-Qp4-Oyi8xkTnyB3-Kx4j27LiUwD4ea8FNPNLh0ETcJNh16FY23Aif4gQ7HWZQ6QKT5wlKKVHGEU92HNMZOM4ooTz0KiMuNTiVU8P5oqeFZl1O_MZ3Io-PZAqcH32U4cbfIHJeJD92NE-VoE-e4PjRoKIDa0mUFLdEI3_SQz_SLYzC4dmMhwp6ND_y5MH5Q2t1hFmVFA8myQK95kSVdBYy6OQRjcclPMnhOseTY84eIlnGXAiNMz0alTku3mj4GD-FSkr-IWH3I3wpVBemPE_wJBkuFmEeJJOu41qOi3TwdPCJbzleNH3hN2h2_BrhqAuFR6OIH83DG5W-IPpTvE8GaZeQV8mwEV2YS5hSLQ6eMHFA-mheVH_wIlkmcQi7LCVGDU9avMe0F3dC4Xzxwkf5AQQMMYZQBpgCDgggkDLAAEEQMc4CoaBViAhgDCWCCiAEEEIQg5gBRhBGCFPAIUA4s0AIIQCj2AEkiCBOBOAAUZBAYQBwABhggABECEkIQsgIgQDlSCgHlGEICQAEAEQIARAkgDDGhACMUKoA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "john-boyd": "Special Agent James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "patricia-belcher": "Caroline Julian",
+    "pej-vahdat": "Arastoo Vaziri"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "john-boyd": {
+      "name": "Tim Knauer",
+      "wikidata": "Q2434097"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    },
+    "pej-vahdat": {
+      "name": "Marius Clarén",
+      "wikidata": "Q1899418"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Sara Rue ist als Verhaltensanalytikerin Karen Delfs zu sehen – eine im November 2015 angekündigte Rolle über mehrere Folgen, die bis in die zwölfte Staffel reicht.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Production",
+        "https://en.wikipedia.org/wiki/Bones_season_11#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#Recurring_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

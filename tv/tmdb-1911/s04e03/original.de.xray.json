@@ -21,5 +21,56 @@
       "to": "00:33:55.651",
       "fingerprint": "AQAAjEmTKElGhWhbiHqGHz_EC8e2Gy9c40gf9NHBvzhX4jtRdoevIuQJPTzypYuEo3mWGP1x4zvCxhkc57CkfMiDv3jlGo98_DhyiD_yD88bNF_IYEzyIRahvUeYMxyeE7_wPPCO_IL-IHXy4TnOU8j_oDuHF6o0HT8h-sh_HD9-4RdOPEdlhbiOi3iq439w6ZjyMBfCu1CPaTpSN8X3Bs5xNO-Q47iUPNAp9Dt-4ZrxYz9cFfrxufA7SO2BCzeuCQfeFdeCP_CL5wKOH32W4EV-5miiLHMiHKCP5zhOJM-D_Oib4joxLjqsLAzO7cEP3Mdxp8cZdNDC48IfnEfXHk2cCRfTA2IcsMoQ6xARwBBjgBEAGRCUIYgIQpkARhAAqWAGICAMAYASZJQhBAEnLABGAQEhgYgRoCyRSiFFgYMGE0IAQAIAoqgAxgFGCqIKAIKcMUopAwCRgjNBIGDAMiE8EMBEQkRkwkBAjAGASQIYAkA4KAwRCAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "carla-gallo": "Daisy Wick"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "carla-gallo": {
+      "name": "Sonja Spuhl",
+      "wikidata": "Q1493351"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Der Produktionscode (3AKY16) weist sie als eine der sechs Folgen aus, die noch für die dritte Staffel gedreht wurden, wegen der streikbedingten Umplanung aber erst in Staffel 4 liefen.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_3",
+        "https://en.wikipedia.org/wiki/Bones_season_4#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

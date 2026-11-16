@@ -21,5 +21,60 @@
       "to": "00:33:10.676",
       "fingerprint": "AQAAjGuuZEsW_Dt-YQrjNQi5MFOKQw2aRU2QSyT8Ds1pPGpxloeT7DyeB4_iwuzC4zz2k4NP5Bf-Foz1QcueEHm0oL8Ogx9xTsfz40eWP9CPEHeyIxyzFgpFWcGXGX2IJs3xSJLwF9rzOEgPT86NXsedMEFzHzt3NJPz4gnuREem5PgPPeuMSBzFBU2VPLgY7cHDZKgohBn0p8EphDlqScETH08jSqh0J3gH_6iz47rx9AjXI6GuYz88pUebPRHKo3nBJzeuEF-G_WhmuUFFRYmxR0fto3mRXJmH_DuY1EblxsPTJMFF_Pgd_Ph1ZPGOZHHx7BiPS8rwJSvCC-pyCT4uGn2UQefwL4T2o3mOE72iwf_QUdDHC30thHEt_MfJo-_QfMc5Yz-eScgZHYceZqj1w5sWZGmEo3IGho-MJ0KtIwfAhHAICEkYEEAYxgQDggBEDACQEiAQAAAQhAghCACjiACECAoAQAgAAhAwkAggCAJAAIoUMUQIIgggQgimDCEOEEMQQEQ4QBARAFpChGFEKAosRQQZi4gQQAFAqAFCKAGAJEYIwYQhQkGIABHGsA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "joel-david-moore": "Colin Fisher",
+    "patricia-belcher": "Caroline Julian"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "joel-david-moore": {
+      "name": "Robin Kahnmeyer",
+      "wikidata": "Q2159820"
+    },
+    "patricia-belcher": {
+      "name": "Dagmar Biener",
+      "wikidata": "Q1157249"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Das Finale der neunten Staffel inszenierte David Boreanaz.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_9#Episodes"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

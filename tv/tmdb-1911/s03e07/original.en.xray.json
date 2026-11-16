@@ -21,5 +21,26 @@
       "to": "00:33:46.429",
       "fingerprint": "AQAAjM6oJ1GEXzHO4MafG_9w7cg1CTrCuxRunAz6Fkd_49PQhM6R-EQs5ngeNE8xHXVyuEfzHMcRS4VSCbWkHDc--DuOQz4nPEEvBToPPT2az-gPHe8ivJFxfjgv9Ei_Dj_OCz_yiLiPP4e4jIbjfLjh90KfEc_xpCe0z0R-_Dj8Hj8PHB-P_vhxHOcE_MfxIxnCK3hC_OiPRuKCoKlT_Dr8Bf3wJ_iBXocuXPBRX8AlvAx8InaCH9MPP8ePH96HHNJp5FMutAtzNM_RO4gvyDpCmVGO5jv-o--QUjp0Hd9ViCfaZ8iv4KSOqgmLH5RDhDo0Skfz-PhiClUyBa6PHu8BgJRAggCICAISAOK4MAo4RBhSUAEpShBVAEuAlEABQQjBghhBkBACOCANA4YIACgARCKBiCAUUIGEIeICYSyCkQggrHEGPKWEAEAQ45AzwAnElACMAouIYhBJaoQBCBDIjBAMGKYQRAgAgwgQDhgEAGIWAA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "eric-millegan": "Zack Addy",
+    "john-francis-daley": "Lance Sweets",
+    "rick-ravanello": "John Adamson",
+    "patrick-fabian": "Terry Stinson",
+    "patrick-fischler": "Gil Bates",
+    "kristin-bauer": "Janelle Stinson",
+    "russell-b-mckenzie": "Man in Crowd",
+    "stephon-fuller": "Darwin Banks",
+    "diane-kim": "Woman in Crowd",
+    "ed-ackerman": "Police Officer in Crowd",
+    "chris-hunter": "Young Terry",
+    "katie-gill": "Young Janelle",
+    "gregg-lee": "Time Capsule Witness",
+    "robbie-moore": "Young Gil"
+  }
 }

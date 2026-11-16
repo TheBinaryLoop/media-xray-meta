@@ -21,5 +21,67 @@
       "to": "00:33:33.200",
       "fingerprint": "AQAAjExYTYkywdeMnXDU6Ag33If2B-lFoVMcvEd1NE-RH_qOkNzxHD-47Xh1BOqPHO9x_PCxH2eF6SqeyRJi6PnxG9ehXUirozqNJxYufviLSRfs9Mib47eg44T2Fz_yHk8QJsl29CEJnYf_GXlyPMdDNPkR_hT289CzI7_AZrmQv9CSW0O4aYlwRcETwp9xZsNxhIvCBwmZw6OO5_AX9Aw-I1eeIHE4FmbxB18yI_-QjKTxH8eTw8c_9PiP5BYRK8tSNPvxw5WSHA-jo4lI44d3Hw934WlCcBSPZL8QRj-eGo-SsHjyYGIXWBc3PMbpo-NDnM50_HiiFH_RJkkvNNOJR0qw__gGJpGyIFSaFEl-tDmDhsmNfzieGbWD67jSIzzuQ-HSG_kUDfwBgIABgCFiDGKAEMIUB04QQ6wTRAmlkDIAAEAEgkAIQQBwkgADJKBKKCQspAIJIBAxQAAgjACEGOGIEoYIwUAkjjHihEAGGKIEMM4AJ5igChEkgEKAQAsIIAAJQgChiBgikjCAMMSIBIYaAxCABhGFmUIIgMIMAg4"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "john-boyd": "Special Agent James Aubrey",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "ryan-o-neal": "Matthew Brennan/Max Keenan",
+    "eric-millegan": "Dr. Zack Addy",
+    "michael-grant-terry": "Wendell Bray"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "john-boyd": {
+      "name": "Tim Knauer",
+      "wikidata": "Q2434097"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "ryan-o-neal": {
+      "name": "Wolfgang Ziffer",
+      "wikidata": "Q107756"
+    },
+    "eric-millegan": {
+      "name": "David Turba",
+      "wikidata": "Q111609"
+    },
+    "michael-grant-terry": {
+      "name": "Tobias Nath",
+      "wikidata": "Q97504"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Regie führte David Boreanaz. Das Staffelfinale bringt Eric Millegan als Zack Addy zurück, der sich als Brennans Entführer entpuppt.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_11#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_12#Production"
+      ],
+      "spoiler": true,
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

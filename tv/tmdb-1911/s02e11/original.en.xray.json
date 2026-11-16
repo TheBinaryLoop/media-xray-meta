@@ -21,5 +21,35 @@
       "to": "00:33:20.656",
       "fingerprint": "AQAAjGm0JHkk3NCDsOPRHygcGuEX6HuQ4xE6NEdO6EKPXJLR48JzrLkYhMkX9A9-PEkJjVKN5odwCx_28AhPHP5w5NB3hD-O_vAmoqLRG8f2CPwwZT6ezFNQVQ9SbQs0H_HH48zRfMvRB8_RG83JGBe-o9aJ5svxHT_2HD_uI8t75MdPvPCJPjKeBV-R8xCXPQmiTlmKF65wwkdO_CG088Fz_MTw4wo26QFw-IeB44cP5HCPfgf6wSF-PMOF__CPPime4chHiNE3yGGOUzpu7ELTq9BPwTnC8cOPr8fBtPLgSCjy7NCP8HrQjEzxRHiPqskc-AAAwFCAGCOOIgAYBAkTQCimkCAACSAEEasgRcgCygplCAFAMIYANU4IRJwQyCkmFYMGMECAJFIMgpBQRmErHBLAOSqccs4K5KBRLBBFoATTCIOENgwSCgTTDAiEgCjAKeGAAUQwBQ"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "eric-millegan": "Zack Addy",
+    "ryan-o-neal": "Max Keenan",
+    "patricia-belcher": "Caroline Julian",
+    "barbara-williams": "Barbara Harper",
+    "madison-mason": "Judge Ted Kemper",
+    "joseph-ruskin": "William Grayson",
+    "kathy-reichs": "Constance Wright",
+    "lou-beatty-jr": "Marvin Beckett",
+    "ryan-cutrona": "Robert Kirby",
+    "bryan-cuprill": "Dan Burridge",
+    "loren-dean": "Russ Brennan"
+  },
+  "trivia": [
+    {
+      "text": "This episode was directed by David Duchovny.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_2#Episodes",
+        "https://en.wikipedia.org/wiki/David_Duchovny#Career"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

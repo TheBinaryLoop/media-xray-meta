@@ -21,5 +21,36 @@
       "to": "00:33:41.034",
       "fingerprint": "AQAAjEuYRooUBb5SBX2GR8_xJEfyjsgbotJVNE-UOMYj5bhy9Aya4-Ei5EdyUFMOPs9xtTJ6Zh2-4x6uIw_00fiPqy9efPiDZ8d1_MeNJzq-GM91iM8ulIuOGh6PRxm2J6hyfNKF5vvQH_qOd9gbnKl0HD-8_uA7Ia8CV1Km41kwj_CFXUyPK8eRPAjJHG9gHZVz_GhG5FFfJOTyCI6oi_jhUFk-lIuOHz_CVEeTJT74C_pJ_Gh4RyilJCnxRCYReMWPX03wJDqeUgd3PD36IFJyJH9wvCdGWwLVLzr-DntzXEzQJCHRZktR6kVz4QteGtEZ41OQLQlx8YKfIj9hPNkOXSl2kuiHT8cWfgvUhNnywC-kb8fTwhVbhD_e4jwmZ_ngI1LGcMGzQ9qNfWIQRldRPcd9ACIMEUgARYBhBDlQAAHBCEGEcwAyKRBABigICGCQGAEsMwAIAIChjngghCBKKAeBQIADwyghRAhkQIDASKaIIEIQpJA2wgCjkABGICOAEQoJCAmRglmhACAEEMCQg0QBQQ0ghhGtCAAMMEUAQw4IIiQyCDAE"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "ryan-o-neal": "Max Keenan",
+    "carla-gallo": "Daisy Wick",
+    "dorian-missick": "Owen Thiel",
+    "wendy-phillips": "Abby Chevaleer",
+    "melinda-page-hamilton": "Georgia Hartmeyer",
+    "zooey-deschanel": "Margaret Whitesell",
+    "jack-kehler": "Malaki Wallace",
+    "matt-mctighe": "Santa Claus / Holden Chevaleer",
+    "j-j-boone": "Teller",
+    "david-paul-francis": "Hindu Gentleman",
+    "tiffany-hines": "Michelle Welton"
+  },
+  "trivia": [
+    {
+      "text": "Emily Deschanel's sister Zooey Deschanel guest-stars as Brennan's cousin Margaret, the first time the two sisters appeared on screen together. The script plays on their resemblance: Booth even takes her for Brennan's sister.",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Folge_94_(5x10)",
+        "https://en.wikipedia.org/wiki/Zooey_Deschanel#2003%E2%80%932010:_Breakthrough"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

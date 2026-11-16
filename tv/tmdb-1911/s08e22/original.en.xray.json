@@ -21,5 +21,39 @@
       "to": "00:33:28.848",
       "fingerprint": "AQAAjEqjcVeCMjqDpruQR4HUIwz7o-TmgHPyBJ-NryF-I_2glw-eXOAu4RT2HfqOKzrCU0zQ7MiX4-7xLAllXNLxHCHzaGier_iBVwi1MTk05QqRPxGa_6ijpVHwHx93GLue4HORO0lUaN0TTLnw5YGesXCT48oyBSFvo-GNWEx2rFW84GKgSklG4ehB8dDYYPyDizx07A046SnyKNgHPyeiJx_-Q1dmPJwV5NtRPoF5_MWfIzaPR0mWCuqiFT_CvCN-ND9qnwhLHqKWyYF_CeEVqUTPjMZ4tCceZVSR94qhI7eC5ktR73iOPBEPnUH640ofPBfeBl5X5D_6VYSY60HTlLgDVT_yZU_hS3nwHPOqHmfwHFOOUJQO-SMqIh11oc2FWsdN5EerxtDV6MiPH9dDfC8q7cInHmnOHv2gF7mNdspR28cjAACAFAAIQZCSQDABCMCEESIIYYABpKBSADCjFGMAGIIAMMAIJwx1AGAkEECiMUIgkE4JAYAiQFACDAGKSCcIEBABAAAxBBgiBEEGgCEMQsogQ4ARCggIDCAIAAIAMEYwZRwQhlnIEABOaESAEUYQQCgSUCA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "michael-grant-terry": "Wendell Bray",
+    "brandon-barash": "Storm",
+    "jeremy-kent-jackson": "Seth Harrison",
+    "hayley-marie-norman": "Kristy Mineta",
+    "james-harvey-ward": "Jason Wyler",
+    "robert-pine": "Reggie",
+    "lise-simms": "Aunt Alice",
+    "ryan-malgarini": "Dale",
+    "jona-xiao": "Miriam Young",
+    "michelle-defraites": "Party Girl #1 (uncredited)",
+    "daniel-sobieray": "Jack Spindler (uncredited)",
+    "joanna-cassidy": "Marianne Booth",
+    "ali-louise-hartman": "Christine Booth",
+    "susanne-allan-hartman": "Christine Angela Booth"
+  },
+  "trivia": [
+    {
+      "text": "Joanna Cassidy guest-stars as Booth's mother, Marianne Booth.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_season_8#Episodes",
+        "https://en.wikipedia.org/wiki/Bones_season_8#Recurring_cast"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

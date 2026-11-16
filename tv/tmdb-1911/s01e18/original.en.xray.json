@@ -21,5 +21,24 @@
       "to": "00:33:32.893",
       "fingerprint": "AQAAjOkSMlFy9Id-mA_uEx-srEfMFduJn_CTGIe7ZTSuhODwFGfxF25yfBSiLYuqCElNHz2OM8eUyZmCa1mD_GAFbSaP_NiLkAzRcBd-xDlOo3Ey1A6H5tFRZtfxI-1oQs2CPRea_dDaYR9iLsfzBPU_ODvKLlPwE9VXCSlERLoOng_-YM50lDe2iiHeWAh_JPOPfgnWdEd_LWgrJ8F17MLJBduPn4WcN_ic47tQZwqHpnvQW2iSRhpinUhGaSkaJk2LuziJ5skxfRbiL4WWSorQNC-eWPiXoxEUHfmOZ0ejMHlQvXgWBVfQLMuH8hn6o-J2fGmKO0iePUh34cUJJ7eE6wnRHLeFpwzhpsezrUhzSg2SPQt6NE0_XFIqPCGaOAqJ50H6Q5ueIbzRPMcdPB-aSsOTjEduIeGlwNPwREctHYAIYQAIRABTBhLgAFCCcAeoYMooQxQhkgEjBKFIKGOEMgJAQZhgxkhiBDBECeGEIYYAhQAgQDhCjDHEGCKIIIYA54gRDiECnQICAOO4A8ApwgQwAhJEBUMECEAoMEhIoIAE"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "t-j-thyne": "Jack Hodgins",
+    "jonathan-adams": "Daniel Goodman",
+    "eric-millegan": "Zack Addy",
+    "robert-foxworth": "Branson Rose",
+    "rodney-rowland": "Dane McGinnis",
+    "john-m-jackson": "Sam Cullen",
+    "cullen-douglas": "Harry Tepper M.E.",
+    "lindsey-stoddart": "Katie Ney",
+    "chris-payne-gilbert": "Eric Hughes",
+    "david-wells": "Harley Frankel",
+    "fredric-lehne": "Giles Hardewicke",
+    "harris-shore": "Anthony Kendall",
+    "michael-chieffo": "Mayor Frank Ney",
+    "teddy-lane-jr": "Deputy"
+  }
 }

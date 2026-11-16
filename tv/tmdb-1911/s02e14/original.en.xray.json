@@ -21,5 +21,30 @@
       "to": "00:33:52.170",
       "fingerprint": "AQAAjNKShVGSLBHmB9SPE6uOUsrRhMnxIFeULUOvQ2cQtkqkIBcNrZKQ1hmqKx2-XAoe3XCaHN-gkdrhEz7qaCGH2pISeB8qEU_yIGcO3RlS6kFk0TqSD_vxTfiQLleRlFuaBO-MHQy6Grtyo86PSBk1pki-4JnE45KUB4-No5KNhlbBSjn8BLvwxghzhkgiBz_OKzj1YEpjxpgEPCXRjAwY38ETG49wq3iMOiuHMCfxodYMWvoElzo0fMaZI9VcHWeW4id6FWG6pFC1EE-eIs8EPoGPx1WKmMpDNCu0vsJDXF3Rzk1QCS853FIqbI-SB994PEle6MdFHmGkB_06XFJMorGKNurxI_yhJdaKfMGP67g_NHw6RLIUD2qYRLieHD-03OgRH51puLpAiY9RSgyunMcXHU8oBslTZD--4z--D1-S9PiJ5gAhDHHCMCUMMMAAAQgyCCMAhCSGEOYUQRQLooBggAiFkEUIEGMIIUAgZwyACFLABAFGCOCBQAYwIwAAiCDABQCAICCBwAQxg5AAQBCkrRCHAQGQQZBYxoAgAgHAhAU"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "eric-millegan": "Zack Addy",
+    "patricia-belcher": "Caroline Julian",
+    "peter-parros": "Officer at Scene",
+    "erin-torpey": "Woman at Basketball Game",
+    "ernie-hudson": "David Barron",
+    "eddie-mcclintock": "Tim Sullivan",
+    "meredith-monroe": "Clarissa Bancroft",
+    "reid-scott": "Robert Frazier",
+    "jesse-d-goins": "Judge",
+    "james-hiroyuki-liao": "Assistant Coroner",
+    "james-earl": "Kid from Center",
+    "azita-ghanizada": "Girlfriend",
+    "brian-catalano": "Bailiff",
+    "dawn-lyen-gardner": "Court Reporter",
+    "marvin-jordan": "Player",
+    "nathan-dean": "FBI Agent Charlie Burns",
+    "stephen-fry": "Gordon Wyatt",
+    "tammy-la": "Jury Foreperson"
+  }
 }

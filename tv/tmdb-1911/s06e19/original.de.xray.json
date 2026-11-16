@@ -21,5 +21,67 @@
       "to": "00:33:53.972",
       "fingerprint": "AQAAjJKerFES_EURKfkLORfCpMkobXhw_Hgw1M6RF2dwxQgT6cK3C4G-CflhhzjuYD9-9ArC7UFCLeJQksb342SqoM8JV_CUEA8azsQZ5A8eDVL0GEeeqjAHRlIu4kf4onmK6xSmKid04XjmOBB_tDvyoz1cEQ-c9sgvOFsG7TimSoND6If1OLgzpDj6D72GNCeHSykXNM_wG01Rq8YtjENPBrY2BqJF7Dhh-Mae487h6-iJXmiYBy8jtMvgnDhyLcc55OKx_VBpTvgPp4JPPOjxZSvURYf2GK5S5MIPU72Cvpiw_bjwwZpy5BMc98IP3ejBI_wYONhHDo0aopeOSMnx74H2GGGIbpukonlw5TiydDwAAQkAiIBASnPMMcAIMBQZRRwBAAAiACWGIcOAQUgAYoACABElgWACCGWdIQAJAYAATAjkmCIKKAMEYIIgBJgRAghBAMWGISsgYMAZxihwhhAjgAIWAKEQIgwA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Dr. Temperance „Bones“ Brennan",
+    "david-boreanaz": "Special Agent Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Dr. Camille Saroyan",
+    "t-j-thyne": "Dr. Jack Hodgins",
+    "john-francis-daley": "Dr. Lance Sweets",
+    "geoff-stults": "Walter Sherman"
+  },
+  "voices": {
+    "emily-deschanel": {
+      "name": "Ranja Bonalana",
+      "wikidata": "Q2131014"
+    },
+    "david-boreanaz": {
+      "name": "Boris Tessmann",
+      "wikidata": "Q893787"
+    },
+    "michaela-conlin": {
+      "name": "Victoria Sturm",
+      "wikidata": "Q2522811"
+    },
+    "tamara-taylor": {
+      "name": "Anke Reitzenstein",
+      "wikidata": "Q556846"
+    },
+    "t-j-thyne": {
+      "name": "Sven Hasper",
+      "wikidata": "Q2371097"
+    },
+    "john-francis-daley": {
+      "name": "Hannes Maurer",
+      "wikidata": "Q1576049"
+    },
+    "geoff-stults": {
+      "name": "Alexander Doering",
+      "wikidata": "Q2641985"
+    }
+  },
+  "trivia": [
+    {
+      "text": "Die Folge dient als Backdoor-Pilot für den Ableger „The Finder“, den Hart Hanson nach Richard Greeners Buchreihe „The Locator“ entwickelte. Booth und Brennan reisen nach Key West, Schauplatz des Ablegers, und treffen Walter Sherman (Geoff Stults), Leo Knox (Michael Clarke Duncan) und Ike Latulippe (Saffron Burrows).",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#The_Finder",
+        "https://en.wikipedia.org/wiki/Bones_season_6#Spin-off_series",
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Ableger_The_Finder"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "Gedreht werden sollte im Dezember 2010, wegen kreativer Differenzen wurde es Februar 2011; Hanson witzelte auf Twitter, das Studio wolle die Folge einfach „besser“. Fox bestellte „The Finder“ im Mai 2011 als Serie, setzte sie aber nach 13 Folgen ab.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bones_(TV_series)#The_Finder",
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Ableger_The_Finder"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

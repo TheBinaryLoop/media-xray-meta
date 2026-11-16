@@ -21,5 +21,47 @@
       "to": "00:34:12.803",
       "fingerprint": "AQAAjGGjKNG2CD6qE7qCVybyKEHPwyNzHH6Cf5zgb0evHB-P83g-XMf0wxf47IHroM7gxTnOLBNyPQmSfbwxJZkYPHMUPEYOkUmQKw-uBr7UpNgzWXiSyEdyDeHRJDk-RQPnPPgR6cmDhH-wD0124gmYqCcqE6-oI-wElT7yPXA2iugZBzmXQ-uKMPvxM_h_VJkzeDzaZUdkHzqPs3iSUYW-UPgRLQlvfC--qvhS5OSh5chCEs-Jr3nQTQkaa7jkjPhYPBeOoz6eVIi-w-cqlM9xQWeOJjQ6KRqOkIePni--FT_KHW-MF-lf_BDNER9-5DsupOku9If-I1yP5sdPXDm69EEzbSGuI98NPUc_hF9xSUf3B_mN77DTQ-WC6cjRJzp4_Wh1_EZ14zkR2od2kQAClBACCIcAEEgYZYgyDAhiKBGGGAIA8-IQaAwhwECDkAMCGEiUUsAAAIwQAhkABDBAOIWQYsIARpxCkBEAAGaEU4WQAkKAQUi1BCihERNCWQAcEUwMYhUgChFijDJIIiSYIIwxAAxShEFBgCAIQQMYEAA"
     }
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "t-j-thyne": "Jack Hodgins",
+    "jonathan-adams": "Daniel Goodman",
+    "eric-millegan": "Zack Addy",
+    "jeffrey-nordling": "David Ross",
+    "john-m-jackson": "Sam Cullen",
+    "sarayu-blue": "TV Reporter",
+    "rachelle-lefevre": "Amy Morton",
+    "heath-freeman": "Howard Epps",
+    "marcus-ashley": "Troy Pruit",
+    "michael-mantell": "Larry Carlyle",
+    "david-starzyk": "Ken Wright",
+    "joan-mcmurtrey": "Mary Wright",
+    "gabe-cohen": "Buck Harmon",
+    "price-carson": "Prison Guard",
+    "ivan-davila": "Agent #1",
+    "heavy-d": "Sid Shapiro",
+    "michael-rothhaar": "Judge Cohen"
+  },
+  "trivia": [
+    {
+      "text": "The prison scenes were shot in a women's prison that was no longer in use. The episode was the fourth one produced but went out seventh.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/A_Man_on_Death_Row#Production_details"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    },
+    {
+      "text": "This is the first appearance of serial killer Howard Epps (Heath Freeman), who returns twice in season 2.",
+      "sources": [
+        "https://de.wikipedia.org/wiki/Bones_%E2%80%93_Die_Knochenj%C3%A4gerin#Besetzung_und_Synchronisation"
+      ],
+      "source": "language-model",
+      "confidence": 0.9,
+      "reviewed": false
+    }
   ]
 }

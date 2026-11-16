@@ -21,5 +21,19 @@
       "to": "00:33:37.501",
       "fingerprint": "AQAAjF8UJbmGJ-iDH2KlHNUzHc8o4sePneJhJ0rA4yviZFfRRNJD5AwOV8rwJF4YeHdR5viP3GSh8Ei7H4-GTwp-PCc-Ft_wp2hG6XiuIK36BW3yo1eg59ADhyfCLTqF95g7S_hzcK-GXccdNJOS2UguhLFjfDQu0rjQRDxQM4mIZzIe5C2FjztufMQXeSOa3OjxfEmhdzke4VQ-wgmDP8dTon9w3Q5-Ig9-UnBgTSSafOGMHBfE_VCd4BHSremGcwrxHD9-NAj5Q4_yI7JkBp7H4TkqJdMxJenx3LgVAz_qhEe_FM1FCcn4CHGSPEaTB31M4_hRnTOanngyK8ivrEIyHf5jvBNROzKeJKWK6lTQSMPVLzhzuBGeFN51POtxHb2LZPERU4l2PA_8PLjQfBlKRceRQ9cOAJQVEAFCCHREEAKRUBAJCBwCzgiCADGSCGAAI8AQiYg0ShAiGDDGGASEQWQAZxEhRgkADAAIMGgMAQwoBYBmQBrKCFBMISQIUIxgAghiiADojECOAIEAsAARY4BgwCtBjCICKUAA4YQiAhA"
     }
-  ]
+  ],
+  "characters": {
+    "emily-deschanel": "Temperance 'Bones' Brennan",
+    "david-boreanaz": "Seeley Booth",
+    "michaela-conlin": "Angela Montenegro",
+    "tamara-taylor": "Camille Saroyan",
+    "t-j-thyne": "Jack Hodgins",
+    "john-francis-daley": "Lance Sweets",
+    "rebecca-mcfarland": "Linda McCord",
+    "patrick-heusinger": "Martin Proctor",
+    "kristen-ariza": "Lena Silver",
+    "steven-eckholdt": "Charlie McCord",
+    "chuck-liddell": "Chuck 'The Iceman' Liddell",
+    "brian-klugman": "Oliver Wells"
+  }
 }
